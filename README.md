@@ -80,6 +80,20 @@ The example project shows how the Pod is integrated into an iOS app target.
 
 The current demo page registers `localizeBundle.bundle`, displays several localized labels, and allows switching between all supported languages at runtime.
 
+Example runtime usage:
+
+```swift
+if let bundleURL = Bundle.main.url(forResource: "localizeBundle", withExtension: "bundle"),
+   let localizationBundle = Bundle(url: bundleURL) {
+	MMTToolForAppTrans.setLocalizationBundle(localizationBundle)
+}
+
+MMTToolForAppTrans.setCurrentLanguage(.zhHans)
+
+let title = MMTToolForAppTrans.localizedString(forKey: "key_login_go_to_login")
+let loginText = MMTToolForAppTrans.localizedString(forKey: "key_login_log_in", language: .enUS)
+```
+
 ## Requirements
 
 - iOS project environment with CocoaPods

@@ -30,10 +30,10 @@ class ViewController: UIViewController {
     private func configureLocalizationBundle() {
         if let bundleURL = Bundle.main.url(forResource: "localizeBundle", withExtension: "bundle"),
            let localizationBundle = Bundle(url: bundleURL) {
-            MMTToolForAppTrans.shared.setLocalizationBundle(localizationBundle)
+            MMTToolForAppTrans.setLocalizationBundle(localizationBundle)
         }
 
-        MMTToolForAppTrans.shared.setCurrentLanguage(.zhHans)
+        MMTToolForAppTrans.setCurrentLanguage(.zhHans)
     }
 
     private func configureViewHierarchy() {
@@ -105,12 +105,12 @@ class ViewController: UIViewController {
     }
 
     private func applyLocalizedContent() {
-        let currentLanguage = MMTToolForAppTrans.shared.getCurrentLanguage()
+        let currentLanguage = MMTToolForAppTrans.getCurrentLanguage()
         currentLanguageLabel.text = "Current: " + currentLanguage.titleValue
-        moduleLabel.text = MMTLocal(key: "key_module_login")
-        actionLabel.text = MMTLocal(key: "key_login_go_to_login")
-        loginButton.setTitle(MMTLocal(key: "key_login_log_in"), for: .normal)
-        title = MMTLocal(key: "key_login_go_to_login")
+        moduleLabel.text = MMTToolForAppTrans.localizedString(forKey: "key_module_login")
+        actionLabel.text = MMTToolForAppTrans.localizedString(forKey: "key_login_go_to_login")
+        loginButton.setTitle(MMTToolForAppTrans.localizedString(forKey: "key_login_log_in"), for: .normal)
+        title = MMTToolForAppTrans.localizedString(forKey: "key_login_go_to_login")
     }
 
     @objc
@@ -119,7 +119,7 @@ class ViewController: UIViewController {
             return
         }
 
-        MMTToolForAppTrans.shared.setCurrentLanguage(language)
+        MMTToolForAppTrans.setCurrentLanguage(language)
         applyLocalizedContent()
     }
 

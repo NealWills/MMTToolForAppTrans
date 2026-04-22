@@ -6,6 +6,82 @@ public final class MMTToolForAppTrans {
 
 	public static let shared = MMTToolForAppTrans()
 
+	/// Type-level entry matching the instance API so external callers do not need to hold `shared` manually.
+	public class func initialize() {
+		shared.initialize()
+	}
+
+	/// Type-level entry for accepting a direct import file URL.
+	public class func acceptImportFile(at fileURL: URL) -> Result<ImportFile, ImportError> {
+		shared.acceptImportFile(at: fileURL)
+	}
+
+	/// Type-level entry for resolving an import resource from a bundle.
+	public class func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
+		shared.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
+	}
+
+	/// Type-level entry for accepting in-memory file bytes.
+	public class func acceptImportFile(data: Data, fileName: String) -> Result<ImportFile, ImportError> {
+		shared.acceptImportFile(data: data, fileName: fileName)
+	}
+
+	/// Type-level entry for setting the current runtime language.
+	public class func setCurrentLanguage(_ language: Language) {
+		shared.setCurrentLanguage(language)
+	}
+
+	/// Type-level entry for restricting the valid runtime language list.
+	public class func setValidLanguageList(_ languages: [Language]) {
+		shared.setValidLanguageList(languages)
+	}
+
+	/// Type-level entry for reading the currently allowed language list.
+	public class func getValidLanguageList() -> [Language] {
+		shared.getValidLanguageList()
+	}
+
+	/// Type-level entry for registering the active localization bundle.
+	public class func setLocalizationBundle(_ bundle: Bundle?) {
+		shared.setLocalizationBundle(bundle)
+	}
+
+	/// Type-level entry for reading the active localization bundle.
+	public class func getCurrentLocalizationBundle() -> Bundle? {
+		shared.getCurrentLocalizationBundle()
+	}
+
+	/// Type-level entry for reading the current runtime language.
+	public class func getCurrentLanguage() -> Language {
+		shared.getCurrentLanguage()
+	}
+
+	/// Type-level entry for reading the last accepted import file.
+	public class func getCurrentImportFile() -> ImportFile? {
+		shared.getCurrentImportFile()
+	}
+
+	/// Type-level entry for resolving a key with the current runtime language.
+	public class func localizedString(forKey key: String?) -> String? {
+		shared.localizedString(forKey: key)
+	}
+
+	/// Type-level entry for resolving a key with an explicit language.
+	public class func localizedString(forKey key: String?, language: Language) -> String? {
+		shared.localizedString(forKey: key, language: language)
+	}
+
+	/// Type-level entry for switching the current runtime language.
+	public class func switchCurrentLanguage(to language: Language) {
+		shared.switchCurrentLanguage(to: language)
+	}
+
+	/// Type-level entry for setting the runtime language from a locale identifier.
+	@discardableResult
+	public class func setCurrentLanguage(languageIdentifier: String) -> Bool {
+		shared.setCurrentLanguage(languageIdentifier: languageIdentifier)
+	}
+
 	private let importModule = MMTToolForAppTransImportModule()
 	private let storageModule = MMTToolForAppTransStorageModule()
 	private let localizationModule = MMTToolForAppTransLocalizationModule()

@@ -112,8 +112,8 @@ External code calls one of these APIs:
 
 - `localizedString(forKey:)`
 - `localizedString(forKey:language:)`
-- `MMTLocal(key:)`
-- `MMTLocal(key:language:)`
+- `MMTToolForAppTrans.localizedString(forKey:)`
+- `MMTToolForAppTrans.localizedString(forKey:language:)`
 
 ### Step 2: Build the cache key
 

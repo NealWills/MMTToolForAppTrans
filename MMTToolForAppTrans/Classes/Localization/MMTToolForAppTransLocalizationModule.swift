@@ -121,12 +121,3 @@ final class MMTToolForAppTransLocalizationModule {
 	}
 }
 
-/// Convenience entry that resolves using the current runtime language.
-public func MMTLocal(key: String?) -> String? {
-	MMTToolForAppTrans.shared.localizedString(forKey: key)
-}
-
-/// Convenience entry that resolves with an explicit language override.
-public func MMTLocal(key: String?, language: MMTToolForAppTrans.Language) -> String? {
-	MMTToolForAppTrans.shared.localizedString(forKey: key, language: language)
-}
