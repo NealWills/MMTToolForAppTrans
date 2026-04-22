@@ -1,6 +1,0 @@
-framework module MMTToolForAppTrans {
-  umbrella header "MMTToolForAppTrans-umbrella.h"
-
-  export *
-  module * { export * }
-}
