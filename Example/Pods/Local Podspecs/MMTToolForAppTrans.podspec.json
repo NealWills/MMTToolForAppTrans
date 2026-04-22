@@ -1,22 +1,30 @@
 {
   "name": "MMTToolForAppTrans",
   "version": "0.1.0",
-  "summary": "A short description of MMTToolForAppTrans.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Translation utility for extracting fields from Excel/XML files.",
+  "description": "MMTToolForAppTrans is a translation-focused utility library.\nIt accepts external files in Excel or XML format, parses the content,\nand extracts translatable fields for processing.\n\nThe library also includes an LPU mechanism to persist the most recently\nused 200 characters, helping optimize repeated translation input.",
   "homepage": "https://github.com/NealWills/MMTToolForAppTrans",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "NealWills": "Donghn@maxeye.com"
+    "NealWills": "aoiiiiyuki@outlook.com"
   },
   "source": {
     "git": "https://github.com/NealWills/MMTToolForAppTrans.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
-  "source_files": "MMTToolForAppTrans/Classes/**/*"
+  "swift_versions": [
+    "5.9"
+  ],
+  "source_files": "MMTToolForAppTrans/Classes/**/*",
+  "dependencies": {
+    "MMTToolForXCGLog": [],
+    "WCDB": []
+  },
+  "swift_version": "5.9"
 }
