@@ -11,7 +11,11 @@
 
 MMTToolForAppTrans is a translation-oriented iOS library focused on storing and managing app localization records.
 
-The current implementation is organized as a facade-driven module set. It accepts external translation files, stores localization records through a WCDB-backed storage layer, and resolves keys into localized values with an in-memory LRU cache.
+The current implementation is organized as a facade-driven module set. It stores localization records through a WCDB-backed storage layer and resolves keys into localized values with an in-memory LRU cache.
+
+The current priority path is bundle-based localization loading. A localization bundle can be registered at runtime, and key lookup will read the bundle first before falling back to the storage layer.
+
+The runtime path now also includes inline code comments around bundle registration, import validation, cache behavior, and storage fallback.
 
 At the repository level, the project is split into three main parts:
 
@@ -27,8 +31,8 @@ The library is now split into a public facade plus several focused runtime modul
 	- Public entry facade.
 	- Exposes import, language, state, and localization APIs.
 - `MMTToolForAppTrans/Classes/Import/`
-	- Accepts external `.mmttrans`, `.xlsx`, and `.xml` files.
-	- Validates file content and builds a unified import model.
+	- Keeps import-file handling isolated from the public localization API.
+	- Supports the current `.mmttrans` import path without exposing Excel/XML as the main integration surface.
 - `MMTToolForAppTrans/Classes/Storage/`
 	- Wraps storage initialization and database queries.
 	- Serves as the layer above the low-level WCDB implementation.
@@ -37,7 +41,8 @@ The library is now split into a public facade plus several focused runtime modul
 	- Maintains the access order for the in-memory LRU cache.
 - `MMTToolForAppTrans/Classes/Localization/`
 	- Resolves key -> value using the requested or current language.
-	- Uses a 200-entry in-memory LRU cache before falling back to storage.
+	- Reads the current localization bundle first, then falls back to storage.
+	- Uses a 200-entry in-memory LRU cache.
 - `MMTToolForAppTrans/Classes/DB/`
 	- Contains the low-level WCDB model, database manager, and table implementation.
 
@@ -73,6 +78,8 @@ open MMTToolForAppTrans.xcworkspace
 
 The example project shows how the Pod is integrated into an iOS app target.
 
+The current demo page registers `localizeBundle.bundle`, displays several localized labels, and allows switching between all supported languages at runtime.
+
 ## Requirements
 
 - iOS project environment with CocoaPods
@@ -96,7 +103,10 @@ pod install
 
 ## What This Library Currently Provides
 
-- Public APIs for receiving external translation files.
+- Public APIs for registering a localization bundle at runtime.
+- Key lookup from `.strings` files inside the current localization bundle.
+- Internal fallback from bundle-based localization to the storage layer.
+- Inline code comments around bundle registration, import validation, and localization lookup flow.
 - Runtime language switching and current-language access.
 - Key -> value resolution with explicit-language and current-language variants.
 - A 200-entry in-memory LRU cache for localization lookup.

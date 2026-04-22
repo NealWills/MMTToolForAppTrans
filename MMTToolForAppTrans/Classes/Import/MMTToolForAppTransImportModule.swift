@@ -4,7 +4,6 @@ public extension MMTToolForAppTrans {
 
 	public enum ImportFileType: String {
 		case mmttrans
-		case xml
 	}
 
 	public struct ImportFile {
@@ -23,11 +22,11 @@ public extension MMTToolForAppTrans {
 
 	public enum ImportError: Error {
 		case fileNotFound
+		case resourceNotFound
 		case unreadableFile
 		case emptyFile
 		case unsupportedFileType
 		case invalidMMTTransFile
-		case invalidXMLFile
 	}
 }
 
@@ -45,6 +44,14 @@ final class MMTToolForAppTransImportModule {
 		return acceptImportFile(data: data, fileName: fileURL.lastPathComponent, sourceURL: fileURL)
 	}
 
+	func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
+		guard let fileURL = bundle.url(forResource: resourceName, withExtension: fileExtension) else {
+			return .failure(.resourceNotFound)
+		}
+
+		return acceptImportFile(at: fileURL)
+	}
+
 	func acceptImportFile(data: Data, fileName: String) -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
 		acceptImportFile(data: data, fileName: fileName, sourceURL: nil)
 	}
@@ -60,12 +67,9 @@ final class MMTToolForAppTransImportModule {
 
 		switch fileType {
 		case .mmttrans:
+			// `.mmttrans` is currently treated as a zip-based container.
 			guard isZipContainer(data) else {
 				return .failure(.invalidMMTTransFile)
-			}
-		case .xml:
-			guard isXMLDocument(data) else {
-				return .failure(.invalidXMLFile)
 			}
 		}
 
@@ -82,10 +86,8 @@ final class MMTToolForAppTransImportModule {
 		let fileExtension = URL(fileURLWithPath: fileName).pathExtension.lowercased()
 
 		switch fileExtension {
-		case MMTToolForAppTrans.ImportFileType.mmttrans.rawValue, "xlsx":
+		case MMTToolForAppTrans.ImportFileType.mmttrans.rawValue:
 			return .mmttrans
-		case MMTToolForAppTrans.ImportFileType.xml.rawValue:
-			return .xml
 		default:
 			return nil
 		}
@@ -97,14 +99,5 @@ final class MMTToolForAppTransImportModule {
 		}
 
 		return data.starts(with: [0x50, 0x4B])
-	}
-
-	private func isXMLDocument(_ data: Data) -> Bool {
-		guard let string = String(data: data, encoding: .utf8) else {
-			return false
-		}
-
-		let trimmedString = string.trimmingCharacters(in: .whitespacesAndNewlines)
-		return trimmedString.hasPrefix("<") && trimmedString.hasSuffix(">")
 	}
 }

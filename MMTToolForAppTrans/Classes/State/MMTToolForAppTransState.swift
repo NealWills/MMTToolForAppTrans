@@ -26,6 +26,7 @@ final class MMTToolForAppTransState {
 
 	var currentLanguage: MMTToolForAppTrans.Language = .enUS
 	var currentImportFile: MMTToolForAppTrans.ImportFile?
+	var currentLocalizationBundle: Bundle?
 	var localizationValueMap: [String: LocalizationCacheValue] = [:]
 	var accessOrderSeed: Int = 0
 
@@ -44,6 +45,11 @@ final class MMTToolForAppTransState {
 	func storeLocalizationCacheValue(_ value: String, for key: String) {
 		localizationValueMap[key] = LocalizationCacheValue(value: value, lastAccessOrder: nextAccessOrder())
 		trimLocalizationCacheIfNeeded()
+	}
+
+	func clearLocalizationCache() {
+		localizationValueMap.removeAll()
+		accessOrderSeed = 0
 	}
 
 	private func nextAccessOrder() -> Int {

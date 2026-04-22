@@ -16,10 +16,19 @@ final class MMTToolForAppTransLocalizationModule {
 			return cachedValue
 		}
 
+		// Bundle values are preferred while the bundle-based integration path is the primary runtime source.
+		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: key, language: language)
+			?? localizedValue(from: state.currentLocalizationBundle, key: key, language: .enUS)
+			?? firstAvailableValue(from: state.currentLocalizationBundle, key: key) {
+			state.storeLocalizationCacheValue(bundleValue, for: localizedCacheKey)
+			return bundleValue
+		}
+
 		guard let item = storageModule.localizationItem(forKey: key) else {
 			return nil
 		}
 
+		// Storage remains the fallback path so existing WCDB data can still answer unresolved bundle keys.
 		guard let resolvedValue = localizedValue(from: item, language: language)
 			?? localizedValue(from: item, language: .enUS)
 			?? firstAvailableValue(from: item) else {
@@ -69,6 +78,54 @@ final class MMTToolForAppTransLocalizationModule {
 			return sanitize(item.value_es)
 		case .it:
 			return sanitize(item.value_it)
+		}
+	}
+
+	private func localizedValue(from bundle: Bundle?, key: String, language: MMTToolForAppTrans.Language) -> String? {
+		guard let bundle,
+			  let strings = localizedDictionary(from: bundle, language: language) else {
+			return nil
+		}
+
+		return sanitize(strings[key] as? String)
+	}
+
+	private func firstAvailableValue(from bundle: Bundle?, key: String) -> String? {
+		for language in MMTToolForAppTrans.Language.allCases {
+			if let value = localizedValue(from: bundle, key: key, language: language) {
+				return value
+			}
+		}
+
+		return nil
+	}
+
+	private func localizedDictionary(from bundle: Bundle, language: MMTToolForAppTrans.Language) -> NSDictionary? {
+		guard let resourceName = languageResourceName(for: language),
+			  let resourcePath = bundle.path(forResource: resourceName, ofType: "strings") else {
+			return nil
+		}
+
+		// The example bundle stores one flat `.strings` file per language instead of lproj folders.
+		return NSDictionary(contentsOfFile: resourcePath)
+	}
+
+	private func languageResourceName(for language: MMTToolForAppTrans.Language) -> String? {
+		switch language {
+		case .enUS:
+			return "EnLocalizable"
+		case .zhHans:
+			return "ZhHansLocalizable"
+		case .zhHant:
+			return "ZhHantLocalizable"
+		case .fr:
+			return "FrLocalizable"
+		case .de:
+			return "GeLocalizable"
+		case .es:
+			return "SpLocalizable"
+		case .it:
+			return "ItLocalizable"
 		}
 	}
 

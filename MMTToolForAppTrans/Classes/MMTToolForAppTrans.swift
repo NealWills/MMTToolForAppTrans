@@ -28,6 +28,14 @@ public final class MMTToolForAppTrans {
 		return result
 	}
 
+	public func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
+		let result = importModule.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
+		if case .success(let importFile) = result {
+			state.currentImportFile = importFile
+		}
+		return result
+	}
+
 	public func acceptImportFile(data: Data, fileName: String) -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(data: data, fileName: fileName)
 		if case .success(let importFile) = result {
@@ -39,6 +47,16 @@ public final class MMTToolForAppTrans {
 	public func setCurrentLanguage(_ language: Language) {
 		state.currentLanguage = language
 		state.isLanguageConfigured = true
+	}
+
+	public func setLocalizationBundle(_ bundle: Bundle?) {
+		// Switching bundle invalidates resolved values because the backing strings files changed.
+		state.currentLocalizationBundle = bundle
+		state.clearLocalizationCache()
+	}
+
+	public func getCurrentLocalizationBundle() -> Bundle? {
+		state.currentLocalizationBundle
 	}
 
 	public func getCurrentLanguage() -> Language {

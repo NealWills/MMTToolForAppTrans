@@ -31,6 +31,7 @@ Responsibilities:
 - Exposes the public API of the library.
 - Forwards requests to Import, Storage, Localization, and State.
 - Avoids exposing WCDB details to external callers.
+- Keeps bundle registration and language switching in the facade layer.
 
 ### Import Module
 
@@ -38,17 +39,18 @@ File: `MMTToolForAppTrans/Classes/Import/MMTToolForAppTransImportModule.swift`
 
 Responsibilities:
 
-- Accepts external files.
-- Validates supported file types.
-- Treats `.mmttrans` as a renamed `.xlsx` container.
-- Converts the external file into a unified internal import model.
+- Accepts direct import files for the internal import path.
+- Validates supported import content.
+- Keeps file import concerns isolated from runtime bundle localization.
+- Converts the imported file into a unified internal import model.
+- Documents the current `.mmttrans` validation rule in code comments.
 
 Current scope:
 
 - File existence checks
 - File readability checks
-- File type recognition for `.mmttrans`, `.xlsx`, and `.xml`
-- Basic content validation for ZIP-based and XML-based inputs
+- File type recognition for `.mmttrans`
+- Basic ZIP container validation for `.mmttrans` inputs
 
 ### Storage Module
 
@@ -74,6 +76,7 @@ Responsibilities:
 - Stores runtime state shared across modules.
 - Stores the current language.
 - Stores the current imported file.
+- Stores the current localization bundle.
 - Stores the in-memory localization cache.
 - Stores the access-order seed used by the LRU cache.
 
@@ -81,6 +84,7 @@ Current state fields:
 
 - `currentLanguage`
 - `currentImportFile`
+- `currentLocalizationBundle`
 - `localizationValueMap`
 - `accessOrderSeed`
 - `isLanguageConfigured`
@@ -93,8 +97,10 @@ Responsibilities:
 
 - Accepts a localization key.
 - Resolves the final string value using the selected language.
-- Uses an in-memory cache before falling back to storage.
+- Reads the current localization bundle before falling back to storage.
+- Uses an in-memory cache around the resolved value.
 - Applies language fallback rules when a direct value is not available.
+- Documents the bundle-first and storage-fallback lookup flow in code comments.
 
 ## 3. Runtime Flow For Key -> Value
 
@@ -130,13 +136,21 @@ If the cache entry exists:
 
 - Return the cached value immediately.
 - Refresh the cached entry `lastAccessOrder` to the newest access order.
+- Refresh the cache order in place so the entry stays recent for LRU eviction.
 
 ### Step 4: Query storage on cache miss
 
 If the cache entry does not exist:
 
+- Try the current localization bundle first.
+- Read the language-specific `.strings` file inside the bundle.
+- Prefer the bundle value before touching the storage layer.
+
+If the bundle does not provide the key:
+
 - Query the Storage module by the original key.
 - The Storage module reads the underlying WCDB record.
+- Fall back to storage only when the bundle cannot provide the key.
 
 ### Step 5: Resolve the final value
 

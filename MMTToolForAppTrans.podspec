@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MMTToolForAppTrans'
   s.version          = '0.1.0'
-  s.summary          = 'Translation utility for extracting fields from Excel/XML files.'
+  s.summary          = 'Bundle-first localization library with runtime language switching.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,12 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-MMTToolForAppTrans is a translation-focused utility library.
-It accepts external files in Excel or XML format, parses the content,
-and extracts translatable fields for processing.
+MMTToolForAppTrans is a facade-driven localization library.
+It can register a localization bundle at runtime, resolve keys with
+language fallback, and read from storage when the bundle does not
+provide the requested value.
 
-The library also includes an LPU mechanism to persist the most recently
-used 200 characters, helping optimize repeated translation input.
+The library also includes a 200-entry in-memory LRU cache and bundle-first
+lookup flow with inline comments around the main runtime paths.
                        DESC
 
   s.homepage         = 'https://github.com/NealWills/MMTToolForAppTrans'
