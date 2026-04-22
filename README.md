@@ -80,6 +80,8 @@ The example project shows how the Pod is integrated into an iOS app target.
 
 The current demo page registers `localizeBundle.bundle`, displays several localized labels, and allows switching between all supported languages at runtime.
 
+When a localized value cannot be resolved from either the bundle or storage, the runtime returns the original key.
+
 Example runtime usage:
 
 ```swift
@@ -120,6 +122,7 @@ pod install
 - Public APIs for registering a localization bundle at runtime.
 - Key lookup from `.strings` files inside the current localization bundle.
 - Internal fallback from bundle-based localization to the storage layer.
+- Original-key fallback when neither the bundle nor storage can resolve a localized value.
 - Inline code comments around bundle registration, import validation, and localization lookup flow.
 - Runtime language switching and current-language access.
 - Key -> value resolution with explicit-language and current-language variants.

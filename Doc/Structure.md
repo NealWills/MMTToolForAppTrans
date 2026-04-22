@@ -100,6 +100,7 @@ Responsibilities:
 - Reads the current localization bundle before falling back to storage.
 - Uses an in-memory cache around the resolved value.
 - Applies language fallback rules when a direct value is not available.
+- Returns the original key when neither bundle nor storage can resolve a value.
 - Documents the bundle-first and storage-fallback lookup flow in code comments.
 
 ## 3. Runtime Flow For Key -> Value
@@ -159,6 +160,7 @@ The Localization module resolves the final string in this order:
 1. Value for the requested language
 2. English value
 3. First available value in the record
+4. Original key when no localized value can be resolved
 
 ### Step 6: Write back into the cache
 
@@ -167,6 +169,11 @@ If a value is resolved successfully:
 - Store `newKey -> (value, lastAccessOrder)` in the cache map.
 - Assign a new access order from `accessOrderSeed`.
 - Increase `accessOrderSeed` by 1.
+
+If no localized value is resolved from either the bundle or storage:
+
+- Return the original key directly.
+- Do not write that fallback key into the localization cache.
 
 ### Step 7: Keep the cache size at 200
 

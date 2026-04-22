@@ -9,7 +9,7 @@ final class MMTToolForAppTransLocalizationModule {
 	/// Resolves a key with the requested language first, then falls back to English and other available values.
 	func localizedString(forKey key: String?, language: MMTToolForAppTrans.Language) -> String? {
 		guard let key, key.isEmpty == false else {
-			return nil
+			return key
 		}
 
 		// Cache keys are language-aware so the same logical key can coexist across multiple languages.
@@ -29,14 +29,14 @@ final class MMTToolForAppTransLocalizationModule {
 
 		// If the bundle path does not answer the key, fall back to the persisted WCDB record.
 		guard let item = storageModule.localizationItem(forKey: key) else {
-			return nil
+			return key
 		}
 
 		// Storage remains the fallback path so existing WCDB data can still answer unresolved bundle keys.
 		guard let resolvedValue = localizedValue(from: item, language: language)
 			?? localizedValue(from: item, language: .enUS)
 			?? firstAvailableValue(from: item) else {
-			return nil
+			return key
 		}
 
 		state.storeLocalizationCacheValue(resolvedValue, for: localizedCacheKey)

@@ -4,7 +4,7 @@ This file tracks the documented version status of MMTToolForAppTrans.
 
 ## Current Version
 
-### 0.6.1
+### 0.6.2
 
 Current status in the working tree:
 
@@ -14,8 +14,13 @@ Current status in the working tree:
 - Includes a 200-entry in-memory LRU cache for localized values.
 - Exposes configurable valid language lists through the facade.
 - Includes an Example app page for bundle registration and runtime language switching.
+- Returns the original key only after both bundle and storage lookup paths fail.
 
 ## Previous Version
+
+### 0.6.1
+
+- Synced the 0.6.1 podspec release record and example lock file.
 
 ### 0.6.0
 
@@ -23,6 +28,6 @@ Current status in the working tree:
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.1`.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.2`.
 - Older version entries have not been backfilled in `Doc` yet.
 - When `MMTToolForAppTrans.podspec` changes version, add a new section here and summarize the visible feature-level changes.
