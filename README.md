@@ -5,6 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/MMTToolForAppTrans.svg?style=flat)](https://cocoapods.org/pods/MMTToolForAppTrans)
 [![Platform](https://img.shields.io/cocoapods/p/MMTToolForAppTrans.svg?style=flat)](https://cocoapods.org/pods/MMTToolForAppTrans)
 
+## Overview
+
+MMTToolForAppTrans is a translation-oriented library.
+It accepts an external file (Excel or XML), reads and extracts target fields,
+and prepares the extracted content for translation workflows.
+
+The library uses an LPU mechanism to persist the most recently used 200 characters.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
