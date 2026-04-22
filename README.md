@@ -11,7 +11,7 @@
 
 MMTToolForAppTrans is a translation-oriented iOS library focused on storing and managing app localization records.
 
-The current implementation is centered on a WCDB-backed local database layer. It is designed to keep localizable string entries in a structured format so they can be inserted, updated, queried, and soft-deleted inside the app workflow.
+The current implementation is organized as a facade-driven module set. It accepts external translation files, stores localization records through a WCDB-backed storage layer, and resolves keys into localized values with an in-memory LRU cache.
 
 At the repository level, the project is split into three main parts:
 
@@ -21,21 +21,27 @@ At the repository level, the project is split into three main parts:
 
 ## Core Structure
 
-The library code is currently lightweight at the public entry level and concentrated in the database module.
+The library is now split into a public facade plus several focused runtime modules.
 
 - `MMTToolForAppTrans/Classes/MMTToolForAppTrans.swift`
-	- Public entry type.
-	- Currently acts as a lightweight shell.
-- `MMTToolForAppTrans/Classes/DB/MMTToolForAppTransDBManager.swift`
-	- Initializes the database.
-	- Creates the working table.
-	- Provides unified insert, update, and delete entry points.
-- `MMTToolForAppTrans/Classes/DB/MMTToolForAppTransLocalizableTable.swift`
-	- Defines the localizable model.
-	- Manages table creation and CRUD operations.
-	- Stores multilingual values such as English, Simplified Chinese, Traditional Chinese, French, German, Spanish, and Italian.
+	- Public entry facade.
+	- Exposes import, language, state, and localization APIs.
+- `MMTToolForAppTrans/Classes/Import/`
+	- Accepts external `.mmttrans`, `.xlsx`, and `.xml` files.
+	- Validates file content and builds a unified import model.
+- `MMTToolForAppTrans/Classes/Storage/`
+	- Wraps storage initialization and database queries.
+	- Serves as the layer above the low-level WCDB implementation.
+- `MMTToolForAppTrans/Classes/State/`
+	- Stores runtime state such as the current language, current import file, and localization cache.
+	- Maintains the access order for the in-memory LRU cache.
+- `MMTToolForAppTrans/Classes/Localization/`
+	- Resolves key -> value using the requested or current language.
+	- Uses a 200-entry in-memory LRU cache before falling back to storage.
+- `MMTToolForAppTrans/Classes/DB/`
+	- Contains the low-level WCDB model, database manager, and table implementation.
 
-If you only want to understand the codebase quickly, start from the DB module.
+If you only want to understand the codebase quickly, start from the public facade, then read State, Import, Storage, and Localization in that order before going into the DB layer.
 
 ## Documentation
 
@@ -49,8 +55,11 @@ Recommended reading order:
 1. `README.md`
 2. `Doc/Structure.md`
 3. `MMTToolForAppTrans/Classes/MMTToolForAppTrans.swift`
-4. `MMTToolForAppTrans/Classes/DB/MMTToolForAppTransDBManager.swift`
-5. `MMTToolForAppTrans/Classes/DB/MMTToolForAppTransLocalizableTable.swift`
+4. `MMTToolForAppTrans/Classes/State/MMTToolForAppTransState.swift`
+5. `MMTToolForAppTrans/Classes/Import/MMTToolForAppTransImportModule.swift`
+6. `MMTToolForAppTrans/Classes/Storage/MMTToolForAppTransStorageModule.swift`
+7. `MMTToolForAppTrans/Classes/Localization/MMTToolForAppTransLocalizationModule.swift`
+8. `MMTToolForAppTrans/Classes/DB/`
 
 ## Example
 
@@ -87,9 +96,11 @@ pod install
 
 ## What This Library Currently Provides
 
-- A localizable string model for multilingual content storage.
-- A WCDB-based local persistence layer.
-- Insert, update, query, and soft-delete capabilities for localization records.
+- Public APIs for receiving external translation files.
+- Runtime language switching and current-language access.
+- Key -> value resolution with explicit-language and current-language variants.
+- A 200-entry in-memory LRU cache for localization lookup.
+- A WCDB-based storage layer for localization records.
 - A demo project for integration reference.
 
 ## Author
