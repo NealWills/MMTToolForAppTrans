@@ -1,5 +1,5 @@
 
-import WCDB
+import WCDBSwift
 
 /// Model representing a localizable string entry in the translation database.
 /// This model stores translations in multiple languages (English, Simplified Chinese,

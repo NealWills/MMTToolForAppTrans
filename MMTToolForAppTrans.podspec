@@ -45,7 +45,8 @@ used 200 characters, helping optimize repeated translation input.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'Foundation', 'UIKit'
   s.dependency 'MMTToolForXCGLog'
-  s.dependency 'WCDB'
+  s.dependency 'WCDB.swift'
   
 end
