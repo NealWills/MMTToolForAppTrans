@@ -1,15 +1,18 @@
 import Foundation
 
+/// Resolves final localized values by combining cache, bundle resources, and storage fallback.
 final class MMTToolForAppTransLocalizationModule {
 
 	private let storageModule = MMTToolForAppTransStorageModule()
 	private let state = MMTToolForAppTransState.shared
 
+	/// Resolves a key with the requested language first, then falls back to English and other available values.
 	func localizedString(forKey key: String?, language: MMTToolForAppTrans.Language) -> String? {
 		guard let key, key.isEmpty == false else {
 			return nil
 		}
 
+		// Cache keys are language-aware so the same logical key can coexist across multiple languages.
 		let localizedCacheKey = buildLocalizedCacheKey(from: key, language: language)
 
 		if let cachedValue = state.localizationCacheValue(for: localizedCacheKey) {
@@ -24,6 +27,7 @@ final class MMTToolForAppTransLocalizationModule {
 			return bundleValue
 		}
 
+		// If the bundle path does not answer the key, fall back to the persisted WCDB record.
 		guard let item = storageModule.localizationItem(forKey: key) else {
 			return nil
 		}
@@ -39,29 +43,12 @@ final class MMTToolForAppTransLocalizationModule {
 		return resolvedValue
 	}
 
+	/// Builds the in-memory cache key from the original key and the normalized runtime language suffix.
 	private func buildLocalizedCacheKey(from key: String, language: MMTToolForAppTrans.Language) -> String {
-		key + "." + languageCacheSuffix(for: language)
+		key + "." + language.cacheSuffix
 	}
 
-	private func languageCacheSuffix(for language: MMTToolForAppTrans.Language) -> String {
-		switch language {
-		case .enUS:
-			return "enUs"
-		case .zhHans:
-			return "zhHans"
-		case .zhHant:
-			return "zhHant"
-		case .fr:
-			return "fr"
-		case .de:
-			return "de"
-		case .es:
-			return "es"
-		case .it:
-			return "it"
-		}
-	}
-
+	/// Reads the language-specific column from the WCDB model.
 	private func localizedValue(from item: MMTToolForAppTransLocalizableModel, language: MMTToolForAppTrans.Language) -> String? {
 		switch language {
 		case .enUS:
@@ -81,17 +68,20 @@ final class MMTToolForAppTransLocalizationModule {
 		}
 	}
 
+	/// Reads the language-specific `.strings` file from the active localization bundle.
 	private func localizedValue(from bundle: Bundle?, key: String, language: MMTToolForAppTrans.Language) -> String? {
 		guard let bundle,
 			  let strings = localizedDictionary(from: bundle, language: language) else {
 			return nil
 		}
 
+		// Bundle lookups mirror the runtime language choice before storage fallback is attempted.
 		return sanitize(strings[key] as? String)
 	}
 
+	/// Scans the currently allowed language list and returns the first bundle value that exists.
 	private func firstAvailableValue(from bundle: Bundle?, key: String) -> String? {
-		for language in MMTToolForAppTrans.Language.allCases {
+		for language in MMTToolForAppTrans.Language.validLanguageList() {
 			if let value = localizedValue(from: bundle, key: key, language: language) {
 				return value
 			}
@@ -100,9 +90,9 @@ final class MMTToolForAppTransLocalizationModule {
 		return nil
 	}
 
+	/// Loads the flat `.strings` table that matches the requested language.
 	private func localizedDictionary(from bundle: Bundle, language: MMTToolForAppTrans.Language) -> NSDictionary? {
-		guard let resourceName = languageResourceName(for: language),
-			  let resourcePath = bundle.path(forResource: resourceName, ofType: "strings") else {
+		guard let resourcePath = bundle.path(forResource: language.tableName, ofType: "strings") else {
 			return nil
 		}
 
@@ -110,25 +100,7 @@ final class MMTToolForAppTransLocalizationModule {
 		return NSDictionary(contentsOfFile: resourcePath)
 	}
 
-	private func languageResourceName(for language: MMTToolForAppTrans.Language) -> String? {
-		switch language {
-		case .enUS:
-			return "EnLocalizable"
-		case .zhHans:
-			return "ZhHansLocalizable"
-		case .zhHant:
-			return "ZhHantLocalizable"
-		case .fr:
-			return "FrLocalizable"
-		case .de:
-			return "GeLocalizable"
-		case .es:
-			return "SpLocalizable"
-		case .it:
-			return "ItLocalizable"
-		}
-	}
-
+	/// Falls back across all stored language columns when the requested language is unavailable.
 	private func firstAvailableValue(from item: MMTToolForAppTransLocalizableModel) -> String? {
 		[
 			item.value_en_US,
@@ -143,15 +115,18 @@ final class MMTToolForAppTransLocalizationModule {
 		.first
 	}
 
+	/// Preserves all non-nil values, including whitespace and line breaks, as valid localization content.
 	private func sanitize(_ value: String?) -> String? {
 		value
 	}
 }
 
+/// Convenience entry that resolves using the current runtime language.
 public func MMTLocal(key: String?) -> String? {
 	MMTToolForAppTrans.shared.localizedString(forKey: key)
 }
 
+/// Convenience entry that resolves with an explicit language override.
 public func MMTLocal(key: String?, language: MMTToolForAppTrans.Language) -> String? {
 	MMTToolForAppTrans.shared.localizedString(forKey: key, language: language)
 }

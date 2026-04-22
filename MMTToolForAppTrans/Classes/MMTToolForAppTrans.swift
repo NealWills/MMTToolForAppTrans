@@ -1,5 +1,7 @@
 import Foundation
 
+/// Public facade of the library.
+/// Keeps external callers away from the internal import, storage, state, and localization modules.
 public final class MMTToolForAppTrans {
 
 	public static let shared = MMTToolForAppTrans()
@@ -16,10 +18,12 @@ public final class MMTToolForAppTrans {
 		}
 	}
 
+	/// Prepares the underlying storage layer before localization data is queried from WCDB.
 	public func initialize() {
 		storageModule.initializeStorage()
 	}
 
+	/// Accepts a direct import file URL and stores the last accepted file in runtime state.
 	public func acceptImportFile(at fileURL: URL) -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(at: fileURL)
 		if case .success(let importFile) = result {
@@ -28,6 +32,7 @@ public final class MMTToolForAppTrans {
 		return result
 	}
 
+	/// Resolves an import resource from a bundle so callers do not need to build file URLs themselves.
 	public func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
 		if case .success(let importFile) = result {
@@ -36,6 +41,7 @@ public final class MMTToolForAppTrans {
 		return result
 	}
 
+	/// Accepts in-memory file data for callers that already manage the file loading process.
 	public func acceptImportFile(data: Data, fileName: String) -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(data: data, fileName: fileName)
 		if case .success(let importFile) = result {
@@ -49,6 +55,23 @@ public final class MMTToolForAppTrans {
 		state.isLanguageConfigured = true
 	}
 
+	/// Restricts the runtime language scope used by matching, fallback, and demo rendering.
+	public func setValidLanguageList(_ languages: [Language]) {
+		// Keep the externally configured language scope at the facade layer.
+		Language.setValidLanguageList(languages)
+
+		// If the current language is no longer allowed, fall back to the best available system match.
+		if Language.validLanguageList().contains(state.currentLanguage) == false {
+			state.currentLanguage = state.resolvePreferredLanguage()
+			state.isLanguageConfigured = true
+		}
+	}
+
+	public func getValidLanguageList() -> [Language] {
+		Language.validLanguageList()
+	}
+
+	/// Registers the active localization bundle used by bundle-first key lookup.
 	public func setLocalizationBundle(_ bundle: Bundle?) {
 		// Switching bundle invalidates resolved values because the backing strings files changed.
 		state.currentLocalizationBundle = bundle
@@ -67,10 +90,12 @@ public final class MMTToolForAppTrans {
 		state.currentImportFile
 	}
 
+	/// Uses the current runtime language to resolve the localized value for a key.
 	public func localizedString(forKey key: String?) -> String? {
 		localizedString(forKey: key, language: state.currentLanguage)
 	}
 
+	/// Allows callers to bypass currentLanguage and resolve with an explicit language.
 	public func localizedString(forKey key: String?, language: Language) -> String? {
 		localizationModule.localizedString(forKey: key, language: language)
 	}

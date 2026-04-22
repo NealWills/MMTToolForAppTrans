@@ -19,3 +19,4 @@ If you are reading this repository for the first time, use the following order:
 ## Document List
 
 - `Structure.md`: project structure overview, core module responsibilities, and recommended reading order.
+- `Version.md`: documented version record for the current podspec version and future version updates.

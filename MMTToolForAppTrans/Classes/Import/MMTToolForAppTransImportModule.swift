@@ -2,10 +2,12 @@ import Foundation
 
 public extension MMTToolForAppTrans {
 
+	/// Public import file types currently exposed by the library.
 	public enum ImportFileType: String {
 		case mmttrans
 	}
 
+	/// Lightweight import payload kept in runtime state after a file is accepted.
 	public struct ImportFile {
 		public let fileType: ImportFileType
 		public let fileName: String
@@ -20,6 +22,7 @@ public extension MMTToolForAppTrans {
 		}
 	}
 
+	/// Import failures surfaced to external callers.
 	public enum ImportError: Error {
 		case fileNotFound
 		case resourceNotFound
@@ -30,8 +33,10 @@ public extension MMTToolForAppTrans {
 	}
 }
 
+/// Validates incoming import resources and converts them into a unified runtime payload.
 final class MMTToolForAppTransImportModule {
 
+	/// Accepts a direct file URL and validates the file before exposing it to upper layers.
 	func acceptImportFile(at fileURL: URL) -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
 		guard FileManager.default.fileExists(atPath: fileURL.path) else {
 			return .failure(.fileNotFound)
@@ -44,6 +49,7 @@ final class MMTToolForAppTransImportModule {
 		return acceptImportFile(data: data, fileName: fileURL.lastPathComponent, sourceURL: fileURL)
 	}
 
+	/// Resolves a bundled import resource so callers can load packaged demo data without building paths manually.
 	func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
 		guard let fileURL = bundle.url(forResource: resourceName, withExtension: fileExtension) else {
 			return .failure(.resourceNotFound)
@@ -52,10 +58,12 @@ final class MMTToolForAppTransImportModule {
 		return acceptImportFile(at: fileURL)
 	}
 
+	/// Accepts in-memory file bytes for callers that already own the file loading process.
 	func acceptImportFile(data: Data, fileName: String) -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
 		acceptImportFile(data: data, fileName: fileName, sourceURL: nil)
 	}
 
+	/// Central validation entry used by all import paths so file rules stay in one place.
 	private func acceptImportFile(data: Data, fileName: String, sourceURL: URL?) -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
 		guard data.isEmpty == false else {
 			return .failure(.emptyFile)
@@ -82,6 +90,7 @@ final class MMTToolForAppTransImportModule {
 		return .success(importFile)
 	}
 
+	/// Derives the public import type from the file extension.
 	private func resolveImportFileType(from fileName: String) -> MMTToolForAppTrans.ImportFileType? {
 		let fileExtension = URL(fileURLWithPath: fileName).pathExtension.lowercased()
 
@@ -93,6 +102,7 @@ final class MMTToolForAppTransImportModule {
 		}
 	}
 
+	/// Checks the ZIP magic bytes because `.mmttrans` is currently treated as a renamed ZIP container.
 	private func isZipContainer(_ data: Data) -> Bool {
 		guard data.count >= 2 else {
 			return false
