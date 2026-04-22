@@ -1,6 +1,5 @@
 
 import WCDBSwift
-import MMTToolForXCGLog
 
 /// Database manager for all WCDB operations.
 /// Manages database initialization, table creation, and CRUD operations.
@@ -35,29 +34,23 @@ extension MMTToolForAppTransDBManager {
         let fileDir = rootDir + ".MMTToolForAppTrans/db/"
         let filePath = fileDir + "db.sqlite3"
         
-        XCGLogger.log("[DBManager] Initializing database at path: \(filePath)", level: .debug)
-        
         var isDirectory: ObjCBool = true
         let isFileExist = FileManager.default.fileExists(atPath: fileDir, isDirectory: &isDirectory)
         if isFileExist {
             if isDirectory.boolValue {
-                XCGLogger.log("[DBManager] Database directory already exists", level: .debug)
+                //
             } else {
-                XCGLogger.log("[DBManager] Removing existing file at database directory path", level: .warning)
                 try? FileManager.default.removeItem(atPath: fileDir)
                 try? FileManager.default.createDirectory(at: URL(fileURLWithPath: fileDir), withIntermediateDirectories: true)
             }
         } else {
-            XCGLogger.log("[DBManager] Creating new database directory", level: .debug)
             try? FileManager.default.createDirectory(at: URL(fileURLWithPath: fileDir), withIntermediateDirectories: true)
         }
         
         db = Database(at: filePath)
-        XCGLogger.log("[DBManager] Database instance created successfully", level: .info)
         
         localizableTable = MMTToolForAppTransLocalizableTable()
         localizableTable?.createTable()
-        XCGLogger.log("[DBManager] Localization table initialized", level: .info)
         
     }
     
@@ -67,14 +60,7 @@ extension MMTToolForAppTransDBManager {
     @discardableResult class func insertNewItem(with item: MMTToolForAppTransDBOperateUnit) -> Result<Int, NSError>? {
         switch item {
         case .localizableTable(let model):
-            XCGLogger.log("[DBManager] Attempting to insert new localization record with key: \(model.key ?? "nil")", level: .debug)
-            let result = MMTToolForAppTransDBManager.shared.localizableTable?.insertNew(model)
-            if case .success(let id) = result ?? nil {
-                XCGLogger.log("[DBManager] Insert successful with ID: \(id)", level: .info)
-            } else {
-                XCGLogger.log("[DBManager] Insert failed", level: .error)
-            }
-            return result
+            return MMTToolForAppTransDBManager.shared.localizableTable?.insertNew(model)
         }
     }
     
@@ -84,14 +70,7 @@ extension MMTToolForAppTransDBManager {
     @discardableResult class func deleteNewItem(with item: MMTToolForAppTransDBOperateUnit) -> Result<Int, NSError>? {
         switch item {
         case .localizableTable(let model):
-            XCGLogger.log("[DBManager] Attempting to delete localization record with ID: \(model.id ?? -1)", level: .debug)
-            let result = MMTToolForAppTransDBManager.shared.localizableTable?.deleteItem(model)
-            if case .success(let rows) = result ?? nil {
-                XCGLogger.log("[DBManager] Delete successful, affected rows: \(rows)", level: .info)
-            } else {
-                XCGLogger.log("[DBManager] Delete failed", level: .error)
-            }
-            return result
+            return MMTToolForAppTransDBManager.shared.localizableTable?.deleteItem(model)
         }
     }
     
@@ -101,14 +80,7 @@ extension MMTToolForAppTransDBManager {
     @discardableResult class func updateNewItem(with item: MMTToolForAppTransDBOperateUnit) -> Result<Int, NSError>? {
         switch item {
         case .localizableTable(let model):
-            XCGLogger.log("[DBManager] Attempting to update localization record with ID: \(model.id ?? -1)", level: .debug)
-            let result = MMTToolForAppTransDBManager.shared.localizableTable?.update(model)
-            if case .success(let rows) = result ?? nil {
-                XCGLogger.log("[DBManager] Update successful, affected rows: \(rows)", level: .info)
-            } else {
-                XCGLogger.log("[DBManager] Update failed", level: .error)
-            }
-            return result
+            return MMTToolForAppTransDBManager.shared.localizableTable?.update(model)
         }
     }
 }
