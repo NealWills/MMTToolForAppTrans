@@ -4,6 +4,12 @@ This file tracks the documented release history of MMTToolForAppTrans.
 
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
+### 0.6.4
+
+- Added database synchronization from the active localization bundle into WCDB so the Example tool flow can inspect actual records.
+- Added a library-provided Tools module and database viewer page that Example can present directly through the public facade.
+- Added paged database browsing with key and multi-language value search in the database viewer.
+
 ### 0.6.3
 
 - Changed localization lookup to return the English value when the selected language is outside the configured valid language list.
@@ -29,5 +35,5 @@ Entries are append-only. Add a new version section at the top when the podspec v
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.3`.
-- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.3` and summarize only that version's visible changes.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.4`.
+- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.4` and summarize only that version's visible changes.

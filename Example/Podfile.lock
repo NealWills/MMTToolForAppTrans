@@ -1,5 +1,5 @@
 PODS:
-  - MMTToolForAppTrans (0.6.3):
+  - MMTToolForAppTrans (0.6.4):
     - MMTToolForXCGLog
     - WCDB.swift
   - MMTToolForXCGLog (0.1.7):
@@ -26,7 +26,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MMTToolForAppTrans: 2f1180261b65796f2cfab5f8909b2b376234cfe0
+  MMTToolForAppTrans: 6f2aea0d4694d418aec48231e83312eda6c3a182
   MMTToolForXCGLog: 15781ca5cfac53f7c617471c7540d90c573ad5f8
   ObjcExceptionBridging: d3d37d62981bb7f252ecb31b62d7e23a96bbfb8a
   WCDB.swift: d9c65b12e4ca9c97387c75c2393a50d9649d99e0

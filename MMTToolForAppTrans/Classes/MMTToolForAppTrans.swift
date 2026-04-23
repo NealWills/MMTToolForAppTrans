@@ -1,4 +1,54 @@
-import Foundation
+import UIKit
+
+public extension MMTToolForAppTrans {
+
+	/// Read-only snapshot of one localization record exposed to external callers.
+	struct LocalizationRecord {
+		public let identifier: Int
+		public let description: String?
+		public let createDate: Date?
+		public let updateDate: Date?
+		public let isDeleted: Bool
+		public let key: String?
+		public let valueEnUS: String?
+		public let valueZhHans: String?
+		public let valueZhHant: String?
+		public let valueFr: String?
+		public let valueDe: String?
+		public let valueEs: String?
+		public let valueIt: String?
+
+		public init(
+			identifier: Int,
+			description: String?,
+			createDate: Date?,
+			updateDate: Date?,
+			isDeleted: Bool,
+			key: String?,
+			valueEnUS: String?,
+			valueZhHans: String?,
+			valueZhHant: String?,
+			valueFr: String?,
+			valueDe: String?,
+			valueEs: String?,
+			valueIt: String?
+		) {
+			self.identifier = identifier
+			self.description = description
+			self.createDate = createDate
+			self.updateDate = updateDate
+			self.isDeleted = isDeleted
+			self.key = key
+			self.valueEnUS = valueEnUS
+			self.valueZhHans = valueZhHans
+			self.valueZhHant = valueZhHant
+			self.valueFr = valueFr
+			self.valueDe = valueDe
+			self.valueEs = valueEs
+			self.valueIt = valueIt
+		}
+	}
+}
 
 /// Public facade of the library.
 /// Keeps external callers away from the internal import, storage, state, and localization modules.
@@ -64,6 +114,21 @@ public final class MMTToolForAppTrans {
 	/// Type-level entry for resolving a key with the current runtime language.
 	public class func localizedString(forKey key: String?) -> String? {
 		shared.localizedString(forKey: key)
+	}
+
+	/// Type-level entry for reading the current database content as read-only snapshots.
+	public class func getAllLocalizationRecords() -> [LocalizationRecord] {
+		shared.getAllLocalizationRecords()
+	}
+
+	/// Type-level entry for syncing the current localization bundle into the storage layer.
+	public class func synchronizeCurrentLocalizationBundleToDatabase() -> Int {
+		shared.synchronizeCurrentLocalizationBundleToDatabase()
+	}
+
+	/// Type-level entry for building the tool center UI exposed by the library.
+	public class func makeToolsViewController() -> UIViewController {
+		shared.makeToolsViewController()
 	}
 
 	/// Type-level entry for resolving a key with an explicit language.
@@ -169,6 +234,37 @@ public final class MMTToolForAppTrans {
 	/// Uses the current runtime language to resolve the localized value for a key.
 	public func localizedString(forKey key: String?) -> String? {
 		localizedString(forKey: key, language: state.currentLanguage)
+	}
+
+	/// Exposes a read-only snapshot list of all records currently stored in the database.
+	public func getAllLocalizationRecords() -> [LocalizationRecord] {
+		storageModule.localizationItems().map { item in
+			LocalizationRecord(
+				identifier: item.identifier,
+				description: item.description,
+				createDate: item.create_date,
+				updateDate: item.update_date,
+				isDeleted: item.is_delete != 0,
+				key: item.key,
+				valueEnUS: item.value_en_US,
+				valueZhHans: item.value_zh_hans,
+				valueZhHant: item.value_zh_hant,
+				valueFr: item.value_fr,
+				valueDe: item.value_de,
+				valueEs: item.value_es,
+				valueIt: item.value_it
+			)
+		}
+	}
+
+	/// Imports the current localization bundle into the database so callers can inspect stored records.
+	public func synchronizeCurrentLocalizationBundleToDatabase() -> Int {
+		storageModule.synchronizeCurrentLocalizationBundleToDatabase()
+	}
+
+	/// Builds the tool center UI so host apps can present library-provided debug tools directly.
+	public func makeToolsViewController() -> UIViewController {
+		UINavigationController(rootViewController: MMTToolForAppTransToolsViewController())
 	}
 
 	/// Allows callers to bypass currentLanguage and resolve with an explicit language.

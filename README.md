@@ -80,6 +80,8 @@ The example project shows how the Pod is integrated into an iOS app target.
 
 The current demo page registers `localizeBundle.bundle`, displays several localized labels, and allows switching both the current language and the configured valid language list at runtime.
 
+The demo also exposes a library-provided Tools entry. The current tool module includes a database viewer page backed by WCDB records synchronized from the active localization bundle.
+
 When the selected language is outside the configured valid language list, the runtime falls back to English before trying the broader fallback chain.
 
 When a localized value cannot be resolved from either the bundle or storage, the runtime returns the original key.
@@ -90,12 +92,14 @@ Example runtime usage:
 if let bundleURL = Bundle.main.url(forResource: "localizeBundle", withExtension: "bundle"),
    let localizationBundle = Bundle(url: bundleURL) {
 	MMTToolForAppTrans.setLocalizationBundle(localizationBundle)
+	_ = MMTToolForAppTrans.synchronizeCurrentLocalizationBundleToDatabase()
 }
 
 MMTToolForAppTrans.setCurrentLanguage(.zhHans)
 
 let title = MMTToolForAppTrans.localizedString(forKey: "key_login_go_to_login")
 let loginText = MMTToolForAppTrans.localizedString(forKey: "key_login_log_in", language: .enUS)
+let toolViewController = MMTToolForAppTrans.makeToolsViewController()
 ```
 
 ## Requirements
@@ -131,11 +135,12 @@ pod install
 - Key -> value resolution with explicit-language and current-language variants.
 - A 200-entry in-memory LRU cache for localization lookup.
 - A WCDB-based storage layer for localization records.
+- A public Tools module with a database viewer page for inspecting synchronized localization records.
 - A demo project for integration reference, including runtime valid-language toggles.
 
 ## Author
 
-NealWills, Donghn@maxeye.com
+NealWills, aoiiiiyuki@outlook.com
 
 ## License
 

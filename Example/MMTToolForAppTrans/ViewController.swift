@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     private let moduleLabel = UILabel()
     private let actionLabel = UILabel()
     private let loginButton = UIButton(type: .system)
+    private let toolButton = UIButton(type: .system)
     private let toggleHintLabel = UILabel()
     private let languageStackView = UIStackView()
     private let contentStackView = UIStackView()
@@ -48,9 +49,12 @@ class ViewController: UIViewController {
     }
 
     private func configureLocalizationBundle() {
+        MMTToolForAppTrans.initialize()
+
         if let bundleURL = Bundle.main.url(forResource: "localizeBundle", withExtension: "bundle"),
            let localizationBundle = Bundle(url: bundleURL) {
             MMTToolForAppTrans.setLocalizationBundle(localizationBundle)
+            _ = MMTToolForAppTrans.synchronizeCurrentLocalizationBundleToDatabase()
         }
 
         MMTToolForAppTrans.setValidLanguageList(defaultValidLanguageList())
@@ -87,6 +91,14 @@ class ViewController: UIViewController {
         loginButton.layer.cornerRadius = 12
         loginButton.contentEdgeInsets = UIEdgeInsets(top: 14, left: 24, bottom: 14, right: 24)
 
+        toolButton.setTitle("Open Tools", for: .normal)
+        toolButton.setTitleColor(.systemBlue, for: .normal)
+        toolButton.layer.cornerRadius = 12
+        toolButton.layer.borderWidth = 1
+        toolButton.layer.borderColor = UIColor.systemBlue.cgColor
+        toolButton.contentEdgeInsets = UIEdgeInsets(top: 14, left: 24, bottom: 14, right: 24)
+        toolButton.addTarget(self, action: #selector(handleToolTap), for: .touchUpInside)
+
         languageStackView.axis = .vertical
         languageStackView.spacing = 12
         languageStackView.distribution = .fillEqually
@@ -104,6 +116,7 @@ class ViewController: UIViewController {
             moduleLabel,
             actionLabel,
             loginButton,
+            toolButton,
         ].forEach { view in
             contentStackView.addArrangedSubview(view)
         }
@@ -262,6 +275,13 @@ class ViewController: UIViewController {
 
         MMTToolForAppTrans.setValidLanguageList(currentValidLanguageListFromSwitches())
         applyLocalizedContent()
+    }
+
+    @objc
+    private func handleToolTap() {
+        let viewController = MMTToolForAppTrans.makeToolsViewController()
+        viewController.modalPresentationStyle = .pageSheet
+        present(viewController, animated: true)
     }
 
 }
