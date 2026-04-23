@@ -4,6 +4,11 @@ This file tracks the documented release history of MMTToolForAppTrans.
 
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
+### 0.6.3
+
+- Changed localization lookup to return the English value when the selected language is outside the configured valid language list.
+- Added an Example page workflow for toggling languages in the valid list while testing runtime fallback behavior.
+
 ### 0.6.2
 
 - Updated localization fallback behavior to return the original key only after both bundle and storage lookup paths fail.
@@ -24,5 +29,5 @@ Entries are append-only. Add a new version section at the top when the podspec v
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.2`.
-- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.2` and summarize only that version's visible changes.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.3`.
+- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.3` and summarize only that version's visible changes.

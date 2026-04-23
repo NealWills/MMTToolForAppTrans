@@ -78,7 +78,9 @@ open MMTToolForAppTrans.xcworkspace
 
 The example project shows how the Pod is integrated into an iOS app target.
 
-The current demo page registers `localizeBundle.bundle`, displays several localized labels, and allows switching between all supported languages at runtime.
+The current demo page registers `localizeBundle.bundle`, displays several localized labels, and allows switching both the current language and the configured valid language list at runtime.
+
+When the selected language is outside the configured valid language list, the runtime falls back to English before trying the broader fallback chain.
 
 When a localized value cannot be resolved from either the bundle or storage, the runtime returns the original key.
 
@@ -121,6 +123,7 @@ pod install
 
 - Public APIs for registering a localization bundle at runtime.
 - Key lookup from `.strings` files inside the current localization bundle.
+- English fallback when the selected language is outside the configured valid language list.
 - Internal fallback from bundle-based localization to the storage layer.
 - Original-key fallback when neither the bundle nor storage can resolve a localized value.
 - Inline code comments around bundle registration, import validation, and localization lookup flow.
@@ -128,7 +131,7 @@ pod install
 - Key -> value resolution with explicit-language and current-language variants.
 - A 200-entry in-memory LRU cache for localization lookup.
 - A WCDB-based storage layer for localization records.
-- A demo project for integration reference.
+- A demo project for integration reference, including runtime valid-language toggles.
 
 ## Author
 

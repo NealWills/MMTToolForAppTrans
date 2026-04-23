@@ -12,15 +12,17 @@ final class MMTToolForAppTransLocalizationModule {
 			return key
 		}
 
+		let resolvedLanguage = normalizedLookupLanguage(from: language)
+
 		// Cache keys are language-aware so the same logical key can coexist across multiple languages.
-		let localizedCacheKey = buildLocalizedCacheKey(from: key, language: language)
+		let localizedCacheKey = buildLocalizedCacheKey(from: key, language: resolvedLanguage)
 
 		if let cachedValue = state.localizationCacheValue(for: localizedCacheKey) {
 			return cachedValue
 		}
 
 		// Bundle values are preferred while the bundle-based integration path is the primary runtime source.
-		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: key, language: language)
+		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: key, language: resolvedLanguage)
 			?? localizedValue(from: state.currentLocalizationBundle, key: key, language: .enUS)
 			?? firstAvailableValue(from: state.currentLocalizationBundle, key: key) {
 			state.storeLocalizationCacheValue(bundleValue, for: localizedCacheKey)
@@ -33,7 +35,7 @@ final class MMTToolForAppTransLocalizationModule {
 		}
 
 		// Storage remains the fallback path so existing WCDB data can still answer unresolved bundle keys.
-		guard let resolvedValue = localizedValue(from: item, language: language)
+		guard let resolvedValue = localizedValue(from: item, language: resolvedLanguage)
 			?? localizedValue(from: item, language: .enUS)
 			?? firstAvailableValue(from: item) else {
 			return key
@@ -46,6 +48,11 @@ final class MMTToolForAppTransLocalizationModule {
 	/// Builds the in-memory cache key from the original key and the normalized runtime language suffix.
 	private func buildLocalizedCacheKey(from key: String, language: MMTToolForAppTrans.Language) -> String {
 		key + "." + language.cacheSuffix
+	}
+
+	/// Forces lookups to English when callers pass a language outside the configured runtime subset.
+	private func normalizedLookupLanguage(from language: MMTToolForAppTrans.Language) -> MMTToolForAppTrans.Language {
+		MMTToolForAppTrans.Language.validLanguageList().contains(language) ? language : .enUS
 	}
 
 	/// Reads the language-specific column from the WCDB model.
