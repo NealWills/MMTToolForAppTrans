@@ -1,22 +1,13 @@
 # Version Record
 
-This file tracks the documented version status of MMTToolForAppTrans.
+This file tracks the documented release history of MMTToolForAppTrans.
 
-## Current Version
+Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
 ### 0.6.2
 
-Current status in the working tree:
-
-- Uses a facade-based public API while keeping WCDB behind the storage layer.
-- Supports bundle-first localization lookup with storage fallback.
-- Supports runtime language switching through `MMTToolForAppTrans.Language`.
-- Includes a 200-entry in-memory LRU cache for localized values.
-- Exposes configurable valid language lists through the facade.
-- Includes an Example app page for bundle registration and runtime language switching.
-- Returns the original key only after both bundle and storage lookup paths fail.
-
-## Previous Version
+- Updated localization fallback behavior to return the original key only after both bundle and storage lookup paths fail.
+- Synced README, structure notes, podspec, and example lockfile with the 0.6.2 release.
 
 ### 0.6.1
 
@@ -24,10 +15,14 @@ Current status in the working tree:
 
 ### 0.6.0
 
-- Introduced the documented 0.6.0 release baseline for the bundle-first localization flow.
+- Introduced the facade-based public API while keeping WCDB behind the storage layer.
+- Added bundle-first localization lookup with storage fallback.
+- Added runtime language switching through `MMTToolForAppTrans.Language`.
+- Added a 200-entry in-memory LRU cache for localized values.
+- Exposed configurable valid language lists through the facade.
+- Added an Example app page for bundle registration and runtime language switching.
 
 ## Notes
 
 - The current `MMTToolForAppTrans.podspec` version is `0.6.2`.
-- Older version entries have not been backfilled in `Doc` yet.
-- When `MMTToolForAppTrans.podspec` changes version, add a new section here and summarize the visible feature-level changes.
+- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.2` and summarize only that version's visible changes.
