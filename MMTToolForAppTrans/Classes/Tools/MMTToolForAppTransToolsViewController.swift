@@ -359,7 +359,7 @@ public final class MMTToolForAppTransDatabaseRecordsViewController: UIViewContro
 			return value.isEmpty == false
 		}
 		.forEach { language, value in
-			lines.append("\(language): \(value)")
+			lines.append("\(language): \(value ?? "-1")")
 		}
 
 		return lines.joined(separator: "\n")
