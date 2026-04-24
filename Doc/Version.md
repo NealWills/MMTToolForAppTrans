@@ -4,6 +4,12 @@ This file tracks the documented release history of MMTToolForAppTrans.
 
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
+### 0.6.5
+
+- Normalized localization keys by stripping U+200B before bundle lookup, cache lookup, and storage fallback so hidden zero-width spaces no longer break matches.
+- Added Example bundle fixtures with U+200B-containing keys to help debug and verify hidden-character handling.
+- Updated the database record viewer to display empty localized values as empty text instead of `-1`.
+
 ### 0.6.4
 
 - Added database synchronization from the active localization bundle into WCDB so the Example tool flow can inspect actual records.
@@ -35,5 +41,5 @@ Entries are append-only. Add a new version section at the top when the podspec v
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.4`.
-- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.4` and summarize only that version's visible changes.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.5`.
+- When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.5` and summarize only that version's visible changes.

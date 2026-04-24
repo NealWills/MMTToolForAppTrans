@@ -12,33 +12,38 @@ final class MMTToolForAppTransLocalizationModule {
 			return key
 		}
 
+		let normalizedKey = key.mmt_normalizedLocalizationKey
+		guard normalizedKey.isEmpty == false else {
+			return normalizedKey
+		}
+
 		let resolvedLanguage = normalizedLookupLanguage(from: language)
 
 		// Cache keys are language-aware so the same logical key can coexist across multiple languages.
-		let localizedCacheKey = buildLocalizedCacheKey(from: key, language: resolvedLanguage)
+		let localizedCacheKey = buildLocalizedCacheKey(from: normalizedKey, language: resolvedLanguage)
 
 		if let cachedValue = state.localizationCacheValue(for: localizedCacheKey) {
 			return cachedValue
 		}
 
 		// Bundle values are preferred while the bundle-based integration path is the primary runtime source.
-		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: key, language: resolvedLanguage)
-			?? localizedValue(from: state.currentLocalizationBundle, key: key, language: .enUS)
-			?? firstAvailableValue(from: state.currentLocalizationBundle, key: key) {
+		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: normalizedKey, language: resolvedLanguage)
+			?? localizedValue(from: state.currentLocalizationBundle, key: normalizedKey, language: .enUS)
+			?? firstAvailableValue(from: state.currentLocalizationBundle, key: normalizedKey) { 
 			state.storeLocalizationCacheValue(bundleValue, for: localizedCacheKey)
 			return bundleValue
 		}
 
 		// If the bundle path does not answer the key, fall back to the persisted WCDB record.
-		guard let item = storageModule.localizationItem(forKey: key) else {
-			return key
+		guard let item = storageModule.localizationItem(forKey: normalizedKey) else {
+			return normalizedKey
 		}
 
 		// Storage remains the fallback path so existing WCDB data can still answer unresolved bundle keys.
 		guard let resolvedValue = localizedValue(from: item, language: resolvedLanguage)
 			?? localizedValue(from: item, language: .enUS)
-			?? firstAvailableValue(from: item) else {
-			return key
+			?? firstAvailableStoredValue(from: item) else {
+				return normalizedKey
 		}
 
 		state.storeLocalizationCacheValue(resolvedValue, for: localizedCacheKey)
@@ -98,17 +103,28 @@ final class MMTToolForAppTransLocalizationModule {
 	}
 
 	/// Loads the flat `.strings` table that matches the requested language.
-	private func localizedDictionary(from bundle: Bundle, language: MMTToolForAppTrans.Language) -> NSDictionary? {
+	private func localizedDictionary(from bundle: Bundle, language: MMTToolForAppTrans.Language) -> [String: String]? { 
 		guard let resourcePath = bundle.path(forResource: language.tableName, ofType: "strings") else {
 			return nil
 		}
 
 		// The example bundle stores one flat `.strings` file per language instead of lproj folders.
-		return NSDictionary(contentsOfFile: resourcePath)
+		guard let dictionary = NSDictionary(contentsOfFile: resourcePath) as? [String: String] else {
+			return nil
+		}
+
+		return dictionary.reduce(into: [String: String]()) { partialResult, entry in
+			let normalizedKey = entry.key.mmt_normalizedLocalizationKey
+			guard normalizedKey.isEmpty == false else {
+				return
+			}
+
+			partialResult[normalizedKey] = entry.value
+		}
 	}
 
 	/// Falls back across all stored language columns when the requested language is unavailable.
-	private func firstAvailableValue(from item: MMTToolForAppTransLocalizableModel) -> String? {
+	private func firstAvailableStoredValue(from item: MMTToolForAppTransLocalizableModel) -> String? { 
 		[
 			item.value_en_US,
 			item.value_zh_hans,

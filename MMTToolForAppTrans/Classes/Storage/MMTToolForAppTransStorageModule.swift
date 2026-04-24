@@ -69,15 +69,26 @@ final class MMTToolForAppTransStorageModule {
 			return nil
 		}
 
-		ensureStorageInitialized()
-
-		guard case .success(let item) = MMTToolForAppTransLocalizableTable.getItem(key: key),
-			  let item,
-			  item.is_delete == 0 else {
+		let normalizedKey = key.mmt_normalizedLocalizationKey
+		guard normalizedKey.isEmpty == false else {
 			return nil
 		}
 
-		return item
+		ensureStorageInitialized()
+
+		if case let .success(item) = MMTToolForAppTransLocalizableTable.getItem(key: normalizedKey),
+		   let item,
+		   item.is_delete == 0 {
+		   	item
+		   }
+
+		   guard case let .success(items) = MMTToolForAppTransLocalizableTable.table()?.getAllItems() else { 
+			return nil
+		}
+
+		return items.first { item in
+			item.is_delete == 0 && item.key?.mmt_normalizedLocalizationKey == normalizedKey
+		}
 	}
 
 	private func ensureStorageInitialized() {
@@ -92,7 +103,14 @@ final class MMTToolForAppTransStorageModule {
 			return [:]
 		}
 
-		return dictionary
+		return dictionary.reduce(into: [String: String]()) { partialResult, entry in
+			let normalizedKey = entry.key.mmt_normalizedLocalizationKey
+			guard normalizedKey.isEmpty == false else {
+				return
+			}
+
+			partialResult[normalizedKey] = entry.value
+		}
 	}
 
 	private func apply(_ value: String?, to item: MMTToolForAppTransLocalizableModel, language: MMTToolForAppTrans.Language) {

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMTToolForAppTrans'
-  s.version          = '0.6.4'
+  s.version          = '0.6.5'
   s.summary          = 'Bundle-first localization library with runtime language switching.'
 
 # This description is used to generate tags and improve search results.
