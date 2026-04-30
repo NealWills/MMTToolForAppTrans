@@ -4,6 +4,12 @@ This file tracks the documented release history of MMTToolForAppTrans.
 
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
+### 0.6.6
+
+- Added `resetLocalizationDatabase()` to delete the entire database file and reinitialize the storage layer from scratch.
+- Added `clearLocalizationCache()` to clear the in-memory localization cache map directly.
+- Both APIs are exposed as type-level methods on `MMTToolForAppTrans`.
+
 ### 0.6.5
 
 - Normalized localization keys by stripping U+200B before bundle lookup, cache lookup, and storage fallback so hidden zero-width spaces no longer break matches.
@@ -41,5 +47,5 @@ Entries are append-only. Add a new version section at the top when the podspec v
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.5`.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.6`.
 - When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.5` and summarize only that version's visible changes.

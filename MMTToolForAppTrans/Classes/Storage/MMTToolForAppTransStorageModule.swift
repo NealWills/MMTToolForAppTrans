@@ -8,6 +8,12 @@ final class MMTToolForAppTransStorageModule {
 		MMTToolForAppTransDBManager.shared.initTable()
 	}
 
+	func resetDatabase() {
+		state.clearLocalizationCache()
+		MMTToolForAppTransDBManager.shared.resetDatabase()
+		MMTToolForAppTransDBManager.shared.initTable()
+	}
+
 	func synchronizeCurrentLocalizationBundleToDatabase() -> Int {
 		ensureStorageInitialized()
 

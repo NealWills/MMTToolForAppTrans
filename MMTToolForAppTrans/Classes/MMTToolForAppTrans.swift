@@ -1,9 +1,17 @@
 import UIKit
 
-public extension MMTToolForAppTrans {
+/// Public facade of the library.
+/// Keeps external callers away from the internal import, storage, state, and localization modules.
+public final class MMTToolForAppTrans {
+
+	// MARK: - Singleton
+
+	public static let shared = MMTToolForAppTrans()
+
+	// MARK: - Nested Types
 
 	/// Read-only snapshot of one localization record exposed to external callers.
-	struct LocalizationRecord {
+	public struct LocalizationRecord {
 		public let identifier: Int
 		public let description: String?
 		public let createDate: Date?
@@ -48,104 +56,91 @@ public extension MMTToolForAppTrans {
 			self.valueIt = valueIt
 		}
 	}
-}
 
-/// Public facade of the library.
-/// Keeps external callers away from the internal import, storage, state, and localization modules.
-public final class MMTToolForAppTrans {
+	// MARK: - Public API (Type-level)
 
-	public static let shared = MMTToolForAppTrans()
-
-	/// Type-level entry matching the instance API so external callers do not need to hold `shared` manually.
 	public class func initialize() {
 		shared.initialize()
 	}
 
-	/// Type-level entry for accepting a direct import file URL.
 	public class func acceptImportFile(at fileURL: URL) -> Result<ImportFile, ImportError> {
 		shared.acceptImportFile(at: fileURL)
 	}
 
-	/// Type-level entry for resolving an import resource from a bundle.
 	public class func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
 		shared.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
 	}
 
-	/// Type-level entry for accepting in-memory file bytes.
 	public class func acceptImportFile(data: Data, fileName: String) -> Result<ImportFile, ImportError> {
 		shared.acceptImportFile(data: data, fileName: fileName)
 	}
 
-	/// Type-level entry for setting the current runtime language.
 	public class func setCurrentLanguage(_ language: Language) {
 		shared.setCurrentLanguage(language)
 	}
 
-	/// Type-level entry for restricting the valid runtime language list.
 	public class func setValidLanguageList(_ languages: [Language]) {
 		shared.setValidLanguageList(languages)
 	}
 
-	/// Type-level entry for reading the currently allowed language list.
 	public class func getValidLanguageList() -> [Language] {
 		shared.getValidLanguageList()
 	}
 
-	/// Type-level entry for registering the active localization bundle.
 	public class func setLocalizationBundle(_ bundle: Bundle?) {
 		shared.setLocalizationBundle(bundle)
 	}
 
-	/// Type-level entry for reading the active localization bundle.
 	public class func getCurrentLocalizationBundle() -> Bundle? {
 		shared.getCurrentLocalizationBundle()
 	}
 
-	/// Type-level entry for reading the current runtime language.
 	public class func getCurrentLanguage() -> Language {
 		shared.getCurrentLanguage()
 	}
 
-	/// Type-level entry for reading the last accepted import file.
 	public class func getCurrentImportFile() -> ImportFile? {
 		shared.getCurrentImportFile()
 	}
 
-	/// Type-level entry for resolving a key with the current runtime language.
 	public class func localizedString(forKey key: String?) -> String? {
 		shared.localizedString(forKey: key)
 	}
 
-	/// Type-level entry for reading the current database content as read-only snapshots.
-	public class func getAllLocalizationRecords() -> [LocalizationRecord] {
-		shared.getAllLocalizationRecords()
-	}
-
-	/// Type-level entry for syncing the current localization bundle into the storage layer.
-	public class func synchronizeCurrentLocalizationBundleToDatabase() -> Int {
-		shared.synchronizeCurrentLocalizationBundleToDatabase()
-	}
-
-	/// Type-level entry for building the tool center UI exposed by the library.
-	public class func makeToolsViewController() -> UIViewController {
-		shared.makeToolsViewController()
-	}
-
-	/// Type-level entry for resolving a key with an explicit language.
 	public class func localizedString(forKey key: String?, language: Language) -> String? {
 		shared.localizedString(forKey: key, language: language)
 	}
 
-	/// Type-level entry for switching the current runtime language.
 	public class func switchCurrentLanguage(to language: Language) {
 		shared.switchCurrentLanguage(to: language)
 	}
 
-	/// Type-level entry for setting the runtime language from a locale identifier.
 	@discardableResult
 	public class func setCurrentLanguage(languageIdentifier: String) -> Bool {
 		shared.setCurrentLanguage(languageIdentifier: languageIdentifier)
 	}
+
+	public class func getAllLocalizationRecords() -> [LocalizationRecord] {
+		shared.getAllLocalizationRecords()
+	}
+
+	public class func synchronizeCurrentLocalizationBundleToDatabase() -> Int {
+		shared.synchronizeCurrentLocalizationBundleToDatabase()
+	}
+
+	public class func makeToolsViewController() -> UIViewController {
+		shared.makeToolsViewController()
+	}
+
+	public class func resetLocalizationDatabase() {
+		shared.resetLocalizationDatabase()
+	}
+
+	public class func clearLocalizationCache() {
+		shared.clearLocalizationCache()
+	}
+
+	// MARK: - Private Properties
 
 	private let importModule = MMTToolForAppTransImportModule()
 	private let storageModule = MMTToolForAppTransStorageModule()
@@ -158,13 +153,12 @@ public final class MMTToolForAppTrans {
 			state.isLanguageConfigured = true
 		}
 	}
+}
 
-	/// Prepares the underlying storage layer before localization data is queried from WCDB.
-	public func initialize() {
-		storageModule.initializeStorage()
-	}
+// MARK: - Import Methods
 
-	/// Accepts a direct import file URL and stores the last accepted file in runtime state.
+extension MMTToolForAppTrans {
+
 	public func acceptImportFile(at fileURL: URL) -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(at: fileURL)
 		if case .success(let importFile) = result {
@@ -173,7 +167,6 @@ public final class MMTToolForAppTrans {
 		return result
 	}
 
-	/// Resolves an import resource from a bundle so callers do not need to build file URLs themselves.
 	public func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
 		if case .success(let importFile) = result {
@@ -182,7 +175,6 @@ public final class MMTToolForAppTrans {
 		return result
 	}
 
-	/// Accepts in-memory file data for callers that already manage the file loading process.
 	public func acceptImportFile(data: Data, fileName: String) -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(data: data, fileName: fileName)
 		if case .success(let importFile) = result {
@@ -190,18 +182,36 @@ public final class MMTToolForAppTrans {
 		}
 		return result
 	}
+}
+
+// MARK: - Language & State Methods
+
+extension MMTToolForAppTrans {
+
+	public func initialize() {
+		storageModule.initializeStorage()
+	}
 
 	public func setCurrentLanguage(_ language: Language) {
 		state.currentLanguage = language
 		state.isLanguageConfigured = true
 	}
 
-	/// Restricts the runtime language scope used by matching, fallback, and demo rendering.
-	public func setValidLanguageList(_ languages: [Language]) {
-		// Keep the externally configured language scope at the facade layer.
-		Language.setValidLanguageList(languages)
+	public func switchCurrentLanguage(to language: Language) {
+		setCurrentLanguage(language)
+	}
 
-		// If the current language is no longer allowed, fall back to the best available system match.
+	@discardableResult
+	public func setCurrentLanguage(languageIdentifier: String) -> Bool {
+		guard let language = state.resolveLanguage(from: languageIdentifier) else {
+			return false
+		}
+		setCurrentLanguage(language)
+		return true
+	}
+
+	public func setValidLanguageList(_ languages: [Language]) {
+		Language.setValidLanguageList(languages)
 		if Language.validLanguageList().contains(state.currentLanguage) == false {
 			state.currentLanguage = state.resolvePreferredLanguage()
 			state.isLanguageConfigured = true
@@ -212,17 +222,6 @@ public final class MMTToolForAppTrans {
 		Language.validLanguageList()
 	}
 
-	/// Registers the active localization bundle used by bundle-first key lookup.
-	public func setLocalizationBundle(_ bundle: Bundle?) {
-		// Switching bundle invalidates resolved values because the backing strings files changed.
-		state.currentLocalizationBundle = bundle
-		state.clearLocalizationCache()
-	}
-
-	public func getCurrentLocalizationBundle() -> Bundle? {
-		state.currentLocalizationBundle
-	}
-
 	public func getCurrentLanguage() -> Language {
 		state.currentLanguage
 	}
@@ -230,13 +229,39 @@ public final class MMTToolForAppTrans {
 	public func getCurrentImportFile() -> ImportFile? {
 		state.currentImportFile
 	}
+}
 
-	/// Uses the current runtime language to resolve the localized value for a key.
+// MARK: - Bundle Methods
+
+extension MMTToolForAppTrans {
+
+	public func setLocalizationBundle(_ bundle: Bundle?) {
+		state.currentLocalizationBundle = bundle
+		state.clearLocalizationCache()
+	}
+
+	public func getCurrentLocalizationBundle() -> Bundle? {
+		state.currentLocalizationBundle
+	}
+}
+
+// MARK: - Localization Methods
+
+extension MMTToolForAppTrans {
+
 	public func localizedString(forKey key: String?) -> String? {
 		localizedString(forKey: key, language: state.currentLanguage)
 	}
 
-	/// Exposes a read-only snapshot list of all records currently stored in the database.
+	public func localizedString(forKey key: String?, language: Language) -> String? {
+		localizationModule.localizedString(forKey: key, language: language)
+	}
+}
+
+// MARK: - Storage Methods
+
+extension MMTToolForAppTrans {
+
 	public func getAllLocalizationRecords() -> [LocalizationRecord] {
 		storageModule.localizationItems().map { item in
 			LocalizationRecord(
@@ -257,33 +282,24 @@ public final class MMTToolForAppTrans {
 		}
 	}
 
-	/// Imports the current localization bundle into the database so callers can inspect stored records.
 	public func synchronizeCurrentLocalizationBundleToDatabase() -> Int {
 		storageModule.synchronizeCurrentLocalizationBundleToDatabase()
 	}
 
-	/// Builds the tool center UI so host apps can present library-provided debug tools directly.
+	public func resetLocalizationDatabase() {
+		storageModule.resetDatabase()
+	}
+
+	public func clearLocalizationCache() {
+		state.clearLocalizationCache()
+	}
+}
+
+// MARK: - Tools Methods
+
+extension MMTToolForAppTrans {
+
 	public func makeToolsViewController() -> UIViewController {
 		UINavigationController(rootViewController: MMTToolForAppTransToolsViewController())
 	}
-
-	/// Allows callers to bypass currentLanguage and resolve with an explicit language.
-	public func localizedString(forKey key: String?, language: Language) -> String? {
-		localizationModule.localizedString(forKey: key, language: language)
-	}
-
-	public func switchCurrentLanguage(to language: Language) {
-		setCurrentLanguage(language)
-	}
-
-	@discardableResult
-	public func setCurrentLanguage(languageIdentifier: String) -> Bool {
-		guard let language = state.resolveLanguage(from: languageIdentifier) else {
-			return false
-		}
-
-		setCurrentLanguage(language)
-		return true
-	}
-
 }

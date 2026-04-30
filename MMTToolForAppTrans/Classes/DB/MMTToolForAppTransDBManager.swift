@@ -14,6 +14,9 @@ class MMTToolForAppTransDBManager {
     /// Table instance for managing localization records.
     var localizableTable: MMTToolForAppTransLocalizableTable?
 
+    /// The database file path, set during initTable().
+    private var databaseFilePath: String?
+
 }
 
 extension MMTToolForAppTransDBManager {
@@ -21,7 +24,7 @@ extension MMTToolForAppTransDBManager {
     /// Sets up the database file path in Documents directory.
     /// Creates localization table schema if not exists.
     func initTable() {
-        
+
         let fileManager = FileManager.default
         let documentsDirectory = fileManager.urls(for: .documentDirectory, in: .userDomainMask).first!
         var strPath = documentsDirectory.absoluteString
@@ -30,10 +33,11 @@ extension MMTToolForAppTransDBManager {
         }
 
         let rootDir = strPath
-        
+
         let fileDir = rootDir + ".MMTToolForAppTrans/db/"
         let filePath = fileDir + "db.sqlite3"
-        
+        databaseFilePath = filePath
+
         var isDirectory: ObjCBool = true
         let isFileExist = FileManager.default.fileExists(atPath: fileDir, isDirectory: &isDirectory)
         if isFileExist {
@@ -46,12 +50,26 @@ extension MMTToolForAppTransDBManager {
         } else {
             try? FileManager.default.createDirectory(at: URL(fileURLWithPath: fileDir), withIntermediateDirectories: true)
         }
-        
+
         db = Database(at: filePath)
-        
+
         localizableTable = MMTToolForAppTransLocalizableTable()
         localizableTable?.createTable()
-        
+
+    }
+
+    /// Closes the database connection and deletes the database file.
+    /// After calling this, re-initialize with initTable() to set up a fresh database.
+    func resetDatabase() {
+        db?.close()
+        db = nil
+        localizableTable = nil
+
+        if let filePath = databaseFilePath {
+            let fileDir = (filePath as NSString).deletingLastPathComponent
+            try? FileManager.default.removeItem(atPath: fileDir)
+            databaseFilePath = nil
+        }
     }
     
     /// Inserts a new record into the database.

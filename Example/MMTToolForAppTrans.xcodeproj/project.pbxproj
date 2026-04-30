@@ -497,10 +497,12 @@
 			baseConfigurationReference = 929EFF9F47BBD3F773286623 /* Pods-MMTToolForAppTrans_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 48J9S8BX9K;
 				INFOPLIST_FILE = MMTToolForAppTrans/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mmt.pods.apptrans;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -514,10 +516,12 @@
 			baseConfigurationReference = 537ACDB83839048374329571 /* Pods-MMTToolForAppTrans_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 48J9S8BX9K;
 				INFOPLIST_FILE = MMTToolForAppTrans/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mmt.pods.apptrans;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -542,6 +546,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mmt.pods.apptrans;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -564,6 +569,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mmt.pods.apptrans;
 				PRODUCT_NAME = "$(TARGET_NAME)";
