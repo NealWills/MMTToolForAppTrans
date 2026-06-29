@@ -299,7 +299,8 @@ public final class MMTToolForAppTransDatabaseRecordsViewController: UIViewContro
 			record.valueFr,
 			record.valueDe,
 			record.valueEs,
-			record.valueIt
+			record.valueIt,
+			record.valuePl
 		]
 		.compactMap { value in
 			guard let value else {
@@ -350,7 +351,8 @@ public final class MMTToolForAppTransDatabaseRecordsViewController: UIViewContro
 			("fr", record.valueFr),
 			("de", record.valueDe),
 			("es", record.valueEs),
-			("it", record.valueIt)
+			("it", record.valueIt),
+			("pl", record.valuePl)
 		]
 		.filter { _, value in
 			guard let value else {

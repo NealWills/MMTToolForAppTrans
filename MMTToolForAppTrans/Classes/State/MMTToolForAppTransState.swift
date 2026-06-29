@@ -12,6 +12,7 @@ public extension MMTToolForAppTrans {
 		case es
 		case fr
 		case it
+		case pl
 		case zhHans = 100
 		case zhHant = 101
 
@@ -47,6 +48,8 @@ public extension MMTToolForAppTrans {
 				return "Español"
 			case .it:
 				return "Italiano"
+			case .pl:
+				return "Polski"
 			}
 		}
 
@@ -67,6 +70,8 @@ public extension MMTToolForAppTrans {
 				return "SpLocalizable"
 			case .it:
 				return "ItLocalizable"
+			case .pl:
+				return "PlLocalizable"
 			}
 		}
 
@@ -83,6 +88,8 @@ public extension MMTToolForAppTrans {
 				return "es"
 			case .it:
 				return "it"
+			case .pl:
+				return "pl"
 			}
 		}
 
@@ -103,6 +110,8 @@ public extension MMTToolForAppTrans {
 				return "es"
 			case .it:
 				return "it"
+			case .pl:
+				return "pl"
 			}
 		}
 
@@ -119,6 +128,8 @@ public extension MMTToolForAppTrans {
 				return "es"
 			case .it:
 				return "it"
+			case .pl:
+				return "pl"
 			}
 		}
 
@@ -139,6 +150,8 @@ public extension MMTToolForAppTrans {
 				return "es"
 			case .it:
 				return "it"
+			case .pl:
+				return "pl"
 			}
 		}
 
@@ -155,7 +168,7 @@ public extension MMTToolForAppTrans {
 
 		/// Returns the full language catalog supported by the library.
 		public static func allLanguageList() -> [Language] {
-			[.enUS, .zhHans, .zhHant, .fr, .de, .es, .it]
+			[.enUS, .zhHans, .zhHant, .fr, .de, .es, .it, .pl]
 		}
 
 		/// Replaces the externally visible valid-language subset while removing duplicates and unknown values.

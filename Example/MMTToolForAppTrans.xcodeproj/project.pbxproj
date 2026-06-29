@@ -15,8 +15,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		CA5F59822D51816FA572BF79 /* Pods_MMTToolForAppTrans_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37FA699588BB06412E4E1A10 /* Pods_MMTToolForAppTrans_Tests.framework */; };
-		F18809B82F98D4CE00CB4674 /* MeatmeetTransExcelV3.appTrans in Resources */ = {isa = PBXBuildFile; fileRef = F18809B72F98D4CE00CB4674 /* MeatmeetTransExcelV3.appTrans */; };
-		F18809BA2F98D60B00CB4674 /* localizeBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F18809B92F98D60B00CB4674 /* localizeBundle.bundle */; };
+		F14F74522FF29E6D00EEB9EA /* localizeBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F14F74512FF29E6D00EEB9EA /* localizeBundle.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,8 +48,7 @@
 		BC84DFCF7B258374B5CCAA63 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D39AA8CEF2EAA8265CFFC56F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		DEF3A870AB35B2C2AD9E95DC /* Pods-MMTToolForAppTrans_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMTToolForAppTrans_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MMTToolForAppTrans_Tests/Pods-MMTToolForAppTrans_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F18809B72F98D4CE00CB4674 /* MeatmeetTransExcelV3.appTrans */ = {isa = PBXFileReference; lastKnownFileType = file; path = MeatmeetTransExcelV3.appTrans; sourceTree = "<group>"; };
-		F18809B92F98D60B00CB4674 /* localizeBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = localizeBundle.bundle; sourceTree = "<group>"; };
+		F14F74512FF29E6D00EEB9EA /* localizeBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = localizeBundle.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +95,7 @@
 		607FACD21AFB9204008FA782 /* Example for MMTToolForAppTrans */ = {
 			isa = PBXGroup;
 			children = (
-				F18809B92F98D60B00CB4674 /* localizeBundle.bundle */,
-				F18809B72F98D4CE00CB4674 /* MeatmeetTransExcelV3.appTrans */,
+				F14F74512FF29E6D00EEB9EA /* localizeBundle.bundle */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
@@ -255,10 +252,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F18809BA2F98D60B00CB4674 /* localizeBundle.bundle in Resources */,
-				F18809B82F98D4CE00CB4674 /* MeatmeetTransExcelV3.appTrans in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				F14F74522FF29E6D00EEB9EA /* localizeBundle.bundle in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

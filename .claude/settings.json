@@ -5,7 +5,11 @@
       "Bash(git -C /Users/nealwills/Developer/MMTToolForAppTrans log --oneline -3)",
       "Bash(git -C /Users/nealwills/Developer/MMTToolForAppTrans branch -l \"0.6.6\")",
       "Bash(git -C /Users/nealwills/Developer/MMTToolForAppTrans diff Doc/Version.md)",
-      "Bash(git -C /Users/nealwills/Developer/MMTToolForAppTrans add Doc/Version.md .claude/)"
+      "Bash(git -C /Users/nealwills/Developer/MMTToolForAppTrans add Doc/Version.md .claude/)",
+      "Bash(git -C /Users/nealwills/Developer/MMTToolForAppTrans commit -m ' *)",
+      "Bash(gh release *)",
+      "Bash(pod trunk *)",
+      "Bash(export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890)"
     ]
   }
 }

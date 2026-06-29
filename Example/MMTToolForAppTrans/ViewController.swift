@@ -36,7 +36,8 @@ class ViewController: UIViewController {
         LanguageToggleItem(language: .fr, title: "Enable Français", isLocked: false),
         LanguageToggleItem(language: .de, title: "Enable Deutsch", isLocked: false),
         LanguageToggleItem(language: .es, title: "Enable Español", isLocked: false),
-        LanguageToggleItem(language: .it, title: "Enable Italiano", isLocked: false)
+        LanguageToggleItem(language: .it, title: "Enable Italiano", isLocked: false),
+        LanguageToggleItem(language: .pl, title: "Enable Polski", isLocked: false)
     ]
 
     override func viewDidLoad() {

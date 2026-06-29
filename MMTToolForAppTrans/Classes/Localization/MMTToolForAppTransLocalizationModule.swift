@@ -77,6 +77,8 @@ final class MMTToolForAppTransLocalizationModule {
 			return sanitize(item.value_es)
 		case .it:
 			return sanitize(item.value_it)
+		case .pl:
+			return sanitize(item.value_pl)
 		}
 	}
 
@@ -132,7 +134,8 @@ final class MMTToolForAppTransLocalizationModule {
 			item.value_fr,
 			item.value_de,
 			item.value_es,
-			item.value_it
+			item.value_it,
+			item.value_pl
 		]
 		.compactMap { sanitize($0) }
 		.first

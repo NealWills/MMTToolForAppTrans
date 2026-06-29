@@ -5,6 +5,11 @@ This file tracks the documented release history of MMTToolForAppTrans.
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
 
+## 0.6.7
+
+- Added Polish (pl) language support across the entire library: Language enum, WCDB model column, bundle synchronization, localization lookup, cache, database viewer, and Example bundle fixture.
+
+
 ## 0.6.6
 
 - Added `resetLocalizationDatabase()` to delete the entire database file and reinitialize the storage layer from scratch.

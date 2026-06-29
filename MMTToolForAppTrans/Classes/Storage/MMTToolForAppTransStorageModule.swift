@@ -45,6 +45,7 @@ final class MMTToolForAppTransStorageModule {
 			apply(languageDictionaries[.de]?[key], to: item, language: .de)
 			apply(languageDictionaries[.es]?[key], to: item, language: .es)
 			apply(languageDictionaries[.it]?[key], to: item, language: .it)
+			apply(languageDictionaries[.pl]?[key], to: item, language: .pl)
 
 			if existingItem == nil {
 				_ = MMTToolForAppTransDBManager.insertNewItem(with: .localizableTable(item))
@@ -135,6 +136,8 @@ final class MMTToolForAppTransStorageModule {
 			item.value_es = value
 		case .it:
 			item.value_it = value
+		case .pl:
+			item.value_pl = value
 		}
 	}
 }

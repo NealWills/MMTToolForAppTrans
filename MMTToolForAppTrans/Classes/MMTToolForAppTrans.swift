@@ -25,6 +25,7 @@ public final class MMTToolForAppTrans {
 		public let valueDe: String?
 		public let valueEs: String?
 		public let valueIt: String?
+		public let valuePl: String?
 
 		public init(
 			identifier: Int,
@@ -39,7 +40,8 @@ public final class MMTToolForAppTrans {
 			valueFr: String?,
 			valueDe: String?,
 			valueEs: String?,
-			valueIt: String?
+			valueIt: String?,
+			valuePl: String?
 		) {
 			self.identifier = identifier
 			self.description = description
@@ -54,6 +56,7 @@ public final class MMTToolForAppTrans {
 			self.valueDe = valueDe
 			self.valueEs = valueEs
 			self.valueIt = valueIt
+			self.valuePl = valuePl
 		}
 	}
 
@@ -277,7 +280,8 @@ extension MMTToolForAppTrans {
 				valueFr: item.value_fr,
 				valueDe: item.value_de,
 				valueEs: item.value_es,
-				valueIt: item.value_it
+				valueIt: item.value_it,
+				valuePl: item.value_pl
 			)
 		}
 	}

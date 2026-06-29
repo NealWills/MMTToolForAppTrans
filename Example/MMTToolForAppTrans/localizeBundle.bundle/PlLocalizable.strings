@@ -452,7 +452,7 @@
 
 "key_device_ota_already_the_lastest_version" = "Bereits die neueste Version";
 
-"key_device_ota_update" = "Update";
+"key_device_ota_update" = "Mise à jour";
 
 "key_device_ota_preparing" = "Vorbereiten";
 
@@ -500,7 +500,7 @@
 
 "key_share_action_device_exit" = "Ausfahrt";
 
-"key_device_probe_firmware_update" = "Probe Firmware Update";
+"key_device_probe_firmware_update" = "Mise à jour du micrologiciel de la sonde";
 
 "key_device_what_is_happen" = "Was ist los";
 
@@ -580,7 +580,7 @@
 
 "key_bind_float_pairing_failed_title_sub" = "Es ist möglicherweise einer der folgenden Fehler aufgetreten – bitte versuche es erneut.";
 
-"key_bind_float_pairing_failed_faqs" = "FAQS";
+"key_bind_float_pairing_failed_faqs" = "FAQ";
 
 "key_bind_float_pairing_failed_confirm" = "Verbinden";
 
@@ -598,7 +598,7 @@
 
 "key_bind_float_probe_pairing_failed_title_sub" = "Bitte stellen Sie sicher, dass sich die Sonde in der Box befindet. Wir werden die Sonde anschließen. Bitte beachten Sie, dass dieser Vorgang schnell abläuft.";
 
-"key_bind_float_probe_pairing_failed_faqs" = "FAQS";
+"key_bind_float_probe_pairing_failed_faqs" = "FAQ";
 
 "key_bind_float_probe_pairing_failed_confirm" = "Erneut verbinden";
 
@@ -752,7 +752,7 @@
 
 "key_bind_unified_step_3_tips_0400" = "Bitte legen Sie die Sonde während des Pairings in ihr Case. Vielen Dank für Ihre Mitarbeit!";
 
-"key_bind_unified_product_brochure" = "Produktbroschüre";
+"key_bind_unified_product_brochure" = "";
 
 "key_bind_unified_go_pairing" = "Jetzt koppeln";
 
@@ -1148,7 +1148,7 @@
 
 "key_cook_ready_to_grill" = "Fertig zum Grillen";
 
-"key_cook_start" = "Start";
+"key_cook_start" = "Commencer";
 
 "key_cook_second_grill_stage_[<xxxx>]" = "Stufe [<xxxx>]";
 
@@ -1252,7 +1252,7 @@
 
 "key_cook_reverse_sear_section_strategy_title" = "Strategie wählen";
 
-"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Standard:[<xxxx0>]-[<xxxx1>][<xxxx2>]";
+"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Standard :[<xxxx0>]-[<xxxx1>][<xxxx2>]";
 
 "key_cook_strategy_recommend" = "Empfohlen";
 
@@ -1450,7 +1450,7 @@
 
 "key_cook_guide_base_back" = "Zurück";
 
-"key_cook_guide_base_no_need" = "Needn't Guide";
+"key_cook_guide_base_no_need" = "Guide nécessaire";
 
 "key_cook_guide_choose_meat_tips" = "Wählen Sie das Fleisch, das Sie kochen möchten";
 
@@ -1628,7 +1628,7 @@
 
 "key_setting_app_version" = "App-Version";
 
-"key_setting_faqs" = "FAQS";
+"key_setting_faqs" = "FAQ";
 
 "key_setting_alexa" = "Alexa";
 
@@ -2186,7 +2186,7 @@
 
 "key_ai_home_last_recipe_ask_title" = "Fragen";
 
-"key_ai_home_last_recipe_master_title" = "Master";
+"key_ai_home_last_recipe_master_title" = "Maestro";
 
 "key_ai_day_distance_today" = "Heute";
 
@@ -2372,7 +2372,7 @@
 
 "key_vip_point_limit_cost" = "Kosten";
 
-"key_vip_point_limit_credits" = "Credits";
+"key_vip_point_limit_credits" = "Crediti";
 
 "key_module_esp_server" = "key_module_esp_server";
 
