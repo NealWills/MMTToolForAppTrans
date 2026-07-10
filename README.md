@@ -34,7 +34,7 @@ The library is now split into a public facade plus several focused runtime modul
 	- Exposes import, language, state, and localization APIs.
 - `MMTToolForAppTrans/Classes/Import/`
 	- Keeps import-file handling isolated from the public localization API.
-	- Supports the current `.mmttrans` import path without exposing Excel/XML as the main integration surface.
+	- Supports the current `.xlsx` import path without exposing Excel/XML as the main integration surface.
 - `MMTToolForAppTrans/Classes/Storage/`
 	- Wraps storage initialization and database queries.
 	- Serves as the layer above the low-level WCDB implementation.
@@ -104,6 +104,22 @@ let loginText = MMTToolForAppTrans.localizedString(forKey: "key_login_log_in", l
 let toolViewController = MMTToolForAppTrans.makeToolsViewController()
 ```
 
+Import `.xlsx` file example:
+
+```swift
+// Import from file URL
+let result = MMTToolForAppTrans.acceptImportFile(at: fileURL)
+if case .success(let importFile) = result {
+    print("Imported: \(importFile.fileName), type: \(importFile.fileType.rawValue)")
+}
+
+// Import from bundle (defaults to .xlsx extension)
+MMTToolForAppTrans.acceptImportFile(
+    from: .main,
+    resourceName: "LocalizationData"
+)
+```
+
 ## Requirements
 
 - iOS project environment with CocoaPods
@@ -128,6 +144,7 @@ pod install
 ## What This Library Currently Provides
 
 - Public APIs for registering a localization bundle at runtime.
+- Import support for `.xlsx` files as the default import format, with backward compatibility for `.mmttrans` files.
 - Key lookup from `.strings` files inside the current localization bundle.
 - English fallback when the selected language is outside the configured valid language list.
 - Internal fallback from bundle-based localization to the storage layer.

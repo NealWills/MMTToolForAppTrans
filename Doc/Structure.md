@@ -43,14 +43,14 @@ Responsibilities:
 - Validates supported import content.
 - Keeps file import concerns isolated from runtime bundle localization.
 - Converts the imported file into a unified internal import model.
-- Documents the current `.mmttrans` validation rule in code comments.
+- Documents the current `.xlsx` validation rule in code comments.
 
 Current scope:
 
 - File existence checks
 - File readability checks
-- File type recognition for `.mmttrans`
-- Basic ZIP container validation for `.mmttrans` inputs
+- File type recognition for `.xlsx`
+- Basic ZIP container validation for `.xlsx` inputs
 
 ### Storage Module
 
