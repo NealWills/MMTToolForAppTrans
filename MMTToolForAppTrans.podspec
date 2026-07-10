@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMTToolForAppTrans'
-  s.version          = '0.6.7'
+  s.version          = '0.6.8'
   s.summary          = 'Bundle-first localization library with runtime language switching.'
 
 # This description is used to generate tags and improve search results.
@@ -25,6 +25,9 @@ provide the requested value.
 
 The library also includes a 200-entry in-memory LRU cache and bundle-first
 lookup flow with inline comments around the main runtime paths.
+
+Import support: accepts `.xlsx` files as the default import format
+with backward compatibility for `.mmttrans` files.
                        DESC
 
   s.homepage         = 'https://github.com/NealWills/MMTToolForAppTrans'
