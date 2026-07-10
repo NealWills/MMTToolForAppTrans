@@ -5,6 +5,7 @@ public extension MMTToolForAppTrans {
 	/// Public import file types currently exposed by the library.
 	public enum ImportFileType: String {
 		case mmttrans
+		case xlsx
 	}
 
 	/// Lightweight import payload kept in runtime state after a file is accepted.
@@ -30,6 +31,7 @@ public extension MMTToolForAppTrans {
 		case emptyFile
 		case unsupportedFileType
 		case invalidMMTTransFile
+		case invalidXLSXFile
 	}
 }
 
@@ -50,7 +52,9 @@ final class MMTToolForAppTransImportModule {
 	}
 
 	/// Resolves a bundled import resource so callers can load packaged demo data without building paths manually.
-	func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
+	func acceptImportFile(
+		from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "xlsx"
+	) -> Result<MMTToolForAppTrans.ImportFile, MMTToolForAppTrans.ImportError> {
 		guard let fileURL = bundle.url(forResource: resourceName, withExtension: fileExtension) else {
 			return .failure(.resourceNotFound)
 		}
@@ -79,6 +83,11 @@ final class MMTToolForAppTransImportModule {
 			guard isZipContainer(data) else {
 				return .failure(.invalidMMTTransFile)
 			}
+		case .xlsx:
+			// `.xlsx` is also a ZIP-based container (OOXML format).
+			guard isZipContainer(data) else {
+				return .failure(.invalidXLSXFile)
+			}
 		}
 
 		let importFile = MMTToolForAppTrans.ImportFile(
@@ -97,6 +106,8 @@ final class MMTToolForAppTransImportModule {
 		switch fileExtension {
 		case MMTToolForAppTrans.ImportFileType.mmttrans.rawValue:
 			return .mmttrans
+		case MMTToolForAppTrans.ImportFileType.xlsx.rawValue:
+			return .xlsx
 		default:
 			return nil
 		}

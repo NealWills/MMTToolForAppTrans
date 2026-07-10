@@ -70,7 +70,9 @@ public final class MMTToolForAppTrans {
 		shared.acceptImportFile(at: fileURL)
 	}
 
-	public class func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
+	public class func acceptImportFile(
+		from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "xlsx"
+	) -> Result<ImportFile, ImportError> {
 		shared.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
 	}
 
@@ -170,7 +172,9 @@ extension MMTToolForAppTrans {
 		return result
 	}
 
-	public func acceptImportFile(from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "mmttrans") -> Result<ImportFile, ImportError> {
+	public func acceptImportFile(
+		from bundle: Bundle, resourceName: String, withExtension fileExtension: String = "xlsx"
+	) -> Result<ImportFile, ImportError> {
 		let result = importModule.acceptImportFile(from: bundle, resourceName: resourceName, withExtension: fileExtension)
 		if case .success(let importFile) = result {
 			state.currentImportFile = importFile
