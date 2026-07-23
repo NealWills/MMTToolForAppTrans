@@ -1,172 +1,1702 @@
-"key_module_login" = "key_module_login";
+"Key_Module_AI" = "Key_Module_AI";
 
-"key_login_go_to_login" = "前往登录";
+"key_ai_answer_recipe_cook_awaken_title" = "烹饪完成提醒";
 
-"key_login_log_in" = "登录";
+"key_ai_answer_recipe_cook_flip_title" = "翻面";
 
-"key_login_visitor" = "访客";
+"key_ai_answer_recipe_cook_meat_name_title" = "烹饪肉类名称";
 
-"key_login_privacy_[<xxxx>]" = "本人确认已阅读并接受[<xxxx>]。";
+"key_ai_answer_recipe_cook_steps_title" = "烹饪步骤";
 
-"key_login_privacy_service" = "《隐私与条款》";
+"key_ai_answer_recipe_cook_time_title" = "烹饪时间";
 
-"key_login_sign_in" = "登录";
+"key_ai_answer_recipe_ingredient_list_title" = "配料表";
 
-"key_login_account_title" = "您的电子邮件";
+"key_ai_answer_recipe_name_title" = "食谱名称";
 
-"key_login_account_placeholder" = "电子邮件";
+"key_ai_answer_recipe_notes_title" = "备注";
 
-"key_login_account_error_empty" = "请输入电子邮件";
+"key_ai_answer_recipe_pre_time_title" = "准备时间";
 
-"key_login_account_error_less" = "电子邮件地址必须至少包含4个字符";
+"key_ai_answer_recipe_star_title" = "星级";
 
-"key_login_account_error_unvalid" = "输入正确的邮箱地址";
+"key_ai_answer_recipe_total_time_title" = "总时间";
 
-"key_login_password_title" = "密码";
+"key_ai_answer_result_choice_confirm_title" = "使用食谱";
 
-"key_login_password_placeholder" = "密码";
+"key_ai_answer_result_choice_equipment_title" = "选择设备";
 
-"key_login_password_error_less" = "密码长度必须至少为6个字符";
+"key_ai_answer_result_choice_meat_title" = "选择肉类";
 
-"key_login_password_error_unvalid" = "请输入正确的密码";
+"key_ai_answer_result_choice_temperature_title" = "选择温度";
 
-"key_login_password_old_title" = "旧密码";
+"key_ai_answer_result_choice_title" = "您的选择";
 
-"key_login_password_old_placeholder" = "旧密码";
+"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "选择设备";
 
-"key_login_password_old_empty" = "输入旧密码";
+"key_ai_answer_setting_cooking_choose_meat_title_sub" = "选择肉类";
 
-"key_login_password_old_error_less" = "密码长度必须至少为6个字符";
+"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "选择温度";
 
-"key_login_password_old_error_unvalid" = "请输入正确的密码";
+"key_ai_answer_setting_cooking_title_confirm" = "我已选择";
 
-"key_login_password_new_title" = "新密码";
+"key_ai_collection_cook_segment_title" = "烹饪偏好";
 
-"key_login_password_new_placeholder" = "新密码";
+"key_ai_collection_recipes_segment_title" = "AI 食谱";
 
-"key_login_password_new_error_less" = "新密码必须至少包含6个字符";
+"key_ai_day_distance_last_30_day" = "最近30天";
 
-"key_login_password_new_error_unvalid" = "请输入正确的新密码";
+"key_ai_day_distance_last_7_day" = "最近7天";
 
-"key_login_password_confirm_title" = "确认密码";
+"key_ai_day_distance_last_day" = "昨天";
 
-"key_login_password_confirm_placeholder" = "确认密码";
+"key_ai_day_distance_today" = "今天";
 
-"key_login_password_confirm_error_less" = "确认密码必须至少包含6个字符";
+"key_ai_dialogue_empty_title" = "暫無AI歷史記錄";
 
-"key_login_password_confirm_error_unvalid" = "请输入正确的确认密码";
+"key_ai_dialogue_empty_title_sub" = "開始使用AI來生成食譜、獲取技巧，並在此查看您的結果。";
 
-"key_login_password_match_error" = "密码不匹配";
+"key_ai_home_image_recognition_title" = "AI图像识别";
 
-"key_login_password_old_equal_to_new_error" = "旧密码和新密码相同";
+"key_ai_home_image_recognition_title_sub" = "照片变食谱：用手边食材烹饪";
 
-"key_login_code_title" = "验证码";
+"key_ai_home_last_recipe_ask_title" = "提问";
 
-"key_login_code_placeholder" = "验证码";
+"key_ai_home_last_recipe_master_title" = "大师";
 
-"key_login_code_empty" = "需要验证码";
+"key_ai_home_last_recipe_scan_title" = "扫描";
 
-"key_login_code_error_less" = "验证码必须至少包含6个字符";
+"key_ai_home_last_recipe_title" = "最近的AI食谱";
 
-"key_login_code_error_unvalid" = "验证码不正确";
+"key_ai_home_recipe_recommendations_title" = "AI食谱推荐";
 
-"key_login_code_error_tips" = "验证码错误，请重试。";
+"key_ai_home_recipe_recommendations_title_sub" = "想法变食谱：烹饪心中所爱";
 
-"key_login_privacy_view_title" = "请阅读并同意以下条款";
+"key_ai_home_title" = "AI烹饪";
 
-"key_login_privacy_view_term" = "用户使用条款";
+"key_ai_image_recognition_cart_title" = "告诉我们您的喜好——我们将为您推荐您会爱上的食谱！";
 
-"key_login_privacy_view_privacy" = "隐私协议";
+"key_ai_master_enterence_confirm" = "AI定制";
 
-"key_login_privacy_view_confirm" = "同意并继续";
+"key_ai_master_enterence_header" = "AI烹饪大师";
 
-"key_login_sign_in_error" = "用户名或密码错误";
+"key_ai_master_enterence_title" = "定制食谱";
 
-"key_login_account_btn_forget" = "忘记密码";
+"key_ai_master_enterence_title_sub" = "告诉我们您的偏好——我们将为您打造完美食谱。";
 
-"key_login_account_reset" = "重置密码";
+"key_ai_master_see_more_title" = "解锁AI会员，获取更多大师食谱。";
 
-"key_login_account_exist_not" = "没有账户";
+"key_ai_master_see_more_title_sub" = "立即订阅。";
 
-"key_login_account_create" = "创建一个新的";
+"key_ai_master_setting_animal_title" = "今天烹饪什么";
 
-"key_login_email_verify" = "验证您的电子邮件";
+"key_ai_master_setting_confirm_open_title" = "开通VIP以保存";
 
-"key_login_verify_confirm" = "验证";
+"key_ai_master_setting_confirm_save_title" = "保存";
 
-"key_login_code_get" = "知道了";
+"key_ai_master_setting_doneness_title" = "理想熟度";
 
-"key_login_code_sent" = "验证码已发送";
+"key_ai_master_setting_during_title" = "预计用时";
 
-"key_login_code_sent_failure" = "验证码发送失败";
+"key_ai_master_setting_equipment_title" = "烹饪方式";
 
-"key_login_reset_success" = "密码重置成功";
+"key_ai_master_setting_flavor_title" = "风味偏好";
 
-"key_login_nav_password_reset" = "重置密码";
+"key_ai_master_setting_nav_title" = "AI大师设置";
 
-"key_login_nav_register" = "注册";
+"key_ai_probe_insert_next_title" = "下一步";
 
-"key_login_register_confirm" = "注册";
+"key_ai_probe_insert_title" = "探针插入";
 
-"key_login_register_failure" = "注册失败";
+"key_ai_recipe_answer_card_title" = "智能烹饪设置";
 
-"key_login_regist_success" = "注册成功";
+"key_ai_recipe_answer_card_title_sub" = "根据您的选择，我们将为您生成一份定制食谱。";
 
-"key_login_register_error_account_exist_subtitle" = "用户账户已存在";
+"key_ai_recipe_answer_nav_title" = "AI回答";
 
-"key_login_register_error_account_exist_title" = "账户已存在";
+"key_ai_recipe_answer_title_sub" = "请根据选项选择";
 
-"key_login_regist_code_tips" = "查看您邮箱中的校验码";
+"key_ai_recipe_collection" = "收藏食谱";
 
-"key_login_info_edit_success" = "更新成功";
+"key_ai_recipe_collection_failure_title" = "已从收藏中移除";
 
-"key_login_nav_account_delete" = "删除账户";
+"key_ai_recipe_collection_success_title" = "保存成功！";
 
-"key_lgoin_account_delete" = "删除账户";
+"key_ai_recipe_collection_success_title_sub" = "您可以在“我的 → 收藏食谱”中查看和管理。";
+
+"key_ai_recipe_confirm_detail_title" = "查看食谱详情 >";
+
+"key_ai_recipe_confirm_next_title" = "开始烧烤";
+
+"key_ai_recipe_confirm_swipe_title_tips" = "左右滑动查看更多";
+
+"key_ai_recipe_confirm_title" = "AI烧烤解决方案";
+
+"key_ai_recipe_confirm_title_sub" = "根据您照片的内容，我们已为您生成一套智能烧烤解决方案。如果您对以下建议不满意，请点击编辑。";
+
+"key_ai_recipe_cooking_instruction_title" = "烹饪步骤";
+
+"key_ai_recipe_description_title" = "描述";
+
+"key_ai_recipe_difficult_challenging" = "高难度";
+
+"key_ai_recipe_difficult_easy" = "简单";
+
+"key_ai_recipe_difficult_moderate" = "中等";
+
+"key_ai_recipe_difficult_professional" = "专业";
+
+"key_ai_recipe_dis_collection" = "取消保存食谱";
+
+"key_ai_recipe_help_tips_title" = "实用提示";
+
+"key_ai_recipe_ingredients_title" = "所需食材";
+
+"key_ai_recipe_pre_cooking_title" = "准备步骤";
+
+"key_ai_recipe_recommend_card_awaken_title" = "醒肉（回温）";
+
+"key_ai_recipe_recommend_card_cooking_tool_title" = "烹饪环境";
+
+"key_ai_recipe_recommend_card_flip_title" = "翻面";
+
+"key_ai_recipe_recommend_card_meat_name_title" = "肉类";
+
+"key_ai_recipe_recommend_card_meat_size_title" = "预估肉类厚度（英寸）";
+
+"key_ai_recipe_recommend_card_temperature_title" = "烹饪模式";
+
+"key_ai_recipe_recommend_card_title_[<xxxx>]" = "推荐食谱 [<xxxx>]";
+
+"key_ai_recipe_recommend_card_title_sub" = "我们根据您的以下内容推荐个性化方案";
+
+"key_ai_recipe_unit_minute" = "分钟";
+
+"key_ai_recognition_photo_title" = "使用此照片";
+
+"key_ai_recognition_photo_working_title" = "AI烹饪大师工作中";
+
+"key_ai_recognition_result_cancel_title" = "重新识别";
+
+"key_ai_recognition_result_confirm_title" = "下一步";
+
+"key_ai_recognition_result_preparation_title" = "准备";
+
+"key_ai_recognition_result_title" = "AI识别结果";
+
+"key_ai_smart_cooking_master" = "智能烹饪大师";
+
+"key_ai_you_uploaded_this_photo" = "您上传了此照片";
+
+"Key_Module_BBQ" = "Key_Module_BBQ";
+
+"key_bbq_complete_cooking_settings" = "请完成烹饪设置";
+
+"key_bbq_cook_again" = "再次烹饪";
+
+"key_bbq_cook_device" = "烹饪设备";
+
+"key_bbq_cook_duration" = "烹饪时长";
+
+"key_bbq_cook_end_time" = "结束时间";
+
+"key_bbq_cook_probe" = "烹饪探针";
+
+"key_bbq_cook_setting_confirm" = "烹饪设置确认";
+
+"key_bbq_cook_start_time" = "开始时间";
+
+"key_bbq_delete_alert_title" = "確定要刪除記錄嗎？";
+
+"key_bbq_detail_back" = "返回";
+
+"key_bbq_favorite_add" = "添加到收藏夹";
+
+"key_bbq_favorite_remove" = "移除收藏";
+
+"key_bbq_flip_food" = "翻转食物";
+
+"key_bbq_grill_flip_not_support_tips" = "此烤架不支持翻转";
+
+"key_bbq_grill_rest_not_support_tips" = "此烤架不支持静置";
+
+"key_bbq_history_tempty_tips" = "无烹饪记录";
+
+"key_bbq_more_cooks" = "更多厨师";
+
+"key_bbq_nav_history" = "历史";
+
+"key_bbq_note_add_alert_content_placeholder" = "请输入内容";
+
+"key_bbq_note_add_alert_content_title" = "内容";
+
+"key_bbq_note_add_alert_confirm_title" = "确认";
+
+"key_bbq_note_add_alert_failed_title" = "添加失败";
+
+"key_bbq_note_add_alert_failed_title_sub" = "标题必须至少包含2个字符";
+
+"key_bbq_note_add_alert_title" = "注释";
+
+"key_bbq_note_add_alert_title_placeholder" = "请输入内容";
+
+"key_bbq_note_add_alert_title_title" = "标题";
+
+"key_bbq_note_create_tips" = "点击输入你的烹饪笔记";
+
+"key_bbq_notes_delete_title" = "BBQ筆記標題";
+
+"key_bbq_notes_title" = "注释";
+
+"key_bbq_re_select" = "重新选择";
+
+"key_bbq_rest_off_no_need_tips" = "待机模式已关闭——无需检查厚度，咱们直接开始烹饪！";
+
+"key_bbq_resting" = "休息";
+
+"key_bbq_select_device" = "选择设备";
+
+"key_bbq_select_device_cooking" = "烹饪";
+
+"key_bbq_select_device_low_battery" = "电量低";
+
+"key_bbq_select_device_no_probe_available" = "无可用探头";
+
+"key_bbq_select_device_probe_title" = "选择探头";
+
+"key_bbq_select_device_probe_title_sub" = "请选择您的探针来完成最重要的步骤，我们即将开始烧烤";
+
+"key_bbq_select_device_title" = "选择设备";
+
+"key_bbq_select_device_title_sub" = "请选择烹饪设备，开启您的全新烧烤之旅";
+
+"key_bbq_temperature_chart_title" = "温度图表";
+
+"Key_Module_Bind" = "Key_Module_Bind";
+
+"key_bind_add_probe" = "添加探头";
+
+"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "你准备好了吗？\n 快来开启你精彩的烹饪生涯";
+
+"key_bind_back" = "返回";
+
+"key_bind_bluetooth_connecting" = "蓝牙连接中";
+
+"key_bind_bluetooth_is_connecting" = "蓝牙正在连接";
+
+"key_bind_bluetooth_is_scanning" = "蓝牙正在扫描";
+
+"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "无法定位探头。请确保已开启电源，然后点击刷新";
+
+"key_bind_change_wifi_current_connect_title" = "已连接到Wi-Fi。";
+
+"key_bind_change_wifi_current_none_title" = "无Wi-Fi，请连接。";
+
+"key_bind_change_wifi_current_title" = "可选位置";
+
+"key_bind_change_wifi_scan_title" = "推荐位置";
+
+"key_bind_cloud_connecting" = "云连接";
+
+"key_bind_cloud_connecting_title" = "云连接";
+
+"key_bind_cloud_connecting_title_sub" = "正在连接到云平台";
+
+"key_bind_cloud_connecting_to_cloud" = "正在连接到云平台";
+
+"key_bind_connect" = "连接";
+
+"key_bind_connect_success_than_temp_bind" = "请从助推器上取下探头";
+
+"key_bind_connect_the_probe" = "连接探头";
+
+"key_bind_connected_failure" = "设备连接失败";
+
+"key_bind_current_probe" = "电流探头";
+
+"key_bind_current_probe_choose" = "选择探头";
+
+"key_bind_device_hub_disconnected" = "设备已断开连接";
+
+"key_bind_device_invitation" = "設備邀請";
+
+"key_bind_device_invitation_tips" = "邀請用戶";
+
+"key_bind_enter_wifi_password" = "输入Wi-Fi密码";
+
+"key_bind_enter_your_wifi_credentials" = "输入你的Wi-Fi凭证";
+
+"key_bind_finish_net_with_tips" = "你准备好了吗？\n 快来开启你精彩的烹饪生涯";
+
+"key_bind_finish_net_without_tips" = "你准备好了吗？\n 快来开启你精彩的烹饪生涯";
+
+"key_bind_finish_not_now_tips" = "您可以继续使用蓝牙，但连接 Wi-Fi 可解锁完整体验。点击 Wi-Fi 图标或前往设备设置进行连接。";
+
+"key_bind_firmware_update" = "固件更新";
+
+"key_bind_float_confirm" = "连接";
+
+"key_bind_float_go_cooking" = "去做饭";
+
+"key_bind_float_pairing_failed_confirm" = "重新连接";
+
+"key_bind_float_pairing_failed_faqs" = "常见问题解答";
+
+"key_bind_float_pairing_failed_title" = "设备配对失败";
+
+"key_bind_float_pairing_failed_title_sub" = "您可能遇到了以下情况之一，请重试";
+
+"key_bind_float_pairing_reconnecting" = "正在重新连接";
+
+"key_bind_float_pairing_title" = "设备配对";
+
+"key_bind_float_probe_pairing_failed_title" = "探針配對失敗";
+
+"key_bind_float_probe_pairing_failed_title_sub" = "请确保探头在盒子内。我们将连接探头。请注意，此过程会很快。";
+
+"key_bind_float_probe_pairing_title" = "探头配对";
+
+"key_bind_float_ready_to_use" = "即开即用";
+
+"key_bind_float_ready_to_use_start_cook" = "你准备好了吗？ \n 现在就开启你激动人心的烹饪之旅吧！";
+
+"key_bind_float_title" = "连接设备";
+
+"key_bind_found_devices" = "发现设备";
+
+"key_bind_go_cooking" = "去做饭";
+
+"key_bind_go_to_cooking" = "去烹饪";
+
+"key_bind_keep_the_booster_within_wifi_range" = "将信号增强器保持在Wi-Fi覆盖范围内";
+
+"key_bind_keep_your_bluetooth_turning_on" = "保持蓝牙开启";
+
+"key_bind_next" = "下一步";
+
+"key_bind_not_now" = "稍后再说";
+
+"key_bind_other" = "其他";
+
+"key_bind_please_enter_wifi_password" = "请输入Wi-Fi密码";
+
+"key_bind_please_place_the_new_probe_in_the_booster" = "请将新探头放入助推器中";
+
+"key_bind_probe_010x_alert_add_title" = "添加探头";
+
+"key_bind_probe_010x_alert_add_title_sub" = "请等待探头添加完成";
+
+"key_bind_probe_010x_alert_bind_tips" = "1. 请给探头充电至少3至5分钟，尤其是首次使用时。 \n 2. 这将有助于防止下一步中出现“无法连接探头”的问题";
+
+"key_bind_probe_010x_alert_failed_title" = "探头连接失败";
+
+"key_bind_probe_010x_alert_failed_title_sub" = "请按照以下步骤再试一次：\n 1. 从增压器上取下探头并连接\n 2. 给探头充电并重新配对\n 3. 将探头放置在增压器和手机附近";
+
+"key_bind_probe_010x_alert_remove_title" = "移动探头";
+
+"key_bind_probe_010x_alert_success_title" = "配对成功";
+
+"key_bind_probe_010x_alert_success_title_sub" = "请开启您的烹饪之旅";
+
+"key_bind_probe_add_failed" = "添加探头失败";
+
+"key_bind_probe_add_probe" = "添加探头";
+
+"key_bind_probe_add_success" = "探针添加成功";
+
+"key_bind_probe_add_successfully" = "添加成功";
+
+"key_bind_probe_adding" = "请等待探头添加完成";
+
+"key_bind_probe_bind_status_check" = "请检查设备的蓝牙连接状态";
+
+"key_bind_probe_change_unvalid" = "探头更换不可用";
+
+"key_bind_probe_change_unvalid_cause_cooking" = "烹饪过程中不允许更换探头。请等待烹饪完成";
+
+"key_bind_probe_device_invitation" = "设备邀请";
+
+"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "探头丢失。请检查连接并确保探头已正确连接";
+
+"key_bind_probe_management" = "探测器管理";
+
+"key_bind_ready_to_use" = "即插即用";
+
+"key_bind_refresh" = "刷新";
+
+"key_bind_retry" = "重试";
+
+"key_bind_search" = "搜索";
+
+"key_bind_searching_for_your_network" = "正在搜索您的网络";
+
+"key_bind_searching_wifi" = "正在扫描Wi-Fi";
+
+"key_bind_select_your_wifi" = "选择您的Wi-Fi";
+
+"key_bind_setting" = "设置";
+
+"key_bind_setup_guide" = "设置指南";
+
+"key_bind_step_[<xxxx>]" = "步骤 [<xxxx>]";
+
+"key_bind_temp_empty_title" = "點擊底部添加按鈕，開始添加您的探針";
+
+"key_bind_the_probe_is_searching_please_wait" = "探头正在搜索，请稍候";
+
+"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "若要更换探头，请点击下方的搜索按钮";
+
+"key_bind_transferring_firmware" = "正在传输固件";
+
+"key_bind_try_again" = "再试一次";
+
+"key_bind_unbind_probe_title" = "解绑探针";
+
+"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "您将取消绑定“Probe [<xxxx0>] Mac：[<xxxx1>]”\n 您确认取消绑定吗？";
+
+"key_bind_unified_add_device" = "添加设备";
+
+"key_bind_unified_auto_scaning" = "连续自动搜索";
+
+"key_bind_unified_device_manually_add" = "手动添加设备";
+
+"key_bind_unified_device_search_no_result" = "未找到设备。点击下方列表手动添加一个。";
+
+"key_bind_unified_device_searching" = "搜索";
+
+"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "您可能遇到了以下情况之一，请重试\n\n • 发送WiFi密码失败\n • 信号放大器已从路由器断开\n • 无法将设备添加至云平台\n • 连接超时";
+
+"key_bind_unified_failure_device_box0400_cloud_bind_failure_tips" = "您可能遇到了以下情況，請重新嘗試：\n\n• 發送WiFi密碼失敗\n• 信號增強器已與路由器斷開連接\n• 無法將設備添加到雲端\n• 連接超時";
+
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "无法连接到无线网络";
+
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "当前无法将设备与帐户进行云端绑定。";
+
+"key_bind_unified_failure_device_cloud_bind_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
+
+"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "使用以下步骤进行重试：\n • 重启设备\n • 尽量使设备靠近路由器\n • 确保周围环境没有信号干扰\n • 确保您的路由器可以正常访问网络";
+
+"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi-Fi 连接失败";
+
+"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "云端绑定失败";
+
+"key_bind_unified_failure_device_connect_failure_subtitle" = "尝试与设备配对未成功";
+
+"key_bind_unified_failure_device_connect_failure_tips" = "请尝试以下步骤：\n • 确保设备处于配对模式\n • 确认双方的蓝牙功能均已开启\n • 重启蓝牙后重试";
+
+"key_bind_unified_failure_device_connect_failure_title" = "蓝牙连接失败";
+
+"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "无法连接到无线网络";
+
+"key_bind_unified_failure_device_esp_enter_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
+
+"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi-Fi 连接失败";
+
+"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "无法连接到无线网络";
+
+"key_bind_unified_failure_device_nodeid_check_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
+
+"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi-Fi 连接失败";
+
+"key_bind_unified_failure_device_scan_no_result_subtitle" = "尝试与设备配对未成功";
+
+"key_bind_unified_failure_device_scan_no_result_tips" = "请尝试以下步骤：\n • 确保设备处于配对模式\n • 确认双方的蓝牙功能均已开启\n • 重启蓝牙后重试";
+
+"key_bind_unified_failure_device_scan_no_result_title" = "蓝牙连接失败";
+
+"key_bind_unified_failure_device_status_check_failure_subtitle" = "尝试与设备配对未成功";
+
+"key_bind_unified_failure_device_status_check_failure_tips" = "请尝试以下步骤：\n • 确保设备处于配对模式\n • 确认双方的蓝牙功能均已开启\n • 重启蓝牙后重试";
+
+"key_bind_unified_failure_device_status_check_failure_title" = "蓝牙连接失败";
+
+"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "无法连接到无线网络";
+
+"key_bind_unified_failure_device_wifi_connect_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
+
+"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi-Fi 连接失败";
+
+"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "无法连接到无线网络";
+
+"key_bind_unified_failure_device_wifi_scan_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
+
+"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi-Fi 连接失败";
+
+"key_bind_unified_go_pairing" = "开始配对";
+
+"key_bind_unified_go_pairing_unvalid_tips" = "请按照屏幕上的说明进行连接并开始使用。";
+
+"key_bind_unified_product_brochure" = "产品手册";
+
+"key_bind_unified_scan_for_nearby" = "扫描附近设备";
+
+"key_bind_unified_step_1_tips_010x" = "按住电源按钮2秒钟以打开设备。";
+
+"key_bind_unified_step_1_tips_0201" = "確保已經安裝上電池，並且開機";
+
+"key_bind_unified_step_1_tips_020x" = "轻按开机键以启动设备。您会听到一声快速提示音，并看到指示灯开始闪烁。";
+
+"key_bind_unified_step_1_tips_0300" = "长按电源键1.5秒以开启设备，屏幕亮起后松开。";
+
+"key_bind_unified_step_1_tips_0301" = "长按电源键1.5秒以开启设备，屏幕亮起后松开。";
+
+"key_bind_unified_step_1_tips_0400" = "長按電源鍵1.5秒以開啟裝置。螢幕亮起時鬆開。";
+
+"key_bind_unified_step_2_tips_010x" = "然后，快速按两下电源按钮。当指示灯开始快速闪烁时，设备就可以配对了。";
+
+"key_bind_unified_step_2_tips_0201" = "等待底部按鈕變為可點擊狀態";
+
+"key_bind_unified_step_2_tips_020x" = "双击开机键使设备进入配网模式，点击底部按钮开始配对。";
+
+"key_bind_unified_step_2_tips_0300" = "请观察左上角闪烁的蓝牙与Wi-Fi图标，这表示设备已进入配对模式（该模式将在10分钟后关闭，如需重新开启，请长按确认键3秒）。";
+
+"key_bind_unified_step_2_tips_0301" = "请观察左上角闪烁的蓝牙与Wi-Fi图标，这表示设备已进入配对模式（该模式将在10分钟后关闭，如需重新开启，请长按确认键3秒）。";
+
+"key_bind_unified_step_2_tips_0400" = "請查看左上角閃爍的藍牙和Wi-Fi圖示。這表示配對模式已開啟（10分鐘後將自動關閉。長按確認鍵3秒可重新開啟）。";
+
+"key_bind_unified_step_3_tips_0300" = "配对期间，请将探头放置于其底座中。感谢您的配合！";
+
+"key_bind_unified_step_3_tips_0301" = "配对期间，请将探头放置于其底座中。感谢您的配合！";
+
+"key_bind_unified_step_3_tips_0400" = "請在配對過程中將探針置於其保護盒內。感謝配合！";
+
+"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "通过云端可实现无限距离控制，可能需要几秒钟";
+
+"key_bind_wifi_all_set_confirm_title" = "开始烹饪";
+
+"key_bind_wifi_all_set_title" = "全部就绪";
+
+"key_bind_wifi_all_set_title_sub" = "您的设备已完全连接，准备就绪。\n 享受从始至终流畅的烹饪体验。";
+
+"key_bind_wifi_ap_not_valid" = "Wi-Fi AP无效";
+
+"key_bind_wifi_auth_timeout" = "Wi-Fi认证超时";
+
+"key_bind_wifi_confirm_change" = "更改无线网络";
+
+"key_bind_wifi_connect_failure" = "Wi-Fi连接失败";
+
+"key_bind_wifi_connect_timeout" = "Wi-Fi连接超时";
+
+"key_bind_wifi_connecting_title" = "连接到Wi-Fi";
+
+"key_bind_wifi_connecting_title_sub" = "连接到Wi-Fi";
+
+"key_bind_wifi_connection_failed" = "Wi-Fi连接失败";
+
+"key_bind_wifi_input_title" = "连接到Wi-Fi";
+
+"key_bind_wifi_input_title_confirm" = "连接到Wi-Fi";
+
+"key_bind_wifi_name" = "Wi-Fi名称";
+
+"key_bind_wifi_password" = "Wi-Fi密码";
+
+"key_bind_wifi_password_error" = "无效的WiFi帐户或密码";
+
+"key_bind_wifi_scan_warning_title" = "刷新Wi-Fi列表？";
+
+"key_bind_wifi_scan_warning_title_sub" = "刷新可用网络列表将会断开您当前的Wi-Fi连接。";
+
+"key_bind_wifi_search_title" = "正在扫描Wi-Fi";
+
+"key_bind_wifi_select_title" = "选择您的Wi-Fi";
+
+"key_bind_wifi_to_connect_cancel_title" = "稍后再说";
+
+"key_bind_wifi_to_connect_confirm_title" = "立即连接";
+
+"key_bind_wifi_to_connect_title" = "连接Wi-Fi，解锁更多";
+
+"key_bind_wifi_to_connect_title_sub" = "您当前正在使用蓝牙。\n 连接到 Wi-Fi 以获得更佳稳定性和完整功能。";
+
+"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "您的“探头[<xxxx0>]”已成功添加到“[<xxxx1>]”，请开始烹饪";
+
+"Key_Module_Bluetooth" = "Key_Module_Bluetooth";
+
+"key_bluetooth_current_off" = "蓝牙已关闭";
+
+"key_bluetooth_setting_cancel" = "取消";
+
+"key_bluetooth_setting_to" = "设置";
+
+"key_bluetooth_should_turn_on_to_continue" = "开启蓝牙以继续";
+
+"Key_Module_Common" = "Key_Module_Common";
+
+"key_common_alert_email_failure_tips" = "我们无法访问您的电子邮件服务。点击“设置”以启用它";
+
+"key_common_alert_feedback_publish" = "发布";
+
+"key_common_alert_feedback_publish_failed_tips" = "标题必须至少包含2个字符";
+
+"key_common_alert_feedback_publish_failed_title" = "失败";
+
+"key_common_alert_feedback_title" = "标题";
+
+"key_common_alert_feedback_title_placeholder" = "请输入标题";
+
+"key_common_alert_feedback_title_sub" = "内容";
+
+"key_common_alert_feedback_title_sub_placeholder" = "请输入内容";
+
+"key_common_cancel" = "取消";
+
+"key_common_confirm" = "确认";
+
+"key_common_delete" = "刪除";
+
+"key_common_feedback" = "反馈";
+
+"key_common_net_not_reachable_current_title" = "網路無法使用";
+
+"key_common_net_not_reachable_current_title_cancel" = "取消";
+
+"key_common_net_not_reachable_current_title_confirm" = "確認";
+
+"key_common_net_not_reachable_current_title_sub" = "目前網路無法使用，將載入本地數據。";
+
+"key_common_net_not_reachable_title" = "網路無法連線";
+
+"key_common_net_not_reachable_title_confirm" = "確認";
+
+"key_common_net_not_reachable_title_sub" = "網路連線已中斷，您可以透過離線模式繼續使用。";
+
+"key_common_net_reachable_current_title" = "網路已恢復";
+
+"key_common_net_reachable_current_title_cancel" = "取消";
+
+"key_common_net_reachable_current_title_confirm" = "確認";
+
+"key_common_net_reachable_current_title_sub" = "網路連線已恢復，正在載入線上資料。";
+
+"key_common_other" = "其他";
+
+"Key_Module_Cook" = "Key_Module_Cook";
+
+"key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]小时:[<xxxx1>]分钟已过去";
+
+"key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]分:[<xxxx1>]秒已过去";
+
+"key_cook_[<xxxx>]_min_left" = "[<xxxx>]分钟后结束";
+
+"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>]分钟过去了";
+
+"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>]秒已过去";
+
+"key_cook_alert_add_limit_title" = "最多只能添加5个";
+
+"key_cook_alert_add_new_warning" = "添加新警告";
+
+"key_cook_alert_cooking_complete_alert" = "烹饪完成提醒";
+
+"key_cook_alert_cooking_complete_unit" = "烹饪完成";
+
+"key_cook_alert_end_in_[<xxxx>]" = "[<xxxx>]分钟后结束";
+
+"key_cook_alert_mode_popup" = "弹出窗口";
+
+"key_cook_alert_mode_ring" = "戒指";
+
+"key_cook_alert_mode_vibration" = "振动";
+
+"key_cook_alert_multiple_selection" = "多项选择";
+
+"key_cook_alert_remaining_time_alert" = "剩余时间提醒";
+
+"key_cook_alert_rest_continue" = "继续";
+
+"key_cook_alert_rest_title" = "静置肉";
+
+"key_cook_alert_rest_title_sub" = "肉已达到静置温度。请将正在烹饪的食物从烤箱中取出";
+
+"key_cook_alert_time_picker_title" = "时间选择器";
+
+"key_cook_alert_time_picker_unit" = "分钟";
+
+"key_cook_alert_warning_mode" = "警告模式";
+
+"key_cook_ambient" = "环境";
+
+"key_cook_chart_title_ambient" = "環境";
+
+"key_cook_chart_title_internal" = "內部";
+
+"key_cook_chart_title_ntc1" = "NTC1";
+
+"key_cook_chart_title_ntc2" = "NTC2";
+
+"key_cook_chart_title_ntc3" = "NTC3";
+
+"key_cook_chart_title_ntc4" = "NTC4";
+
+"key_cook_chart_title_second_grill_temperature" = "第二階段燒烤";
+
+"key_cook_chart_title_stage1" = "階段1";
+
+"key_cook_chart_title_stage2" = "階段2";
+
+"key_cook_chart_title_target" = "目標";
+
+"key_cook_chart_title_warning" = "警告";
+
+"key_cook_complete_alert_content" = "您可以前往历史记录查看此烧烤记录";
+
+"key_cook_complete_will_complete_title" = "烹饪即将完成";
+
+"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "距离烹饪结束还剩[<xxxx>]分钟";
+
+"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "距离烹饪结束（[<xxxx1>]）还剩[<xxxx0>]分钟";
+
+"key_cook_cooking_completed_on_device_[<xxxx>]" = "设备[<xxxx>]上的烹饪已完成";
+
+"key_cook_cooking_time_remaining" = "剩余烹饪时间";
+
+"key_cook_cuisine_american_bbq" = "美式烧烤";
+
+"key_cook_cuisine_asian_fusion" = "亚洲融合";
+
+"key_cook_cuisine_classic_pure" = "经典纯粹";
+
+"key_cook_cuisine_french_elegance" = "法式优雅";
+
+"key_cook_cuisine_mediterranean" = "地中海风味";
+
+"key_cook_cuisine_other" = "其他";
+
+"key_cook_cuisine_spicy_heat" = "香辣风味";
+
+"key_cook_during_express" = "快速";
+
+"key_cook_during_express_with_time" = "快速 (< 30分钟)";
+
+"key_cook_during_low" = "低";
+
+"key_cook_during_low_with_time" = "低温慢煮 (4+小时)";
+
+"key_cook_during_no_rush" = "不匆忙";
+
+"key_cook_during_no_rush_with_time" = "从容模式";
+
+"key_cook_during_relaxed" = "放松";
+
+"key_cook_during_relaxed_with_time" = "放松 (2 - 4小时)";
+
+"key_cook_during_standard" = "标准";
+
+"key_cook_during_standard_with_time" = "标准 (45 - 90分钟)";
+
+"key_cook_end_alert_cancel" = "返回烹饪";
+
+"key_cook_end_alert_confirm" = "是的，结束烹饪";
+
+"key_cook_end_alert_title" = "是否结束烹饪";
+
+"key_cook_end_cooking" = "结束烹饪";
+
+"key_cook_equipment_air_fryer" = "空气炸锅";
+
+"key_cook_equipment_charcoal_grill" = "炭火烤架";
+
+"key_cook_equipment_deep_fryer" = "油炸锅";
+
+"key_cook_equipment_gas_grill" = "燃气烤架";
+
+"key_cook_equipment_option_section_title" = "進階選項";
+
+"key_cook_equipment_other" = "其他";
+
+"key_cook_equipment_oven" = "烤箱";
+
+"key_cook_equipment_pan" = "平底鍋";
+
+"key_cook_equipment_reverse_sear" = "反向炙烤";
+
+"key_cook_equipment_section_title" = "常用裝置";
+
+"key_cook_equipment_smoker" = "吸烟者";
+
+"key_cook_equipment_sous_vide" = "舒肥烹飪";
+
+"key_cook_estimate_time" = "预计烹饪时间";
+
+"key_cook_flip_do_not_need_cell_unvalid" = "无需翻转";
+
+"key_cook_flip_do_not_need_title" = "无需翻面";
+
+"key_cook_flip_do_not_need_title_cell" = "无需翻转";
+
+"key_cook_flip_every_30_title" = "每30秒翻动一次食物";
+
+"key_cook_flip_every_30_title_cell" = "每30秒";
+
+"key_cook_flip_once_alert_title" = "該給食物翻面了";
+
+"key_cook_flip_once_alert_title_confirm" = "我已翻面";
+
+"key_cook_flip_once_alert_title_sub" = "请使用钳子翻面，不要用叉子。戳刺肉块会导致汁液流失。";
+
+"key_cook_flip_once_title" = "只翻动食物一次";
+
+"key_cook_flip_once_title_cell" = "仅一次";
+
+"key_cook_food_beef" = "牛肉";
+
+"key_cook_food_fish" = "鱼";
+
+"key_cook_food_lamb" = "羔羊肉";
+
+"key_cook_food_other" = "其他";
+
+"key_cook_food_pork" = "猪肉";
+
+"key_cook_food_poultry" = "家禽";
+
+"key_cook_go_cooking" = "去做饭";
+
+"key_cook_go_to_cooking" = "前往烹飪";
+
+"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-传感器";
+
+"key_cook_guide_ambient_sensor" = "环境传感器";
+
+"key_cook_guide_base_back" = "返回";
+
+"key_cook_guide_base_next" = "下一步";
+
+"key_cook_guide_base_no_need" = "无需指南";
+
+"key_cook_guide_choose_alert_tips" = "设置通知";
+
+"key_cook_guide_choose_chart_tips" = "点击以更改图表";
+
+"key_cook_guide_choose_distance_tips" = "将设备靠近烤架以获得最佳体验";
+
+"key_cook_guide_choose_equipment_tips" = "请选择您要使用的烹饪设备";
+
+"key_cook_guide_choose_flip_tips" = "选择你想要翻转的食物";
+
+"key_cook_guide_choose_history_tips" = "点击此处开始新的烤肉";
+
+"key_cook_guide_choose_lefttime_tips" = "点击从剩余时间切换到已用时间";
+
+"key_cook_guide_choose_meat_tips" = "选择你想烹饪的肉类";
+
+"key_cook_guide_choose_meatsize_tips" = "选择你想要烹饪的肉的厚度";
+
+"key_cook_guide_choose_multitemperature_tips" = "点击“环境”或“内部”查看传感器温度";
+
+"key_cook_guide_choose_realtime_tips" = "实时烹饪进度";
+
+"key_cook_guide_choose_remove_probe_tips" = "取出探头并插入";
+
+"key_cook_guide_choose_resting_tips" = "选择您想要使用的休眠模式";
+
+"key_cook_guide_choose_start_tips" = "点击开始烹饪";
+
+"key_cook_guide_choose_temperature_tips" = "查看各部件温度";
+
+"key_cook_guide_temp_s_welcome_title" = "全新Meatmeet S Pro\n 欢迎光临";
+
+"key_cook_guide_temp_s_welcome_title_tips" = "隆重推出我们全新升级硬件的5传感器智能肉类温度计：\n • 多点温度监测：同时监测5个点位，确保烹饪均匀完美\n • 实时数据传输：无需频繁打开烤炉即可即时追踪温度变化\n • 高兼容性：可轻松与各种烤架和配件配合使用，实现无缝操作";
+
+"key_cook_guide_welcome_to_use" = "欢迎使用";
+
+"key_cook_hub_distance_confirm_title" = "去做饭";
+
+"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "将探头放在肉最厚的部位。确保安全线留在里面。";
+
+"key_cook_internal" = "内部";
+
+"key_cook_meat_thickness_cell_unvalid" = "无需厚度";
+
+"key_cook_meat_thickness_cm" = "厘米";
+
+"key_cook_meat_thickness_inches" = "英寸";
+
+"key_cook_meat_thickness_most_common_size" = "最常见尺寸";
+
+"key_cook_nav_alert_setting" = "警报设置";
+
+"key_cook_nav_choose_flip_food" = "选择翻转食物";
+
+"key_cook_nav_choosing_device" = "选择设备";
+
+"key_cook_nav_meat_thickness" = "肉的厚度";
+
+"key_cook_nav_poultry" = "家禽";
+
+"key_cook_nav_probe_position" = "注意探头位置";
+
+"key_cook_nav_rest_meat" = "让肉静置";
+
+"key_cook_nav_select_cooking_option" = "选择烹饪选项";
+
+"key_cook_nav_set_cooking" = "设置烹饪";
+
+"key_cook_nav_setting_cooking" = "您的烹饪设置";
+
+"key_cook_nav_temperature" = "温度";
+
+"key_cook_notify_time_to_flip_30s_title_sub" = "对于探针 [<xxxx1>]（[<xxxx2>]）：请在30秒后翻一次食物。";
+
+"key_cook_notify_time_to_flip_title" = "该翻面了";
+
+"key_cook_notify_time_to_flip_title_sub" = "对于探针 [<xxxx1>]（[<xxxx2>]）：从热源中取出食物并翻面。";
+
+"key_cook_notify_time_to_rest_title" = "肉正在静置";
+
+"key_cook_notify_time_to_rest_title_sub" = "肉已达到目标温度，请从烤箱中取出。";
+
+"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "请立即将食物从热源上移开";
+
+"key_cook_poultry_correct_operation" = "正确操作";
+
+"key_cook_poultry_incorrect_operation" = "操作错误";
+
+"key_cook_poultry_tips_title" = "将探头插入固体部分以获取最准确的温度";
+
+"key_cook_poultry_tips_title_sub" = "将探头插入最厚的肉（如腿、胸）的中心，避开胸部和骨头。确保安全凹槽留在食物内部以保护探头。温度传感器位于探头的前中部";
+
+"key_cook_probe_check_alert_battery_check_failed_title" = "电池检查失败";
+
+"key_cook_probe_check_alert_battery_check_failed_title_sub" = "请将探头插入充电座，以确保设备有足够的电量";
+
+"key_cook_probe_check_alert_battery_check_title" = "电池检查";
+
+"key_cook_probe_check_alert_signal_check_failed_title" = "信号检查失败";
+
+"key_cook_probe_check_alert_signal_check_failed_title_sub" = "请将探头放置在信号连接范围内";
+
+"key_cook_probe_check_alert_signal_check_title" = "信号检查";
+
+"key_cook_probe_check_alert_success_title" = "探头状态：良好";
+
+"key_cook_probe_check_alert_title" = "探头状态检查";
+
+"key_cook_probe_position_do_not_show" = "Do Not Pop Up This Message Again";
+
+"key_cook_probe_position_title" = "Meatmeet设备位置信息";
+
+"key_cook_probe_position_title_sub" = "您的Meatmeet Pro充电器应尽可能靠近炊具放置，以保持与探头的连接并增强信号。 \n 只要确保别把它放在任何热的表面上就行！";
+
+"key_cook_probe_position_title_sub_[<xxxx>]" = "请将您的[<xxxx>]充电器尽量靠近烹饪设备放置，以保持与探头的连接并增强信号稳定性。\n 请注意勿将其放置于任何高温表面！";
+
+"key_cook_progress_flip_countdown_[<xxxx>]" = "在[<xxxx>] S中翻转";
+
+"key_cook_progress_flip_food" = "翻转食物";
+
+"key_cook_progress_flip_once_food" = "翻转食物";
+
+"key_cook_ready_insert_probe_black_line" = "黑线";
+
+"key_cook_ready_insert_probe_safe_line" = "安全线";
+
+"key_cook_ready_insert_probe_title" = "如何插入探头";
+
+"key_cook_ready_insert_probe_title_sub" = "将探头插入肉最厚的部位，直到安全线完全没入肉中，不要超过黑线，确保尖端不会穿透。";
+
+"key_cook_ready_insert_probe_title_confirm" = "确认";
+
+"key_cook_ready_to_grill" = "准备烧烤";
+
+"key_cook_rest_mode_cell_unvalid" = "不支持休眠模式";
+
+"key_cook_rest_mode_off" = "休息模式关闭";
+
+"key_cook_rest_mode_off_cell" = "关闭";
+
+"key_cook_rest_mode_off_tips" = "休息模式将被关闭。煮熟肉类的最终内部温度可能会超过目标温度。您是否要继续关闭此模式？";
+
+"key_cook_rest_mode_on" = "待机模式开启";
+
+"key_cook_rest_mode_on_cell" = "在";
+
+"key_cook_rest_mode_on_tips" = "当启用休息模式时，每次肉的温度升高10°C / 20°F ± 2°C / 3.6°F时，我们会通知您将肉从热源上移开，以确保达到最佳烹饪效果。";
+
+"key_cook_rest_mode_unvalid_temperature_low" = "当前目标温度对于让肉静置来说太低了。若要让肉静置，请将目标温度至少设置为30°C / 86°F。";
+
+"key_cook_reverse_sear_nav_title" = "反向烤炙";
+
+"key_cook_reverse_sear_section_final_title" = "階段 2：最終溫度";
+
+"key_cook_reverse_sear_section_low_title" = "階段 1：低溫";
+
+"key_cook_reverse_sear_section_strategy_title" = "選擇策略";
+
+"key_cook_second_grill_stage_[<xxxx>]" = "階段 [<xxxx>]";
+
+"key_cook_second_grill_stage_all" = "全部";
+
+"key_cook_setting_cook_save_favorite_tips" = "保存您的收藏，以便更快开启下一次烹饪！";
+
+"key_cook_setting_cooking_all_start" = "一切就绪 — 开始烹饪！";
+
+"key_cook_setting_cooking_change_tips" = "您的烹饪设置已更改，请确认其是否正确。";
+
+"key_cook_setting_cooking_tips" = "你的准备工作看起来很棒。等你准备好了，咱们就开始做饭。";
+
+"key_cook_start" = "开始";
+
+"key_cook_start_new_cook" = "开始新的烹饪";
+
+"key_cook_strategy_other_title" = "其他";
+
+"key_cook_strategy_other_title_sub" = "延長烤炙時間。最大化外殼形成。請選擇您的溫度。";
+
+"key_cook_strategy_stabdrad_title_sub" = "延長烤炙時間。最大化外殼形成。";
+
+"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "標準：[<xxxx0>]-[<xxxx1>][<xxxx2>]";
+
+"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → 切換 → 最終：[<xxxx1>]";
+
+"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "最終 [<xxxx>]";
+
+"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "低溫 [<xxxx>]";
+
+"key_cook_strategy_tag_recommend" = "推薦";
+
+"key_cook_target" = "目标";
+
+"key_cook_temperature_alert_tips" = "探头的感应部分直观显示，让您可以控制烧烤温度，拥有更好的烹饪体验。";
+
+"key_cook_temperature_alert_title" = "探头温度";
+
+"key_cook_temperature_medium" = "中等";
+
+"key_cook_temperature_medium_rare" = "三分熟";
+
+"key_cook_temperature_medium_well" = "七分熟";
+
+"key_cook_temperature_other" = "其他";
+
+"key_cook_temperature_rare" = "稀有";
+
+"key_cook_temperature_very_rare" = "非常罕见";
+
+"key_cook_temperature_well_done" = "干得好";
+
+"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "环境温度已升至[<xxxx0>]°C / [<xxxx1>]°F。请移除它以防开裂。";
+
+"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "内部温度已达到[<xxxx0>]°C / [<xxxx1>]°F。请立即移除，以免造成损坏。";
+
+"key_cook_time_budget_express" = "快速 (< 30分钟)";
+
+"key_cook_time_budget_low" = "低温慢煮 (4+小时)";
+
+"key_cook_time_budget_other" = "从容模式";
+
+"key_cook_time_budget_relaxed" = "放松 (2 - 4小时)";
+
+"key_cook_time_budget_standard" = "标准 (45 - 90分钟)";
+
+"key_cook_title_cooking_mode" = "烹饪模式";
+
+"key_cook_title_equipment" = "烹饪环境";
+
+"key_cook_title_estimate_meat_thickness" = "估计肉厚";
+
+"key_cook_title_flip" = "翻转";
+
+"key_cook_title_food" = "肉类";
+
+"key_cook_title_wake_up_meat" = "静置肉";
+
+"key_cook_use_last_session" = "使用上次烹饪会话";
+
+"Key_Module_Device" = "Key_Module_Device";
+
+"key_device_access_restricted" = "访问受限";
+
+"key_device_alert_battery_low_0201" = "電池電量低於20%。請盡快考慮更換電池。";
+
+"key_device_alert_battery_low_second_0201" = "請更換電池。";
+
+"key_device_bluetooth_disconnected_title" = "蓝牙已断开连接";
+
+"key_device_bluetooth_disconnected_title_sub" = "请检查设备的蓝牙连接状态";
+
+"key_device_booster_low_battery" = "助推器：电量低";
+
+"key_device_change_alias_alert_placeholder" = "請輸入新的裝置名稱";
+
+"key_device_change_alias_alert_title" = "裝置名稱";
+
+"key_device_change_alias_alert_title_sub" = "為裝置設定一個獨特的名稱，以便在附近有多個探針時輕鬆識別。";
+
+"key_device_delete" = "删除";
+
+"key_device_delete_failure" = "刪除設備失敗";
+
+"key_device_delete_unvalid_cause_cooking" = "烹饪时无法删除设备";
+
+"key_device_home_tourist_title" = "您当前处于访客模式。注册或登录以查看和编辑您的个人信息。";
+
+"key_device_hub_disconnected" = "设备已断开连接";
+
+"key_device_in_cooking" = "烹饪进行中";
+
+"key_device_insert" = "插入";
+
+"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "设备当前已连接但处于离线状态。请确保其已连接到互联网以便共享。";
+
+"key_device_name_010x" = "meatmeet Pro";
+
+"key_device_name_010x_[<xxxx>]" = "meatmeet Pro [<xxxx>]";
+
+"key_device_name_0200" = "meatmeet S Pro";
+
+"key_device_name_0200_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
+
+"key_device_name_0201" = "meatmeet Pro 2026";
+
+"key_device_name_0201_[<xxxx>]" = "meatmeet Pro 2026 [<xxxx>]";
+
+"key_device_name_0300" = "meatmeet X Pro";
+
+"key_device_name_0301" = "meatmeet Z Pro";
+
+"key_device_name_0301_[<xxxx>]" = "meatmeet Z Pro [<xxxx>]";
+
+"key_device_name_030x_[<xxxx>]" = "meatmeet X Pro [<xxxx>]";
+
+"key_device_name_0400" = "meatmeet S pro 2026";
+
+"key_device_name_0400_[<xxxx>]" = "meatmeet S Pro 2026 [<xxxx>]";
+
+"key_device_nav_share" = "分享";
+
+"key_device_network_error" = "网络错误";
+
+"key_device_no_device" = "未找到设备";
+
+"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "将探头插入充电盒，并在更新完成的1 - 3分钟内保持在那里。\n 注意：更新期间请勿移除探头或关闭机箱电源。";
+
+"key_device_ota_already_the_lastest_version" = "已是最新版本";
+
+"key_device_ota_check" = "检查";
+
+"key_device_ota_checking" = "检查";
+
+"key_device_ota_current_version" = "当前版本";
+
+"key_device_ota_doing_title" = "更新期间";
+
+"key_device_ota_doing_title_sub" = "正在更新固件，请稍候…";
+
+"key_device_ota_doing_transmit_title_sub" = "新固件目前正在传输中，可能需要一些时间。请耐心等待";
+
+"key_device_ota_fail_alert_device_busy_failed_title" = "设备繁忙";
+
+"key_device_ota_fail_alert_device_busy_failed_title_sub" = "设备正忙于其他任务，无法立即开始固件更新。请确保设备在更新前处于空闲状态。";
+
+"key_device_ota_fail_alert_download_failed_title" = "下载失败";
+
+"key_device_ota_fail_alert_download_failed_title_sub" = "固件下载失败。请检查您的网络连接。";
+
+"key_device_ota_fail_alert_during_cooking_title" = "烹饪进行中";
+
+"key_device_ota_fail_alert_during_cooking_title_sub" = "正在烹饪中。烹饪期间不支持OTA更新。请等待烹饪过程完成。";
+
+"key_device_ota_fail_alert_low_power_title" = "更新受阻";
+
+"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "无法进行更新。请确保电池电量高于[<xxxx>]%或保持设备连接电源。";
+
+"key_device_ota_fail_alert_not_online_title" = "设备未联网";
+
+"key_device_ota_fail_alert_not_online_title_sub" = "请先将设备添加到您的网络，再尝试进行固件更新。";
+
+"key_device_ota_fail_alert_not_primary_failed_title_sub" = "此设备不是主设备，且该设备无法进行OTA升级";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title" = "服务器无响应";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "固件服务器不可用或请求超时，导致固件下载失败。请稍后重试。";
+
+"key_device_ota_fail_alert_server_update_failed_title" = "更新失败";
+
+"key_device_ota_fail_alert_server_update_failed_title_sub" = "固件与设备不兼容或设备存储空间不足。请检查设备状态。";
+
+"key_device_ota_fail_alert_transfer_failed_title" = "传输失败";
+
+"key_device_ota_fail_alert_transfer_failed_title_sub" = "由于传输超时或设备关机，更新失败。请重试固件传输";
+
+"key_device_ota_fail_alert_update_delay_failed_title" = "更新延迟";
+
+"key_device_ota_fail_alert_update_delay_failed_title_sub" = "固件与设备不兼容或设备存储空间不足。请检查设备状态。";
+
+"key_device_ota_firmware_image_download_complete" = "固件镜像下载完成";
+
+"key_device_ota_firmware_installing" = "固件正在安装";
+
+"key_device_ota_installing_firmware" = "正在安装固件更新，这可能需要一些时间";
+
+"key_device_ota_new_version" = "新版本";
+
+"key_device_ota_new_version_ready" = "新版本就绪";
+
+"key_device_ota_preparing" = "准备中";
+
+"key_device_ota_rejected" = "已拒绝";
+
+"key_device_ota_success" = "更新成功";
+
+"key_device_ota_success_alert_title" = "更新成功";
+
+"key_device_ota_success_alert_title_sub" = "恭喜，您的设备固件已成功更新！";
+
+"key_device_ota_update" = "更新";
+
+"key_device_ota_update_start" = "更新开始";
+
+"key_device_please_add_your_probe" = "请添加您的探头";
+
+"key_device_please_check_the_position_and_condition_of_the_probe" = "请检查探头的位置和状态";
+
+"key_device_please_connect_the_meat_[<xxxx>]_charger" = "请连接肉类[<xxxx>]充电器";
+
+"key_device_please_insert_the_probe_into_the_box" = "请将探头插入盒中";
+
+"key_device_probe_[<xxxx>]" = "探头 [<xxxx>]";
+
+"key_device_probe_[<xxxx>]_mac" = "探测 [<xxxx>] Mac";
+
+"key_device_probe_change_not_allow_while_cooking" = "烹饪过程中不允许更换探头。请等待烹饪完成";
+
+"key_device_probe_change_unvalid" = "探头更换不可用";
+
+"key_device_probe_firmware_update" = "探头固件更新";
+
+"key_device_probe_is_charging" = "探头正在充电";
+
+"key_device_probe_low_battery" = "探头：电量低";
+
+"key_device_probe_not_connected" = "探头未连接";
+
+"key_device_probe_repair_failure" = "探头修复失败";
+
+"key_device_probe_repair_success" = "探头修复成功";
+
+"key_device_probe_repair_success_tips" = "探头固件升级成功 — 感谢您的耐心等待！祝您烹饪愉快。";
+
+"key_device_probe_temperature" = "探头温度";
+
+"key_device_probe_upgrade_in_progress" = "探头升级正在进行中";
+
+"key_device_put_probe_into_booster_to_charge" = "将探头放入充电器中充电";
+
+"key_device_select_add_device_cancel" = "暂不";
+
+"key_device_select_add_device_confirm" = "添加设备";
+
+"key_device_select_add_device_title" = "选择设备";
+
+"key_device_select_add_device_title_sub" = "未找到设备。\n 添加设备以开始烹饪。";
+
+"key_device_select_add_probe_cancel" = "暂不";
+
+"key_device_select_add_probe_confirm" = "添加探针";
+
+"key_device_select_add_probe_title" = "选择探针";
+
+"key_device_select_add_probe_title_sub" = "未检测到探针。\n 添加探针以开始烹饪。";
+
+"key_device_select_mode" = "选择模式";
+
+"key_device_setting_wifi_manager_nav_title" = "WiFi 管理";
+
+"key_device_share_add" = "添加用户";
+
+"key_device_share_alert_device_delete_account_title" = "删除账户";
+
+"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "用户 '[<xxxx>]' 即将被移除。您确定要移除吗？";
+
+"key_device_share_alert_device_delete_failure_network_error" = "删除失败，请检查网络连接。";
+
+"key_device_share_alert_device_delete_success" = "删除成功";
+
+"key_device_share_alert_device_invitation_success_title" = "分享成功";
+
+"key_device_share_alert_device_invitation_success_title_sub" = "设备已成功共享。请及时通知用户。";
+
+"key_device_share_alert_device_invite_user" = "邀请用户";
+
+"key_device_signal_interrupted" = "信号中断";
+
+"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "设备[<xxxx>]已断开连接。请检查您的设备并重新连接。按住按钮直到LED闪烁（约2秒）以开启设备";
+
+"key_device_warning" = "警告!!!";
+
+"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "我们正在更新您的探针固件，以提升您的烹饪体验。";
+
+"key_device_what_is_happen" = "正在发生什么";
+
+"key_device_what_you_need_to_do" = "你需要做什么？";
+
+"key_device_wifi_unvalid_cause_cooking" = "烹飪過程中無法設定Wi-Fi";
+
+"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "您的烤架检测已中断，因为手机离设备 [<xxxx>] 太远";
+
+"Key_Module_Server_Error" = "Key_Module_Server_Error";
+
+"key_esp_server_error_code_100001" = "取得使用者詳細資訊時發生錯誤";
+
+"key_esp_server_error_code_100002" = "API版本不支援";
+
+"key_esp_server_error_code_100003" = "方法不允許";
+
+"key_esp_server_error_code_100004" = "您無權執行此操作";
+
+"key_esp_server_error_code_100006" = "請求內文無效";
+
+"key_esp_server_error_code_100007" = "需要提供使用者ID或使用者電子郵件";
+
+"key_esp_server_error_code_100008" = "取得租戶上下文詳細資訊時發生錯誤";
+
+"key_esp_server_error_code_100009" = "缺少節點ID";
+
+"key_esp_server_error_code_100010" = "節點不屬於該使用者";
+
+"key_esp_server_error_code_100011" = "收到無效的JSON";
+
+"key_esp_server_error_code_100012" = "無效請求";
+
+"key_esp_server_error_code_100014" = "取得節點詳細資訊失敗";
+
+"key_esp_server_error_code_100015" = "節點不存在";
+
+"key_esp_server_error_code_100035" = "字串轉換為JSON失敗";
+
+"key_esp_server_error_code_100046" = "錯誤，存取權杖缺失";
+
+"key_esp_server_error_code_100047" = "您已登出，請重新登入";
+
+"key_esp_server_error_code_100052" = "錯誤，此操作不支援僅OAuth部署";
+
+"key_esp_server_error_code_100068" = "輸入的驗證碼已過期。請使用新的請求重試。";
+
+"key_esp_server_error_code_101001" = "缺少使用者名稱";
+
+"key_esp_server_error_code_101002" = "電子郵件格式不正確";
+
+"key_esp_server_error_code_101003" = "缺少密碼或驗證碼";
+
+"key_esp_server_error_code_101004" = "密碼長度必須為8到256個字元。應為字母數字，且無空格。必須至少包含一個大寫字母、一個小寫字母和一個數字。";
+
+"key_esp_server_error_code_101005" = "發送驗證碼失敗";
+
+"key_esp_server_error_code_101006" = "使用者帳戶已存在";
+
+"key_esp_server_error_code_101007" = "您輸入的密碼不正確";
+
+"key_esp_server_error_code_101008" = "建立使用者失敗";
+
+"key_esp_server_error_code_101009" = "使用者名稱或密碼錯誤";
+
+"key_esp_server_error_code_101011" = "使用者名稱已驗證";
+
+"key_esp_server_error_code_101012" = "驗證碼不正確";
+
+"key_esp_server_error_code_101013" = "使用者確認失敗";
+
+"key_esp_server_error_code_101015" = "帳戶未授權";
+
+"key_esp_server_error_code_101016" = "登入失敗";
+
+"key_esp_server_error_code_101017" = "重新整理權杖失敗";
+
+"key_esp_server_error_code_101018" = "缺少新密碼";
+
+"key_esp_server_error_code_101019" = "嘗試次數已達上限，請稍後重試";
+
+"key_esp_server_error_code_101020" = "變更密碼失敗";
+
+"key_esp_server_error_code_101025" = "使用者不存在";
+
+"key_esp_server_error_code_101026" = "從使用者名稱取得使用者ID失敗";
+
+"key_esp_server_error_code_101027" = "取得使用者頭像和名稱時發生錯誤";
+
+"key_esp_server_error_code_101028" = "更新使用者時發生錯誤";
+
+"key_esp_server_error_code_101029" = "取得Cognito權杖時發生錯誤";
+
+"key_esp_server_error_code_101030" = "缺少驗證碼";
+
+"key_esp_server_error_code_101031" = "忘記密碼請求失敗";
+
+"key_esp_server_error_code_101032" = "缺少密碼";
+
+"key_esp_server_error_code_101036" = "錯誤，指定的logout_all值無效。[有效值為true/false]";
+
+"key_esp_server_error_code_101037" = "請提供有效的電話號碼";
+
+"key_esp_server_error_code_101038" = "代碼無效";
+
+"key_esp_server_error_code_101039" = "缺少工作階段";
+
+"key_esp_server_error_code_101044" = "使用者已成功遷移至新使用者池。請嘗試重新登入。";
+
+"key_esp_server_error_code_101045" = "錯誤，缺少姓名、電話號碼或MFA";
+
+"key_esp_server_error_code_101046" = "此API不支援舊使用者池";
+
+"key_esp_server_error_code_101047" = "錯誤，未為使用者新增電話號碼";
+
+"key_esp_server_error_code_101048" = "錯誤，電話號碼未驗證";
+
+"key_esp_server_error_code_101049" = "驗證電話號碼時發生錯誤";
+
+"key_esp_server_error_code_101050" = "啟用或停用MFA時發生錯誤";
+
+"key_esp_server_error_code_101051" = "錯誤，對於使用電話號碼作為使用者名稱的使用者，不支援更新電話號碼和MFA";
+
+"key_esp_server_error_code_101052" = "錯誤，該使用者的電話號碼已驗證";
+
+"key_esp_server_error_code_101053" = "錯誤，姓名應至少包含1個字元，最多256個字元";
+
+"key_esp_server_error_code_101055" = "驗證電話號碼時發生錯誤，請稍後重試";
+
+"key_esp_server_error_code_101056" = "已存在使用此電話號碼的使用者";
+
+"key_esp_server_error_code_101057" = "超過最大限制，請稍後重試";
+
+"key_esp_server_error_code_101058" = "登入失敗，您的帳戶需要重設密碼。請執行忘記密碼流程。";
+
+"key_esp_server_error_code_101066" = "無效的更新操作。請使用有效的操作[add, remove]提供標籤";
+
+"key_esp_server_error_code_101067" = "部分標籤無效。有效標籤應為 key:value 類型";
+
+"key_esp_server_error_code_101087" = "此操作不允許訪客使用者執行";
+
+"key_esp_server_error_code_101097" = "訪客轉換僅支援電子郵件地址。不支援電話號碼。";
+
+"key_esp_server_error_code_102002" = "更新節點參數失敗";
+
+"key_esp_server_error_code_102003" = "取得節點狀態失敗";
+
+"key_esp_server_error_code_102004" = "節點不存在";
+
+"key_esp_server_error_code_102006" = "未找到裝置回報狀態";
+
+"key_esp_server_error_code_103001" = "取得節點失敗";
+
+"key_esp_server_error_code_103002" = "未找到節點設定";
+
+"key_esp_server_error_code_103003" = "指定的操作無效。[有效操作值為 add/remove]";
+
+"key_esp_server_error_code_103004" = "用於對應使用者到節點的密鑰為空";
+
+"key_esp_server_error_code_103005" = "節點ID過長";
+
+"key_esp_server_error_code_103006" = "密鑰過長";
+
+"key_esp_server_error_code_103007" = "取得節點到使用者對應失敗";
+
+"key_esp_server_error_code_103008" = "新增使用者到節點對應失敗";
+
+"key_esp_server_error_code_103009" = "檢查節點是否屬於請求使用者時發生錯誤";
+
+"key_esp_server_error_code_103010" = "新增使用者到節點對應請求失敗";
+
+"key_esp_server_error_code_103011" = "使用者節點對應請求已逾時";
+
+"key_esp_server_error_code_103012" = "移除使用者到節點對應失敗";
+
+"key_esp_server_error_code_103013" = "使用者到節點對應不存在";
+
+"key_esp_server_error_code_103014" = "檢查節點是否屬於使用者時發生錯誤";
+
+"key_esp_server_error_code_103015" = "取得使用者節點總數時發生錯誤";
+
+"key_esp_server_error_code_103016" = "缺少RequestId";
+
+"key_esp_server_error_code_103017" = "取得節點到使用者對應請求失敗";
+
+"key_esp_server_error_code_103018" = "未找到使用者節點對應請求";
+
+"key_esp_server_error_code_103019" = "移除節點群組對應失敗";
+
+"key_esp_server_error_code_103020" = "節點不屬於該使用者";
+
+"key_esp_server_error_code_103035" = "使用者節點對應成功，但將節點新增至群組失敗";
+
+"key_esp_server_error_code_103041" = "取得使用者節點歷程記錄時發生錯誤";
+
+"key_esp_server_error_code_103042" = "使用者節點歷程記錄未啟用";
+
+"key_esp_server_error_code_103043" = "無效的查詢參數組合";
+
+"key_esp_server_error_code_103044" = "無效的節點類型值";
+
+"key_esp_server_error_code_103054" = "刪除節點關聯失敗";
+
+"key_esp_server_error_code_103055" = "找不到節點";
+
+"key_esp_server_error_code_105018" = "缺少節點ID";
+
+"key_esp_server_error_code_105041" = "附加節點標籤時發生錯誤";
+
+"key_esp_server_error_code_105042" = "錯誤，一個請求中只支援一個邏輯運算子";
+
+"key_esp_server_error_code_105043" = "提供的起始鍵無效";
+
+"key_esp_server_error_code_105044" = "移除節點標籤時發生錯誤";
+
+"key_esp_server_error_code_105046" = "某些標籤無效。有效標籤應為「鍵:值」類型";
+
+"key_esp_server_error_code_107001" = "請指定至少一個節點";
+
+"key_esp_server_error_code_107002" = "缺少使用者名稱";
+
+"key_esp_server_error_code_107003" = "不允許對自身節點進行共用操作[新增/移除]";
+
+"key_esp_server_error_code_107004" = "檢查節點是否屬於請求使用者時發生錯誤";
+
+"key_esp_server_error_code_107006" = "檢查使用者是否存在時發生錯誤";
+
+"key_esp_server_error_code_107007" = "使用者不存在，無法共用";
+
+"key_esp_server_error_code_107009" = "移除使用者到節點對應失敗";
+
+"key_esp_server_error_code_107011" = "使用者到節點對應不存在";
+
+"key_esp_server_error_code_107012" = "取得節點的共用使用者時發生錯誤";
+
+"key_esp_server_error_code_107013" = "使用者未與任何節點關聯";
+
+"key_esp_server_error_code_107014" = "取得節點到使用者對應失敗";
+
+"key_esp_server_error_code_107015" = "移除節點群組對應失敗";
+
+"key_esp_server_error_code_107022" = "節點清單過長。最多只能包含100個節點。";
+
+"key_esp_server_error_code_107024" = "錯誤，缺少某些節點。";
+
+"key_esp_server_error_code_107027" = "錯誤。使用者應為請求中所有節點的主要擁有者";
+
+"key_esp_server_error_code_107028" = "錯誤，無法移除透過群組共用的節點";
+
+"key_esp_server_error_code_107036" = "指定的存取範圍無效。[有效操作值為 READ, WRITE, NONE]";
+
+"key_esp_server_error_code_107038" = "次要使用者無權授予節點資料存取權限";
+
+"key_esp_server_error_code_107085" = "錯誤。使用者應為請求中所有節點的主要擁有者";
+
+"key_esp_server_error_code_112048" = "無效的地區設定。請輸入有效的地區設定";
+
+"key_esp_server_error_code_119001" = "儲存使用者刪除請求時發生錯誤";
+
+"key_esp_server_error_code_119003" = "取得使用者刪除請求時發生錯誤";
+
+"key_esp_server_error_code_119004" = "刪除使用者失敗";
+
+"key_esp_server_error_code_119005" = "驗證碼不正確";
+
+"key_esp_server_error_code_119006" = "使用者不存在";
+
+"key_esp_server_error_code_119007" = "缺少驗證碼";
+
+"key_esp_server_error_code_119008" = "傳送驗證碼失敗";
+
+"key_esp_server_error_code_119009" = "發起使用者刪除請求失敗";
+
+"key_esp_server_error_code_119014" = "移除現有使用者刪除請求時發生錯誤";
+
+"key_esp_server_error_code_119015" = "該使用者不存在刪除請求";
+
+"key_esp_server_error_code_119016" = "嘗試次數超限，請重新請求刪除使用者";
+
+"key_esp_server_error_code_119017" = "超級管理員使用者刪除受限制！";
+
+"Key_Module_Home" = "Key_Module_Home";
+
+"key_home_add_offline" = "离线添加";
+
+"key_home_add_offline_tips" = "当前处于离线状态，您添加的设备可能会被在线添加的设备覆盖。";
+
+"key_home_add_tips" = "请添加设备";
+
+"key_home_device_add_limit" = "添加设备限制";
+
+"key_home_device_add_limit_tips" = "无法添加更多设备。移除一个或联系客服";
+
+"key_home_exit_visitor_mode" = "退出访客模式";
+
+"key_home_guest" = "访客";
+
+"key_home_status_change_alert_title" = "状态变更";
+
+"key_home_status_change_alert_title_confirm" = "连接到Wi-Fi";
+
+"key_home_status_change_alert_title_sub" = "已登录。将增强器连接到Wi-Fi，以实现无限范围和远程监控。";
+
+"key_home_tourist_alert_title" = "注意";
+
+"key_home_tourist_alert_title_sub" = "访客模式仅支持蓝牙连接。若要享受无限范围，请登录。";
+
+"Key_Module_Log" = "Key_Module_Log";
+
+"key_log_log_in_failure" = "登录失败";
+
+"key_log_log_in_success" = "登录成功";
+
+"Key_Module_Login" = "Key_Module_Login";
 
 "key_login_account_delete_success" = "删除成功";
 
-"key_login_password_reset" = "重置";
-
-"key_login_nav_reset" = "重置";
-
-"key_login_reset_account_[<xxxx>]" = "您即将重置[<xxxx>]的密码";
-
-"key_login_reset_success_then_login" = "您的密码已成功重置。为了您账户的安全，请重新登录";
+"key_login_account_delete_sure" = "当然";
 
 "key_login_account_delete_title" = "您确定要删除您的账户吗";
 
 "key_login_account_delete_title_sub" = "一旦您的账户被删除，您的数据将无法恢复。";
 
-"key_login_account_delete_sure" = "当然";
+"key_login_account_error_empty" = "请输入电子邮件";
 
-"key_log_log_in_success" = "登录成功";
+"key_login_account_error_unvalid" = "输入正确的邮箱地址";
 
-"key_log_log_in_failure" = "登录失败";
+"key_login_code_error_less" = "验证码必须至少包含6个字符";
 
-"key_login_tourist_alert_title" = "仅蓝牙模式";
+"key_login_code_error_unvalid" = "验证码不正确";
 
-"key_login_tourist_alert_title_tips" = "当前仅通过蓝牙连接。登录以解锁更多功能，享受完整体验";
+"key_login_delete_code_input_placeholder" = "请输入验证码";
 
-"key_login_tourist_alert_sign_in_title" = "登录";
+"key_login_delete_code_resend_title" = "重新发送";
 
-"key_login_tourist_alert_confirm_title" = "确认";
+"key_login_delete_code_send_title" = "知道了";
 
-"key_login_home_title_email" = "通过邮箱登录";
+"key_login_delete_code_title" = "验证码";
 
-"key_login_home_title_start" = "开始使用";
+"key_login_delete_confirm_title" = "删除账户";
 
-"key_login_email_password_title" = "密码登录";
+"key_login_delete_email_input_email_placeholder" = "驗證碼";
 
-"key_login_email_password_input_email_title" = "电子邮件";
+"key_login_delete_email_title" = "您的邮箱";
 
-"key_login_email_password_input_email_placeholder" = "请输入邮箱";
+"key_login_delete_nav_title" = "身份验证";
 
-"key_login_email_password_input_password_title" = "密码";
+"key_login_email_button_code_send_title" = "知道了";
 
-"key_login_email_password_input_password_placeholder" = "请输入密码";
+"key_login_email_code_auth_resend_title_[<xxxx>]" = "重新发送验证码 [<xxxx>]";
 
-"key_login_email_password_button_reset_title" = "重置密码";
+"key_login_email_code_auth_send_tips_[<xxxx>]" = "验证码已发送至: [<xxxx>]";
+
+"key_login_email_code_auth_title" = "输入验证码";
+
+"key_login_email_code_login_button_get_code_title" = "获取验证码";
+
+"key_login_email_code_login_button_password_title" = "使用密码登录";
+
+"key_login_email_code_send_success_title" = "验证码已发送";
+
+"key_login_email_code_title" = "使用验证码登录";
+
+"key_login_email_create_confirm_title" = "下一步";
+
+"key_login_email_create_input_code_title" = "验证码";
+
+"key_login_email_create_input_code_title_placeholder" = "请输入验证码";
+
+"key_login_email_create_title" = "邮箱注册";
 
 "key_login_email_password_button_code_title" = "验证码登录";
 
@@ -174,79 +1704,451 @@
 
 "key_login_email_password_button_login_title" = "登录";
 
-"key_login_email_code_title" = "使用验证码登录";
+"key_login_email_password_button_reset_title" = "重置密码";
 
-"key_login_email_code_login_button_password_title" = "使用密码登录";
+"key_login_email_password_input_email_placeholder" = "请输入邮箱";
 
-"key_login_email_code_login_button_get_code_title" = "获取验证码";
+"key_login_email_password_input_email_title" = "电子邮件";
 
-"key_login_email_code_send_success_title" = "验证码已发送";
+"key_login_email_password_input_password_placeholder" = "请输入密码";
 
-"key_login_email_code_auth_title" = "输入验证码";
+"key_login_email_password_input_password_title" = "密码";
 
-"key_login_email_code_auth_send_tips_[<xxxx>]" = "验证码已发送至: [<xxxx>]";
+"key_login_email_password_title" = "密码登录";
 
-"key_login_email_code_auth_confirm_title" = "登录";
+"key_login_go_to_login" = "前往登录";
 
-"key_login_email_code_auth_code_unvalid_tips" = "验证码已失效，我们将发送一个新的验证码给您。";
+"key_login_home_title_email" = "通过邮箱登录";
 
-"key_login_email_code_auth_resend_title_[<xxxx>]" = "重新发送验证码 [<xxxx>]";
+"key_login_home_title_start" = "开始使用";
 
-"key_login_email_create_title" = "邮箱注册";
-
-"key_login_email_create_input_email_title" = "您的邮箱";
-
-"key_login_email_create_input_code_title" = "验证码";
-
-"key_login_email_create_input_code_title_placeholder" = "请输入验证码";
-
-"key_login_email_create_confirm_title" = "下一步";
-
-"key_login_email_button_code_send_title" = "知道了";
-
-"key_login_email_button_code_resend_title" = "重新发送";
-
-"key_login_password_create_title" = "重置密码";
-
-"key_login_password_create_step_title" = "创建您的密码";
-
-"key_login_password_create_password_input_title" = "密码";
-
-"key_login_password_create_password_input_placeholder_title" = "请输入密码";
-
-"key_login_password_create_password_confirm_input_title" = "输入密码";
-
-"key_login_password_create_password_confirm_input_placeholder_title" = "请输入密码";
+"key_login_log_in" = "登录";
 
 "key_login_password_create_password_confirm_button_title" = "下一步";
 
-"key_login_reset_nav_title" = "身份验证";
+"key_login_password_create_password_confirm_input_placeholder_title" = "请输入密码";
 
-"key_login_reset_email_title" = "您的邮箱";
+"key_login_password_create_password_confirm_input_title" = "输入密码";
 
-"key_login_reset_code_title" = "验证码";
+"key_login_password_create_password_input_placeholder_title" = "请输入密码";
+
+"key_login_password_create_password_input_title" = "密码";
+
+"key_login_password_create_step_title" = "创建您的密码";
+
+"key_login_password_create_title" = "重置密码";
+
+"key_login_password_error_less" = "密码长度必须至少为6个字符";
+
+"key_login_password_match_error" = "密码不匹配";
+
+"key_login_privacy_[<xxxx>]" = "本人確認已閱讀並接受[<xxxx>]。";
+
+"key_login_privacy_service" = "《隱私與條款》";
+
+"key_login_privacy_view_confirm" = "同意并继续";
+
+"key_login_privacy_view_title" = "请阅读并同意以下条款";
+
+"key_login_regist_success" = "注册成功";
+
+"key_login_register_error_account_exist_subtitle" = "用户账户已存在";
+
+"key_login_register_error_account_exist_title" = "账户已存在";
 
 "key_login_reset_code_input_placeholder" = "请输入验证码";
 
-"key_login_reset_code_send_title" = "知道了";
-
 "key_login_reset_code_resend_title" = "重新发送";
 
-"key_login_delete_nav_title" = "身份验证";
+"key_login_reset_code_send_title" = "知道了";
 
-"key_login_delete_email_title" = "您的邮箱";
+"key_login_reset_code_title" = "验证码";
 
-"key_login_delete_code_title" = "验证码";
+"key_login_reset_email_title" = "您的邮箱";
 
-"key_login_delete_code_input_placeholder" = "请输入验证码";
+"key_login_reset_nav_title" = "身份验证";
 
-"key_login_delete_code_send_title" = "知道了";
+"key_login_reset_success" = "密码重置成功";
 
-"key_login_delete_code_resend_title" = "重新发送";
+"key_login_reset_success_then_login" = "您的密码已成功重置。为了您账户的安全，请重新登录";
 
-"key_login_delete_confirm_title" = "删除账户";
+"key_login_tourist_alert_confirm_title" = "确认";
 
-"key_module_userinfo" = "key_module_userinfo";
+"key_login_tourist_alert_sign_in_title" = "登录";
+
+"key_login_tourist_alert_title" = "仅蓝牙模式";
+
+"key_login_tourist_alert_title_tips" = "当前仅通过蓝牙连接。登录以解锁更多功能，享受完整体验";
+
+"Key_Module_OTA" = "Key_Module_OTA";
+
+"key_ota_status_check" = "檢查";
+
+"key_ota_status_checking" = "檢查中";
+
+"key_ota_status_download" = "下載並安裝";
+
+"key_ota_status_download_success" = "下載成功";
+
+"key_ota_status_downloading" = "正在下載";
+
+"key_ota_status_downloading_[<xxxx>]" = "正在下載 [<xxxx>]";
+
+"key_ota_status_install" = "安裝";
+
+"key_ota_status_install_success" = "安裝成功";
+
+"key_ota_status_installing" = "正在安裝";
+
+"key_ota_status_installing_[<xxxx>]" = "正在安裝 [<xxxx>]";
+
+"key_ota_status_title_checking" = "檢查中";
+
+"key_ota_status_title_latest" = "已是最新版本";
+
+"key_ota_status_title_new_valid" = "新韌體版本已就緒";
+
+"key_update_failed_device_ota" = "更新失败";
+
+"key_upgrading_device_ota" = "升级";
+
+"Key_Module_Server" = "Key_Module_Server";
+
+"key_server_failure" = "失败";
+
+"key_server_try_later" = "请稍后再试";
+
+"key_server_wrong_please_try_later" = "服务器错误，请稍后再试";
+
+"Key_Module_Setting" = "Key_Module_Setting";
+
+"key_seting_home_page_information" = "个人信息";
+
+"key_setting_account_has_log_out" = "此账户已登出";
+
+"key_setting_alert_option_complete" = "烹饪完成提醒";
+
+"key_setting_alert_option_flip" = "翻面提醒";
+
+"key_setting_alert_option_manage_option_your_sound" = "我的声音";
+
+"key_setting_alert_option_manage_title" = "管理铃声";
+
+"key_setting_alert_option_notification_title" = "通知音";
+
+"key_setting_alert_option_reset" = "休息提醒";
+
+"key_setting_alert_option_tips" = "提示：\n1. 声音提醒可能受静音模式、勿扰模式和系统通知设置的影响。\n2. 请检查您的设备媒体音量是否已调高，并且应用拥有播放声音的权限。";
+
+"key_setting_alert_option_toggle_option_alert_sound" = "提示音";
+
+"key_setting_alert_option_toggle_tips" = "為重要提示啟用聲音通知。";
+
+"key_setting_alert_option_toggle_title" = "開關";
+
+"key_setting_alert_sound_nav_title" = "提醒音";
+
+"key_setting_alert_sound_set" = "设置提醒音";
+
+"key_setting_alexa" = "Alexa";
+
+"key_setting_ambient_management_alert_answer" = "您可以在 设备 → 设备管理 → 环境温度 中启用它。";
+
+"key_setting_ambient_management_alert_cancel" = "去设置";
+
+"key_setting_ambient_management_alert_confirm" = "好的，知道了";
+
+"key_setting_ambient_management_alert_question" = "想要开启环境温度监测功能？";
+
+"key_setting_ambient_management_alert_title" = "环境温度管理";
+
+"key_setting_ambient_temperature" = "环境温度";
+
+"key_setting_app_version" = "应用版本";
+
+"key_setting_apple_id" = "苹果ID";
+
+"key_setting_beta_mode" = "测试版";
+
+"key_setting_buzzer" = "蜂鸣器";
+
+"key_setting_change_language_alert_title" = "更改语言";
+
+"key_setting_change_language_alert_title_sub" = "请选择您的语言";
+
+"key_setting_choose_sound_alert_all_turn_off_title" = "關閉所有提示？";
+
+"key_setting_choose_sound_alert_all_turn_off_title_sub" = "您可能會錯過重要的烹飪提示。確定要關閉提示音嗎？";
+
+"key_setting_choose_sound_alert_cook_turn_off_title" = "關閉完成提示？";
+
+"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "您可能會錯過重要的烹飪提示。\\n 確定要關閉提示音嗎？";
+
+"key_setting_choose_sound_alert_flip_turn_off_title" = "關閉翻面提示？";
+
+"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "為本次烹飪關閉此提示？您可能會錯過此提示。";
+
+"key_setting_choose_sound_alert_notification_turn_off_title" = "通知已關閉";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "開啟設定";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "系統設定中通知已關閉。";
+
+"key_setting_choose_sound_alert_repeat_reminder_once" = "一次";
+
+"key_setting_choose_sound_alert_repeat_reminder_title" = "重複提示";
+
+"key_setting_choose_sound_alert_repeat_reminder_twice" = "兩次";
+
+"key_setting_choose_sound_alert_rest_turn_off_title" = "關閉休息提示？";
+
+"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "為本次烹飪關閉此提示？您可能會錯過此提示。";
+
+"key_setting_choose_sound_alert_type_all" = "全部";
+
+"key_setting_choose_sound_alert_type_popup" = "彈出視窗";
+
+"key_setting_choose_sound_alert_type_sound" = "聲音";
+
+"key_setting_choose_sound_alert_type_title" = "提示類型";
+
+"key_setting_choose_sound_alert_type_vibration" = "震動";
+
+"key_setting_choose_sound_cook_nav_title" = "烹飪完成音";
+
+"key_setting_choose_sound_flip_nav_title" = "翻面提示音";
+
+"key_setting_choose_sound_nav_title" = "選擇聲音";
+
+"key_setting_choose_sound_rest_nav_title" = "休息提示音";
+
+"key_setting_choose_sound_title_bbq_time" = "燒烤計時器";
+
+"key_setting_choose_sound_title_bright_tone" = "明亮音調";
+
+"key_setting_choose_sound_title_cheerful_ring" = "歡快音效";
+
+"key_setting_choose_sound_title_chefs_call" = "興奮音效";
+
+"key_setting_choose_sound_title_classic_cell" = "經典鈴聲";
+
+"key_setting_choose_sound_title_cook_sound" = "烹飪完成音";
+
+"key_setting_choose_sound_title_cozy_chime" = "精力充沛音效";
+
+"key_setting_choose_sound_title_flip_sound" = "翻面提示音";
+
+"key_setting_choose_sound_title_gentle_chime" = "輕柔鐘聲";
+
+"key_setting_choose_sound_title_grill_pulse" = "可爱音效";
+
+"key_setting_choose_sound_title_pick_your_vibe" = "選擇你喜歡的氛圍";
+
+"key_setting_choose_sound_title_rest_sound" = "休息提示音";
+
+"key_setting_choose_sound_title_soft_alert" = "柔和提示";
+
+"key_setting_choose_sound_title_sub" = "点击声音进行预览和选择。";
+
+"key_setting_choose_sound_title_warm_reminder" = "溫馨提示";
+
+"key_setting_connect_wifi" = "连接 Wi-Fi";
+
+"key_setting_copy" = "复制";
+
+"key_setting_cycle_firmware_update" = "循环固件更新";
+
+"key_setting_delete_account" = "删除账户";
+
+"key_setting_delete_device" = "删除设备";
+
+"key_setting_delete_device_title" = "确认删除设备";
+
+"key_setting_delete_success" = "删除成功";
+
+"key_setting_device_management" = "设备管理";
+
+"key_setting_email" = "电子邮件";
+
+"key_setting_faqs" = "常见问题解答";
+
+"key_setting_firmware_update" = "固件更新";
+
+"key_setting_google" = "谷歌";
+
+"key_setting_guide_sizzle_all_set_title" = "一切就绪，开始烹饪！";
+
+"key_setting_guide_sizzle_all_set_title_confirm" = "开始烹饪";
+
+"key_setting_guide_sizzle_all_set_title_sub" = "设备已配对，准备就绪，主厨！别忘了给我留一口。";
+
+"key_setting_guide_sizzle_ambient_temperature_title" = "想更专业一点？";
+
+"key_setting_guide_sizzle_ambient_temperature_title_sub" = "开启环境温度监测，像专业厨师一样掌控火候。或者保持简单模式——随您喜好！";
+
+"key_setting_guide_sizzle_ambient_temperature_title_tips" = "设备已配对？首页 → 更多。随时切换。";
+
+"key_setting_guide_sizzle_buzzer_title" = "提醒还是静音？";
+
+"key_setting_guide_sizzle_buzzer_title_sub" = "想要在烤肉完成时接收提示音，还是更喜欢安静？听您的！";
+
+"key_setting_guide_sizzle_buzzer_title_tips" = "设备已配对？首页 → 更多。随时切换。";
+
+"key_setting_guide_sizzle_select_size_title" = "英寸还是厘米？";
+
+"key_setting_guide_sizzle_select_size_title_sub" = "世界上有两种人：英寸派和厘米派。选择您的阵营，我们开始吧！";
+
+"key_setting_guide_sizzle_select_size_title_tips" = "可随时在“设置”中调整。";
+
+"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "下一步([<xxxx0>]/[<xxxx1>])";
+
+"key_setting_guide_sizzle_temperature_unit_title" = "华氏度还是摄氏度？";
+
+"key_setting_guide_sizzle_temperature_unit_title_sub" = "这世上有两种人：华氏度派和摄氏度派。选择您的阵营吧！";
+
+"key_setting_guide_sizzle_temperature_unit_title_tips" = "可随时在“设置”中调整。";
+
+"key_setting_guide_sizzle_welcome_title" = "欢迎使用 Meatmeet";
+
+"key_setting_guide_sizzle_welcome_title_confirm" = "开始设置";
+
+"key_setting_guide_sizzle_welcome_title_sub" = "感谢加入 Meatmeet！在开始之前，让我们完成一些设置，确保您的烤肉每次都能完美出炉。";
+
+"key_setting_hardware_version" = "硬件版本";
+
+"key_setting_icloud_sync" = "iCloud同步";
+
+"key_setting_language" = "语言";
+
+"key_setting_log_out" = "退出登录";
+
+"key_setting_member_information" = "会员信息";
+
+"key_setting_my_favorite" = "我的最爱";
+
+"key_setting_my_favorites" = "我的收藏";
+
+"key_setting_nickname" = "昵称";
+
+"key_setting_password" = "密码";
+
+"key_setting_probe_mac_address" = "探测器管理";
+
+"key_setting_reset" = "重置";
+
+"key_setting_screen_timeout" = "螢幕逾時";
+
+"key_setting_select_size" = "选择尺寸";
+
+"key_setting_share" = "分享";
+
+"key_setting_sound_cook_alert_reminder_title" = "重複提示";
+
+"key_setting_sound_cook_alert_title" = "提示方式";
+
+"key_setting_sound_cook_alert_type_title" = "提示類型";
+
+"key_setting_sound_cook_nav_title" = "休息提示";
+
+"key_setting_sound_cook_remain_add" = "新增新提示";
+
+"key_setting_sound_cook_remain_end_[<xxxx>]" = "剩餘[<xxxx>]分鐘";
+
+"key_setting_sound_cook_remain_time_exist_toast" = "剩餘時間已存在";
+
+"key_setting_sound_cook_remain_title" = "剩餘時間提示";
+
+"key_setting_sound_cook_sound_select_title" = "選擇聲音";
+
+"key_setting_sound_cook_sound_tips" = "提示：\\n 把握完美的靜置時間。";
+
+"key_setting_sound_cook_sound_title" = "提示音";
+
+"key_setting_sound_cook_toggle_switch_title" = "啟用休息提示";
+
+"key_setting_sound_cook_toggle_title" = "開關";
+
+"key_setting_sound_flip_alert_reminder_title" = "重複提示";
+
+"key_setting_sound_flip_alert_title" = "提示方式";
+
+"key_setting_sound_flip_alert_type_title" = "提示類型";
+
+"key_setting_sound_flip_nav_title" = "翻面提示";
+
+"key_setting_sound_flip_sound_select_title" = "選擇聲音";
+
+"key_setting_sound_flip_sound_tips" = "提示：\\n 在需要為食物翻面時獲得通知。";
+
+"key_setting_sound_flip_sound_title" = "提示音";
+
+"key_setting_sound_flip_toggle_switch_title" = "啟用翻面提示";
+
+"key_setting_sound_flip_toggle_title" = "開關";
+
+"key_setting_sound_rest_alert_reminder_title" = "重複提示";
+
+"key_setting_sound_rest_alert_title" = "提示方式";
+
+"key_setting_sound_rest_alert_type_title" = "提示類型";
+
+"key_setting_sound_rest_nav_title" = "休息提示";
+
+"key_setting_sound_rest_sound_select_title" = "選擇聲音";
+
+"key_setting_sound_rest_sound_tips" = "提示：\\n 把握完美的靜置時間。";
+
+"key_setting_sound_rest_sound_title" = "提示音";
+
+"key_setting_sound_rest_toggle_switch_title" = "啟用休息提示";
+
+"key_setting_sound_rest_toggle_title" = "開關";
+
+"key_setting_sure" = "当然";
+
+"key_setting_tap_log_out" = "点击“退出登录”以注销";
+
+"key_setting_temperature_units" = "温度单位";
+
+"key_setting_test_page" = "测试页面";
+
+"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] 分鐘";
+
+"key_setting_timeout_never_title" = "永不";
+
+"key_setting_timeout_never_title_sub" = "螢幕以低亮度保持常亮（預設）";
+
+"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] 秒";
+
+"key_setting_timeout_title" = "螢幕逾時";
+
+"key_setting_timeout_title_sub" = "設定裝置螢幕在無操作後保持點亮的時間。高亮度持續45秒，隨後會變暗為低亮度並持續所選時長。";
+
+"key_setting_user_id" = "用户ID";
+
+"Key_Module_Share" = "Key_Module_Share";
+
+"key_share_action_accepted" = "已接受";
+
+"key_share_action_device_delete" = "删除设备";
+
+"key_share_action_device_exit" = "退出";
+
+"key_share_action_refuse" = "拒绝";
+
+"key_share_share_list" = "共享列表";
+
+"Key_Module_TabBar" = "Key_Module_TabBar";
+
+"key_tabbar_ai" = "Ai";
+
+"key_tabbar_history" = "历史";
+
+"key_tabbar_home" = "主页";
+
+"key_tabbar_setting" = "设置";
+
+"Key_Module_UserInfo" = "Key_Module_UserInfo";
 
 "key_userinfo_edit_title" = "编辑个人信息";
 
@@ -258,1975 +2160,13 @@
 
 "key_userinfo_save_confirm" = "保存";
 
-"key_module_tabbar" = "key_module_tabbar";
+"Key_Module_VIP" = "Key_Module_VIP";
 
-"key_tabbar_home" = "主页";
+"key_vip_action_manage" = "管理订阅";
 
-"key_tabbar_history" = "历史";
+"key_vip_action_restore" = "恢复购买";
 
-"key_tabbar_setting" = "设置";
-
-"key_tabbar_ai" = "Ai";
-
-"key_module_home" = "key_module_home";
-
-"key_home_add_tips" = "请添加设备";
-
-"key_home_tourist_alert_title" = "注意";
-
-"key_home_tourist_alert_title_sub" = "访客模式仅支持蓝牙连接。若要享受无限范围，请登录。";
-
-"key_home_tourist_bluetooth_only" = "仅蓝牙";
-
-"key_home_status_change_alert_title" = "状态变更";
-
-"key_home_status_change_alert_title_sub" = "已登录。将增强器连接到Wi-Fi，以实现无限范围和远程监控。";
-
-"key_home_status_change_alert_title_confirm" = "连接到Wi-Fi";
-
-"key_home_device_add_limit" = "添加设备限制";
-
-"key_home_device_add_limit_tips" = "无法添加更多设备。移除一个或联系客服";
-
-"key_home_add_offline" = "离线添加";
-
-"key_home_add_offline_tips" = "当前处于离线状态，您添加的设备可能会被在线添加的设备覆盖。";
-
-"key_home_guest" = "访客";
-
-"key_home_exit_visitor_mode" = "退出访客模式";
-
-"key_module_device" = "key_module_device";
-
-"key_device_name_010x_[<xxxx>]" = "meatmeet Pro [<xxxx>]";
-
-"key_device_name_020x_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
-
-"key_device_name_0200_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
-
-"key_device_name_0201_[<xxxx>]" = "meatmeet Pro 2026 [<xxxx>]";
-
-"key_device_name_030x_[<xxxx>]" = "meatmeet X Pro [<xxxx>]";
-
-"key_device_name_0301_[<xxxx>]" = "meatmeet Z Pro [<xxxx>]";
-
-"key_device_name_0400_[<xxxx>]" = "meatmeet S Pro 2026 [<xxxx>]";
-
-"key_device_name_010x" = "meatmeet Pro";
-
-"key_device_name_020x" = "meatmeet S Pro";
-
-"key_device_name_0200" = "meatmeet S Pro";
-
-"key_device_name_0201" = "meatmeet Pro 2026";
-
-"key_device_name_030x" = "meatmeet X Pro";
-
-"key_device_name_0300" = "meatmeet X Pro";
-
-"key_device_name_0301" = "meatmeet Z Pro";
-
-"key_device_name_0400" = "meatmeet S pro 2026";
-
-"key_device_probe_[<xxxx>]" = "探头 [<xxxx>]";
-
-"key_device_probe_[<xxxx>]_mac" = "探测 [<xxxx>] Mac";
-
-"key_device_warning" = "警告!!!";
-
-"key_device_probe_not_connected" = "探头未连接";
-
-"key_device_hub_disconnected" = "设备已断开连接";
-
-"key_device_signal_interrupted" = "信号中断";
-
-"key_device_booster_low_battery" = "助推器：电量低";
-
-"key_device_probe_low_battery" = "探头：电量低";
-
-"key_device_probe_is_charging" = "探头正在充电";
-
-"key_device_insert" = "插入";
-
-"key_device_access_restricted" = "访问受限";
-
-"key_device_network_error" = "网络错误";
-
-"key_device_probe_temperature" = "探头温度";
-
-"key_device_bluetooth_disconnected" = "蓝牙已断开连接";
-
-"key_device_bluetooth_disconnected_title" = "蓝牙已断开连接";
-
-"key_device_bluetooth_disconnected_title_sub" = "请检查设备的蓝牙连接状态";
-
-"key_device_home_tourist_title" = "您当前处于访客模式。注册或登录以查看和编辑您的个人信息。";
-
-"key_device_please_check_the_position_and_condition_of_the_probe" = "请检查探头的位置和状态";
-
-"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "设备[<xxxx>]已断开连接。请检查您的设备并重新连接。按住按钮直到LED闪烁（约2秒）以开启设备";
-
-"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "您的烤架检测已中断，因为手机离设备 [<xxxx>] 太远";
-
-"key_device_please_connect_the_meat_[<xxxx>]_charger" = "请连接肉类[<xxxx>]充电器";
-
-"key_device_put_probe_into_booster_to_charge" = "将探头放入充电器中充电";
-
-"key_device_delete" = "删除";
-
-"key_device_no_device" = "未找到设备";
-
-"key_device_in_cooking" = "烹饪进行中";
-
-"key_device_please_add_your_probe" = "请添加您的探头";
-
-"key_device_ota_checking" = "检查";
-
-"key_device_ota_check" = "检查";
-
-"key_device_ota_new_version" = "新版本";
-
-"key_device_ota_new_version_ready" = "新版本就绪";
-
-"key_device_ota_current_version" = "当前版本";
-
-"key_device_ota_download_and_install" = "下载并安装";
-
-"key_device_ota_fail_alert_download_failed_title" = "下载失败";
-
-"key_device_ota_fail_alert_download_failed_title_sub" = "固件下载失败。请检查您的网络连接。";
-
-"key_device_ota_fail_alert_update_delay_failed_title" = "更新延迟";
-
-"key_device_ota_fail_alert_update_delay_failed_title_sub" = "固件与设备不兼容或设备存储空间不足。请检查设备状态。";
-
-"key_device_ota_fail_alert_device_busy_failed_title" = "设备繁忙";
-
-"key_device_ota_fail_alert_device_busy_failed_title_sub" = "设备正忙于其他任务，无法立即开始固件更新。请确保设备在更新前处于空闲状态。";
-
-"key_device_ota_fail_alert_server_unresponsive_failed_title" = "服务器无响应";
-
-"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "固件服务器不可用或请求超时，导致固件下载失败。请稍后重试。";
-
-"key_device_ota_fail_alert_server_update_failed_title" = "更新失败";
-
-"key_device_ota_fail_alert_server_update_failed_title_sub" = "固件与设备不兼容或设备存储空间不足。请检查设备状态。";
-
-"key_device_ota_fail_alert_not_primary_failed_title_sub" = "此设备不是主设备，且该设备无法进行OTA升级";
-
-"key_device_ota_success_alert_title" = "更新成功";
-
-"key_device_ota_success_alert_title_sub" = "恭喜，您的设备固件已成功更新！";
-
-"key_device_ota_fail_alert_transfer_failed_title" = "传输失败";
-
-"key_device_ota_fail_alert_transfer_failed_title_sub" = "由于传输超时或设备关机，更新失败。请重试固件传输";
-
-"key_device_ota_file_downloading_[<xxxx>]" = "正在下载 [<xxxx>]%";
-
-"key_device_ota_install" = "安装";
-
-"key_device_ota_doing_title" = "更新期间";
-
-"key_device_ota_doing_title_sub" = "正在更新固件，请稍候…";
-
-"key_device_ota_doing_transmit_title_sub" = "新固件目前正在传输中，可能需要一些时间。请耐心等待";
-
-"key_device_ota_installing_firmware" = "正在安装固件更新，这可能需要一些时间";
-
-"key_device_ota_firmware_installing" = "固件正在安装";
-
-"key_device_ota_firmware_image_download_complete" = "固件镜像下载完成";
-
-"key_device_ota_fail_alert_during_cooking_title" = "烹饪进行中";
-
-"key_device_ota_fail_alert_during_cooking_title_sub" = "正在烹饪中。烹饪期间不支持OTA更新。请等待烹饪过程完成。";
-
-"key_device_ota_fail_alert_not_online_title" = "设备未联网";
-
-"key_device_ota_fail_alert_not_online_title_sub" = "请先将设备添加到您的网络，再尝试进行固件更新。";
-
-"key_device_ota_fail_alert_low_power_title" = "更新受阻";
-
-"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "无法进行更新。请确保电池电量高于[<xxxx>]%或保持设备连接电源。";
-
-"key_device_ota_already_the_lastest_version" = "已是最新版本";
-
-"key_device_ota_update" = "更新";
-
-"key_device_ota_preparing" = "准备中";
-
-"key_device_ota_update_start" = "更新开始";
-
-"key_upgrading_device_ota" = "升级";
-
-"key_update_failed_device_ota" = "更新失败";
-
-"key_device_ota_rejected" = "已拒绝";
-
-"key_device_ota_success" = "更新成功";
-
-"key_device_nav_share" = "分享";
-
-"key_device_share_add" = "添加用户";
-
-"key_device_share_alert_device_invitation" = "设备邀请";
-
-"key_device_share_alert_device_invitation_will_send" = "邀请将发送给用户";
-
-"key_device_share_alert_device_invitation_success_title_sub" = "设备已成功共享。请及时通知用户。";
-
-"key_device_share_alert_device_invitation_success_title" = "分享成功";
-
-"key_device_share_alert_device_invitation_failed_title" = "分享失败";
-
-"key_device_share_alert_device_invite_user" = "邀请用户";
-
-"key_device_share_alert_device_delete_account_title" = "删除账户";
-
-"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "用户 '[<xxxx>]' 即将被移除。您确定要移除吗？";
-
-"key_device_share_alert_device_delete_success" = "删除成功";
-
-"key_device_share_alert_device_delete_failure_network_error" = "删除失败，请检查网络连接。";
-
-"key_share_share_list" = "共享列表";
-
-"key_share_action_accepted" = "已接受";
-
-"key_share_action_refuse" = "拒绝";
-
-"key_share_action_device_delete" = "删除设备";
-
-"key_share_action_device_exit" = "退出";
-
-"key_device_probe_firmware_update" = "探头固件更新";
-
-"key_device_what_is_happen" = "正在发生什么";
-
-"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "我们正在更新您的探针固件，以提升您的烹饪体验。";
-
-"key_device_what_you_need_to_do" = "你需要做什么？";
-
-"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "将探头插入充电盒，并在更新完成的1 - 3分钟内保持在那里。\n 注意：更新期间请勿移除探头或关闭机箱电源。";
-
-"key_device_please_insert_the_probe_into_the_box" = "请将探头插入盒中";
-
-"key_device_probe_upgrade_in_progress" = "探头升级正在进行中";
-
-"key_device_probe_repair_failure" = "探头修复失败";
-
-"key_device_probe_repair_failure_tips" = "升级探测器时遇到问题，升级过程中出现了错误。\n 请点击下方按钮告知我们发生了什么事，我们会尽快处理。感谢选择Meatmeet！";
-
-"key_device_probe_repair_success" = "探头修复成功";
-
-"key_device_probe_repair_success_tips" = "探头固件升级成功 — 感谢您的耐心等待！祝您烹饪愉快。";
-
-"key_device_delete_unvalid_cause_cooking" = "烹饪时无法删除设备";
-
-"key_device_wifi_unvalid_cause_cooking" = "烹饪过程中无法配置Wi-Fi";
-
-"key_device_probe_change_unvalid" = "探头更换不可用";
-
-"key_device_probe_change_not_allow_while_cooking" = "烹饪过程中不允许更换探头。请等待烹饪完成";
-
-"key_device_new_meatmeet_s_pro_welcome_to_you" = "全新Meatmeet S Pro\n 欢迎光临";
-
-"key_device_introducing_our_all_new_5_sensor_smart_meat_thermometer_with_fully_upgraded_hardware_multi_point_temperature_monitoring_simultaneously_monitors_5_spots_for_evenly_cooked_perfection_real_time_data_transmission_instantly_track_temperature_changes_without_frequently_opening_the_grill_high_compatibility_easily_works_with_various_grills_and_accessories_for_seamless_operation" = "隆重推出我们全新升级硬件的5传感器智能肉类温度计：\n • 多点温度监测：同时监测5个点位，确保烹饪均匀完美\n • 实时数据传输：无需频繁打开烤炉即可即时追踪温度变化\n • 高兼容性：可轻松与各种烤架和配件配合使用，实现无缝操作";
-
-"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "设备当前已连接但处于离线状态。请确保其已连接到互联网以便共享。";
-
-"key_device_probe_replace_failure_while_cooking" = "烹饪过程中不允许更换探头。请等待烹饪完成";
-
-"key_device_select_mode" = "选择模式";
-
-"key_device_select_add_device_title" = "选择设备";
-
-"key_device_select_add_device_title_sub" = "未找到设备。\n 添加设备以开始烹饪。";
-
-"key_device_select_add_device_cancel" = "暂不";
-
-"key_device_select_add_device_confirm" = "添加设备";
-
-"key_device_select_add_probe_title" = "选择探针";
-
-"key_device_select_add_probe_title_sub" = "未检测到探针。\n 添加探针以开始烹饪。";
-
-"key_device_select_add_probe_cancel" = "暂不";
-
-"key_device_select_add_probe_confirm" = "添加探针";
-
-"key_device_setting_wifi_manager_nav_title" = "WiFi 管理";
-
-"key_device_change_alias_alert_title" = "设备名称";
-
-"key_device_change_alias_alert_title_sub" = "为设备设置一个独特的名称，以便在附近有多个探针时轻松识别。";
-
-"key_device_change_alias_alert_placeholder" = "请输入新的设备名称";
-
-"key_device_change_alias_alert_success" = "设备名称修改成功";
-
-"key_module_bind" = "key_module_bind";
-
-"key_bind_float_title" = "连接设备";
-
-"key_bind_float_confirm" = "连接";
-
-"key_bind_float_pairing_title" = "设备配对";
-
-"key_bind_float_pairing_title_sub" = "选择您要连接的设备。";
-
-"key_bind_float_pairing_failed_title" = "设备配对失败";
-
-"key_bind_float_pairing_failed_title_sub" = "您可能遇到了以下情况之一，请重试";
-
-"key_bind_float_pairing_failed_faqs" = "常见问题解答";
-
-"key_bind_float_pairing_failed_confirm" = "重新连接";
-
-"key_bind_float_pairing_reconnecting" = "正在重新连接";
-
-"key_bind_float_go_cooking" = "去做饭";
-
-"key_bind_float_ready_to_use" = "即开即用";
-
-"key_bind_float_ready_to_use_start_cook" = "你准备好了吗？ \n 现在就开启你激动人心的烹饪之旅吧！";
-
-"key_bind_float_probe_pairing_title" = "探头配对";
-
-"key_bind_float_probe_pairing_failed_title" = "探针配对失败";
-
-"key_bind_float_probe_pairing_failed_title_sub" = "请确保探头在盒子内。我们将连接探头。请注意，此过程会很快。";
-
-"key_bind_float_probe_pairing_failed_faqs" = "常见问题解答";
-
-"key_bind_float_probe_pairing_failed_confirm" = "重新连接";
-
-"key_bind_connecting_devices" = "连接设备";
-
-"key_bind_found_devices" = "发现设备";
-
-"key_bind_first_time_use" = "首次使用";
-
-"key_bind_turn_on_the_device" = "打开设备";
-
-"key_bind_bluetooth_connecting" = "蓝牙连接中";
-
-"key_bind_no_device_found" = "未找到设备";
-
-"key_bind_connected_failure" = "设备连接失败";
-
-"key_bind_ready_to_connect_wiFi" = "准备连接WiFi";
-
-"key_bind_connect_the_probe" = "连接探头";
-
-"key_bind_transferring_firmware" = "正在传输固件";
-
-"key_bind_bluetooth_permissions_deny" = "蓝牙权限被拒绝";
-
-"key_bind_wifi_connection_failed" = "Wi-Fi连接失败";
-
-"key_bind_wifi_search_title" = "正在扫描Wi-Fi";
-
-"key_bind_wifi_select_title" = "选择您的Wi-Fi";
-
-"key_bind_wifi_input_title" = "连接到Wi-Fi";
-
-"key_bind_wifi_input_title_confirm" = "连接到Wi-Fi";
-
-"key_bind_wifi_connecting_title" = "连接到Wi-Fi";
-
-"key_bind_wifi_connecting_title_sub" = "连接到Wi-Fi";
-
-"key_bind_cloud_connecting_title" = "云连接";
-
-"key_bind_cloud_connecting_title_sub" = "正在连接到云平台";
-
-"key_bind_cloud_connecting_to_cloud" = "正在连接到云平台";
-
-"key_bind_ok_completed" = "好的\n 已完成";
-
-"key_bind_firmware_found" = "已找到固件";
-
-"key_bind_download_firmware" = "下载固件";
-
-"key_bind_firmware_update" = "固件更新";
-
-"key_bind_update_successful" = "更新成功";
-
-"key_bind_ready_to_use" = "即插即用";
-
-"key_bind_guide_title_sub" = "1. 首次收到设备后，请使用USB-C接口连接增强器\n 2. 配对成功后，请给探头充电五分钟，以获得更好的体验";
-
-"key_bind_device_scan_title_sub" = "确保您的增强器通过TypeC接口连接并已开启。\n 然后双击电源按钮开始蓝牙配对。";
-
-"key_bind_keep_your_bluetooth_turning_on" = "保持蓝牙开启";
-
-"key_bind_scan_timeout" = "确保您的增强器已开启并闪烁\n 1：按住按钮直到LED闪烁（约2秒）\n 2：双击按钮进行配对";
-
-"key_bind_connect_success_then_ready_for_wifi" = "您可以通过蓝牙使用该设备\n 但部分功能将受到限制。\n 为获得最佳体验\n 请按照说明连接到WiFi。";
-
-"key_bind_connect_success_than_temp_bind" = "请从助推器上取下探头";
-
-"key_bind_please_place_the_new_probe_in_the_booster" = "请将新探头放入助推器中";
-
-"key_bind_the_new_firmware_is_currently_being_transmitted_and_may_take_some_time_please_be_patient" = "新固件目前正在传输中，可能需要一些时间。请耐心等待";
-
-"key_bind_unable_to_use_your_bluetooth_please_click_setting_to_turn_on_bluetooth" = "无法使用您的蓝牙。\n 请点击“设置”以打开蓝牙。";
-
-"key_bind_keep_bluetooth_turned_on" = "保持蓝牙开启";
-
-"key_bind_you_may_have_encountered_one_of_the_following_situations_please_try_again" = "您可能遇到了以下情况之一，请重试";
-
-"key_bind_your_smart_thermometer_is_connected_to_wifi" = "您的智能温度计已连接到Wi-Fi";
-
-"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "通过云端可实现无限距离控制，可能需要几秒钟";
-
-"key_bind_the_device_is_connected_to_wifi_network_successfully" = "设备已成功连接到WiFi网络";
-
-"key_bind_new_firmware_version_found_updating_will_provide_improved_performance_and_new_features" = "发现新的固件版本！更新将提供更好的性能和新功能。";
-
-"key_bind_downloading_firmware_update_please_keep_your_device_connected_and_do_not_turn_it_off" = "正在下载固件更新。请保持设备连接，不要关闭设备。";
-
-"the_bind_firmware_update_failed_please_try_again_you_can_also_update_the_firmware_in_setting_page_in_future_if_you_choose_to_ignore_it_now" = "固件更新失败，请重试。\n 如果您现在选择忽略，将来也可以在“设置”页面更新固件。";
-
-"key_bind_congratulations_your_device_firmware_has_been_successfully_updated" = "恭喜！您的设备固件已成功更新！";
-
-"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "你准备好了吗？\n 快来开启你精彩的烹饪生涯";
-
-"key_bind_finish_net_without_tips" = "你准备好了吗？\n 快来开启你精彩的烹饪生涯";
-
-"key_bind_finish_net_with_tips" = "你准备好了吗？\n 快来开启你精彩的烹饪生涯";
-
-"key_bind_finish_not_now_tips" = "您可以继续使用蓝牙，但连接 Wi-Fi 可解锁完整体验。点击 Wi-Fi 图标或前往设备设置进行连接。";
-
-"key_bind_next" = "下一步";
-
-"key_bind_back" = "返回";
-
-"key_bind_step_1_Press_the_button_till_led_flash_about_2s" = "步骤1：按住按钮直到LED闪烁（约2秒）";
-
-"key_bind_step_2_double_click_the_button_to_pair" = "步骤2：双击按钮进行配对";
-
-"key_bind_setup_guide" = "设置指南";
-
-"key_bind_step_[<xxxx>]" = "步骤 [<xxxx>]";
-
-"key_bind_unified_step_1_tips_010x" = "按住电源按钮2秒钟以打开设备。";
-
-"key_bind_unified_step_2_tips_010x" = "然后，快速按两下电源按钮。当指示灯开始快速闪烁时，设备就可以配对了。";
-
-"key_bind_unified_step_1_tips_020x" = "轻按开机键以启动设备。您会听到一声快速提示音，并看到指示灯开始闪烁。";
-
-"key_bind_unified_step_2_tips_020x" = "双击开机键使设备进入配网模式，点击底部按钮开始配对。";
-
-"key_bind_unified_step_1_tips_0200" = "轻按开机键以启动设备。您会听到一声快速提示音，并看到指示灯开始闪烁。";
-
-"key_bind_unified_step_2_tips_0200" = "双击开机键使设备进入配网模式，点击底部按钮开始配对。";
-
-"key_bind_unified_step_1_tips_0201" = "确保已经安装上电池，并且开机";
-
-"key_bind_unified_step_2_tips_0201" = "等待底部按钮变为可点击状态";
-
-"key_bind_unified_step_1_tips_030x" = "长按电源键1.5秒以开启设备，屏幕亮起后松开。";
-
-"key_bind_unified_step_2_tips_030x" = "请观察左上角闪烁的蓝牙与Wi-Fi图标，这表示设备已进入配对模式（该模式将在10分钟后关闭，如需重新开启，请长按确认键3秒）。";
-
-"key_bind_unified_step_3_tips_030x" = "配对期间，请将探头放置于其底座中。感谢您的配合！";
-
-"key_bind_unified_step_1_tips_0300" = "长按电源键1.5秒以开启设备，屏幕亮起后松开。";
-
-"key_bind_unified_step_2_tips_0300" = "请观察左上角闪烁的蓝牙与Wi-Fi图标，这表示设备已进入配对模式（该模式将在10分钟后关闭，如需重新开启，请长按确认键3秒）。";
-
-"key_bind_unified_step_3_tips_0300" = "配对期间，请将探头放置于其底座中。感谢您的配合！";
-
-"key_bind_unified_step_1_tips_0301" = "长按电源键1.5秒以开启设备，屏幕亮起后松开。";
-
-"key_bind_unified_step_2_tips_0301" = "请观察左上角闪烁的蓝牙与Wi-Fi图标，这表示设备已进入配对模式（该模式将在10分钟后关闭，如需重新开启，请长按确认键3秒）。";
-
-"key_bind_unified_step_3_tips_0301" = "配对期间，请将探头放置于其底座中。感谢您的配合！";
-
-"key_bind_unified_step_1_tips_0400" = "长按电源键1.5秒以开启设备。屏幕亮起时松开。";
-
-"key_bind_unified_step_2_tips_0400" = "请查看左上角闪烁的蓝牙和Wi-Fi图标。这表示配对模式已开启（10分钟后将自动关闭。长按确认键3秒可重新开启）。";
-
-"key_bind_unified_step_3_tips_0400" = "请在配对过程中将探针置于其保护盒内。感谢配合！";
-
-"key_bind_unified_product_brochure" = "产品手册";
-
-"key_bind_unified_go_pairing" = "开始配对";
-
-"key_bind_unified_go_pairing_unvalid_tips" = "请按照屏幕上的说明进行连接并开始使用。";
-
-"key_bind_bluetooth_is_scanning" = "蓝牙正在扫描";
-
-"key_bind_bluetooth_is_connecting" = "蓝牙正在连接";
-
-"key_bind_bluetooth_is_connected" = "蓝牙已连接";
-
-"key_bind_go_cooking" = "去做饭";
-
-"key_bind_try_again" = "再试一次";
-
-"key_bind_go_to_cooking" = "去烹饪";
-
-"key_bind_feedback" = "反馈";
-
-"key_bind_setting" = "设置";
-
-"key_bind_device_upgrade" = "设备升级";
-
-"key_bind_keep_the_booster_within_wifi_range" = "将信号增强器保持在Wi-Fi覆盖范围内";
-
-"key_bind_connection_successful" = "连接成功";
-
-"key_bind_not_now" = "稍后再说";
-
-"key_bind_connect" = "连接";
-
-"key_bind_please_enter_wifi" = "请输入Wi-Fi";
-
-"key_bind_please_enter_wifi_password" = "请输入Wi-Fi密码";
-
-"key_bind_invalid_wifi_username_or_password" = "无效的Wi-Fi用户名或密码";
-
-"key_bind_other" = "其他";
-
-"key_bind_preparing" = "准备中";
-
-"key_bind_device_config_service" = "设备配置服务";
-
-"key_bind_wifi_is_scanning" = "正在扫描Wi-Fi";
-
-"key_bind_searching_for_your_network" = "正在搜索您的网络";
-
-"key_bind_refresh_list_2_4_g_hz_wifi_only" = "刷新列表（仅2.4 GHz Wi-Fi）";
-
-"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "探头丢失。请检查连接并确保探头已正确连接";
-
-"key_bind_add_probe" = "添加探头";
-
-"key_bind_the_probe_is_searching_please_wait" = "探头正在搜索，请稍候";
-
-"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "无法定位探头。请确保已开启电源，然后点击刷新";
-
-"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "若要更换探头，请点击下方的搜索按钮";
-
-"key_bind_refresh" = "刷新";
-
-"key_bind_search" = "搜索";
-
-"key_bind_probe_connect_failed" = "探头连接失败";
-
-"key_bind_probe_connect_retry_title" = "请按照以下步骤再试一次：";
-
-"key_bind_probe_connect_retry_tip1" = "1. 从增压器上取下探头";
-
-"key_bind_probe_connect_retry_tip2" = "2. 给探头充电并重新配对";
-
-"key_bind_probe_connect_retry_tip3" = "3. 将探头放置在增压器和手机附近";
-
-"key_bind_the_wlan_permission_of_your_phone_is_turned_off" = "您手机的WLAN权限已关闭";
-
-"key_bind_no_wifi_found" = "未找到可用的WiFi，请重试";
-
-"key_bind_sorry" = "抱歉";
-
-"key_bind_retry" = "重试";
-
-"key_bind_enter_wifi" = "请输入Wi-Fi";
-
-"key_bind_wifi_error_less" = "Wi-Fi SSID必须至少包含4个字符";
-
-"key_bind_probe_management" = "探测器管理";
-
-"key_bind_current_probe" = "电流探头";
-
-"key_bind_current_probe_choose" = "选择探头";
-
-"key_bind_probe_add_success" = "探针添加成功";
-
-"key_bind_probe_add_failed" = "添加探头失败";
-
-"key_bind_probe_add_probe" = "添加探头";
-
-"key_bind_probe_adding" = "请等待探头添加完成";
-
-"key_bind_unbind_probe_title" = "解绑探针";
-
-"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "您将取消绑定“Probe [<xxxx0>] Mac：[<xxxx1>]”\n 您确认取消绑定吗？";
-
-"key_bind_device_hub_disconnected" = "设备已断开连接";
-
-"key_bind_probe_bind_status_check" = "请检查设备的蓝牙连接状态";
-
-"key_bind_probe_change_unvalid" = "探头更换不可用";
-
-"key_bind_probe_change_unvalid_cause_cooking" = "烹饪过程中不允许更换探头。请等待烹饪完成";
-
-"key_bind_probe_sure_to_delete" = "确定要删除探头";
-
-"key_bind_probe_unvalid_cause_id_[<xxxx0>]_mac_[<xxxx1>]" = "探测无效原因ID: [<xxxx0>] MAC地址: [<xxxx1>]";
-
-"key_bind_probe_change_unavailable" = "探头更换不可用";
-
-"key_bind_probe_change_is_not_allowed_while_cooking_please_wait_until_the_cooking_is_complete" = "烹饪过程中不允许更换探头。请等待烹饪完成";
-
-"key_bind_probe_device_invitation" = "设备邀请";
-
-"key_bind_please_wait_while_the_probe_is_being_added" = "请等待探头添加完成";
-
-"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "您的“探头[<xxxx0>]”已成功添加到“[<xxxx1>]”，请开始烹饪";
-
-"key_bind_probe_add_successfully" = "添加成功";
-
-"key_bind_probe_010x_alert_bind_tips" = "1. 请给探头充电至少3至5分钟，尤其是首次使用时。 \n 2. 这将有助于防止下一步中出现“无法连接探头”的问题";
-
-"key_bind_probe_010x_alert_bind_tips_[<xxxx0>]_[<xxxx1>]" = "1. 请给探头充电至少3至5分钟，尤其是首次使用时。 \n 2. 这将有助于防止下一步中出现“无法连接探头”的问题";
-
-"key_bind_probe_010x_alert_remove_title" = "移动探头";
-
-"key_bind_probe_010x_alert_remove_title_sub" = "探头正在搜索，请稍候";
-
-"key_bind_probe_010x_alert_add_title" = "添加探头";
-
-"key_bind_probe_010x_alert_add_title_sub" = "请等待探头添加完成";
-
-"key_bind_probe_010x_alert_success_title" = "配对成功";
-
-"key_bind_probe_010x_alert_success_title_sub" = "请开启您的烹饪之旅";
-
-"key_bind_probe_010x_alert_failed_title" = "探头连接失败";
-
-"key_bind_probe_010x_alert_failed_title_sub" = "请按照以下步骤再试一次：\n 1. 从增压器上取下探头并连接\n 2. 给探头充电并重新配对\n 3. 将探头放置在增压器和手机附近";
-
-"key_bind_wifi_name" = "Wi-Fi名称";
-
-"key_bind_wifi_password" = "Wi-Fi密码";
-
-"key_bind_enter_wifi_password" = "输入Wi-Fi密码";
-
-"key_bind_enter_your_wifi_credentials" = "输入你的Wi-Fi凭证";
-
-"key_bind_wifi_connection" = "Wi-Fi连接";
-
-"key_bind_wifi_name_can_not_be_empty" = "Wi-Fi名称不能为空";
-
-"key_bind_your_device_is_successfully_connected_to_the_wifi_network" = "您的设备已成功连接到Wi-Fi网络。";
-
-"key_bind_wifi_password_error" = "无效的WiFi帐户或密码";
-
-"key_bind_wifi_connect_timeout" = "Wi-Fi连接超时";
-
-"key_bind_wifi_ap_not_valid" = "Wi-Fi AP无效";
-
-"key_bind_wifi_auth_timeout" = "Wi-Fi认证超时";
-
-"key_bind_wifi_connect_failure" = "Wi-Fi连接失败";
-
-"key_bind_wifi_name_cannot_be_empty" = "Wi-Fi名称不能为空";
-
-"key_bind_unified_add_device" = "添加设备";
-
-"key_bind_unified_scan_for_nearby" = "扫描附近设备";
-
-"key_bind_unified_auto_scaning" = "连续自动搜索";
-
-"key_bind_unified_device_searching" = "搜索";
-
-"key_bind_unified_device_search_no_result" = "未找到设备。点击下方列表手动添加一个。";
-
-"key_bind_unified_device_manually_add" = "手动添加设备";
-
-"key_bind_unified_failure_device_scan_no_result_title" = "蓝牙连接失败";
-
-"key_bind_unified_failure_device_scan_no_result_subtitle" = "尝试与设备配对未成功";
-
-"key_bind_unified_failure_device_scan_no_result_tips" = "请尝试以下步骤：\n • 确保设备处于配对模式\n • 确认双方的蓝牙功能均已开启\n • 重启蓝牙后重试";
-
-"key_bind_unified_failure_device_connect_failure_title" = "蓝牙连接失败";
-
-"key_bind_unified_failure_device_connect_failure_subtitle" = "尝试与设备配对未成功";
-
-"key_bind_unified_failure_device_connect_failure_tips" = "请尝试以下步骤：\n • 确保设备处于配对模式\n • 确认双方的蓝牙功能均已开启\n • 重启蓝牙后重试";
-
-"key_bind_unified_failure_device_status_check_failure_title" = "蓝牙连接失败";
-
-"key_bind_unified_failure_device_status_check_failure_subtitle" = "尝试与设备配对未成功";
-
-"key_bind_unified_failure_device_status_check_failure_tips" = "请尝试以下步骤：\n • 确保设备处于配对模式\n • 确认双方的蓝牙功能均已开启\n • 重启蓝牙后重试";
-
-"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi-Fi 连接失败";
-
-"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "无法连接到无线网络";
-
-"key_bind_unified_failure_device_esp_enter_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
-
-"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi-Fi 连接失败";
-
-"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "无法连接到无线网络";
-
-"key_bind_unified_failure_device_nodeid_check_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
-
-"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi-Fi 连接失败";
-
-"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "无法连接到无线网络";
-
-"key_bind_unified_failure_device_wifi_scan_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
-
-"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi-Fi 连接失败";
-
-"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "无法连接到无线网络";
-
-"key_bind_unified_failure_device_wifi_connect_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
-
-"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi-Fi 连接失败";
-
-"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "无法连接到无线网络";
-
-"key_bind_unified_failure_device_cloud_bind_failure_tips" = "请尝试以下步骤：\n • 检查Wi-Fi密码是否正确\n • 确保路由器工作正常\n • 靠近Wi-Fi信号源";
-
-"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "云端绑定失败";
-
-"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "当前无法将设备与帐户进行云端绑定。";
-
-"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "使用以下步骤进行重试：\n • 重启设备\n • 尽量使设备靠近路由器\n • 确保周围环境没有信号干扰\n • 确保您的路由器可以正常访问网络";
-
-"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "您可能遇到了以下情况之一，请重试\n \n • 发送WiFi密码失败\n • 信号放大器已从路由器断开\n • 无法将设备添加至云平台\n • 连接超时";
-
-"key_bind_device_pairing_success" = "设备配对成功";
-
-"key_bind_wifi_confirm_change" = "更改无线网络";
-
-"key_bind_change_wifi_current_title" = "可选位置";
-
-"key_bind_change_wifi_scan_title" = "推荐位置";
-
-"key_bind_change_wifi_current_none_title" = "无Wi-Fi，请连接。";
-
-"key_bind_change_wifi_current_connect_title" = "已连接到Wi-Fi。";
-
-"key_bind_wifi_to_connect_title" = "连接Wi-Fi，解锁更多";
-
-"key_bind_wifi_to_connect_title_sub" = "您当前正在使用蓝牙。\n 连接到 Wi-Fi 以获得更佳稳定性和完整功能。";
-
-"key_bind_wifi_to_connect_confirm_title" = "立即连接";
-
-"key_bind_wifi_to_connect_cancel_title" = "稍后再说";
-
-"key_bind_wifi_all_set_title" = "全部就绪";
-
-"key_bind_wifi_all_set_title_sub" = "您的设备已完全连接，准备就绪。\n 享受从始至终流畅的烹饪体验。";
-
-"key_bind_wifi_all_set_confirm_title" = "开始烹饪";
-
-"key_bind_wifi_scan_warning_title" = "刷新Wi-Fi列表？";
-
-"key_bind_wifi_scan_warning_title_sub" = "刷新可用网络列表将会断开您当前的Wi-Fi连接。";
-
-"key_bind_temp_empty_title" = "无任何探针";
-
-"key_bind_temp_empty_title" = "点击底部添加按钮，开始添加您的探针";
-
-"key_module_OTA" = "key_module_OTA";
-
-"key_ota_status_check" = "检查";
-
-"key_ota_status_checking" = "检查中";
-
-"key_ota_status_download" = "下载并安装";
-
-"key_ota_status_downloading" = "正在下载";
-
-"key_ota_status_downloading_[<xxxx>]" = "正在下载 [<xxxx>]";
-
-"key_ota_status_download_success" = "下载成功";
-
-"key_ota_status_install" = "安装";
-
-"key_ota_status_installing" = "正在安装";
-
-"key_ota_status_installing_[<xxxx>]" = "正在安装 [<xxxx>]";
-
-"key_ota_status_install_success" = "安装成功";
-
-"key_ota_status_title_checking" = "检查中";
-
-"key_ota_status_title_latest" = "已是最新版本";
-
-"key_ota_status_title_new_valid" = "新固件版本已就绪";
-
-"key_module_bbq" = "key_module_bbq";
-
-"key_bbq_resting" = "休息";
-
-"key_bbq_temperature_chart_title" = "温度图表";
-
-"key_bbq_cook_device" = "烹饪设备";
-
-"key_bbq_cook_probe" = "烹饪探针";
-
-"key_bbq_flip_food" = "翻转食物";
-
-"key_bbq_cook_start_time" = "开始时间";
-
-"key_bbq_cook_end_time" = "结束时间";
-
-"key_bbq_notes_title" = "注释";
-
-"key_bbq_note_create_tips" = "点击输入你的烹饪笔记";
-
-"key_bbq_notes_delete_title" = "BBQ笔记标题";
-
-"key_bbq_favorite_remove" = "移除收藏";
-
-"key_bbq_favorite_add" = "添加到收藏夹";
-
-"key_bbq_cook_again" = "再次烹饪";
-
-"key_bbq_cook_duration" = "烹饪时长";
-
-"key_bbq_note_add_alert_title" = "注释";
-
-"key_bbq_note_add_alert_title_title" = "标题";
-
-"key_bbq_note_add_alert_title_placeholder" = "请输入内容";
-
-"key_bbq_note_add_alert_failed_title" = "添加失败";
-
-"key_bbq_note_add_alert_failed_title_sub" = "标题必须至少包含2个字符";
-
-"key_bbq_note_add_alert_content_title" = "内容";
-
-"key_bbq_note_add_alert_content_placeholder" = "请输入内容";
-
-"key_bbq_note_delete_alert_title" = "确定要删除笔记";
-
-"key_bbq_delete_alert_title" = "确定要删除记录吗？";
-
-"key_bbq_nav_history" = "历史";
-
-"key_bbq_history_tempty_tips" = "无烹饪记录";
-
-"key_bbq_more_cooks" = "更多厨师";
-
-"key_bbq_re_select" = "重新选择";
-
-"key_bbq_cook_setting_confirm" = "烹饪设置确认";
-
-"key_bbq_wait_cook_end" = "请等待当前烹饪过程完成或先结束它";
-
-"key_bbq_unavailable" = "不可用";
-
-"key_bbq_select_device" = "选择设备";
-
-"key_bbq_select_device_cooking" = "烹饪";
-
-"key_bbq_select_device_low_battery" = "电量低";
-
-"key_bbq_select_device_no_probe_available" = "无可用探头";
-
-"key_bbq_select_device_title" = "选择设备";
-
-"key_bbq_select_device_title_sub" = "请选择烹饪设备，开启您的全新烧烤之旅";
-
-"key_bbq_select_device_probe_title" = "选择探头";
-
-"key_bbq_select_device_probe_title_sub" = "请选择您的探针来完成最重要的步骤，我们即将开始烧烤";
-
-"key_bbq_complete_cooking_settings" = "请完成烹饪设置";
-
-"key_bbq_grill_flip_not_support_tips" = "此烤架不支持翻转";
-
-"key_bbq_grill_rest_not_support_tips" = "此烤架不支持静置";
-
-"key_bbq_rest_off_no_need_tips" = "待机模式已关闭——无需检查厚度，咱们直接开始烹饪！";
-
-"key_bbq_detail_back" = "返回";
-
-"key_module_cook" = "key_module_cook";
-
-"key_cook_ready_to_grill" = "准备烧烤";
-
-"key_cook_start" = "开始";
-
-"key_cook_second_grill_stage_[<xxxx>]" = "阶段 [<xxxx>]";
-
-"key_cook_second_grill_stage_all" = "全部";
-
-"key_cook_click_to_start_cook" = "点击开始烹饪";
-
-"key_cook_internal" = "内部";
-
-"key_cook_target" = "目标";
-
-"key_cook_ambient" = "环境";
-
-"key_cook_whether_to_end_cook" = "是否结束烹饪";
-
-"key_cook_cooking_completed_on_device_[<xxxx>]" = "设备[<xxxx>]上的烹饪已完成";
-
-"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "环境温度已升至[<xxxx0>]°C / [<xxxx1>]°F。请移除它以防开裂。";
-
-"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "内部温度已达到[<xxxx0>]°C / [<xxxx1>]°F。请立即移除，以免造成损坏。";
-
-"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "将探头放在肉最厚的部位。确保安全线留在里面。";
-
-"key_cook_nav_set_cooking" = "设置烹饪";
-
-"key_cook_title_food" = "肉类";
-
-"key_cook_food_beef" = "牛肉";
-
-"key_cook_food_lamb" = "羔羊肉";
-
-"key_cook_food_pork" = "猪肉";
-
-"key_cook_food_fish" = "鱼";
-
-"key_cook_food_turkey" = "土耳其";
-
-"key_cook_food_poultry" = "家禽";
-
-"key_cook_food_other" = "其他";
-
-"key_cook_nav_temperature" = "温度";
-
-"key_cook_title_cooking_mode" = "烹饪模式";
-
-"key_cook_temperature_very_rare" = "非常罕见";
-
-"key_cook_temperature_rare" = "稀有";
-
-"key_cook_temperature_medium_rare" = "三分熟";
-
-"key_cook_temperature_medium" = "中等";
-
-"key_cook_temperature_medium_well" = "七分熟";
-
-"key_cook_temperature_well_done" = "干得好";
-
-"key_cook_temperature_other" = "其他";
-
-"key_cook_set_cooking" = "设置烹饪";
-
-"key_cook_nav_poultry" = "家禽";
-
-"key_cook_poultry_correct_operation" = "正确操作";
-
-"key_cook_poultry_incorrect_operation" = "操作错误";
-
-"key_cook_poultry_tips_title" = "将探头插入固体部分以获取最准确的温度";
-
-"key_cook_poultry_tips_title_sub" = "将探头插入最厚的肉（如腿、胸）的中心，避开胸部和骨头。确保安全凹槽留在食物内部以保护探头。温度传感器位于探头的前中部";
-
-"key_cook_nav_choosing_device" = "选择设备";
-
-"key_cook_title_equipment" = "烹饪环境";
-
-"key_cook_equipment_oven" = "烤箱";
-
-"key_cook_equipment_charcoal_grill" = "炭火烤架";
-
-"key_cook_equipment_gas_grill" = "燃气烤架";
-
-"key_cook_equipment_smoker" = "吸烟者";
-
-"key_cook_equipment_air_fryer" = "空气炸锅";
-
-"key_cook_equipment_deep_fryer" = "油炸锅";
-
-"key_cook_equipment_pan" = "平底锅";
-
-"key_cook_equipment_option_reverse_sear" = "反向烤炙";
-
-"key_cook_equipment_section_title" = "常用设备";
-
-"key_cook_equipment_option_section_title" = "高级选项";
-
-"key_cook_reverse_sear_nav_title" = "反向烤炙";
-
-"key_cook_reverse_sear_section_low_title" = "阶段 1：低温";
-
-"key_cook_reverse_sear_section_final_title" = "阶段 2：最终温度";
-
-"key_cook_reverse_sear_section_strategy_title" = "选择策略";
-
-"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "标准：[<xxxx0>]-[<xxxx1>][<xxxx2>]";
-
-"key_cook_strategy_recommend" = "推荐";
-
-"key_cook_strategy_stabdrad_title_sub" = "延长烤炙时间。最大化外壳形成。";
-
-"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → 切换 → 最终：[<xxxx1>]";
-
-"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "低温 [<xxxx>]";
-
-"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "最终 [<xxxx>]";
-
-"key_cook_strategy_other_title" = "其他";
-
-"key_cook_strategy_other_title_sub" = "延长烤炙时间。最大化外壳形成。请选择您的温度。";
-
-"key_cook_equipment_option_sous_vide" = "舒肥烹饪";
-
-"key_cook_equipment_other" = "其他";
-
-"key_cook_nav_choose_flip_food" = "选择翻转食物";
-
-"key_cook_title_flip" = "翻转";
-
-"key_cook_flip_every_30_title" = "每30秒翻动一次食物";
-
-"key_cook_flip_every_30_title_cell" = "每30秒";
-
-"key_cook_flip_every_30_title_sub" = "我们每30秒提醒你翻动一下食物，这样食物外部就能均匀受热，内部保持多汁";
-
-"key_cook_flip_once_title" = "只翻动食物一次";
-
-"key_cook_flip_once_title_cell" = "仅一次";
-
-"key_cook_flip_once_title_sub" = "你会得到绝佳的烹饪质感，而且只需翻面一次";
-
-"key_cook_flip_do_not_need_title" = "无需翻面";
-
-"key_cook_flip_do_not_need_title_cell" = "无需翻转";
-
-"key_cook_flip_do_not_need_title_sub" = "在您的肉烹饪过程中，我们不会用额外的翻面提醒来打扰您";
-
-"key_cook_flip_do_not_need_cell_unvalid" = "无需翻转";
-
-"key_cook_nav_rest_meat" = "让肉静置";
-
-"key_cook_title_wake_up_meat" = "静置肉";
-
-"key_cook_rest_mode_on" = "待机模式开启";
-
-"key_cook_rest_mode_off" = "休息模式关闭";
-
-"key_cook_rest_mode_on_cell" = "在";
-
-"key_cook_rest_mode_off_cell" = "关闭";
-
-"key_cook_rest_mode_cell_unvalid" = "不支持休眠模式";
-
-"key_cook_rest_mode_on_tips" = "当启用休息模式时，每次肉的温度升高10°C / 20°F ± 2°C / 3.6°F时，我们会通知您将肉从热源上移开，以确保达到最佳烹饪效果。";
-
-"key_cook_rest_mode_off_tips" = "休息模式将被关闭。煮熟肉类的最终内部温度可能会超过目标温度。您是否要继续关闭此模式？";
-
-"key_cook_rest_mode_unvalid_temperature_low" = "当前目标温度对于让肉静置来说太低了。若要让肉静置，请将目标温度至少设置为30°C / 86°F。";
-
-"key_cook_nav_meat_thickness" = "肉的厚度";
-
-"key_cook_title_estimate_meat_thickness" = "估计肉厚";
-
-"key_cook_meat_thickness_inches" = "英寸";
-
-"key_cook_meat_thickness_cm" = "厘米";
-
-"key_cook_meat_thickness_most_common_size" = "最常见尺寸";
-
-"key_cook_meat_thickness_cell_unvalid" = "无需厚度";
-
-"key_cook_nav_probe_position" = "注意探头位置";
-
-"key_cook_probe_position_title" = "Meatmeet设备位置信息";
-
-"key_cook_probe_position_title_sub" = "您的Meatmeet Pro充电器应尽可能靠近炊具放置，以保持与探头的连接并增强信号。 \n 只要确保别把它放在任何热的表面上就行！";
-
-"key_cook_probe_position_title_sub_[<xxxx>]" = "请将您的[<xxxx>]充电器尽量靠近烹饪设备放置，以保持与探头的连接并增强信号稳定性。\n 请注意勿将其放置于任何高温表面！";
-
-"key_cook_probe_position_do_not_show" = "Do Not Pop Up This Message Again";
-
-"key_cook_ready_insert_probe_title" = "如何插入探头";
-
-"key_cook_ready_insert_probe_title_sub" = "将探头插入肉最厚的部位，直到安全线完全没入肉中，不要超过黑线，确保尖端不会穿透。";
-
-"key_cook_ready_insert_probe_safe_line" = "安全线";
-
-"key_cook_ready_insert_probe_black_line" = "黑线";
-
-"key_cook_estimate_time" = "预计烹饪时间";
-
-"key_cook_end_cooking" = "结束烹饪";
-
-"key_cook_end_alert_title" = "是否结束烹饪";
-
-"key_cook_end_alert_confirm" = "是的，结束烹饪";
-
-"key_cook_end_alert_cancel" = "返回烹饪";
-
-"key_cook_nav_select_cooking_option" = "选择烹饪选项";
-
-"key_cook_start_new_cook" = "开始新的烹饪";
-
-"key_cook_use_last_session" = "使用上次烹饪会话";
-
-"key_cook_go_cooking" = "去做饭";
-
-"key_cook_hub_distance_confirm_title" = "去做饭";
-
-"key_cook_nav_setting_cooking" = "您的烹饪设置";
-
-"key_cook_setting_cooking_tips" = "你的准备工作看起来很棒。等你准备好了，咱们就开始做饭。";
-
-"key_cook_setting_cooking_all_start" = "一切就绪 — 开始烹饪！";
-
-"key_cook_setting_cooking_change_tips" = "您的烹饪设置已更改，请确认其是否正确。";
-
-"key_cook_time_to_flip" = "该翻面了";
-
-"key_cook_time_to_awaken_[<xxxx>]" = "是时候从[<xxxx>]取出食物了";
-
-"key_cook_setting_cook_save_favorite_tips" = "保存您的收藏，以便更快开启下一次烹饪！";
-
-"key_cook_nav_alert_setting" = "警报设置";
-
-"key_cook_alert_time_picker_title" = "时间选择器";
-
-"key_cook_alert_time_picker_unit" = "分钟";
-
-"key_cook_alert_warning_mode" = "警告模式";
-
-"key_cook_alert_multiple_selection" = "多项选择";
-
-"key_cook_alert_mode_ring" = "戒指";
-
-"key_cook_alert_mode_vibration" = "振动";
-
-"key_cook_alert_mode_popup" = "弹出窗口";
-
-"key_cook_alert_end_in_[<xxxx>]" = "[<xxxx>]分钟后结束";
-
-"key_cook_alert_cooking_complete_alert" = "烹饪完成提醒";
-
-"key_cook_alert_remaining_time_alert" = "剩余时间提醒";
-
-"key_cook_alert_add_limit_title" = "最多只能添加5个";
-
-"key_cook_alert_cooking_complete_unit" = "烹饪完成";
-
-"key_cook_alert_add_new_warning" = "添加新警告";
-
-"key_cook_progress_flip_food" = "翻转食物";
-
-"key_cook_progress_flip_once_food" = "翻转食物";
-
-"key_cook_progress_flip_countdown_[<xxxx>]" = "在[<xxxx>] S中翻转";
-
-"key_cook_notify_time_to_flip_title" = "该翻面了";
-
-"key_cook_notify_time_to_flip_30s_title_sub" = "对于探针 [<xxxx1>]（[<xxxx2>]）：请在30秒后翻一次食物。";
-
-"key_cook_notify_time_to_flip_title_sub" = "对于探针 [<xxxx1>]（[<xxxx2>]）：从热源中取出食物并翻面。";
-
-"key_cook_notify_time_to_rest_title" = "肉正在静置";
-
-"key_cook_notify_time_to_rest_title_sub" = "肉已达到目标温度，请从烤箱中取出。";
-
-"key_cook_temperature_alert_title" = "探头温度";
-
-"key_cook_temperature_alert_title_sub" = "环境温度";
-
-"key_cook_temperature_alert_tips" = "探头的感应部分直观显示，让您可以控制烧烤温度，拥有更好的烹饪体验。";
-
-"key_cook_probe_check_alert_title" = "探头状态检查";
-
-"key_cook_probe_check_alert_battery_check_title" = "电池检查";
-
-"key_cook_probe_check_alert_battery_check_failed_title" = "电池检查失败";
-
-"key_cook_probe_check_alert_battery_check_failed_title_sub" = "请将探头插入充电座，以确保设备有足够的电量";
-
-"key_cook_probe_check_alert_signal_check_title" = "信号检查";
-
-"key_cook_probe_check_alert_signal_check_failed_title" = "信号检查失败";
-
-"key_cook_probe_check_alert_signal_check_failed_title_sub" = "请将探头放置在信号连接范围内";
-
-"key_cook_probe_check_alert_success_title" = "探头状态：良好";
-
-"key_cook_guide_base_next" = "下一步";
-
-"key_cook_guide_base_back" = "返回";
-
-"key_cook_guide_base_no_need" = "无需指南";
-
-"key_cook_guide_choose_meat_tips" = "选择你想烹饪的肉类";
-
-"key_cook_guide_choose_equipment_tips" = "请选择您要使用的烹饪设备";
-
-"key_cook_guide_choose_mode_tips" = "选择你想要的烹饪模式";
-
-"key_cook_guide_choose_flip_tips" = "选择你想要翻转的食物";
-
-"key_cook_guide_choose_lefttime_tips" = "点击从剩余时间切换到已用时间";
-
-"key_cook_guide_choose_temperature_tips" = "查看各部件温度";
-
-"key_cook_guide_choose_history_tips" = "点击此处开始新的烤肉";
-
-"key_cook_guide_choose_chart_tips" = "点击以更改图表";
-
-"key_cook_guide_choose_realtime_tips" = "实时烹饪进度";
-
-"key_cook_guide_choose_alert_tips" = "设置通知";
-
-"key_cook_guide_choose_meatsize_tips" = "选择你想要烹饪的肉的厚度";
-
-"key_cook_guide_choose_resting_tips" = "选择您想要使用的休眠模式";
-
-"key_cook_guide_choose_multitemperature_tips" = "点击“环境”或“内部”查看传感器温度";
-
-"key_cook_guide_choose_start_tips" = "点击开始烹饪";
-
-"key_cook_guide_choose_distance_tips" = "将设备靠近烤架以获得最佳体验";
-
-"key_cook_guide_choose_remove_probe_tips" = "取出探头并插入";
-
-"key_cook_complete_alert_content" = "您可以前往历史记录查看此烧烤记录";
-
-"key_cook_complete_will_complete_title" = "烹饪即将完成";
-
-"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "距离烹饪结束（[<xxxx1>]）还剩[<xxxx0>]分钟";
-
-"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "距离烹饪结束还剩[<xxxx>]分钟";
-
-"key_cook_alert_rest_title" = "静置肉";
-
-"key_cook_alert_rest_title_sub" = "肉已达到静置温度。请将正在烹饪的食物从烤箱中取出";
-
-"key_cook_alert_rest_continue" = "继续";
-
-"key_cook_alert_flip_once_[<xxxx1>]_[<xxxx2>]" = "对于探头[<xxxx1>]（[<xxxx2>]），仅翻转食物一次";
-
-"key_cook_cooking_time_remaining" = "剩余烹饪时间";
-
-"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "请立即将食物从热源上移开";
-
-"key_cook_choosing_device" = "选择设备";
-
-"key_cook_guide_temp_s_welcome_title" = "全新Meatmeet S Pro\n 欢迎光临";
-
-"key_cook_guide_temp_s_welcome_title_tips" = "隆重推出我们全新升级硬件的5传感器智能肉类温度计：\n • 多点温度监测：同时监测5个点位，确保烹饪均匀完美\n • 实时数据传输：无需频繁打开烤炉即可即时追踪温度变化\n • 高兼容性：可轻松与各种烤架和配件配合使用，实现无缝操作";
-
-"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-传感器";
-
-"key_cook_guide_ambient_sensor" = "环境传感器";
-
-"key_cook_guide_welcome_to_use" = "欢迎使用";
-
-"key_cook_[<xxxx>]_min_left" = "[<xxxx>]分钟后结束";
-
-"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>]分钟过去了";
-
-"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>]秒已过去";
-
-"key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]小时:[<xxxx1>]分钟已过去";
-
-"key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]分:[<xxxx1>]秒已过去";
-
-"key_cook_during_express" = "快速";
-
-"key_cook_during_standard" = "标准";
-
-"key_cook_during_relaxed" = "放松";
-
-"key_cook_during_low" = "低";
-
-"key_cook_during_no_rush" = "不匆忙";
-
-"key_cook_during_express_with_time" = "快速 (< 30分钟)";
-
-"key_cook_during_standard_with_time" = "标准 (45 - 90分钟)";
-
-"key_cook_during_relaxed_with_time" = "放松 (2 - 4小时)";
-
-"key_cook_during_low_with_time" = "低温慢煮 (4+小时)";
-
-"key_cook_during_no_rush_with_time" = "从容模式";
-
-"key_cook_cuisine_asian_fusion" = "亚洲融合";
-
-"key_cook_cuisine_american_bbq" = "美式烧烤";
-
-"key_cook_cuisine_french_elegance" = "法式优雅";
-
-"key_cook_cuisine_classic_pure" = "经典纯粹";
-
-"key_cook_cuisine_mediterranean" = "地中海风味";
-
-"key_cook_cuisine_spicy_heat" = "香辣风味";
-
-"key_cook_cuisine_other" = "其他";
-
-"key_cook_time_budget_express" = "快速 (< 30分钟)";
-
-"key_cook_time_budget_standard" = "标准 (45 - 90分钟)";
-
-"key_cook_time_budget_relaxed" = "放松 (2 - 4小时)";
-
-"key_cook_time_budget_low" = "低温慢煮 (4+小时)";
-
-"key_cook_time_budget_other" = "从容模式";
-
-"key_cook_flip_once_alert_title" = "该给食物翻面了";
-
-"key_cook_flip_once_alert_title_sub" = "请使用钳子翻面，不要用叉子。戳刺肉块会导致汁液流失。";
-
-"key_cook_flip_once_alert_title_confirm" = "我已翻面";
-
-"key_cook_chart_title_internal" = "Internal";
-
-"key_cook_chart_title_target" = "Target";
-
-"key_cook_chart_title_ambient" = "Ambient";
-
-"key_cook_chart_title_warning" = "Warning";
-
-"key_cook_chart_title_ntc1" = "NTC1";
-
-"key_cook_chart_title_ntc2" = "NTC2";
-
-"key_cook_chart_title_ntc3" = "NTC3";
-
-"key_cook_chart_title_ntc4" = "NTC4";
-
-"key_cook_chart_title_stage1" = "Stage1";
-
-"key_cook_chart_title_stage2" = "Stage2";
-
-"key_module_firmware" = "key_module_firmware";
-
-"key_module_setting" = "key_module_setting";
-
-"key_setting_temperature_units" = "温度单位";
-
-"key_setting_select_size" = "选择尺寸";
-
-"key_setting_my_favorite" = "我的最爱";
-
-"key_setting_my_favorites" = "我的收藏";
-
-"key_setting_icloud_sync" = "iCloud同步";
-
-"key_setting_firmware_update" = "固件更新";
-
-"key_setting_member_information" = "会员信息";
-
-"key_setting_cycle_firmware_update" = "循环固件更新";
-
-"key_setting_probe_mac_address" = "探测器管理";
-
-"key_setting_ambient_temperature" = "环境温度";
-
-"key_setting_hardware_version" = "硬件版本";
-
-"key_setting_buzzer" = "蜂鸣器";
-
-"key_setting_language" = "语言";
-
-"key_setting_app_version" = "应用版本";
-
-"key_setting_faqs" = "常见问题解答";
-
-"key_setting_alexa" = "Alexa";
-
-"key_setting_alert_sound" = "设置提醒音";
-
-"key_setting_alert_sound_set" = "设置提醒音";
-
-"key_setting_alert_option_toggle_title" = "开关";
-
-"key_setting_alert_option_toggle_tips" = "为重要提醒启用声音通知。";
-
-"key_setting_alert_sound_nav_title" = "提醒音";
-
-"key_setting_alert_option_toggle_option_alert_sound" = "提醒音";
-
-"key_setting_alert_option_notification_title" = "通知音";
-
-"key_setting_alert_option_flip" = "翻面提醒";
-
-"key_setting_alert_option_reset" = "休息提醒";
-
-"key_setting_alert_option_complete" = "烹饪完成提醒";
-
-"key_setting_alert_option_manage_title" = "管理铃声";
-
-"key_setting_alert_option_manage_option_your_sound" = "我的声音";
-
-"key_setting_alert_option_tips" = "提示：\n 1. 声音提醒可能会受到静音模式、勿扰模式及系统通知设置的影响。\n 2. 请检查您设备的媒体音量是否已调高，且应用已获得播放声音的权限。";
-
-"key_setting_choose_sound_title" = "选择声音";
-
-"key_setting_choose_sound_title_sub" = "点击声音进行预览和选择。";
-
-"key_setting_sound_flip_nav_title" = "翻面提醒";
-
-"key_setting_sound_flip_toggle_title" = "开关";
-
-"key_setting_sound_flip_toggle_switch_title" = "启用翻面提醒";
-
-"key_setting_sound_flip_alert_title" = "提醒方式";
-
-"key_setting_sound_flip_alert_type_title" = "提醒类型";
-
-"key_setting_sound_flip_alert_reminder_title" = "重复提醒";
-
-"key_setting_sound_flip_sound_title" = "提醒音";
-
-"key_setting_sound_flip_sound_select_title" = "选择声音";
-
-"key_setting_sound_flip_sound_tips" = "提示：\n 在需要为食物翻面时获得通知。";
-
-"key_setting_sound_rest_nav_title" = "休息提醒";
-
-"key_setting_sound_rest_toggle_title" = "开关";
-
-"key_setting_sound_rest_toggle_switch_title" = "启用休息提醒";
-
-"key_setting_sound_rest_alert_title" = "提醒方式";
-
-"key_setting_sound_rest_alert_type_title" = "提醒类型";
-
-"key_setting_sound_rest_alert_reminder_title" = "重复提醒";
-
-"key_setting_sound_rest_sound_title" = "提醒音";
-
-"key_setting_sound_rest_sound_select_title" = "选择声音";
-
-"key_setting_sound_rest_sound_tips" = "提示：\n 把握完美的静置时间。";
-
-"key_setting_sound_cook_nav_title" = "休息提醒";
-
-"key_setting_sound_cook_toggle_title" = "开关";
-
-"key_setting_sound_cook_toggle_switch_title" = "启用休息提醒";
-
-"key_setting_sound_cook_alert_title" = "提醒方式";
-
-"key_setting_sound_cook_alert_type_title" = "提醒类型";
-
-"key_setting_sound_cook_alert_reminder_title" = "重复提醒";
-
-"key_setting_sound_cook_sound_title" = "提醒音";
-
-"key_setting_sound_cook_sound_select_title" = "选择声音";
-
-"key_setting_sound_cook_remain_title" = "剩余时间提醒";
-
-"key_setting_sound_cook_remain_end_[<xxxx>]" = "剩余[<xxxx>]分钟";
-
-"key_setting_sound_cook_remain_add" = "添加新提醒";
-
-"key_setting_sound_cook_remain_time_exist_toast" = "剩余时间已存在";
-
-"key_setting_sound_cook_sound_tips" = "提示：\n 把握完美的静置时间。";
-
-"key_setting_choose_sound_nav_title" = "选择声音";
-
-"key_setting_choose_sound_flip_nav_title" = "翻面提醒音";
-
-"key_setting_choose_sound_rest_nav_title" = "休息提醒音";
-
-"key_setting_choose_sound_cook_nav_title" = "烹饪完成音";
-
-"key_setting_choose_sound_title_sub" = "点击声音进行预览和选择。";
-
-"key_setting_choose_sound_title_flip_sound" = "翻面提醒音";
-
-"key_setting_choose_sound_title_rest_sound" = "休息提醒音";
-
-"key_setting_choose_sound_title_cook_sound" = "烹饪完成音";
-
-"key_setting_choose_sound_title_classic_cell" = "经典铃音";
-
-"key_setting_choose_sound_title_gentle_chime" = "轻柔钟声";
-
-"key_setting_choose_sound_title_soft_alert" = "柔和提醒";
-
-"key_setting_choose_sound_title_bbq_time" = "烧烤计时器";
-
-"key_setting_choose_sound_title_bright_tone" = "明亮音调";
-
-"key_setting_choose_sound_title_warm_reminder" = "温馨提醒";
-
-"key_setting_choose_sound_title_chefs_call" = "兴奋音效";
-
-"key_setting_choose_sound_title_cozy_chime" = "精力充沛音效";
-
-"key_setting_choose_sound_title_grill_pulse" = "可爱音效";
-
-"key_setting_choose_sound_title_cheerful_ring" = "欢快音效";
-
-"key_setting_choose_sound_title_pick_your_vibe" = "选择你喜欢的氛围";
-
-"key_setting_choose_sound_alert_repeat_reminder_title" = "重复提醒";
-
-"key_setting_choose_sound_alert_repeat_reminder_once" = "一次";
-
-"key_setting_choose_sound_alert_repeat_reminder_twice" = "两次";
-
-"key_setting_choose_sound_alert_type_title" = "提醒类型";
-
-"key_setting_choose_sound_alert_type_sound" = "声音";
-
-"key_setting_choose_sound_alert_type_vibration" = "振动";
-
-"key_setting_choose_sound_alert_type_popup" = "弹窗";
-
-"key_setting_choose_sound_alert_type_all" = "全部";
-
-"key_setting_choose_sound_alert_notification_turn_off_title" = "通知已关闭";
-
-"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "系统设置中通知已关闭。";
-
-"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "打开设置";
-
-"key_setting_choose_sound_alert_all_turn_off_title" = "关闭所有提醒？";
-
-"key_setting_choose_sound_alert_all_turn_off_title_sub" = "您可能会错过重要的烹饪提醒。确定要关闭提醒音吗？";
-
-"key_setting_choose_sound_alert_flip_turn_off_title" = "关闭翻面提醒？";
-
-"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "为本次烹饪关闭此提醒？您可能会错过此提醒。";
-
-"key_setting_choose_sound_alert_rest_turn_off_title" = "关闭休息提醒？";
-
-"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "为本次烹饪关闭此提醒？您可能会错过此提醒。";
-
-"key_setting_choose_sound_alert_cook_turn_off_title" = "关闭完成提醒？";
-
-"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "您可能会错过重要的烹饪提醒。\n 确定要关闭提示音吗？";
-
-"key_setting_test_page" = "测试页面";
-
-"key_setting_share" = "分享";
-
-"key_setting_connect_wifi" = "连接 Wi-Fi";
-
-"key_setting_screen_timeout" = "屏幕超时";
-
-"key_setting_beta_mode" = "测试版";
-
-"key_setting_apple_id" = "苹果ID";
-
-"key_setting_google" = "谷歌";
-
-"key_setting_email" = "电子邮件";
-
-"key_seting_home_page_information" = "个人信息";
-
-"key_setting_nickname" = "昵称";
-
-"key_setting_password" = "密码";
-
-"key_setting_user_id" = "用户ID";
-
-"key_setting_delete_account" = "删除账户";
-
-"key_setting_reset" = "重置";
-
-"key_setting_copy" = "复制";
-
-"key_setting_log_out" = "退出登录";
-
-"key_setting_tap_log_out" = "点击“退出登录”以注销";
-
-"key_setting_account_has_log_out" = "此账户已登出";
-
-"key_setting_delete_device" = "删除设备";
-
-"key_setting_delete_device_title" = "确认删除设备";
-
-"key_setting_device_management" = "设备管理";
-
-"key_setting_delete_success" = "删除成功";
-
-"key_setting_sure" = "当然";
-
-"key_setting_change_language_alert_title" = "更改语言";
-
-"key_setting_change_language_alert_title_sub" = "请选择您的语言";
-
-"key_setting_ambient_management_alert_confirm" = "好的，知道了";
-
-"key_setting_ambient_management_alert_cancel" = "去设置";
-
-"key_setting_ambient_management_alert_title" = "环境温度管理";
-
-"key_setting_ambient_management_alert_question" = "想要开启环境温度监测功能？";
-
-"key_setting_ambient_management_alert_answer" = "您可以在 设备 → 设备管理 → 环境温度 中启用它。";
-
-"key_setting_guide_sizzle_welcome_title" = "欢迎使用 Meatmeet";
-
-"key_setting_guide_sizzle_welcome_title_sub" = "感谢加入 Meatmeet！在开始之前，让我们完成一些设置，确保您的烤肉每次都能完美出炉。";
-
-"key_setting_guide_sizzle_welcome_title_confirm" = "开始设置";
-
-"key_setting_guide_sizzle_select_size_title" = "英寸还是厘米？";
-
-"key_setting_guide_sizzle_select_size_title_sub" = "世界上有两种人：英寸派和厘米派。选择您的阵营，我们开始吧！";
-
-"key_setting_guide_sizzle_select_size_title_tips" = "可随时在“设置”中调整。";
-
-"key_setting_guide_sizzle_temperature_unit_title" = "华氏度还是摄氏度？";
-
-"key_setting_guide_sizzle_temperature_unit_title_sub" = "这世上有两种人：华氏度派和摄氏度派。选择您的阵营吧！";
-
-"key_setting_guide_sizzle_temperature_unit_title_tips" = "可随时在“设置”中调整。";
-
-"key_setting_guide_sizzle_buzzer_title" = "提醒还是静音？";
-
-"key_setting_guide_sizzle_buzzer_title_sub" = "想要在烤肉完成时接收提示音，还是更喜欢安静？听您的！";
-
-"key_setting_guide_sizzle_buzzer_title_tips" = "设备已配对？首页 → 更多。随时切换。";
-
-"key_setting_guide_sizzle_ambient_temperature_title" = "想更专业一点？";
-
-"key_setting_guide_sizzle_ambient_temperature_title_sub" = "开启环境温度监测，像专业厨师一样掌控火候。或者保持简单模式——随您喜好！";
-
-"key_setting_guide_sizzle_ambient_temperature_title_tips" = "设备已配对？首页 → 更多。随时切换。";
-
-"key_setting_guide_sizzle_all_set_title" = "一切就绪，开始烹饪！";
-
-"key_setting_guide_sizzle_all_set_title_sub" = "设备已配对，准备就绪，主厨！别忘了给我留一口。";
-
-"key_setting_guide_sizzle_all_set_title_confirm" = "开始烹饪";
-
-"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "下一步([<xxxx0>]/[<xxxx1>])";
-
-"key_setting_timeout_title" = "屏幕超时";
-
-"key_setting_timeout_title_sub" = "设置设备屏幕在无操作后保持点亮的时间。高亮度持续45秒，随后会变暗为低亮度并持续所选时长。";
-
-"key_setting_timeout_never_title" = "永不";
-
-"key_setting_timeout_never_title_sub" = "屏幕以低亮度保持常亮（默认）";
-
-"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] 秒";
-
-"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] 分钟";
-
-"key_module_bluetooth" = "key_module_bluetooth";
-
-"key_bluetooth_should_turn_on" = "打开蓝牙";
-
-"key_bluetooth_should_turn_on_to_continue" = "开启蓝牙以继续";
-
-"key_bluetooth_setting_to" = "设置";
-
-"key_bluetooth_setting_cancel" = "取消";
-
-"key_bluetooth_current_off" = "蓝牙已关闭";
-
-"key_module_server" = "key_module_server";
-
-"key_server_wrong_please_try_later" = "服务器错误，请稍后再试";
-
-"key_server_try_later" = "请稍后再试";
-
-"key_server_failure" = "失败";
-
-"key_module_common" = "key_module_common";
-
-"key_common_confirm" = "确认";
-
-"key_common_cancel" = "取消";
-
-"key_common_delete" = "删除";
-
-"key_common_jump_to_setting" = "设置";
-
-"key_common_other" = "其他";
-
-"key_common_feedback" = "反馈";
-
-"key_common_alert_feedback_title" = "标题";
-
-"key_common_alert_feedback_title_placeholder" = "请输入标题";
-
-"key_common_alert_feedback_title_sub" = "内容";
-
-"key_common_alert_feedback_title_sub_placeholder" = "请输入内容";
-
-"key_common_alert_feedback_publish" = "发布";
-
-"key_common_alert_feedback_publish_failed_tips" = "标题必须至少包含2个字符";
-
-"key_common_alert_feedback_publish_failed_title" = "失败";
-
-"key_common_alert_email_failure_tips" = "我们无法访问您的电子邮件服务。点击“设置”以启用它";
-
-"key_common_alert_network_loose_title_sub" = "网络异常，请检查网络连接";
-
-"key_common_net_not_reachable_title" = "网络不可用";
-
-"key_common_net_not_reachable_title_sub" = "网络连接已断开，您可以通过离线模式继续使用。";
-
-"key_common_net_not_reachable_title_confirm" = "确认";
-
-"key_common_net_not_reachable_current_title" = "网络不可用";
-
-"key_common_net_not_reachable_current_title_sub" = "当前网络不可用，将加载本地数据。";
-
-"key_common_net_not_reachable_current_title_confirm" = "确认";
-
-"key_common_net_not_reachable_current_title_cancel" = "取消";
-
-"key_common_net_reachable_current_title" = "网络已恢复";
-
-"key_common_net_reachable_current_title_sub" = "网络连接已恢复，将加载在线数据。";
-
-"key_common_net_reachable_current_title_confirm" = "确认";
-
-"key_common_net_reachable_current_title_cancel" = "取消";
-
-"key_module_iap" = "key_module_iap";
-
-"key_ai_home_title" = "AI烹饪";
-
-"key_ai_home_image_recognition_title" = "AI图像识别";
-
-"key_ai_home_image_recognition_title_sub" = "照片变食谱：用手边食材烹饪";
-
-"key_ai_home_recipe_recommendations_title" = "AI食谱推荐";
-
-"key_ai_home_recipe_recommendations_title_sub" = "想法变食谱：烹饪心中所爱";
-
-"key_ai_home_ai_cooking_master_title" = "AI烹饪大师";
-
-"key_ai_home_ai_cooking_master_title_tips" = "请告诉我们您的肉类、菜系和肉块厚度。我们将为您提供完美食谱并进行设置。";
-
-"key_ai_home_ai_cooking_master_title_sub" = "询问AI烹饪大师";
-
-"key_ai_answer_title" = "AI回答";
-
-"key_ai_answer_title_sub" = "请根据选项选择";
-
-"key_ai_answer_option_select_title" = "您上传了此照片";
-
-"key_ai_answer_setting_cooking_title" = "智能烹饪设置";
-
-"key_ai_answer_setting_cooking_title_sub" = "告诉我们您的喜好——我们将为您推荐您会爱上的食谱！";
-
-"key_ai_recipe_answer_nav_title" = "AI回答";
-
-"key_ai_recipe_answer_title_sub" = "请根据选项选择";
-
-"key_ai_recipe_answer_card_title" = "智能烹饪设置";
-
-"key_ai_recipe_answer_card_title_sub" = "根据您的选择，我们将为您生成一份定制食谱。";
-
-"key_ai_image_recognition_title_tip" = "您上传了此照片";
-
-"key_ai_image_recognition_cart_title" = "告诉我们您的喜好——我们将为您推荐您会爱上的食谱！";
-
-"key_ai_you_uploaded_this_photo" = "您上传了此照片";
-
-"key_ai_answer_setting_cooking_choose_meat_title_sub" = "选择肉类";
-
-"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "选择设备";
-
-"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "选择温度";
-
-"key_ai_answer_setting_cooking_title_confirm" = "我已选择";
-
-"key_ai_answer_result_choice_title" = "您的选择";
-
-"key_ai_answer_result_choice_meat_title" = "选择肉类";
-
-"key_ai_answer_result_choice_equipment_title" = "选择设备";
-
-"key_ai_answer_result_choice_temperature_title" = "选择温度";
-
-"key_ai_smart_cooking_master" = "智能烹饪大师";
-
-"key_ai_answer_result_choice_confirm_title" = "使用食谱";
-
-"key_ai_answer_recipe_name_title" = "食谱名称";
-
-"key_ai_answer_recipe_star_title" = "星级";
-
-"key_ai_answer_recipe_total_time_title" = "总时间";
-
-"key_ai_answer_recipe_pre_time_title" = "准备时间";
-
-"key_ai_answer_recipe_cook_time_title" = "烹饪时间";
-
-"key_ai_answer_recipe_cook_meat_name_title" = "烹饪肉类名称";
-
-"key_ai_answer_recipe_ingredient_list_title" = "配料表";
-
-"key_ai_answer_recipe_cook_steps_title" = "烹饪步骤";
-
-"key_ai_answer_recipe_cook_flip_title" = "翻面";
-
-"key_ai_answer_recipe_cook_awaken_title" = "烹饪完成提醒";
-
-"key_ai_answer_recipe_notes_title" = "备注";
-
-"key_ai_probe_insert_title" = "探针插入";
-
-"key_ai_probe_insert_tip_title" = "如何使用探针";
-
-"key_ai_probe_insert_next_title" = "下一步";
-
-"key_ai_recipe_confirm_title" = "AI烧烤解决方案";
-
-"key_ai_recipe_confirm_title_sub" = "根据您照片的内容，我们已为您生成一套智能烧烤解决方案。如果您对以下建议不满意，请点击编辑。";
-
-"key_ai_recipe_confirm_detail_title" = "查看食谱详情 >";
-
-"key_ai_recipe_confirm_swipe_title_tips" = "左右滑动查看更多";
-
-"key_ai_recipe_confirm_next_title" = "开始烧烤";
-
-"key_ai_recipe_recommend_card_title_[<xxxx>]" = "推荐食谱 [<xxxx>]";
-
-"key_ai_recipe_recommend_card_title_sub" = "我们根据您的以下内容推荐个性化方案";
-
-"key_ai_recipe_recommend_card_meat_name_title" = "肉类";
-
-"key_ai_recipe_recommend_card_cooking_tool_title" = "烹饪环境";
-
-"key_ai_recipe_recommend_card_flip_title" = "翻面";
-
-"key_ai_recipe_recommend_card_temperature_title" = "烹饪模式";
-
-"key_ai_recipe_recommend_card_awaken_title" = "醒肉（回温）";
-
-"key_ai_recipe_recommend_card_meat_size_title" = "预估肉类厚度（英寸）";
-
-"key_ai_recipe_unit_seconds" = "秒";
-
-"key_ai_recipe_unit_minute" = "分钟";
-
-"key_ai_recipe_unit_hour" = "小时";
-
-"key_ai_recipe_unit_day" = "天";
-
-"key_ai_recipe_unit_month" = "月";
-
-"key_ai_recipe_unit_year" = "年";
-
-"key_ai_recognition_result_title" = "AI识别结果";
-
-"key_ai_recognition_result_preparation_title" = "准备";
-
-"key_ai_recognition_result_cancel_title" = "重新识别";
-
-"key_ai_recognition_result_confirm_title" = "下一步";
-
-"key_ai_recipe_collection" = "收藏食谱";
-
-"key_ai_recipe_dis_collection" = "取消保存食谱";
-
-"key_ai_master_enterence_title" = "定制食谱";
-
-"key_ai_master_enterence_title_sub" = "告诉我们您的偏好——我们将为您打造完美食谱。";
-
-"key_ai_master_enterence_header" = "AI烹饪大师";
-
-"key_ai_master_enterence_confirm" = "AI定制";
-
-"key_ai_recipe_description_title" = "描述";
-
-"key_ai_recipe_ingredients_title" = "所需食材";
-
-"key_ai_recipe_pre_cooking_title" = "准备步骤";
-
-"key_ai_recipe_cooking_instruction_title" = "烹饪步骤";
-
-"key_ai_recipe_help_tips_title" = "实用提示";
-
-"key_ai_recipe_difficult_easy" = "简单";
-
-"key_ai_recipe_difficult_moderate" = "中等";
-
-"key_ai_recipe_difficult_professional" = "专业";
-
-"key_ai_recipe_difficult_challenging" = "高难度";
-
-"key_ai_recipe_collection_success_title" = "保存成功！";
-
-"key_ai_recipe_collection_success_title_sub" = "您可以在“我的 → 收藏食谱”中查看和管理。";
-
-"key_ai_recipe_collection_failure_title" = "已从收藏中移除";
-
-"key_ai_recognition_photo_title" = "使用此照片";
-
-"key_ai_recognition_photo_working_title" = "AI烹饪大师工作中";
-
-"key_ai_master_setting_nav_title" = "AI大师设置";
-
-"key_ai_master_setting_animal_title" = "今天烹饪什么";
-
-"key_ai_master_setting_doneness_title" = "理想熟度";
-
-"key_ai_master_setting_equipment_title" = "烹饪方式";
-
-"key_ai_master_setting_during_title" = "预计用时";
-
-"key_ai_master_setting_flavor_title" = "风味偏好";
-
-"key_ai_master_setting_confirm_open_title" = "开通VIP以保存";
-
-"key_ai_master_setting_confirm_save_title" = "保存";
-
-"key_ai_collection_recipes_segment_title" = "AI 食谱";
-
-"key_ai_collection_cook_segment_title" = "烹饪偏好";
-
-"key_ai_home_last_recipe_title" = "最近的AI食谱";
-
-"key_ai_home_last_recipe_scan_title" = "扫描";
-
-"key_ai_home_last_recipe_ask_title" = "提问";
-
-"key_ai_home_last_recipe_master_title" = "大师";
-
-"key_ai_day_distance_today" = "今天";
-
-"key_ai_day_distance_last_day" = "昨天";
-
-"key_ai_day_distance_last_7_day" = "最近7天";
-
-"key_ai_day_distance_last_30_day" = "最近30天";
-
-"key_ai_master_see_more_title" = "解锁AI会员，获取更多大师食谱。";
-
-"key_ai_master_see_more_title_sub" = "立即订阅。";
-
-"key_ai_dialogue_empty_title" = "暂无AI历史记录";
-
-"key_ai_dialogue_empty_title_sub" = "开始使用AI来生成食谱、获取技巧，并在此查看您的结果。";
-
-"key_module_vip" = "key_module_vip";
-
-"key_vip_to_open_vip" = "开通VIP";
-
-"key_vip_to_renew_ai_membership" = "续费AI会员";
-
-"key_vip_credits_total_histroy_[<xxxx>]" = "积分：[<xxxx>] | 积分历史 >";
-
-"key_vip_purchase_nav_title" = "AI会员";
-
-"key_vip_purchase_nav_billing_title" = "账单历史";
-
-"key_vip_ware_price_per_day_title_[<xxxx>]" = "每日[<xxxx>]";
-
-"key_vip_ware_price_per_count_title_[<xxxx>]" = "每点[<xxxx>]";
-
-"key_vip_ware_month_title" = "AI专业版（月付）";
-
-"key_vip_ware_quarterly_title" = "AI专业版（季付）";
-
-"key_vip_ware_yearly_title" = "AI专业版（年付）";
-
-"key_vip_ware_count_title_[<xxxx>]" = "AI积分 [<xxxx>]";
+"key_vip_action_support" = "联系支持";
 
 "key_vip_benefit_0" = "无限次AI图片分析";
 
@@ -2236,135 +2176,51 @@
 
 "key_vip_benefit_3" = "未来优先获得更多新功能的使用权";
 
-"key_vip_action_restore" = "恢复购买";
-
-"key_vip_action_manage" = "管理订阅";
-
-"key_vip_action_support" = "联系支持";
-
-"key_vip_purchase_vip_title" = "升级会员";
-
-"key_vip_purchase_point_title" = "购买积分";
-
-"key_vip_purchase_title_sub_[<xxxx>]" = "您将被收取[<xxxx>]。您可以随时取消。";
+"key_vip_contact_us_left_title" = "联系我们";
 
 "key_vip_contact_us_nav_title" = "邮箱丨联系我们";
 
-"key_vip_contact_us_left_title" = "联系我们";
+"key_vip_credits_total_histroy_[<xxxx>]" = "积分：[<xxxx>] | 积分历史 >";
 
-"key_vip_credits_usage_nav_title" = "积分使用情况";
-
-"key_vip_credits_usage_balance_title" = "积分余额";
-
-"key_vip_credits_usage_history_title" = "积分历史";
-
-"key_vip_credits_usage_balance_total_title" = "总积分";
+"key_vip_credits_usage_balance_bouns_title" = "奖励积分";
 
 "key_vip_credits_usage_balance_purchase_title" = "已购积分";
 
 "key_vip_credits_usage_balance_subscription_title" = "订阅积分";
 
-"key_vip_credits_usage_balance_bouns_title" = "奖励积分";
+"key_vip_credits_usage_balance_title" = "积分余额";
+
+"key_vip_credits_usage_balance_total_title" = "总积分";
+
+"key_vip_credits_usage_history_title" = "积分历史";
+
+"key_vip_credits_usage_item_image" = "图片扫描";
 
 "key_vip_credits_usage_item_qa" = "AI问答";
 
 "key_vip_credits_usage_item_recipe" = "AI食谱";
 
-"key_vip_credits_usage_item_image" = "图片扫描";
-
-"key_vip_purchase_remine_less_one_day" = "剩余不足一天";
-
-"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] 天";
-
-"key_vip_manager_nav_title" = "管理订阅与积分";
-
-"key_vip_manager_refund" = "申请退款";
-
-"key_vip_manager_service" = "服务条款";
-
-"key_vip_manager_policy" = "隐私政策";
-
-"key_vip_purchase_switch_title" = "切换订阅";
-
-"key_vip_purchase_switch_title_sub_[<xxxx>]" = "是否要将您现有的订阅恢复至'[<xxxx>]'？";
-
-"key_vip_purchase_switch_success_title" = "切换成功";
-
-"key_vip_purchase_switch_success_title_sub" = "您的订阅已切换。高级权益现已可用。";
-
-"key_vip_purchase_restore_success_title" = "恢复成功";
-
-"key_vip_purchase_restore_success_title_sub" = "您的订阅已切换。高级权益现已可用。";
-
-"key_vip_purchase_restore_success_confirm_title" = "开始使用";
-
-"key_vip_purchase_restore_success_account_title" = "账户";
-
-"key_vip_purchase_restore_success_account_value" = "当前账户";
-
-"key_vip_purchase_restore_success_remain_title" = "剩余时间";
-
-"key_vip_purchase_restore_success_status_title" = "账户状态";
-
-"key_vip_purchase_restore_success_status_value" = "高级版（生效中）";
-
-"key_vip_purchase_restore_success_method_title" = "支付方式";
-
-"key_vip_purchase_restore_success_method_value" = "Apple ID";
-
-"key_vip_purchase_failure_method_value" = "购买失败";
-
-"key_vip_purchase_failure_reason_title" = "可能的原因";
-
-"key_vip_purchase_failure_support_title" = "联系支持";
-
-"key_vip_purchase_failure_try_step_title" = "请尝试以下步骤";
-
-"key_vip_purchase_failure_try_step_0_title" = "检查网络连接后重试";
-
-"key_vip_purchase_failure_try_step_1_title" = "尝试其他支付方式";
-
-"key_vip_purchase_failure_try_step_2_title" = "联系客服获取帮助";
-
-"key_vip_purchase_failure_try_again_title" = "重试";
-
-"key_vip_purchase_failure_benefit_0" = "每日大师食谱";
-
-"key_vip_purchase_failure_benefit_1" = "拍照得食谱";
-
-"key_vip_purchase_failure_benefit_2" = "VIP徽章";
-
-"key_vip_purchase_failure_benefit_3" = "更多VIP特权";
-
-"key_vip_purchase_success_title" = "支付成功";
-
-"key_vip_purchase_success_title_sub_[<xxxx>]" = "您购买的[<xxxx>]已成功交付。";
-
-"key_vip_expire_title_[<xxxx>]" = "VIP 将于 [<xxxx>] 到期";
-
-"key_vip_restore_title" = "恢复订阅";
-
-"key_vip_restore_title_sub_[<xxxx>]" = "是否要将您现有的订阅恢复至'[<xxxx>]'？";
-
-"key_vip_to_open_title" = "解锁4项VIP权益";
-
-"key_vip_to_open_title_sub" = "懂你口味的食谱——更健康，更美味。";
-
-"key_vip_to_open_confirm_title" = "立即订阅";
-
-"key_vip_expire_title" = "AI会员已到期";
-
-"key_vip_expire_title_sub" = "您的AI功能已暂停。重新订阅以继续使用AI烹饪工具。";
+"key_vip_credits_usage_nav_title" = "积分使用情况";
 
 "key_vip_expire_cancel_title" = "使用免费版";
 
 "key_vip_expire_confirm_title" = "重新订阅";
 
-"key_vip_point_limit_title" = "积分不足";
+"key_vip_expire_title" = "AI会员已到期";
+
+"key_vip_expire_title_[<xxxx>]" = "VIP 将于 [<xxxx>] 到期";
+
+"key_vip_expire_title_sub" = "您的AI功能已暂停。重新订阅以继续使用AI烹饪工具。";
+
+"key_vip_manager_nav_title" = "管理订阅与积分";
+
+"key_vip_manager_policy" = "隐私政策";
+
+"key_vip_manager_refund" = "申请退款";
+
+"key_vip_manager_service" = "服务条款";
 
 "key_vip_point_limit_benefit_title" = "保留您的AI权益";
-
-"key_vip_point_limit_title_sub" = "您的积分已用完。获取更多以继续使用AI功能。";
 
 "key_vip_point_limit_cancel_title" = "使用免费版";
 
@@ -2374,304 +2230,100 @@
 
 "key_vip_point_limit_credits" = "积分";
 
-"key_module_esp_server" = "key_module_esp_server";
+"key_vip_point_limit_title" = "积分不足";
 
-"key_esp_server_error_code_100001" = "获取用户详情时出错";
+"key_vip_point_limit_title_sub" = "您的积分已用完。获取更多以继续使用AI功能。";
 
-"key_esp_server_error_code_100002" = "API版本不受支持";
+"key_vip_purchase_failure_benefit_0" = "每日大师食谱";
 
-"key_esp_server_error_code_100003" = "方法不允许";
+"key_vip_purchase_failure_benefit_1" = "拍照得食谱";
 
-"key_esp_server_error_code_100004" = "您无权执行此操作";
+"key_vip_purchase_failure_benefit_2" = "VIP徽章";
 
-"key_esp_server_error_code_100006" = "请求正文无效";
+"key_vip_purchase_failure_benefit_3" = "更多VIP特权";
 
-"key_esp_server_error_code_100007" = "需要提供用户ID或用户邮箱";
+"key_vip_purchase_failure_method_value" = "购买失败";
 
-"key_esp_server_error_code_100008" = "获取租户上下文详情时出错";
+"key_vip_purchase_failure_reason_title" = "可能的原因";
 
-"key_esp_server_error_code_100009" = "缺少节点ID";
+"key_vip_purchase_failure_try_again_title" = "重试";
 
-"key_esp_server_error_code_100010" = "节点不属于该用户";
+"key_vip_purchase_failure_try_step_0_title" = "检查网络连接后重试";
 
-"key_esp_server_error_code_100011" = "收到无效的JSON";
+"key_vip_purchase_failure_try_step_1_title" = "尝试其他支付方式";
 
-"key_esp_server_error_code_100012" = "无效请求";
+"key_vip_purchase_failure_try_step_2_title" = "联系客服获取帮助";
 
-"key_esp_server_error_code_100014" = "获取节点详情失败";
+"key_vip_purchase_failure_try_step_title" = "请尝试以下步骤";
 
-"key_esp_server_error_code_100015" = "节点不存在";
+"key_vip_purchase_nav_billing_title" = "账单历史";
 
-"key_esp_server_error_code_100035" = "字符串转换为JSON失败";
+"key_vip_purchase_nav_title" = "AI会员";
 
-"key_esp_server_error_code_100046" = "错误，访问令牌缺失";
+"key_vip_purchase_point_title" = "购买积分";
 
-"key_esp_server_error_code_100047" = "您已登出，请重新登录";
+"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] 天";
 
-"key_esp_server_error_code_100052" = "错误，此操作不支持仅OAuth部署";
+"key_vip_purchase_remine_less_one_day" = "剩余不足一天";
 
-"key_esp_server_error_code_100068" = "输入的验证码已过期。请使用新的请求重试。";
+"key_vip_purchase_restore_success_account_title" = "账户";
 
-"key_esp_server_error_code_101001" = "缺少用户名";
+"key_vip_purchase_restore_success_account_value" = "当前账户";
 
-"key_esp_server_error_code_101002" = "邮箱格式不正确";
+"key_vip_purchase_restore_success_confirm_title" = "开始使用";
 
-"key_esp_server_error_code_101003" = "缺少密码或验证码";
+"key_vip_purchase_restore_success_method_title" = "支付方式";
 
-"key_esp_server_error_code_101004" = "密码长度必须为8到256个字符。应为字母数字，且无空格。必须至少包含一个大写字母、一个小写字母和一个数字。";
+"key_vip_purchase_restore_success_method_value" = "Apple ID";
 
-"key_esp_server_error_code_101005" = "发送验证码失败";
+"key_vip_purchase_restore_success_remain_title" = "剩余时间";
 
-"key_esp_server_error_code_101006" = "用户账户已存在";
+"key_vip_purchase_restore_success_status_title" = "账户状态";
 
-"key_esp_server_error_code_101007" = "您输入的密码不正确";
+"key_vip_purchase_restore_success_status_value" = "高级版（生效中）";
 
-"key_esp_server_error_code_101008" = "创建用户失败";
+"key_vip_purchase_restore_success_title" = "恢复成功";
 
-"key_esp_server_error_code_101009" = "用户名或密码错误";
+"key_vip_purchase_restore_success_title_sub" = "您的订阅已切换。高级权益现已可用。";
 
-"key_esp_server_error_code_101011" = "用户名已验证";
+"key_vip_purchase_success_title" = "支付成功";
 
-"key_esp_server_error_code_101012" = "验证码不正确";
+"key_vip_purchase_success_title_sub_[<xxxx>]" = "您购买的[<xxxx>]已成功交付。";
 
-"key_esp_server_error_code_101013" = "用户确认失败";
+"key_vip_purchase_switch_success_title" = "切换成功";
 
-"key_esp_server_error_code_101015" = "账户未授权";
+"key_vip_purchase_switch_success_title_sub" = "您的订阅已切换。高级权益现已可用。";
 
-"key_esp_server_error_code_101016" = "登录失败";
+"key_vip_purchase_switch_title" = "切换订阅";
 
-"key_esp_server_error_code_101017" = "刷新令牌失败";
+"key_vip_purchase_switch_title_sub_[<xxxx>]" = "是否要将您现有的订阅恢复至'[<xxxx>]'？";
 
-"key_esp_server_error_code_101018" = "缺少新密码";
+"key_vip_purchase_title" = "購買";
 
-"key_esp_server_error_code_101019" = "尝试次数超限，请稍后重试";
+"key_vip_purchase_title_sub_[<xxxx>]" = "您将被收取[<xxxx>]。您可以随时取消。";
 
-"key_esp_server_error_code_101020" = "更改密码失败";
+"key_vip_purchase_vip_title" = "升级会员";
 
-"key_esp_server_error_code_101025" = "用户不存在";
+"key_vip_restore_title" = "恢复订阅";
 
-"key_esp_server_error_code_101026" = "从用户名获取用户ID失败";
+"key_vip_restore_title_sub_[<xxxx>]" = "是否要将您现有的订阅恢复至'[<xxxx>]'？";
 
-"key_esp_server_error_code_101027" = "获取用户头像和名称时出错";
+"key_vip_to_open_confirm_title" = "立即订阅";
 
-"key_esp_server_error_code_101028" = "更新用户时出错";
+"key_vip_to_open_title" = "解锁4项VIP权益";
 
-"key_esp_server_error_code_101029" = "获取Cognito令牌时出错";
+"key_vip_to_open_title_sub" = "懂你口味的食谱——更健康，更美味。";
 
-"key_esp_server_error_code_101030" = "缺少验证码";
+"key_vip_to_open_vip" = "开通VIP";
 
-"key_esp_server_error_code_101031" = "忘记密码请求失败";
+"key_vip_to_renew_ai_membership" = "续费AI会员";
 
-"key_esp_server_error_code_101032" = "缺少密码";
+"key_vip_ware_price_per_count_title_[<xxxx>]" = "每点[<xxxx>]";
 
-"key_esp_server_error_code_101036" = "错误，指定的logout_all值无效。[有效值为true/false]";
+"key_vip_ware_price_per_day_title_[<xxxx>]" = "每日[<xxxx>]";
 
-"key_esp_server_error_code_101037" = "请提供有效的电话号码";
+"Key-Origin" = "Value-Chinese";
 
-"key_esp_server_error_code_101038" = "代码无效";
+"key_cook_guide_choose_cook_mode_tips​" = "选择您想要烹饪的模式";
 
-"key_esp_server_error_code_101039" = "缺少会话";
-
-"key_esp_server_error_code_101044" = "用户已成功迁移至新用户池。请尝试重新登录。";
-
-"key_esp_server_error_code_101045" = "错误，缺少姓名、电话号码或MFA";
-
-"key_esp_server_error_code_101046" = "此API不支持旧用户池";
-
-"key_esp_server_error_code_101047" = "错误，未为用户添加电话号码";
-
-"key_esp_server_error_code_101048" = "错误，电话号码未验证";
-
-"key_esp_server_error_code_101049" = "验证电话号码时出错";
-
-"key_esp_server_error_code_101050" = "启用或禁用MFA时出错";
-
-"key_esp_server_error_code_101051" = "错误，对于使用电话号码作为用户名的用户，不支持更新电话号码和MFA";
-
-"key_esp_server_error_code_101052" = "错误，该用户的电话号码已验证";
-
-"key_esp_server_error_code_101053" = "错误，姓名应至少包含1个字符，最多256个字符";
-
-"key_esp_server_error_code_101055" = "验证电话号码时出错，请稍后重试";
-
-"key_esp_server_error_code_101056" = "已存在使用此电话号码的用户";
-
-"key_esp_server_error_code_101057" = "超过最大限制，请稍后重试";
-
-"key_esp_server_error_code_101058" = "登录失败，您的账户需要重置密码。请执行忘记密码流程。";
-
-"key_esp_server_error_code_101066" = "无效的更新操作。请使用有效的操作[add, remove]提供标签";
-
-"key_esp_server_error_code_101067" = "部分标签无效。有效标签应为 key:value 类型";
-
-"key_esp_server_error_code_101087" = "此操作不允许访客用户执行";
-
-"key_esp_server_error_code_101097" = "访客转换仅支持邮箱地址。不支持电话号码。";
-
-"key_esp_server_error_code_102002" = "更新节点参数失败";
-
-"key_esp_server_error_code_102003" = "获取节点状态失败";
-
-"key_esp_server_error_code_102004" = "节点不存在";
-
-"key_esp_server_error_code_102006" = "未找到设备上报状态";
-
-"key_esp_server_error_code_103001" = "获取节点失败";
-
-"key_esp_server_error_code_103002" = "未找到节点配置";
-
-"key_esp_server_error_code_103003" = "指定的操作无效。[有效操作值为 add/remove]";
-
-"key_esp_server_error_code_103004" = "用于映射用户到节点的密钥为空";
-
-"key_esp_server_error_code_103005" = "节点ID过长";
-
-"key_esp_server_error_code_103006" = "密钥过长";
-
-"key_esp_server_error_code_103007" = "获取节点到用户映射失败";
-
-"key_esp_server_error_code_103008" = "添加用户到节点映射失败";
-
-"key_esp_server_error_code_103009" = "检查节点是否属于请求用户时出错";
-
-"key_esp_server_error_code_103010" = "添加用户到节点映射请求失败";
-
-"key_esp_server_error_code_103011" = "用户节点映射请求已超时";
-
-"key_esp_server_error_code_103012" = "移除用户到节点映射失败";
-
-"key_esp_server_error_code_103013" = "用户到节点映射不存在";
-
-"key_esp_server_error_code_103014" = "检查节点是否属于用户时出错";
-
-"key_esp_server_error_code_103015" = "获取用户节点总数时出错";
-
-"key_esp_server_error_code_103016" = "缺少RequestId";
-
-"key_esp_server_error_code_103017" = "获取节点到用户映射请求失败";
-
-"key_esp_server_error_code_103018" = "未找到用户节点映射请求";
-
-"key_esp_server_error_code_103019" = "移除节点组映射失败";
-
-"key_esp_server_error_code_103020" = "节点不属于该用户";
-
-"key_esp_server_error_code_103035" = "用户节点映射成功，但将节点添加到组失败";
-
-"key_esp_server_error_code_103041" = "获取用户节点历史记录时发生错误";
-
-"key_esp_server_error_code_103042" = "用户节点历史记录未启用";
-
-"key_esp_server_error_code_103043" = "无效的查询参数组合";
-
-"key_esp_server_error_code_103044" = "无效的节点类型值";
-
-"key_esp_server_error_code_103054" = "删除节点关联失败";
-
-"key_esp_server_error_code_103055" = "未找到节点";
-
-"key_esp_server_error_code_105018" = "缺少节点ID";
-
-"key_esp_server_error_code_105041" = "附加节点标签时发生错误";
-
-"key_esp_server_error_code_105042" = "错误，一个请求中只支持一个逻辑运算符";
-
-"key_esp_server_error_code_105043" = "提供的起始键无效";
-
-"key_esp_server_error_code_105044" = "移除节点标签时发生错误";
-
-"key_esp_server_error_code_105046" = "某些标签无效。有效标签应为“键:值”类型";
-
-"key_esp_server_error_code_107001" = "请指定至少一个节点";
-
-"key_esp_server_error_code_107002" = "缺少用户名";
-
-"key_esp_server_error_code_107003" = "不允许对自身节点进行共享操作[添加/移除]";
-
-"key_esp_server_error_code_107004" = "检查节点是否属于请求用户时发生错误";
-
-"key_esp_server_error_code_107006" = "检查用户是否存在时发生错误";
-
-"key_esp_server_error_code_107007" = "用户不存在，无法共享";
-
-"key_esp_server_error_code_107009" = "移除用户到节点映射失败";
-
-"key_esp_server_error_code_107011" = "用户到节点映射不存在";
-
-"key_esp_server_error_code_107012" = "获取节点的共享用户时发生错误";
-
-"key_esp_server_error_code_107013" = "用户未与任何节点关联";
-
-"key_esp_server_error_code_107014" = "获取节点到用户映射失败";
-
-"key_esp_server_error_code_107015" = "移除节点组映射失败";
-
-"key_esp_server_error_code_107022" = "节点列表过长。最多只能包含100个节点。";
-
-"key_esp_server_error_code_107024" = "错误，缺少某些节点。";
-
-"key_esp_server_error_code_107027" = "错误。用户应为请求中所有节点的主要所有者";
-
-"key_esp_server_error_code_107028" = "错误，无法移除通过组共享的节点";
-
-"key_esp_server_error_code_107036" = "指定的访问范围无效。[有效操作值为 READ, WRITE, NONE]";
-
-"key_esp_server_error_code_107038" = "次级用户无权授予节点数据访问权限";
-
-"key_esp_server_error_code_107085" = "错误。用户应为请求中所有节点的主要所有者";
-
-"key_esp_server_error_code_112048" = "无效的区域设置。请输入有效的区域设置";
-
-"key_esp_server_error_code_119001" = "存储用户删除请求时发生错误";
-
-"key_esp_server_error_code_119003" = "获取用户删除请求时发生错误";
-
-"key_esp_server_error_code_119004" = "删除用户失败";
-
-"key_esp_server_error_code_119005" = "验证码不正确";
-
-"key_esp_server_error_code_119006" = "用户不存在";
-
-"key_esp_server_error_code_119007" = "缺少验证码";
-
-"key_esp_server_error_code_119008" = "发送验证码失败";
-
-"key_esp_server_error_code_119009" = "发起用户删除请求失败";
-
-"key_esp_server_error_code_119014" = "移除现有用户删除请求时发生错误";
-
-"key_esp_server_error_code_119015" = "该用户不存在删除请求";
-
-"key_esp_server_error_code_119016" = "尝试次数超限，请重新请求删除用户";
-
-"key_esp_server_error_code_119017" = "超级管理员用户删除受限制！";
-
-"key_module_will_delete" = "key_module_will_delete";
-
-"key_login_account_forget" = "忘记密码？";
-
-"key_iap_describe_card_year_non_consume" = "无限的AI图像分析\n 无限的AI食谱推荐\n 专属AI会员身份\n 未来优先获得更多新功能的使用权";
-
-"key_iap_describe_card_season_non_consume" = "无限的AI图像分析\n 无限的AI食谱推荐\n 专属AI会员身份";
-
-"key_iap_describe_card_month_non_consume" = "无限的AI图像分析\n 无限的AI食谱推荐";
-
-"key_iap_describe_card_week_non_consume" = "无限的AI图像分析";
-
-"key_bind_delete_probe" = "删除探头";
-
-"key_bind_connect_wifi" = "正在连接至 Wi-Fi";
-
-"key_bind_connecting_to_wifi" = "正在连接Wi-Fi…";
-
-"key_bind_cloud_connecting" = "云连接";
-
-"key_bind_connect_to_wifi" = "连接到Wi-Fi";
-
-"key_bind_select_your_wifi" = "选择您的Wi-Fi";
-
-"key_bind_searching_wifi" = "正在扫描Wi-Fi";
-
-"key_bind_wiFi_connection_failed" = "Wi-Fi连接失败";
-
-"key_bind_WiFi_connection_failed" = "Wi-Fi连接失败";
+"key_bind_unified_product_brochure​" = "产品手册";

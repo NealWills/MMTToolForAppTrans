@@ -1,0 +1,16 @@
+buildwithxcode: true
+workspace: Example/MMTToolForAppTrans.xcworkspace
+scheme: MMTToolForAppTrans-Example
+platform: sim
+device: "iPhone 17 Pro"
+oslogenabled: true
+
+profiles:
+  sim17:
+    platform: sim
+    device: "iPhone 17 Pro"
+  sim17max:
+    platform: sim
+    device: "iPhone 17 Pro Max"
+
+activeProfile: sim17

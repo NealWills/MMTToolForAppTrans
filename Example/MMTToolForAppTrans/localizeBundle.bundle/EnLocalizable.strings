@@ -1,1122 +1,258 @@
-"key_module_login" = "key_module_login";
+"Key_Module_AI" = "Key_Module_AI";
 
-"key_login_go_to_login" = "Go to login";
+"key_ai_answer_recipe_cook_awaken_title" = "Cook Awaken";
 
-"key_login_log_in" = "Log In";
+"key_ai_answer_recipe_cook_flip_title" = "Cook Flip";
 
-"key_login_visitor" = "Visitor";
+"key_ai_answer_recipe_cook_meat_name_title" = "Cook Meat Name";
 
-"key_login_privacy_[<xxxx>]" = "I agree that I have read and accepted the [<xxxx>].";
+"key_ai_answer_recipe_cook_steps_title" = "Cook Step";
 
-"key_login_privacy_service" = "《Privacy & Terms》";
+"key_ai_answer_recipe_cook_time_title" = "Cook Time";
 
-"key_login_sign_in" = "Sign In";
+"key_ai_answer_recipe_ingredient_list_title" = "Ingredient List";
 
-"key_login_account_title" = "Your Email";
+"key_ai_answer_recipe_name_title" = "Recipe Name";
 
-"key_login_account_placeholder" = "Email";
+"key_ai_answer_recipe_notes_title" = "Notes";
 
-"key_login_account_error_empty" = "Please enter email";
+"key_ai_answer_recipe_pre_time_title" = "Pre Time";
 
-"key_login_account_error_less" = "Email must be at least 4 characters";
+"key_ai_answer_recipe_star_title" = "Star";
 
-"key_login_account_error_unvalid" = "Enter the correct email";
+"key_ai_answer_recipe_total_time_title" = "Total Time";
 
-"key_login_password_title" = "Password";
+"key_ai_answer_result_choice_confirm_title" = "Using the recipe";
 
-"key_login_password_placeholder" = "Password";
+"key_ai_answer_result_choice_equipment_title" = "Chooseing Equipment";
 
-"key_login_password_error_less" = "Password must be at least 6 characters";
+"key_ai_answer_result_choice_meat_title" = "Choosing Meat";
 
-"key_login_password_error_unvalid" = "Please enter the correct password";
+"key_ai_answer_result_choice_temperature_title" = "Chooseing Temperature";
 
-"key_login_password_old_title" = "Old Password";
+"key_ai_answer_result_choice_title" = "Your Choice";
 
-"key_login_password_old_placeholder" = "Old Password";
+"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "Chooseing Equipment";
 
-"key_login_password_old_empty" = "Enter old password";
+"key_ai_answer_setting_cooking_choose_meat_title_sub" = "Choosing Meat";
 
-"key_login_password_old_error_less" = "Password must be at least 6 characters";
+"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "Chooseing Temperature";
 
-"key_login_password_old_error_unvalid" = "Please enter the correct password";
+"key_ai_answer_setting_cooking_title_confirm" = "I've Chosen";
 
-"key_login_password_new_title" = "New Password";
+"key_ai_collection_cook_segment_title" = "Cooking Profile";
 
-"key_login_password_new_placeholder" = "New Password";
+"key_ai_collection_recipes_segment_title" = "Ai Recipes";
 
-"key_login_password_new_error_less" = "New password must be at least 6 characters";
+"key_ai_day_distance_last_30_day" = "Last 30 Day";
 
-"key_login_password_new_error_unvalid" = "Please enter the correct new password";
+"key_ai_day_distance_last_7_day" = "Last 7 Day";
 
-"key_login_password_confirm_title" = "Confirm Password";
+"key_ai_day_distance_last_day" = "Yesterday";
 
-"key_login_password_confirm_placeholder" = "Confirm Password";
+"key_ai_day_distance_today" = "Today";
 
-"key_login_password_confirm_error_less" = "Confirm password must be at least 6 characters";
+"key_ai_dialogue_empty_title" = "No AI History Yet";
 
-"key_login_password_confirm_error_unvalid" = "Please enter the correct confirm password";
+"key_ai_dialogue_empty_title_sub" = "Start using AI to generate recipes, get tips, and see your results here.";
 
-"key_login_password_match_error" = "Passwords do not match";
+"key_ai_home_image_recognition_title" = "AI Image Recognition";
 
-"key_login_password_old_equal_to_new_error" = "The old password and the new password are the same";
+"key_ai_home_image_recognition_title_sub" = "Photo to Recipe: Cook with What You Have";
 
-"key_login_code_title" = "Verification Code";
+"key_ai_home_last_recipe_ask_title" = "Ask";
 
-"key_login_code_placeholder" = "Verification Code";
+"key_ai_home_last_recipe_master_title" = "Master";
 
-"key_login_code_empty" = "Verification code required";
+"key_ai_home_last_recipe_scan_title" = "Scan";
 
-"key_login_code_error_less" = "Verification code must be at least 6 characters";
+"key_ai_home_last_recipe_title" = "Last AI Recipe";
 
-"key_login_code_error_unvalid" = "Verification Code Incorrect";
+"key_ai_home_recipe_recommendations_title" = "AI Recipe Recommendations";
 
-"key_login_code_error_tips" = "Incorrect code. Please try again.";
+"key_ai_home_recipe_recommendations_title_sub" = "Idea to Recipe: Cook What You Love";
 
-"key_login_privacy_view_title" = "Please read and agree to the terms below";
+"key_ai_home_title" = "AI Cooking";
 
-"key_login_privacy_view_term" = "Terms of Use";
+"key_ai_image_recognition_cart_title" = "Tell us what you like — we'll recommend recipes you'll love!";
 
-"key_login_privacy_view_privacy" = "Privacy Agreement";
+"key_ai_master_enterence_confirm" = "AI Customize";
 
-"key_login_privacy_view_confirm" = "Agree And Continue";
+"key_ai_master_enterence_header" = "AI Cooking Master";
 
-"key_login_sign_in_error" = "Incorrect user name or password";
+"key_ai_master_enterence_title" = "Customize Recipe";
 
-"key_login_account_btn_forget" = "Forgot password";
+"key_ai_master_enterence_title_sub" = "Tell us your preferences — we’ll create the perfect recipe for you.";
 
-"key_login_account_reset" = "Reset the password";
+"key_ai_master_see_more_title" = "Unlock AI Membership to access more Master Recipes.";
 
-"key_login_account_exist_not" = "Don't have an account";
+"key_ai_master_see_more_title_sub" = "Subscribe";
 
-"key_login_account_create" = "Create a new one";
+"key_ai_master_setting_animal_title" = "What are you cooking today";
 
-"key_login_email_verify" = "Verify Your Email";
+"key_ai_master_setting_confirm_open_title" = "Open Vip To Save";
 
-"key_login_verify_confirm" = "Verify";
+"key_ai_master_setting_confirm_save_title" = "Save";
 
-"key_login_code_get" = "Get";
+"key_ai_master_setting_doneness_title" = "Perfect Doneness";
 
-"key_login_code_sent" = "Verification code sent";
+"key_ai_master_setting_during_title" = "Time Budget";
 
-"key_login_code_sent_failure" = "Verification code sent failure";
+"key_ai_master_setting_equipment_title" = "Cooking Method";
 
-"key_login_reset_success" = "Password Reset Successful";
+"key_ai_master_setting_flavor_title" = "Flavor Preference";
 
-"key_login_nav_password_reset" = "Password Reset";
+"key_ai_master_setting_nav_title" = "AI Master Settings";
 
-"key_login_nav_register" = "Register";
+"key_ai_probe_insert_next_title" = "Next Step";
 
-"key_login_register_confirm" = "Register";
+"key_ai_probe_insert_title" = "Probe Insertion";
 
-"key_login_register_failure" = "Registration Failed";
+"key_ai_recipe_answer_card_title" = "Smart cooking settings";
 
-"key_login_regist_success" = "Register success";
+"key_ai_recipe_answer_card_title_sub" = "Based on your selection, we will generate a drawing recipe for you";
 
-"key_login_register_error_account_exist_subtitle" = "User account already exists";
+"key_ai_recipe_answer_nav_title" = "AI Answer";
 
-"key_login_register_error_account_exist_title" = "Account Exists";
+"key_ai_recipe_answer_title_sub" = "Please select according to the options";
 
-"key_login_regist_code_tips" = "Check the verification code in your email";
+"key_ai_recipe_collection" = "Save Recipe";
 
-"key_login_info_edit_success" = "Update Successful";
+"key_ai_recipe_collection_failure_title" = "Successfully removed from Favorites";
 
-"key_login_nav_account_delete" = "Delete Account";
+"key_ai_recipe_collection_success_title" = "Saved successfully!";
 
-"key_lgoin_account_delete" = "Delete Account";
+"key_ai_recipe_collection_success_title_sub" = "You can view and manage it in “My → Favorite Recipes.”";
 
-"key_login_account_delete_success" = "Delete success";
+"key_ai_recipe_confirm_detail_title" = "View Recipe Details >";
 
-"key_login_password_reset" = "Reset";
+"key_ai_recipe_confirm_next_title" = "Begin Grill";
 
-"key_login_nav_reset" = "Reset";
+"key_ai_recipe_confirm_swipe_title_tips" = "Swipe left and right to see more";
 
-"key_login_reset_account_[<xxxx>]" = "You are about to reset Password for [<xxxx>]";
+"key_ai_recipe_confirm_title" = "AI Barbecue Solution";
 
-"key_login_reset_success_then_login" = "Your password has been successfully reset. For the security of your account, please log in again";
+"key_ai_recipe_confirm_title_sub" = "Based on the content of your photos, we have generated a set of intelligent barbecue solutions for you,If you are not satisfied with a suggestion below, click Edit.";
 
-"key_login_account_delete_title" = "Are you sure you want to delete your account";
+"key_ai_recipe_cooking_instruction_title" = "Cooking Instructions";
 
-"key_login_account_delete_title_sub" = "Once your account is deleted, your data cannot be recovered.";
+"key_ai_recipe_description_title" = "Description";
 
-"key_login_account_delete_sure" = "Sure";
+"key_ai_recipe_difficult_challenging" = "Challenging";
 
-"key_log_log_in_success" = "Log in success";
+"key_ai_recipe_difficult_easy" = "Easy";
 
-"key_log_log_in_failure" = "Log in failure";
+"key_ai_recipe_difficult_moderate" = "Moderate";
 
-"key_login_tourist_alert_title" = "Bluetooth Only Mode";
+"key_ai_recipe_difficult_professional" = "Professional";
 
-"key_login_tourist_alert_title_tips" = "Right now, you’re connected via Bluetooth only. Log in to unlock more features and enjoy the full experience.";
+"key_ai_recipe_dis_collection" = "Unsave Recipe";
 
-"key_login_tourist_alert_sign_in_title" = "Sign In";
+"key_ai_recipe_help_tips_title" = "Helpful Tips";
 
-"key_login_tourist_alert_confirm_title" = "Confirm";
+"key_ai_recipe_ingredients_title" = "Ingredients";
 
-"key_login_home_title_email" = "Sign In With Email";
+"key_ai_recipe_pre_cooking_title" = "Pre-Cooking Steps";
 
-"key_login_home_title_start" = "Get Started";
+"key_ai_recipe_recommend_card_awaken_title" = "Wake up the meat";
 
-"key_login_email_password_title" = "Login\n With Password";
+"key_ai_recipe_recommend_card_cooking_tool_title" = "Cooking environment";
 
-"key_login_email_password_input_email_title" = "Email";
+"key_ai_recipe_recommend_card_flip_title" = "Flip";
 
-"key_login_email_password_input_email_placeholder" = "Please input email";
+"key_ai_recipe_recommend_card_meat_name_title" = "Meat";
 
-"key_login_email_password_input_password_title" = "Password";
+"key_ai_recipe_recommend_card_meat_size_title" = "Estimated meat inch";
 
-"key_login_email_password_input_password_placeholder" = "Please input password";
+"key_ai_recipe_recommend_card_temperature_title" = "Cooking Mode";
 
-"key_login_email_password_button_reset_title" = "Reset Password";
+"key_ai_recipe_recommend_card_title_[<xxxx>]" = "Recommended recipe [<xxxx>]";
 
-"key_login_email_password_button_code_title" = "Login With Code";
+"key_ai_recipe_recommend_card_title_sub" = "We recommend personalized recommendations based on your";
 
-"key_login_email_password_button_create_title" = "Create Account";
+"key_ai_recipe_unit_minute" = "minutes";
 
-"key_login_email_password_button_login_title" = "Log in";
+"key_ai_recognition_photo_title" = "Use This Photo";
 
-"key_login_email_code_title" = "Login\n With Code";
+"key_ai_recognition_photo_working_title" = "AI Cooking Master Is Working";
 
-"key_login_email_code_login_button_password_title" = "Login With Password";
+"key_ai_recognition_result_cancel_title" = "Re-identification";
 
-"key_login_email_code_login_button_get_code_title" = "Get Code";
+"key_ai_recognition_result_confirm_title" = "Next Step";
 
-"key_login_email_code_send_success_title" = "Verification code sent";
+"key_ai_recognition_result_preparation_title" = "Preparation";
 
-"key_login_email_code_auth_title" = "Enter Verification Code";
+"key_ai_recognition_result_title" = "Al Recognition Results";
 
-"key_login_email_code_auth_send_tips_[<xxxx>]" = "Verification Code Sent To: [<xxxx>]";
+"key_ai_smart_cooking_master" = "Smart Cooking Master";
 
-"key_login_email_code_auth_confirm_title" = "Log in";
+"key_ai_you_uploaded_this_photo" = "You Uploaded This Photo";
 
-"key_login_email_code_auth_code_unvalid_tips" = "The verification code has expired. We are sending you a new one.";
+"Key_Module_BBQ" = "Key_Module_BBQ";
 
-"key_login_email_code_auth_resend_title_[<xxxx>]" = "Resend Code [<xxxx>]";
-
-"key_login_email_create_title" = "Email \n Sign-up";
-
-"key_login_email_create_input_email_title" = "Your Email";
-
-"key_login_email_create_input_code_title" = "Verification Code";
-
-"key_login_email_create_input_code_title_placeholder" = "Please input code";
-
-"key_login_email_create_confirm_title" = "Next";
-
-"key_login_email_button_code_send_title" = "Get";
-
-"key_login_email_button_code_resend_title" = "Resend";
-
-"key_login_password_create_title" = "Password Reset";
-
-"key_login_password_create_step_title" = "Create Your Password";
-
-"key_login_password_create_password_input_title" = "Password";
-
-"key_login_password_create_password_input_placeholder_title" = "Please input password";
-
-"key_login_password_create_password_confirm_input_title" = "Enter Password";
-
-"key_login_password_create_password_confirm_input_placeholder_title" = "Please input password";
-
-"key_login_password_create_password_confirm_button_title" = "Next";
-
-"key_login_reset_nav_title" = "Authentication";
-
-"key_login_reset_email_title" = "Your Email";
-
-"key_login_reset_code_title" = "Verification Code";
-
-"key_login_reset_code_input_placeholder" = "Please input code";
-
-"key_login_reset_code_send_title" = "Get";
-
-"key_login_reset_code_resend_title" = "Resend";
-
-"key_login_delete_nav_title" = "Authentication";
-
-"key_login_delete_email_title" = "Your Email";
-
-"key_login_delete_code_title" = "Verification Code";
-
-"key_login_delete_code_input_placeholder" = "Please input code";
-
-"key_login_delete_code_send_title" = "Get";
-
-"key_login_delete_code_resend_title" = "Resend";
-
-"key_login_delete_confirm_title" = "Delete Account";
-
-"key_module_userinfo" = "key_module_userinfo";
-
-"key_userinfo_edit_title" = "Edit Personal";
-
-"key_userinfo_nick_placeholder" = "Enter nickname";
-
-"key_userinfo_nick_tips_[<xxxx0>]_[<xxxx1>]" = "Nickname needs to meet [<xxxx0>]-[<xxxx1>] characters";
-
-"key_userinfo_personal_information" = "Personal Information";
-
-"key_userinfo_save_confirm" = "Save";
-
-"key_module_tabbar" = "key_module_tabbar";
-
-"key_tabbar_home" = "Home";
-
-"key_tabbar_history" = "History";
-
-"key_tabbar_setting" = "Setting";
-
-"key_tabbar_ai" = "Ai";
-
-"key_module_home" = "key_module_home";
-
-"key_home_add_tips" = "Please add device";
-
-"key_home_tourist_alert_title" = "Note";
-
-"key_home_tourist_alert_title_sub" = "Guest mode only supports Bluetooth connection. To enjoy unlimited range, please log in.";
-
-"key_home_tourist_bluetooth_only" = "Bluetooth Only";
-
-"key_home_status_change_alert_title" = "Status Change";
-
-"key_home_status_change_alert_title_sub" = "Logged in. Connect booster to Wi-Fi for unlimited range and remote monitoring.";
-
-"key_home_status_change_alert_title_confirm" = "Connect To Wi-Fi";
-
-"key_home_device_add_limit" = "Add Device Limit";
-
-"key_home_device_add_limit_tips" = "Can't add more devices. Remove one or contact support";
-
-"key_home_add_offline" = "Add offline";
-
-"key_home_add_offline_tips" = "Currently offline, the devices you added may be overwritten by devices added online.";
-
-"key_home_guest" = "Guest";
-
-"key_home_exit_visitor_mode" = "Exit Visitor Mode";
-
-"key_module_device" = "key_module_device";
-
-"key_device_name_010x_[<xxxx>]" = "meatmeet Pro [<xxxx>]";
-
-"key_device_name_020x_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
-
-"key_device_name_0200_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
-
-"key_device_name_0201_[<xxxx>]" = "meatmeet Pro 2026 [<xxxx>]";
-
-"key_device_name_030x_[<xxxx>]" = "meatmeet X Pro [<xxxx>]";
-
-"key_device_name_0301_[<xxxx>]" = "meatmeet Z Pro [<xxxx>]";
-
-"key_device_name_0400_[<xxxx>]" = "meatmeet S Pro 2026 [<xxxx>]";
-
-"key_device_name_010x" = "meatmeet Pro";
-
-"key_device_name_020x" = "meatmeet S Pro";
-
-"key_device_name_0200" = "meatmeet S Pro";
-
-"key_device_name_0201" = "meatmeet Pro 2026";
-
-"key_device_name_030x" = "meatmeet X Pro";
-
-"key_device_name_0300" = "meatmeet X Pro";
-
-"key_device_name_0301" = "meatmeet Z Pro";
-
-"key_device_name_0400" = "meatmeet S pro 2026";
-
-"key_device_probe_[<xxxx>]" = "Probe [<xxxx>]";
-
-"key_device_probe_[<xxxx>]_mac" = "Probe [<xxxx>] Mac";
-
-"key_device_warning" = "Warning!!!";
-
-"key_device_probe_not_connected" = "Probe Not Connected";
-
-"key_device_hub_disconnected" = "Device Disconnected";
-
-"key_device_signal_interrupted" = "Signal interrupted";
-
-"key_device_booster_low_battery" = "Booster: Low battery";
-
-"key_device_probe_low_battery" = "Probe: Low battery";
-
-"key_device_probe_is_charging" = "Probe is charging";
-
-"key_device_insert" = "Insert";
-
-"key_device_access_restricted" = "Access Restricted";
-
-"key_device_network_error" = "Network Error";
-
-"key_device_probe_temperature" = "Probe Temperature";
-
-"key_device_bluetooth_disconnected" = "Bluetooth Disconnected";
-
-"key_device_bluetooth_disconnected_title" = "Bluetooth Disconnected";
-
-"key_device_bluetooth_disconnected_title_sub" = "Please check the Bluetooth connection status of the device";
-
-"key_device_home_tourist_title" = "You are currently in guest mode. Register or log in to view and edit your personal information.";
-
-"key_device_please_check_the_position_and_condition_of_the_probe" = "Please check the position and condition of the probe";
-
-"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "The device [<xxxx>] is disconnected. Please check your device and reconnect. Press the button till LED flash（about 2s）to turn on the device";
-
-"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "Your grill detection has been interrupted because the phone is too far from the device [<xxxx>]";
-
-"key_device_please_connect_the_meat_[<xxxx>]_charger" = "Please connect the meat [<xxxx>] charger";
-
-"key_device_put_probe_into_booster_to_charge" = "Put probe into booster to charge";
-
-"key_device_delete" = "Delete";
-
-"key_device_no_device" = "No Device Found";
-
-"key_device_in_cooking" = "Cooking in progress";
-
-"key_device_please_add_your_probe" = "Please add your probe";
-
-"key_device_ota_checking" = "Checking";
-
-"key_device_ota_check" = "Check";
-
-"key_device_ota_new_version" = "New Version";
-
-"key_device_ota_new_version_ready" = "New Version Ready";
-
-"key_device_ota_current_version" = "Current Version";
-
-"key_device_ota_download_and_install" = "Download And Install";
-
-"key_device_ota_fail_alert_download_failed_title" = "Download Failed";
-
-"key_device_ota_fail_alert_download_failed_title_sub" = "Firmware download failed. Please check your network connection.";
-
-"key_device_ota_fail_alert_update_delay_failed_title" = "Update Delay";
-
-"key_device_ota_fail_alert_update_delay_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device status.";
-
-"key_device_ota_fail_alert_device_busy_failed_title" = "Device Busy";
-
-"key_device_ota_fail_alert_device_busy_failed_title_sub" = "The device is busy with other tasks and cannot start the firmware update immediately. Please ensure the device is idle before updating.";
-
-"key_device_ota_fail_alert_server_unresponsive_failed_title" = "Server Unresponsive";
-
-"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "The firmware server is unavailable or the request timed out, causing the firmware download to fail. Please try again later.";
-
-"key_device_ota_fail_alert_server_update_failed_title" = "Update Failed";
-
-"key_device_ota_fail_alert_server_update_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device status.";
-
-"key_device_ota_fail_alert_not_primary_failed_title_sub" = "This device is not the main device, and the device cannot be OTA upgraded";
-
-"key_device_ota_success_alert_title" = "Update Successful";
-
-"key_device_ota_success_alert_title_sub" = "Congratulations, your device firmware has been successfully updated!";
-
-"key_device_ota_fail_alert_transfer_failed_title" = "Transfer Failed";
-
-"key_device_ota_fail_alert_transfer_failed_title_sub" = "Update failed due to transfer timeout or device shutdown. Please retry firmware transfer";
-
-"key_device_ota_file_downloading_[<xxxx>]" = "Downloading [<xxxx>]%";
-
-"key_device_ota_install" = "Install";
-
-"key_device_ota_doing_title" = "During update";
-
-"key_device_ota_doing_title_sub" = "Updating firmware, please wait…";
-
-"key_device_ota_doing_transmit_title_sub" = "The new firmware is currently being transmitted and may take some time. Please be patient";
-
-"key_device_ota_installing_firmware" = "Installing firmware updates, which may take some time";
-
-"key_device_ota_firmware_installing" = "Firmware Installing";
-
-"key_device_ota_firmware_image_download_complete" = "Firmware Image Download Complete";
-
-"key_device_ota_fail_alert_during_cooking_title" = "Cooking in progress";
-
-"key_device_ota_fail_alert_during_cooking_title_sub" = "Cooking in progress. OTA updates are not supported during cooking. Please wait until the process is complete.";
-
-"key_device_ota_fail_alert_not_online_title" = "Device Not Networked";
-
-"key_device_ota_fail_alert_not_online_title_sub" = "Please add the device to your network before attempting a firmware update.";
-
-"key_device_ota_fail_alert_low_power_title" = "Update blocked";
-
-"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "Update unavailable. Make sure battery is above [<xxxx>]% or keep the device plugged in.";
-
-"key_device_ota_already_the_lastest_version" = "Already The Latest Version";
-
-"key_device_ota_update" = "Update";
-
-"key_device_ota_preparing" = "Preparing";
-
-"key_device_ota_update_start" = "Update Start";
-
-"key_upgrading_device_ota" = "Upgrading";
-
-"key_update_failed_device_ota" = "Update Failed";
-
-"key_device_ota_rejected" = "Rejected";
-
-"key_device_ota_success" = "Update Successful";
-
-"key_device_nav_share" = "Share";
-
-"key_device_share_add" = "Add User";
-
-"key_device_share_alert_device_invitation" = "Device Invitation";
-
-"key_device_share_alert_device_invitation_will_send" = "Invitation will be sent to the user";
-
-"key_device_share_alert_device_invitation_success_title_sub" = "Device has been successfully shared. Please notify the user promptly.";
-
-"key_device_share_alert_device_invitation_success_title" = "Sharing Successful";
-
-"key_device_share_alert_device_invitation_failed_title" = "Share Failed";
-
-"key_device_share_alert_device_invite_user" = "Invite User";
-
-"key_device_share_alert_device_delete_account_title" = "Delete Account";
-
-"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "The user '[<xxxx>]' is about to be removed. Are you sure you want to remove it?";
-
-"key_device_share_alert_device_delete_success" = "Delete success";
-
-"key_device_share_alert_device_delete_failure_network_error" = "Delete failed. Please check your internet connection.";
-
-"key_share_share_list" = "Share List";
-
-"key_share_action_accepted" = "Accepted";
-
-"key_share_action_refuse" = "Refuse";
-
-"key_share_action_device_delete" = "Delete Device";
-
-"key_share_action_device_exit" = "Exit";
-
-"key_device_probe_firmware_update" = "Probe Firmware Update";
-
-"key_device_what_is_happen" = "What’s Happening";
-
-"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "We’re updating your probe’s firmware to enhance your cooking experience.";
-
-"key_device_what_you_need_to_do" = "What You Need to Do?";
-
-"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "Insert the probe into its charging case and keep it there for 1–3 minutes while the update completes.\n \n Note: Please do not remove the probe or power off the case during the update.";
-
-"key_device_please_insert_the_probe_into_the_box" = "Please Insert The Probe Into The Box";
-
-"key_device_probe_upgrade_in_progress" = "Probe Upgrade In Progress";
-
-"key_device_probe_repair_failure" = "Probe repair failure";
-
-"key_device_probe_repair_failure_tips" = "Trouble upgrading your probe,Something went wrong during the upgrade.\n Please tap the button below to let us know what happened — we’ll take care of it as soon as possible.Thanks for choosing Meatmeet!";
-
-"key_device_probe_repair_success" = "Probe repair success";
-
-"key_device_probe_repair_success_tips" = "Probe firmware upgraded successfully — thank you for your patience! Enjoy your cooking.";
-
-"key_device_delete_unvalid_cause_cooking" = "Couldn't delete device while cooking";
-
-"key_device_wifi_unvalid_cause_cooking" = "Couldn't config Wi-Fi while cooking";
-
-"key_device_probe_change_unvalid" = "Probe Change Unavailable";
-
-"key_device_probe_change_not_allow_while_cooking" = "Probe change is not allowed while cooking. Please wait until the cooking is complete";
-
-"key_device_new_meatmeet_s_pro_welcome_to_you" = "New Meatmeet S Pro\n Welcome To You";
-
-"key_device_introducing_our_all_new_5_sensor_smart_meat_thermometer_with_fully_upgraded_hardware_multi_point_temperature_monitoring_simultaneously_monitors_5_spots_for_evenly_cooked_perfection_real_time_data_transmission_instantly_track_temperature_changes_without_frequently_opening_the_grill_high_compatibility_easily_works_with_various_grills_and_accessories_for_seamless_operation" = "Introducing our all-new 5-sensor smart meat thermometer with fully upgraded hardware:\n • Multi-point Temperature Monitoring: Simultaneously monitors 5 spots for evenly cooked perfection\n • Real-time Data Transmission: Instantly track temperature changes without frequently opening the grill\n • High Compatibility: Easily works with various grills and accessories for seamless operation";
-
-"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "Device is currently connected but offline. Please ensure it’s connected to the internet to share.";
-
-"key_device_probe_replace_failure_while_cooking" = "Probe change is not allowed while cooking. Please wait until the cooking is complete";
-
-"key_device_select_mode" = "Select Mode";
-
-"key_device_select_add_device_title" = "Select Device";
-
-"key_device_select_add_device_title_sub" = "No device found.\n Add a device to start cooking.";
-
-"key_device_select_add_device_cancel" = "Not Now";
-
-"key_device_select_add_device_confirm" = "Add Device";
-
-"key_device_select_add_probe_title" = "Select Probe";
-
-"key_device_select_add_probe_title_sub" = "No probe detected. \n Add a probe to start cooking.";
-
-"key_device_select_add_probe_cancel" = "Not Now";
-
-"key_device_select_add_probe_confirm" = "Add Probe";
-
-"key_device_setting_wifi_manager_nav_title" = "WiFi Manage";
-
-"key_device_change_alias_alert_title" = "Device Name";
-
-"key_device_change_alias_alert_title_sub" = "Choose a unique name to easily identify your device when multiple probes are nearby.";
-
-"key_device_change_alias_alert_placeholder" = "Please input new device name";
-
-"key_device_change_alias_alert_success" = "Device name change success";
-
-"key_module_bind" = "key_module_bind";
-
-"key_bind_float_title" = "Connecting Devices";
-
-"key_bind_float_confirm" = "Connection";
-
-"key_bind_float_pairing_title" = "Device Pairing";
-
-"key_bind_float_pairing_title_sub" = "Select the device you want to connecting";
-
-"key_bind_float_pairing_failed_title" = "Device Pairing Failed";
-
-"key_bind_float_pairing_failed_title_sub" = "You may have encountered one of the following situations, please try again";
-
-"key_bind_float_pairing_failed_faqs" = "FAQS";
-
-"key_bind_float_pairing_failed_confirm" = "Reconnect";
-
-"key_bind_float_pairing_reconnecting" = "Reconnecting";
-
-"key_bind_float_go_cooking" = "Go Cooking";
-
-"key_bind_float_ready_to_use" = "Ready To Use";
-
-"key_bind_float_ready_to_use_start_cook" = "Are you ready? \n Start your exciting cooking journey now!";
-
-"key_bind_float_probe_pairing_title" = "Probe Pairing";
-
-"key_bind_float_probe_pairing_failed_title" = "Probe Pairing Failed";
-
-"key_bind_float_probe_pairing_failed_title_sub" = "Please make sure the probe is inside the box. We will connect the probe. Please note that this process will be quick.";
-
-"key_bind_float_probe_pairing_failed_faqs" = "FAQS";
-
-"key_bind_float_probe_pairing_failed_confirm" = "Reconnect";
-
-"key_bind_connecting_devices" = "Connecting Devices";
-
-"key_bind_found_devices" = "Found Device";
-
-"key_bind_first_time_use" = "First Time Use";
-
-"key_bind_turn_on_the_device" = "Turn On The Device";
-
-"key_bind_bluetooth_connecting" = "Bluetooth Connecting";
-
-"key_bind_no_device_found" = "No device found";
-
-"key_bind_connected_failure" = "Device Connected Failure";
-
-"key_bind_ready_to_connect_wiFi" = "Ready To Connect WiFi";
-
-"key_bind_connect_the_probe" = "Connect The Probe";
-
-"key_bind_transferring_firmware" = "Transferring Firmware";
-
-"key_bind_bluetooth_permissions_deny" = "Bluetooth Permissions Deny";
-
-"key_bind_wifi_connection_failed" = "Wi-Fi connection failed";
-
-"key_bind_wifi_search_title" = "Scanning Wi-Fi";
-
-"key_bind_wifi_select_title" = "Select Your Wi-Fi";
-
-"key_bind_wifi_input_title" = "Connecting To\n Wi-Fi";
-
-"key_bind_wifi_input_title_confirm" = "Connecting To Wi-Fi";
-
-"key_bind_wifi_connecting_title" = "Connecting To\n Wi-Fi";
-
-"key_bind_wifi_connecting_title_sub" = "Connecting To Wi-Fi";
-
-"key_bind_cloud_connecting_title" = "Cloud Connecting";
-
-"key_bind_cloud_connecting_title_sub" = "Connecting To The Cloud";
-
-"key_bind_cloud_connecting_to_cloud" = "Connecting to the cloud";
-
-"key_bind_ok_completed" = "OK,\n completed";
-
-"key_bind_firmware_found" = "Firmware found";
-
-"key_bind_download_firmware" = "Download Firmware";
-
-"key_bind_firmware_update" = "Firmware update";
-
-"key_bind_update_successful" = "Update Successful";
-
-"key_bind_ready_to_use" = "Ready To Use";
-
-"key_bind_guide_title_sub" = "1. Please use USB-C to connect the booster after receiving the device for the first time\n \n 2. Please charge the probe for five minutes after pairing is successful for a better experience";
-
-"key_bind_device_scan_title_sub" = "Make sure your booster is plugged via TypeC and turned on.\n Then double click the power button to start Bluetooth pairing.";
-
-"key_bind_keep_your_bluetooth_turning_on" = "Keep your bluetooth turning on";
-
-"key_bind_scan_timeout" = "make sure your booster is turned and flashing\n 1：Press the button till LED flash（about 2s）\n 2：Double click the button to pair";
-
-"key_bind_connect_success_then_ready_for_wifi" = "You can use the device via Bluetooth,\n but some functions will be limited.\n To have the best experience,\n please follow the instructions to connect to WiFi.";
-
-"key_bind_connect_success_than_temp_bind" = "Please remove the probe from the booster";
-
-"key_bind_please_place_the_new_probe_in_the_booster" = "Please place the new probe in the booster";
-
-"key_bind_the_new_firmware_is_currently_being_transmitted_and_may_take_some_time_please_be_patient" = "The new firmware is currently being transmitted and may take some time. Please be patient";
-
-"key_bind_unable_to_use_your_bluetooth_please_click_setting_to_turn_on_bluetooth" = "Unable to use yout bluetooth.\n Please click 'Setting' to turn on bluetooth.";
-
-"key_bind_keep_bluetooth_turned_on" = "Keep Bluetooth turned on";
-
-"key_bind_you_may_have_encountered_one_of_the_following_situations_please_try_again" = "You may have encountered one of the following situations, please try again";
-
-"key_bind_your_smart_thermometer_is_connected_to_wifi" = "Your smart thermometer is connected to Wi-Fi";
-
-"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "Unlimited distance control possible via the cloud，it may take few seconds";
-
-"key_bind_the_device_is_connected_to_wifi_network_successfully" = "The device is connected to WiFi network successfully";
-
-"key_bind_new_firmware_version_found_updating_will_provide_improved_performance_and_new_features" = "New firmware version found! Updating will provide improved performance and new features.";
-
-"key_bind_downloading_firmware_update_please_keep_your_device_connected_and_do_not_turn_it_off" = "Downloading firmware update. Please keep your device connected and do not turn it off.";
-
-"the_bind_firmware_update_failed_please_try_again_you_can_also_update_the_firmware_in_setting_page_in_future_if_you_choose_to_ignore_it_now" = "The firmware update failed.Please try again.\n You can also update the firmware in 'Setting' page in future if you choose to ignore it now.";
-
-"key_bind_congratulations_your_device_firmware_has_been_successfully_updated" = "Congratulations! Your device firmware has been successfully updated!";
-
-"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "Are you ready?\n Come and start your wonderful cooking career";
-
-"key_bind_finish_net_without_tips" = "Are you ready?\n Come and start your wonderful cooking career";
-
-"key_bind_finish_net_with_tips" = "Are you ready?\n Come and start your wonderful cooking career";
-
-"key_bind_finish_not_now_tips" = "You can keep using Bluetooth, but connecting to Wi-Fi unlocks the full experience. Tap the Wi-Fi icon or go to Device Settings to connect.";
-
-"key_bind_next" = "Next";
-
-"key_bind_back" = "Back";
-
-"key_bind_step_1_Press_the_button_till_led_flash_about_2s" = "Step 1: Press the button till LED flash (about 2s)";
-
-"key_bind_step_2_double_click_the_button_to_pair" = "Step 2: Double click the button to pair";
-
-"key_bind_setup_guide" = "Setup Guide";
-
-"key_bind_step_[<xxxx>]" = "Step [<xxxx>]";
-
-"key_bind_unified_step_1_tips_010x" = "Press and hold the power button for 2 seconds to turn on the device.";
-
-"key_bind_unified_step_2_tips_010x" = "Then, double-press the power button. When the indicator starts flashing rapidly, the device is ready for pairing.";
-
-"key_bind_unified_step_1_tips_020x" = "Tap the power button to turn on the device. You’ll hear a quick beep and see the light start blinking.";
-
-"key_bind_unified_step_2_tips_020x" = "Double-tap the power button to make the device enter pairing mode, then tap the button below to start pairing.";
-
-"key_bind_unified_step_1_tips_0200" = "Tap the power button to turn on the device. You’ll hear a quick beep and see the light start blinking.";
-
-"key_bind_unified_step_2_tips_0200" = "Double-tap the power button to make the device enter pairing mode, then tap the button below to start pairing.";
-
-"key_bind_unified_step_1_tips_0201" = "Ensure the battery is installed and the device is powered on.";
-
-"key_bind_unified_step_2_tips_0201" = "Wait until the bottom button becomes clickable.";
-
-"key_bind_unified_step_1_tips_030x" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
-
-"key_bind_unified_step_2_tips_030x" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
-
-"key_bind_unified_step_3_tips_030x" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
-
-"key_bind_unified_step_1_tips_0300" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
-
-"key_bind_unified_step_2_tips_0300" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
-
-"key_bind_unified_step_3_tips_0300" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
-
-"key_bind_unified_step_1_tips_0301" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
-
-"key_bind_unified_step_2_tips_0301" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
-
-"key_bind_unified_step_3_tips_0301" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
-
-"key_bind_unified_step_1_tips_0400" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
-
-"key_bind_unified_step_2_tips_0400" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
-
-"key_bind_unified_step_3_tips_0400" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
-
-"key_bind_unified_product_brochure" = "Product Brochure";
-
-"key_bind_unified_go_pairing" = "Go Pairing";
-
-"key_bind_unified_go_pairing_unvalid_tips" = "Please follow the on-screen instructions to connect and get started.";
-
-"key_bind_bluetooth_is_scanning" = "Bluetooth is scaning";
-
-"key_bind_bluetooth_is_connecting" = "Bluetooth is connecting";
-
-"key_bind_bluetooth_is_connected" = "Bluetooth is connected";
-
-"key_bind_go_cooking" = "Go Cooking";
-
-"key_bind_try_again" = "Try Again";
-
-"key_bind_go_to_cooking" = "Go to cooking";
-
-"key_bind_feedback" = "Feedback";
-
-"key_bind_setting" = "Setting";
-
-"key_bind_device_upgrade" = "Device Upgrade";
-
-"key_bind_keep_the_booster_within_wifi_range" = "Keep the booster within Wi-Fi range";
-
-"key_bind_connection_successful" = "Connection successful";
-
-"key_bind_not_now" = "Not Now";
-
-"key_bind_connect" = "Connect";
-
-"key_bind_please_enter_wifi" = "Please enter Wi-Fi";
-
-"key_bind_please_enter_wifi_password" = "Please enter Wi-Fi password";
-
-"key_bind_invalid_wifi_username_or_password" = "Invalid Wi-Fi username or password";
-
-"key_bind_other" = "Other";
-
-"key_bind_preparing" = "Preparing";
-
-"key_bind_device_config_service" = "Device config service";
-
-"key_bind_wifi_is_scanning" = "Wi-Fi is scanning";
-
-"key_bind_searching_for_your_network" = "Searching for your network";
-
-"key_bind_refresh_list_2_4_g_hz_wifi_only" = "Refresh list (2.4 GHz Wi-Fi only)";
-
-"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "Probe lost. Please check the connection and ensure the probe is properly attached";
-
-"key_bind_add_probe" = "Add Probe";
-
-"key_bind_the_probe_is_searching_please_wait" = "The probe is searching, please wait";
-
-"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "Can't locate the probe. Ensure it's powered on and tap to refresh";
-
-"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "To replace the probe, please click the search button below";
-
-"key_bind_refresh" = "Refresh";
-
-"key_bind_search" = "Search";
-
-"key_bind_probe_connect_failed" = "Probe connection failed";
-
-"key_bind_probe_connect_retry_title" = "Please try again by following the steps below:";
-
-"key_bind_probe_connect_retry_tip1" = "1. Remove the probe from the booster";
-
-"key_bind_probe_connect_retry_tip2" = "2. Charge the probe and pair it again";
-
-"key_bind_probe_connect_retry_tip3" = "3. Place the probe near the booster and phone";
-
-"key_bind_the_wlan_permission_of_your_phone_is_turned_off" = "The WLAN permission of your phone is turned off";
-
-"key_bind_no_wifi_found" = "No available WiFi found，please try again";
-
-"key_bind_sorry" = "sorry";
-
-"key_bind_retry" = "Retry";
-
-"key_bind_enter_wifi" = "Please enter Wi-Fi";
-
-"key_bind_wifi_error_less" = "Wi-Fi ssid must be at least 4 characters";
-
-"key_bind_probe_management" = "Probe Management";
-
-"key_bind_current_probe" = "Current probe";
-
-"key_bind_current_probe_choose" = "Choose Probe";
-
-"key_bind_probe_add_success" = "Probe added successfully";
-
-"key_bind_probe_add_failed" = "Adding probe failed";
-
-"key_bind_probe_add_probe" = "Add Probe";
-
-"key_bind_probe_adding" = "Please wait while the probe is being added";
-
-"key_bind_unbind_probe_title" = "Unbind probe";
-
-"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "You will unbind the 'Probe [<xxxx0>] Mac : [<xxxx1>]'.\n Do you confirm the unbinding?";
-
-"key_bind_device_hub_disconnected" = "Device disconnected";
-
-"key_bind_probe_bind_status_check" = "Please check the Bluetooth connection status of the device";
-
-"key_bind_probe_change_unvalid" = "Probe Change Unavailable";
-
-"key_bind_probe_change_unvalid_cause_cooking" = "Probe change is not allowed while cooking. Please wait until the cooking is complete";
-
-"key_bind_probe_sure_to_delete" = "Sure to delete probe";
-
-"key_bind_probe_unvalid_cause_id_[<xxxx0>]_mac_[<xxxx1>]" = "Probe unvalid cause id: [<xxxx0>] mac: [<xxxx1>]";
-
-"key_bind_probe_change_unavailable" = "Probe Change Unavailable";
-
-"key_bind_probe_change_is_not_allowed_while_cooking_please_wait_until_the_cooking_is_complete" = "Probe change is not allowed while cooking. Please wait until the cooking is complete";
-
-"key_bind_probe_device_invitation" = "Device Invitation";
-
-"key_bind_please_wait_while_the_probe_is_being_added" = "Please wait while the probe is being added";
-
-"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "Your 'probe [<xxxx0>]' has been successfully added to '[<xxxx1>]', please start cooking";
-
-"key_bind_probe_add_successfully" = "Add Successfully";
-
-"key_bind_probe_010x_alert_bind_tips" = "1. Please charge the probe for at least 3 to 5 minutes, especially if it is your first-time use. \n \n 2. This will help prevent the 'Failed to Connect the Probe' issue in the next step";
-
-"key_bind_probe_010x_alert_bind_tips_[<xxxx0>]_[<xxxx1>]" = "1. Please charge the probe for at least 3 to 5 minutes, especially if it is your first-time use. \n \n 2. This will help prevent the 'Failed to Connect the Probe' issue in the next step";
-
-"key_bind_probe_010x_alert_remove_title" = "Move Probe";
-
-"key_bind_probe_010x_alert_remove_title_sub" = "The probe is searching, please wait";
-
-"key_bind_probe_010x_alert_add_title" = "Adding Probe";
-
-"key_bind_probe_010x_alert_add_title_sub" = "Please wait while the probe is being added";
-
-"key_bind_probe_010x_alert_success_title" = "Pairing Successful";
-
-"key_bind_probe_010x_alert_success_title_sub" = "Please start your cooking journey";
-
-"key_bind_probe_010x_alert_failed_title" = "Probe connection failed";
-
-"key_bind_probe_010x_alert_failed_title_sub" = "Please try again by following the steps below:\n 1. Remove the probe from the booster and connect\n 2. Charge the probe and pair it again\n 3. Place the probe near the booster and phone";
-
-"key_bind_wifi_name" = "Wi-Fi name";
-
-"key_bind_wifi_password" = "Wi-Fi password";
-
-"key_bind_enter_wifi_password" = "Enter Wi-Fi password";
-
-"key_bind_enter_your_wifi_credentials" = "Enter your Wi-Fi credentials";
-
-"key_bind_wifi_connection" = "Wi-Fi Connection";
-
-"key_bind_wifi_name_can_not_be_empty" = "Wi-Fi name cannot be empty";
-
-"key_bind_your_device_is_successfully_connected_to_the_wifi_network" = "Your device is successfully connected to the Wi-Fi network.";
-
-"key_bind_wifi_password_error" = "Invalid Wi-Fi username or password";
-
-"key_bind_wifi_connect_timeout" = "Wi-Fi connect timeout";
-
-"key_bind_wifi_ap_not_valid" = "Wi-Fi AP not valid";
-
-"key_bind_wifi_auth_timeout" = "Wi-Fi auth timeout";
-
-"key_bind_wifi_connect_failure" = "Wi-Fi connect failure";
-
-"key_bind_wifi_name_cannot_be_empty" = "Wi-Fi name cannot be empty";
-
-"key_bind_unified_add_device" = "Add Device";
-
-"key_bind_unified_scan_for_nearby" = "Scan for nearby devices";
-
-"key_bind_unified_auto_scaning" = "Continuous automatic search";
-
-"key_bind_unified_device_searching" = "Searching";
-
-"key_bind_unified_device_search_no_result" = "No devices found. Tap the list below to add one manually.";
-
-"key_bind_unified_device_manually_add" = "Manually add a device";
-
-"key_bind_unified_failure_device_scan_no_result_title" = "Bluetooth Connection Failed";
-
-"key_bind_unified_failure_device_scan_no_result_subtitle" = "The attempt to pair with the device was unsuccessful";
-
-"key_bind_unified_failure_device_scan_no_result_tips" = "Try the following steps:\n • Ensure the device is in pairing mode.\n • Verify both devices have Bluetooth enabled.\n • Restart Bluetooth and try again.";
-
-"key_bind_unified_failure_device_connect_failure_title" = "Bluetooth Connection Failed";
-
-"key_bind_unified_failure_device_connect_failure_subtitle" = "The attempt to pair with the device was unsuccessful";
-
-"key_bind_unified_failure_device_connect_failure_tips" = "Try the following steps:\n • Ensure the device is in pairing mode.\n • Verify both devices have Bluetooth enabled.\n • Restart Bluetooth and try again.";
-
-"key_bind_unified_failure_device_status_check_failure_title" = "Bluetooth Connection Failed";
-
-"key_bind_unified_failure_device_status_check_failure_subtitle" = "The attempt to pair with the device was unsuccessful";
-
-"key_bind_unified_failure_device_status_check_failure_tips" = "Try the following steps:\n • Ensure the device is in pairing mode.\n • Verify both devices have Bluetooth enabled.\n • Restart Bluetooth and try again.";
-
-"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi-Fi Connection Failed";
-
-"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "Could not connect to the wireless network";
-
-"key_bind_unified_failure_device_esp_enter_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
-
-"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi-Fi Connection Failed";
-
-"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "Could not connect to the wireless network";
-
-"key_bind_unified_failure_device_nodeid_check_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
-
-"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi-Fi Connection Failed";
-
-"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "Could not connect to the wireless network";
-
-"key_bind_unified_failure_device_wifi_scan_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
-
-"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi-Fi Connection Failed";
-
-"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "Could not connect to the wireless network";
-
-"key_bind_unified_failure_device_wifi_connect_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
-
-"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi-Fi Connection Failed";
-
-"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "Could not connect to the wireless network";
-
-"key_bind_unified_failure_device_cloud_bind_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
-
-"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "Cloud Bind Failed";
-
-"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "The device cannot be bound to your account in the cloud at the moment.";
-
-"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "Try the following steps to retry:\n • Restart the device\n • Place the device as close as possible to the network router\n • Ensure there is no signal interference in the surrounding environment\n • Ensure your network router can access the internet normally";
-
-"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "You may have encountered one of the following situations, please try again\n \n • Failed to send WIFI password\n • The booster has been disconnected from the router\n • Unable to add the device to the cloud\n • Connection timed out";
-
-"key_bind_device_pairing_success" = "Device Pairing Success";
-
-"key_bind_wifi_confirm_change" = "Change WiFi";
-
-"key_bind_change_wifi_current_title" = "Optional Location";
-
-"key_bind_change_wifi_scan_title" = "Recommended Location";
-
-"key_bind_change_wifi_current_none_title" = "No Wi-Fi. Please Connect.";
-
-"key_bind_change_wifi_current_connect_title" = "Already connected to Wi-Fi.";
-
-"key_bind_wifi_to_connect_title" = "Unlock More With Wi-Fi";
-
-"key_bind_wifi_to_connect_title_sub" = "You’re currently using Bluetooth.\n Connect to Wi-Fi for better stability and full features.";
-
-"key_bind_wifi_to_connect_confirm_title" = "Connect Now";
-
-"key_bind_wifi_to_connect_cancel_title" = "Maybe Later";
-
-"key_bind_wifi_all_set_title" = "You’re All Set";
-
-"key_bind_wifi_all_set_title_sub" = "Your device is fully connected and ready to go.\n Enjoy smooth cooking from start to finish.";
-
-"key_bind_wifi_all_set_confirm_title" = "Let's Cook";
-
-"key_bind_wifi_scan_warning_title" = "Refresh Wi-Fi List?";
-
-"key_bind_wifi_scan_warning_title_sub" = "Refreshing available networks will disconnect your current Wi-Fi connection.";
-
-"key_bind_temp_empty_title" = "No probes";
-
-"key_bind_temp_empty_title" = "Click the add button at the bottom to start adding your probes.";
-
-"key_module_OTA" = "key_module_OTA";
-
-"key_ota_status_check" = "Check";
-
-"key_ota_status_checking" = "Checking";
-
-"key_ota_status_download" = "Download And Install";
-
-"key_ota_status_downloading" = "Downloading";
-
-"key_ota_status_downloading_[<xxxx>]" = "Downloading [<xxxx>]";
-
-"key_ota_status_download_success" = "Download Success";
-
-"key_ota_status_install" = "Install";
-
-"key_ota_status_installing" = "Installing";
-
-"key_ota_status_installing_[<xxxx>]" = "Installing [<xxxx>]";
-
-"key_ota_status_install_success" = "Install Success";
-
-"key_ota_status_title_checking" = "Checking";
-
-"key_ota_status_title_latest" = "Already the latest version";
-
-"key_ota_status_title_new_valid" = "New firmware version is ready";
-
-"key_module_bbq" = "key_module_bbq";
-
-"key_bbq_resting" = "Resting";
-
-"key_bbq_temperature_chart_title" = "Temperature Chart";
-
-"key_bbq_cook_device" = "Cooking Device";
-
-"key_bbq_cook_probe" = "Cooking Probe";
-
-"key_bbq_flip_food" = "Flip Food";
-
-"key_bbq_cook_start_time" = "Start Time";
-
-"key_bbq_cook_end_time" = "End Time";
-
-"key_bbq_notes_title" = "Notes";
-
-"key_bbq_note_create_tips" = "Tap to enter your cooking notes";
-
-"key_bbq_notes_delete_title" = "BBQ Notes Title";
-
-"key_bbq_favorite_remove" = "Remove Favorite";
-
-"key_bbq_favorite_add" = "Add To Favorites";
+"key_bbq_complete_cooking_settings" = "Please complete cooking settings";
 
 "key_bbq_cook_again" = "Cook Again";
 
+"key_bbq_cook_device" = "Cooking Device";
+
 "key_bbq_cook_duration" = "Cooking Duration";
 
-"key_bbq_note_add_alert_title" = "Notes";
+"key_bbq_cook_end_time" = "End Time";
 
-"key_bbq_note_add_alert_title_title" = "Title";
+"key_bbq_cook_probe" = "Cooking Probe";
 
-"key_bbq_note_add_alert_title_placeholder" = "Please enter the content";
+"key_bbq_cook_setting_confirm" = "Cook Settings Confirm";
 
-"key_bbq_note_add_alert_failed_title" = "Add failed";
-
-"key_bbq_note_add_alert_failed_title_sub" = "Title must be at least 2 characters";
-
-"key_bbq_note_add_alert_content_title" = "Content";
-
-"key_bbq_note_add_alert_content_placeholder" = "Please enter the content";
-
-"key_bbq_note_delete_alert_title" = "Sure To Delete Note";
+"key_bbq_cook_start_time" = "Start Time";
 
 "key_bbq_delete_alert_title" = "Sure To Delete Record?";
 
-"key_bbq_nav_history" = "History";
+"key_bbq_detail_back" = "Back";
+
+"key_bbq_favorite_add" = "Add To Favorites";
+
+"key_bbq_favorite_remove" = "Remove Favorite";
+
+"key_bbq_flip_food" = "Flip Food";
+
+"key_bbq_grill_flip_not_support_tips" = "This grill does not support flipping";
+
+"key_bbq_grill_rest_not_support_tips" = "This grill does not support resting";
 
 "key_bbq_history_tempty_tips" = "No Cooking Records";
 
 "key_bbq_more_cooks" = "More cooks";
 
+"key_bbq_nav_history" = "History";
+
+"key_bbq_note_add_alert_content_placeholder" = "Please enter the content";
+
+"key_bbq_note_add_alert_content_title" = "Content";
+
+"key_bbq_note_add_alert_confirm_title" = "Confirm";
+
+"key_bbq_note_add_alert_failed_title" = "Add failed";
+
+"key_bbq_note_add_alert_failed_title_sub" = "Title must be at least 2 characters";
+
+"key_bbq_note_add_alert_title" = "Notes";
+
+"key_bbq_note_add_alert_title_placeholder" = "Please enter the content";
+
+"key_bbq_note_add_alert_title_title" = "Title";
+
+"key_bbq_note_create_tips" = "Tap to enter your cooking notes";
+
+"key_bbq_notes_delete_title" = "BBQ Notes Title";
+
+"key_bbq_notes_title" = "Notes";
+
 "key_bbq_re_select" = "Re-select";
 
-"key_bbq_cook_setting_confirm" = "Cook Settings Confirm";
+"key_bbq_rest_off_no_need_tips" = "Resting mode is off — no need to check thickness, let’s get straight to cooking!";
 
-"key_bbq_wait_cook_end" = "Please wait for the current cooking session to finish or end it first";
-
-"key_bbq_unavailable" = "Unavailable";
+"key_bbq_resting" = "Resting";
 
 "key_bbq_select_device" = "Select device";
 
@@ -1126,823 +262,375 @@
 
 "key_bbq_select_device_no_probe_available" = "No probe available";
 
-"key_bbq_select_device_title" = "Select device";
-
-"key_bbq_select_device_title_sub" = "Please select cooking equipment to start your new barbecue journey";
-
 "key_bbq_select_device_probe_title" = "Select Probe";
 
 "key_bbq_select_device_probe_title_sub" = "Please select your probe to complete the most important step, we are about to start grilling";
 
-"key_bbq_complete_cooking_settings" = "Please complete cooking settings";
+"key_bbq_select_device_title" = "Select device";
 
-"key_bbq_grill_flip_not_support_tips" = "This grill does not support flipping";
+"key_bbq_select_device_title_sub" = "Please select cooking equipment to start your new barbecue journey";
 
-"key_bbq_grill_rest_not_support_tips" = "This grill does not support resting";
+"key_bbq_temperature_chart_title" = "Temperature Chart";
 
-"key_bbq_rest_off_no_need_tips" = "Resting mode is off — no need to check thickness, let’s get straight to cooking!";
+"Key_Module_Bind" = "Key_Module_Bind";
 
-"key_bbq_detail_back" = "Back";
+"key_bind_add_probe" = "Add Probe";
 
-"key_module_cook" = "key_module_cook";
+"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "Are you ready?\n Come and start your wonderful cooking career";
 
-"key_cook_ready_to_grill" = "Ready To Grill";
+"key_bind_back" = "Back";
 
-"key_cook_start" = "Start";
+"key_bind_bluetooth_connecting" = "Bluetooth Connecting";
 
-"key_cook_second_grill_stage_[<xxxx>]" = "Stage [<xxxx>]";
+"key_bind_bluetooth_is_connecting" = "Bluetooth is connecting";
 
-"key_cook_second_grill_stage_all" = "All";
+"key_bind_bluetooth_is_scanning" = "Bluetooth is scaning";
 
-"key_cook_click_to_start_cook" = "Click to start cook";
+"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "Can't locate the probe. Ensure it's powered on and tap to refresh";
 
-"key_cook_internal" = "Internal";
+"key_bind_change_wifi_current_connect_title" = "Already connected to Wi-Fi.";
 
-"key_cook_target" = "Target";
+"key_bind_change_wifi_current_none_title" = "No Wi-Fi. Please Connect.";
 
-"key_cook_ambient" = "Ambient";
+"key_bind_change_wifi_current_title" = "Optional Location";
 
-"key_cook_whether_to_end_cook" = "Whether To End Cook";
+"key_bind_change_wifi_scan_title" = "Recommended Location";
 
-"key_cook_cooking_completed_on_device_[<xxxx>]" = "Cooking completed on device [<xxxx>]";
+"key_bind_cloud_connecting" = "Cloud Connecting";
 
-"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "The ambient temperature has risen to [<xxxx0>]°C / [<xxxx1>]°F. Remove it to prevent cracking.";
+"key_bind_cloud_connecting_title" = "Cloud Connecting";
 
-"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "The internal temperature has reached [<xxxx0>]°C / [<xxxx1>]°F. Remove it now to avoid damage.";
+"key_bind_cloud_connecting_title_sub" = "Connecting To The Cloud";
 
-"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "Place the probe in the thickest part of the meat. Make sure the Safety Line stays inside.";
+"key_bind_cloud_connecting_to_cloud" = "Connecting to the cloud";
 
-"key_cook_nav_set_cooking" = "Set Cooking";
+"key_bind_connect" = "Connect";
 
-"key_cook_title_food" = "Meat";
+"key_bind_connect_success_than_temp_bind" = "Please remove the probe from the booster";
 
-"key_cook_food_beef" = "Beef";
+"key_bind_connect_the_probe" = "Connect The Probe";
 
-"key_cook_food_lamb" = "Lamb";
+"key_bind_connected_failure" = "Device Connected Failure";
 
-"key_cook_food_pork" = "Pork";
+"key_bind_current_probe" = "Current probe";
 
-"key_cook_food_fish" = "Fish";
+"key_bind_current_probe_choose" = "Choose Probe";
 
-"key_cook_food_turkey" = "Turkey";
+"key_bind_device_hub_disconnected" = "Device disconnected";
 
-"key_cook_food_poultry" = "Poultry";
+"key_bind_device_invitation" = "Device Invite";
 
-"key_cook_food_other" = "Other";
+"key_bind_device_invitation_tips" = "Invite users";
 
-"key_cook_nav_temperature" = "Temperature";
+"key_bind_enter_wifi_password" = "Enter Wi-Fi password";
 
-"key_cook_title_cooking_mode" = "Cooking Mode";
+"key_bind_enter_your_wifi_credentials" = "Enter your Wi-Fi credentials";
 
-"key_cook_temperature_very_rare" = "Very Rare";
+"key_bind_finish_net_with_tips" = "Are you ready?\n Come and start your wonderful cooking career";
 
-"key_cook_temperature_rare" = "Rare";
+"key_bind_finish_net_without_tips" = "Are you ready?\n Come and start your wonderful cooking career";
 
-"key_cook_temperature_medium_rare" = "Medium rare";
+"key_bind_finish_not_now_tips" = "You can keep using Bluetooth, but connecting to Wi-Fi unlocks the full experience. Tap the Wi-Fi icon or go to Device Settings to connect.";
 
-"key_cook_temperature_medium" = "Medium";
+"key_bind_firmware_update" = "Firmware update";
 
-"key_cook_temperature_medium_well" = "Medium well";
+"key_bind_float_confirm" = "Connection";
 
-"key_cook_temperature_well_done" = "Well done";
+"key_bind_float_go_cooking" = "Go Cooking";
 
-"key_cook_temperature_other" = "Other";
+"key_bind_float_pairing_failed_confirm" = "Reconnect";
 
-"key_cook_set_cooking" = "Set Cooking";
+"key_bind_float_pairing_failed_faqs" = "FAQS";
 
-"key_cook_nav_poultry" = "Poultry";
+"key_bind_float_pairing_failed_title" = "Device Pairing Failed";
 
-"key_cook_poultry_correct_operation" = "Correct Operation";
+"key_bind_float_pairing_failed_title_sub" = "You may have encountered one of the following situations, please try again";
 
-"key_cook_poultry_incorrect_operation" = "Incorrect Operation";
+"key_bind_float_pairing_reconnecting" = "Reconnecting";
 
-"key_cook_poultry_tips_title" = "Insert Probe into Solid Portion for Most Accurate Temperature";
+"key_bind_float_pairing_title" = "Device Pairing";
 
-"key_cook_poultry_tips_title_sub" = "Insert the probe into its solid portion, like breast and legs, to effectively measure the meat's temperature.\n Avoiding rib cavities and large areas of bones and fatty.\n Ensure the groove on the probe is inserted into the meat entirely for safety use.Please insert the probe properly to prevent damage.";
+"key_bind_float_probe_pairing_failed_title" = "Probe Pairing Failed";
 
-"key_cook_nav_choosing_device" = "Choosing device";
+"key_bind_float_probe_pairing_failed_title_sub" = "Please make sure the probe is inside the box. We will connect the probe. Please note that this process will be quick.";
 
-"key_cook_title_equipment" = "Cooking Environment";
+"key_bind_float_probe_pairing_title" = "Probe Pairing";
 
-"key_cook_equipment_oven" = "Oven";
+"key_bind_float_ready_to_use" = "Ready To Use";
 
-"key_cook_equipment_charcoal_grill" = "Charcoal Grill";
+"key_bind_float_ready_to_use_start_cook" = "Are you ready? \n Start your exciting cooking journey now!";
 
-"key_cook_equipment_gas_grill" = "Gas Grill";
+"key_bind_float_title" = "Connecting Devices";
 
-"key_cook_equipment_smoker" = "Smoker";
+"key_bind_found_devices" = "Found Device";
 
-"key_cook_equipment_air_fryer" = "Air Fryer";
+"key_bind_go_cooking" = "Go Cooking";
 
-"key_cook_equipment_deep_fryer" = "Deep Fryer";
+"key_bind_go_to_cooking" = "Go to cooking";
 
-"key_cook_equipment_pan" = "pan";
+"key_bind_keep_the_booster_within_wifi_range" = "Keep the booster within Wi-Fi range";
 
-"key_cook_equipment_option_reverse_sear" = "Reverse Sear";
+"key_bind_keep_your_bluetooth_turning_on" = "Keep your bluetooth turning on";
 
-"key_cook_equipment_section_title" = "Common Devices";
+"key_bind_next" = "Next";
 
-"key_cook_equipment_option_section_title" = "Advanced Options";
+"key_bind_not_now" = "Not Now";
 
-"key_cook_reverse_sear_nav_title" = "Reverse Sear";
+"key_bind_other" = "Other";
 
-"key_cook_reverse_sear_section_low_title" = "Stage 1: Low Temperature";
+"key_bind_please_enter_wifi_password" = "Please enter Wi-Fi password";
 
-"key_cook_reverse_sear_section_final_title" = "Stage 2: Final Temperature";
+"key_bind_please_place_the_new_probe_in_the_booster" = "Please place the new probe in the booster";
 
-"key_cook_reverse_sear_section_strategy_title" = "Select Strategy";
+"key_bind_probe_010x_alert_add_title" = "Adding Probe";
 
-"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Standard:[<xxxx0>]-[<xxxx1>][<xxxx2>]";
+"key_bind_probe_010x_alert_add_title_sub" = "Please wait while the probe is being added";
 
-"key_cook_strategy_recommend" = "Recommended";
+"key_bind_probe_010x_alert_bind_tips" = "1. Please charge the probe for at least 3 to 5 minutes, especially if it is your first-time use. \n\n 2. This will help prevent the 'Failed to Connect the Probe' issue in the next step";
 
-"key_cook_strategy_stabdrad_title_sub" = "Extended sear. Maximum crust formation.";
+"key_bind_probe_010x_alert_failed_title" = "Probe connection failed";
 
-"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → Switch → Final: [<xxxx1>]";
+"key_bind_probe_010x_alert_failed_title_sub" = "Please try again by following the steps below:\n 1. Remove the probe from the booster and connect\n 2. Charge the probe and pair it again\n 3. Place the probe near the booster and phone";
 
-"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "Low [<xxxx>]";
+"key_bind_probe_010x_alert_remove_title" = "Move Probe";
 
-"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "Final [<xxxx>]";
+"key_bind_probe_010x_alert_success_title" = "Pairing Successful";
 
-"key_cook_strategy_other_title" = "Other";
+"key_bind_probe_010x_alert_success_title_sub" = "Please start your cooking journey";
 
-"key_cook_strategy_other_title_sub" = "Extended sear. Maximum crust formation. Please select your temperature.";
+"key_bind_probe_add_failed" = "Adding probe failed";
 
-"key_cook_equipment_option_sous_vide" = "Sous Vide";
+"key_bind_probe_add_probe" = "Add Probe";
 
-"key_cook_equipment_other" = "Other";
+"key_bind_probe_add_success" = "Probe added successfully";
 
-"key_cook_nav_choose_flip_food" = "Choose Flip Food";
+"key_bind_probe_add_successfully" = "Add Successfully";
 
-"key_cook_title_flip" = "Flip";
+"key_bind_probe_adding" = "Please wait while the probe is being added";
 
-"key_cook_flip_every_30_title" = "Flip Food Every 30s";
+"key_bind_probe_bind_status_check" = "Please check the Bluetooth connection status of the device";
 
-"key_cook_flip_every_30_title_cell" = "Every 30 seconds";
+"key_bind_probe_change_unvalid" = "Probe Change Unavailable";
 
-"key_cook_flip_every_30_title_sub" = "We’ll nudge you every 30 seconds to flip your food, so it cooks evenly on the outside and stays juicy inside";
+"key_bind_probe_change_unvalid_cause_cooking" = "Probe change is not allowed while cooking. Please wait until the cooking is complete";
 
-"key_cook_flip_once_title" = "Flip Food Only Once";
+"key_bind_probe_device_invitation" = "Device Invitation";
 
-"key_cook_flip_once_title_cell" = "Once Only";
+"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "Probe lost. Please check the connection and ensure the probe is properly attached";
 
-"key_cook_flip_once_title_sub" = "You'll get a Excellent cooking texture and only have to flip it once";
+"key_bind_probe_management" = "Probe Management";
 
-"key_cook_flip_do_not_need_title" = "Don't Need To Flip Food";
+"key_bind_ready_to_use" = "Ready To Use";
 
-"key_cook_flip_do_not_need_title_cell" = "No Flip Needed";
+"key_bind_refresh" = "Refresh";
 
-"key_cook_flip_do_not_need_title_sub" = "We won’t bug you with extra flip alerts while your meat cooks";
+"key_bind_retry" = "Retry";
 
-"key_cook_flip_do_not_need_cell_unvalid" = "No Flip Needed";
+"key_bind_search" = "Search";
 
-"key_cook_nav_rest_meat" = "Rest The Meat";
+"key_bind_searching_for_your_network" = "Searching for your network";
 
-"key_cook_title_wake_up_meat" = "Resting Meat";
+"key_bind_searching_wifi" = "Scanning Wi-Fi";
 
-"key_cook_rest_mode_on" = "Resting Mode On";
+"key_bind_select_your_wifi" = "Select Your Wi-Fi";
 
-"key_cook_rest_mode_off" = "Resting Mode Off";
+"key_bind_setting" = "Setting";
 
-"key_cook_rest_mode_on_cell" = "On";
+"key_bind_setup_guide" = "Setup Guide";
 
-"key_cook_rest_mode_off_cell" = "Off";
+"key_bind_step_[<xxxx>]" = "Step [<xxxx>]";
 
-"key_cook_rest_mode_cell_unvalid" = "Resting Mode Not Supported";
+"key_bind_temp_empty_title" = "Click the add button at the bottom to start adding your probes.";
 
-"key_cook_rest_mode_on_tips" = "When Resting Mode is enabled, we’ll notify you to remove the meat from the heat each time its temperature rises by 10°C / 20°F ± 2°C / 3.6°F, ensuring optimal cooking results.";
+"key_bind_the_probe_is_searching_please_wait" = "The probe is searching, please wait";
 
-"key_cook_rest_mode_off_tips" = "Resting mode will be turned off. The final internal temperature of the cooked meat may exceed the target temperature. Do you want to proceed with turning off this mode?";
+"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "To replace the probe, please click the search button below";
 
-"key_cook_rest_mode_unvalid_temperature_low" = "The current target temperature is too low for resting the meat. To rest the meat, please set the target temperature to at least 30°C / 86°F.";
+"key_bind_transferring_firmware" = "Transferring Firmware";
 
-"key_cook_nav_meat_thickness" = "Meat Thickness";
+"key_bind_try_again" = "Try Again";
 
-"key_cook_title_estimate_meat_thickness" = "Estimated Meat Thickness";
+"key_bind_unbind_probe_title" = "Unbind probe";
 
-"key_cook_meat_thickness_inches" = "Inches";
+"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "You will unbind the 'Probe [<xxxx0>] Mac : [<xxxx1>]'.\n Do you confirm the unbinding?";
 
-"key_cook_meat_thickness_cm" = "cm";
+"key_bind_unified_add_device" = "Add Device";
 
-"key_cook_meat_thickness_most_common_size" = "Most Common Size";
+"key_bind_unified_auto_scaning" = "Continuous automatic search";
 
-"key_cook_meat_thickness_cell_unvalid" = "No Thickness Needed";
+"key_bind_unified_device_manually_add" = "Manually add a device";
 
-"key_cook_nav_probe_position" = "Note The Probe Position";
+"key_bind_unified_device_search_no_result" = "No devices found. Tap the list below to add one manually.";
 
-"key_cook_probe_position_title" = "Meatmeet Device Location Information";
+"key_bind_unified_device_searching" = "Searching";
 
-"key_cook_probe_position_title_sub" = "Your meatmeet Pro Charger should be placed as close to your cooker as possible to maintain the connection with the probe and enhance the signal. \n Just make sure you don't leave it on any hot surfaces!";
+"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "You may have encountered one of the following situations, please try again\n\n • Failed to send WIFI password\n • The booster has been disconnected from the router\n • Unable to add the device to the cloud\n • Connection timed out";
 
-"key_cook_probe_position_title_sub_[<xxxx>]" = "Your [<xxxx>] Charger should be placed as close to your cooker as possible to maintain the connection with the probe and enhance the signal.\n Just make sure you don't leave it on any hot surfaces!";
+"key_bind_unified_failure_device_box0400_cloud_bind_failure_tips" = "You may have encountered one of the following situations, please try again\n\n • Failed to send WIFI password\n • The booster has been disconnected from the router\n • Unable to add the device to the cloud\n • Connection timed out";
 
-"key_cook_probe_position_do_not_show" = "Do Not Pop Up This Message Again";
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "Could not connect to the wireless network";
 
-"key_cook_ready_insert_probe_title" = "How To Insert The Probe";
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "The device cannot be bound to your account in the cloud at the moment.";
 
-"key_cook_ready_insert_probe_title_sub" = "Insert the probe into the thickest part of the meat until the Safety Line is completely inside the meat, do not past the Black Line, ensuring that the tip does not pierce through.";
+"key_bind_unified_failure_device_cloud_bind_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
 
-"key_cook_ready_insert_probe_safe_line" = "Safety Line";
+"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "Try the following steps to retry:\n • Restart the device\n • Place the device as close as possible to the network router\n • Ensure there is no signal interference in the surrounding environment\n • Ensure your network router can access the internet normally";
 
-"key_cook_ready_insert_probe_black_line" = "Black Line";
+"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi-Fi Connection Failed";
 
-"key_cook_estimate_time" = "Estimated Cooking Time";
+"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "Cloud Bind Failed";
 
-"key_cook_end_cooking" = "End Cooking";
+"key_bind_unified_failure_device_connect_failure_subtitle" = "The attempt to pair with the device was unsuccessful";
 
-"key_cook_end_alert_title" = "Whether To End Cook";
+"key_bind_unified_failure_device_connect_failure_tips" = "Try the following steps:\n • Ensure the device is in pairing mode.\n • Verify both devices have Bluetooth enabled.\n • Restart Bluetooth and try again.";
 
-"key_cook_end_alert_confirm" = "Yes, End Cook";
+"key_bind_unified_failure_device_connect_failure_title" = "Bluetooth Connection Failed";
 
-"key_cook_end_alert_cancel" = "Back To Cook";
+"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "Could not connect to the wireless network";
 
-"key_cook_nav_select_cooking_option" = "Select Cooking Option";
+"key_bind_unified_failure_device_esp_enter_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
 
-"key_cook_start_new_cook" = "Start A New Cooking";
+"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi-Fi Connection Failed";
 
-"key_cook_use_last_session" = "Use Last Cooking Session";
+"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "Could not connect to the wireless network";
 
-"key_cook_go_cooking" = "Go Cooking";
+"key_bind_unified_failure_device_nodeid_check_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
 
-"key_cook_hub_distance_confirm_title" = "Go Cooking";
+"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi-Fi Connection Failed";
 
-"key_cook_nav_setting_cooking" = "Your Cooking Settings";
+"key_bind_unified_failure_device_scan_no_result_subtitle" = "The attempt to pair with the device was unsuccessful";
 
-"key_cook_setting_cooking_tips" = "Your setup looks great. Let’s start cooking when you’re ready.";
+"key_bind_unified_failure_device_scan_no_result_tips" = "Try the following steps:\n • Ensure the device is in pairing mode.\n • Verify both devices have Bluetooth enabled.\n • Restart Bluetooth and try again.";
 
-"key_cook_setting_cooking_all_start" = "All Set — Start Cooking!";
+"key_bind_unified_failure_device_scan_no_result_title" = "Bluetooth Connection Failed";
 
-"key_cook_setting_cooking_change_tips" = "Your cooking setup has changed — please confirm it’s correct.";
+"key_bind_unified_failure_device_status_check_failure_subtitle" = "The attempt to pair with the device was unsuccessful";
 
-"key_cook_time_to_flip" = "Time to flip the meat";
+"key_bind_unified_failure_device_status_check_failure_tips" = "Try the following steps:\n • Ensure the device is in pairing mode.\n • Verify both devices have Bluetooth enabled.\n • Restart Bluetooth and try again.";
 
-"key_cook_time_to_awaken_[<xxxx>]" = "Time to remove food from [<xxxx>]";
+"key_bind_unified_failure_device_status_check_failure_title" = "Bluetooth Connection Failed";
 
-"key_cook_setting_cook_save_favorite_tips" = "Save your favorites to start your next cook faster!";
+"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "Could not connect to the wireless network";
 
-"key_cook_nav_alert_setting" = "Alert Settings";
+"key_bind_unified_failure_device_wifi_connect_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
 
-"key_cook_alert_time_picker_title" = "Time Picker";
+"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi-Fi Connection Failed";
 
-"key_cook_alert_time_picker_unit" = "Minute";
+"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "Could not connect to the wireless network";
 
-"key_cook_alert_warning_mode" = "Warning Modes";
+"key_bind_unified_failure_device_wifi_scan_failure_tips" = "Try the following steps:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move closer to the Wi-Fi signal source";
 
-"key_cook_alert_multiple_selection" = "multiple selection";
+"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi-Fi Connection Failed";
 
-"key_cook_alert_mode_ring" = "Ring";
+"key_bind_unified_go_pairing" = "Go Pairing";
 
-"key_cook_alert_mode_vibration" = "Vibration";
+"key_bind_unified_go_pairing_unvalid_tips" = "Please follow the on-screen instructions to connect and get started.";
 
-"key_cook_alert_mode_popup" = "Popup";
+"key_bind_unified_product_brochure" = "Product Brochure";
 
-"key_cook_alert_end_in_[<xxxx>]" = "Ends in [<xxxx>] minutes";
+"key_bind_unified_scan_for_nearby" = "Scan for nearby devices";
 
-"key_cook_alert_cooking_complete_alert" = "Cooking Complete Alert";
+"key_bind_unified_step_1_tips_010x" = "Press and hold the power button for 2 seconds to turn on the device.";
 
-"key_cook_alert_remaining_time_alert" = "Remaining Time Alert";
+"key_bind_unified_step_1_tips_0201" = "Ensure the battery is installed and the device is powered on.";
 
-"key_cook_alert_add_limit_title" = "Can only add up to 5 at most";
+"key_bind_unified_step_1_tips_020x" = "Tap the power button to turn on the device. You’ll hear a quick beep and see the light start blinking.";
 
-"key_cook_alert_cooking_complete_unit" = "Cook completed";
+"key_bind_unified_step_1_tips_0300" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
 
-"key_cook_alert_add_new_warning" = "Add new warning";
+"key_bind_unified_step_1_tips_0301" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
 
-"key_cook_progress_flip_food" = "Flip Food";
+"key_bind_unified_step_1_tips_0400" = "Press the power button for 1.5 seconds to turn on the device. Release when the screen lights up.";
 
-"key_cook_progress_flip_once_food" = "Flip Food";
+"key_bind_unified_step_2_tips_010x" = "Then, double-press the power button. When the indicator starts flashing rapidly, the device is ready for pairing.";
 
-"key_cook_progress_flip_countdown_[<xxxx>]" = "Flip in [<xxxx>] S";
+"key_bind_unified_step_2_tips_0201" = "Wait until the bottom button becomes clickable.";
 
-"key_cook_notify_time_to_flip_title" = "Time to flip the meat";
+"key_bind_unified_step_2_tips_020x" = "Double-tap the power button to make the device enter pairing mode, then tap the button below to start pairing.";
 
-"key_cook_notify_time_to_flip_30s_title_sub" = "For Probe [<xxxx1>]（[<xxxx2>]）: flip food 30s once";
+"key_bind_unified_step_2_tips_0300" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
 
-"key_cook_notify_time_to_flip_title_sub" = "For Probe [<xxxx1>]（[<xxxx2>]）: flip food from heat";
+"key_bind_unified_step_2_tips_0301" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
 
-"key_cook_notify_time_to_rest_title" = "Meat is resting";
+"key_bind_unified_step_2_tips_0400" = "Check the blinking Bluetooth and WiFi icons in the upper left corner. This means pairing mode is on (it will turn off after 10 minutes. Press the confirm button for 3 seconds to restart it).";
 
-"key_cook_notify_time_to_rest_title_sub" = "The meat has reached the target temperature. Please remove it from the oven.";
+"key_bind_unified_step_3_tips_0300" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
 
-"key_cook_temperature_alert_title" = "Probe Temperature";
+"key_bind_unified_step_3_tips_0301" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
 
-"key_cook_temperature_alert_title_sub" = "Ambient Temperature";
+"key_bind_unified_step_3_tips_0400" = "Please place the probe in its case during pairing. Thanks for your cooperation!";
 
-"key_cook_temperature_alert_tips" = "The sensing part of the probe is intuitively displayed, so you can control the barbecue temperature. Let you have a better cooking experience.";
+"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "Unlimited distance control possible via the cloud，it may take few seconds";
 
-"key_cook_probe_check_alert_title" = "Probe status checking";
+"key_bind_wifi_all_set_confirm_title" = "Let's Cook";
 
-"key_cook_probe_check_alert_battery_check_title" = "Battery Check";
+"key_bind_wifi_all_set_title" = "You’re All Set";
 
-"key_cook_probe_check_alert_battery_check_failed_title" = "Battery Check Failed";
+"key_bind_wifi_all_set_title_sub" = "Your device is fully connected and ready to go.\n Enjoy smooth cooking from start to finish.";
 
-"key_cook_probe_check_alert_battery_check_failed_title_sub" = "Please insert the probe into the charging base to ensure that the device has sufficient power";
+"key_bind_wifi_ap_not_valid" = "Wi-Fi AP not valid";
 
-"key_cook_probe_check_alert_signal_check_title" = "Signal Check";
+"key_bind_wifi_auth_timeout" = "Wi-Fi auth timeout";
 
-"key_cook_probe_check_alert_signal_check_failed_title" = "Signal Check Failed";
+"key_bind_wifi_confirm_change" = "Change WiFi";
 
-"key_cook_probe_check_alert_signal_check_failed_title_sub" = "Please place the probe within signal connection range";
+"key_bind_wifi_connect_failure" = "Wi-Fi connect failure";
 
-"key_cook_probe_check_alert_success_title" = "Probe Status: Good";
+"key_bind_wifi_connect_timeout" = "Wi-Fi connect timeout";
 
-"key_cook_guide_base_next" = "Next";
+"key_bind_wifi_connecting_title" = "Connecting To\n Wi-Fi";
 
-"key_cook_guide_base_back" = "Back";
+"key_bind_wifi_connecting_title_sub" = "Connecting To Wi-Fi";
 
-"key_cook_guide_base_no_need" = "Needn't Guide";
+"key_bind_wifi_connection_failed" = "Wi-Fi connection failed";
 
-"key_cook_guide_choose_meat_tips" = "Select the meat you want to cook";
+"key_bind_wifi_input_title" = "Connecting To\n Wi-Fi";
 
-"key_cook_guide_choose_equipment_tips" = "Please select the cooking device you want to use";
+"key_bind_wifi_input_title_confirm" = "Connecting To Wi-Fi";
 
-"key_cook_guide_choose_mode_tips" = "Choose the cooking mode you want";
+"key_bind_wifi_name" = "Wi-Fi name";
 
-"key_cook_guide_choose_flip_tips" = "Select the food you want to flip";
+"key_bind_wifi_password" = "Wi-Fi password";
 
-"key_cook_guide_choose_lefttime_tips" = "Tap to switch from remaining time to elapsed time";
+"key_bind_wifi_password_error" = "Invalid Wi-Fi username or password";
 
-"key_cook_guide_choose_temperature_tips" = "View temperature of each part";
+"key_bind_wifi_scan_warning_title" = "Refresh Wi-Fi List?";
 
-"key_cook_guide_choose_history_tips" = "Tap here to start a new roast";
+"key_bind_wifi_scan_warning_title_sub" = "Refreshing available networks will disconnect your current Wi-Fi connection.";
 
-"key_cook_guide_choose_chart_tips" = "Tap to change chart";
+"key_bind_wifi_search_title" = "Scanning Wi-Fi";
 
-"key_cook_guide_choose_realtime_tips" = "Real-time cooking progress";
+"key_bind_wifi_select_title" = "Select Your Wi-Fi";
 
-"key_cook_guide_choose_alert_tips" = "Set up notifications";
+"key_bind_wifi_to_connect_cancel_title" = "Maybe Later";
 
-"key_cook_guide_choose_meatsize_tips" = "Select the thickness of the meat you want to cook";
+"key_bind_wifi_to_connect_confirm_title" = "Connect Now";
 
-"key_cook_guide_choose_resting_tips" = "Choose the Resting Mode you want to use";
+"key_bind_wifi_to_connect_title" = "Unlock More With Wi-Fi";
 
-"key_cook_guide_choose_multitemperature_tips" = "Tap 'Ambient' or 'Internal' to view the sensor temperature";
+"key_bind_wifi_to_connect_title_sub" = "You’re currently using Bluetooth.\n Connect to Wi-Fi for better stability and full features.";
 
-"key_cook_guide_choose_start_tips" = "Tap to start cooking";
+"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "Your 'probe [<xxxx0>]' has been successfully added to '[<xxxx1>]', please start cooking";
 
-"key_cook_guide_choose_distance_tips" = "Place your device close to the grill for the best experience";
-
-"key_cook_guide_choose_remove_probe_tips" = "Remove The Probe And Insert";
-
-"key_cook_complete_alert_content" = "You can go to the history records to see this bbq record";
-
-"key_cook_complete_will_complete_title" = "Cook Will Complete";
-
-"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "There are [<xxxx0>] minutes left until the end of cooking ([<xxxx1>])";
-
-"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "There are [<xxxx>] minutes left until the end of cooking";
-
-"key_cook_alert_rest_title" = "Resting Meat";
-
-"key_cook_alert_rest_title_sub" = "The meat has reached the resting temperature. Please remove the food you are cooking from your oven";
-
-"key_cook_alert_rest_continue" = "Continue";
-
-"key_cook_alert_flip_once_[<xxxx1>]_[<xxxx2>]" = "For Probe [<xxxx1>]（[<xxxx2>]）flip food only once";
-
-"key_cook_cooking_time_remaining" = "Cooking Time Remaining";
-
-"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "Please remove the food from the heat source immediately";
-
-"key_cook_choosing_device" = "Choosing device";
-
-"key_cook_guide_temp_s_welcome_title" = "New Meatmeet S Pro\n Welcome To You";
-
-"key_cook_guide_temp_s_welcome_title_tips" = "Introducing our all-new 5-sensor smart meat thermometer with fully upgraded hardware:\n • Multi-point Temperature Monitoring: Simultaneously monitors 5 spots for evenly cooked perfection\n • Real-time Data Transmission: Instantly track temperature changes without frequently opening the grill\n • High Compatibility: Easily works with various grills and accessories for seamless operation";
-
-"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-sensor";
-
-"key_cook_guide_ambient_sensor" = "Ambient Sensor";
-
-"key_cook_guide_welcome_to_use" = "Welcome To Use";
-
-"key_cook_[<xxxx>]_min_left" = "[<xxxx>] min left";
-
-"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>] minutes have passed";
-
-"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>] seconds have passed";
-
-"key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]h:[<xxxx1>]m have passed";
-
-"key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]m:[<xxxx1>]s have passed";
-
-"key_cook_during_express" = "express";
-
-"key_cook_during_standard" = "standard";
-
-"key_cook_during_relaxed" = "relaxed";
-
-"key_cook_during_low" = "low";
-
-"key_cook_during_no_rush" = "noRush";
-
-"key_cook_during_express_with_time" = "Express (< 30 mins)";
-
-"key_cook_during_standard_with_time" = "Standard (45 - 90 mins)";
-
-"key_cook_during_relaxed_with_time" = "Relaxed (2 - 4 hours)";
-
-"key_cook_during_low_with_time" = "Low & Slow (4+ hours)";
-
-"key_cook_during_no_rush_with_time" = "No Rush";
-
-"key_cook_cuisine_asian_fusion" = "Asian Fusion";
-
-"key_cook_cuisine_american_bbq" = "American BBQ";
-
-"key_cook_cuisine_french_elegance" = "French Elegance";
-
-"key_cook_cuisine_classic_pure" = "Classic Pure";
-
-"key_cook_cuisine_mediterranean" = "Mediterranean";
-
-"key_cook_cuisine_spicy_heat" = "Spicy Heat";
-
-"key_cook_cuisine_other" = "Other";
-
-"key_cook_time_budget_express" = "Express (< 30 mins)";
-
-"key_cook_time_budget_standard" = "Standard (45 - 90 mins)";
-
-"key_cook_time_budget_relaxed" = "Relaxed (2 - 4 hours)";
-
-"key_cook_time_budget_low" = "Low & Slow (4+ hours)";
-
-"key_cook_time_budget_other" = "No Rush";
-
-"key_cook_flip_once_alert_title" = "Time to Flip Your Food";
-
-"key_cook_flip_once_alert_title_sub" = "Use tongs to flip, not a fork. Piercing the meat will cause juices to escape.";
-
-"key_cook_flip_once_alert_title_confirm" = "I've Flipped It";
-
-"key_cook_chart_title_internal" = "Internal";
-
-"key_cook_chart_title_target" = "Target";
-
-"key_cook_chart_title_ambient" = "Ambient";
-
-"key_cook_chart_title_warning" = "Warning";
-
-"key_cook_chart_title_ntc1" = "NTC1";
-
-"key_cook_chart_title_ntc2" = "NTC2";
-
-"key_cook_chart_title_ntc3" = "NTC3";
-
-"key_cook_chart_title_ntc4" = "NTC4";
-
-"key_cook_chart_title_stage1" = "Stage1";
-
-"key_cook_chart_title_stage2" = "Stage2";
-
-"key_module_firmware" = "key_module_firmware";
-
-"key_module_setting" = "key_module_setting";
-
-"key_setting_temperature_units" = "Temperature Units";
-
-"key_setting_select_size" = "Select Size";
-
-"key_setting_my_favorite" = "My Favorite";
-
-"key_setting_my_favorites" = "My Favorites";
-
-"key_setting_icloud_sync" = "iCloud Sync";
-
-"key_setting_firmware_update" = "Firmware Update";
-
-"key_setting_member_information" = "Member Information";
-
-"key_setting_cycle_firmware_update" = "Cycle Firmware Update";
-
-"key_setting_probe_mac_address" = "Probe Management";
-
-"key_setting_ambient_temperature" = "Ambient Temperature";
-
-"key_setting_hardware_version" = "Hardware version";
-
-"key_setting_buzzer" = "Buzzer";
-
-"key_setting_language" = "Language";
-
-"key_setting_app_version" = "App Version";
-
-"key_setting_faqs" = "FAQS";
-
-"key_setting_alexa" = "Alexa";
-
-"key_setting_alert_sound" = "Set Alert Sound";
-
-"key_setting_alert_sound_set" = "Set Alert Sound";
-
-"key_setting_alert_option_toggle_title" = "Toggle";
-
-"key_setting_alert_option_toggle_tips" = "Enable sound notifications for important alerts.";
-
-"key_setting_alert_sound_nav_title" = "Alert Sounds";
-
-"key_setting_alert_option_toggle_option_alert_sound" = "Alert Sounds";
-
-"key_setting_alert_option_notification_title" = "Notification Sounds";
-
-"key_setting_alert_option_flip" = "Flip Alerts";
-
-"key_setting_alert_option_reset" = "Rest Alerts";
-
-"key_setting_alert_option_complete" = "Cook Complete Alert";
-
-"key_setting_alert_option_manage_title" = "Manage Ringtones";
-
-"key_setting_alert_option_manage_option_your_sound" = "Your Sounds";
-
-"key_setting_alert_option_tips" = "Tip：\n 1. Sound alerts may be affected by Silent Mode, Do Not Disturb, and system notification settings.\n 2. Please check that your device's media volume is turned up and the app has permission to play sounds.";
-
-"key_setting_choose_sound_title" = "Choose Sound";
-
-"key_setting_choose_sound_title_sub" = "Tap a sound to preview and select.";
-
-"key_setting_sound_flip_nav_title" = "Flip Alerts";
-
-"key_setting_sound_flip_toggle_title" = "Toggle";
-
-"key_setting_sound_flip_toggle_switch_title" = "Enable Flip Alert";
-
-"key_setting_sound_flip_alert_title" = "Alert Method";
-
-"key_setting_sound_flip_alert_type_title" = "Alert Type";
-
-"key_setting_sound_flip_alert_reminder_title" = "Repeat Reminder";
-
-"key_setting_sound_flip_sound_title" = "Alert Sound";
-
-"key_setting_sound_flip_sound_select_title" = "Select Sound";
-
-"key_setting_sound_flip_sound_tips" = "Tip：\n Get notified when it's time to flip your food.";
-
-"key_setting_sound_rest_nav_title" = "Rest Alerts";
-
-"key_setting_sound_rest_toggle_title" = "Toggle";
-
-"key_setting_sound_rest_toggle_switch_title" = "Enable Rest Alerts";
-
-"key_setting_sound_rest_alert_title" = "Alert Method";
-
-"key_setting_sound_rest_alert_type_title" = "Alert Type";
-
-"key_setting_sound_rest_alert_reminder_title" = "Repeat Reminder";
-
-"key_setting_sound_rest_sound_title" = "Alert Sound";
-
-"key_setting_sound_rest_sound_select_title" = "Select Sound";
-
-"key_setting_sound_rest_sound_tips" = "Tip：\n Stay on track with the perfect resting time.";
-
-"key_setting_sound_cook_nav_title" = "Cook Complete Alert";
-
-"key_setting_sound_cook_toggle_title" = "Toggle";
-
-"key_setting_sound_cook_toggle_switch_title" = "Enable Complete Alert";
-
-"key_setting_sound_cook_alert_title" = "Notification Method";
-
-"key_setting_sound_cook_alert_type_title" = "Alert Type";
-
-"key_setting_sound_cook_alert_reminder_title" = "Repeat Reminder";
-
-"key_setting_sound_cook_sound_title" = "Alert Sound";
-
-"key_setting_sound_cook_sound_select_title" = "Select Sound";
-
-"key_setting_sound_cook_remain_title" = "Remaining Time Warning";
-
-"key_setting_sound_cook_remain_end_[<xxxx>]" = "End in [<xxxx>] minutes";
-
-"key_setting_sound_cook_remain_add" = "Add new warning";
-
-"key_setting_sound_cook_remain_time_exist_toast" = "Remain time exist";
-
-"key_setting_sound_cook_sound_tips" = "Tip：\n Stay on track with the perfect resting time.";
-
-"key_setting_choose_sound_nav_title" = "Choose Sound";
-
-"key_setting_choose_sound_flip_nav_title" = "Flip Alert Sound";
-
-"key_setting_choose_sound_rest_nav_title" = "Rest Alert Sound";
-
-"key_setting_choose_sound_cook_nav_title" = "Cook Complete Sound";
-
-"key_setting_choose_sound_title_sub" = "Lap a sound to preview and select.";
-
-"key_setting_choose_sound_title_flip_sound" = "Flip Alert Sound";
-
-"key_setting_choose_sound_title_rest_sound" = "Rest Alert Sound";
-
-"key_setting_choose_sound_title_cook_sound" = "Cook Complete Sound";
-
-"key_setting_choose_sound_title_classic_cell" = "Classic Bell";
-
-"key_setting_choose_sound_title_gentle_chime" = "Gentle Chime";
-
-"key_setting_choose_sound_title_soft_alert" = "Soft Alert";
-
-"key_setting_choose_sound_title_bbq_time" = "BBQ Timer";
-
-"key_setting_choose_sound_title_bright_tone" = "Bright Tone";
-
-"key_setting_choose_sound_title_warm_reminder" = "Warm Reminder";
-
-"key_setting_choose_sound_title_chefs_call" = "Chef’s Call";
-
-"key_setting_choose_sound_title_cozy_chime" = "Cozy Chime";
-
-"key_setting_choose_sound_title_grill_pulse" = "Grill Pulse";
-
-"key_setting_choose_sound_title_cheerful_ring" = "Cheerful Ring";
-
-"key_setting_choose_sound_title_pick_your_vibe" = "Pick your vibe";
-
-"key_setting_choose_sound_alert_repeat_reminder_title" = "Repeat Reminder";
-
-"key_setting_choose_sound_alert_repeat_reminder_once" = "Once";
-
-"key_setting_choose_sound_alert_repeat_reminder_twice" = "Twice";
-
-"key_setting_choose_sound_alert_type_title" = "Alert Type";
-
-"key_setting_choose_sound_alert_type_sound" = "Sound";
-
-"key_setting_choose_sound_alert_type_vibration" = "Vibration";
-
-"key_setting_choose_sound_alert_type_popup" = "Popup";
-
-"key_setting_choose_sound_alert_type_all" = "All";
-
-"key_setting_choose_sound_alert_notification_turn_off_title" = "Notifications Off";
-
-"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "Notifications are off in system settings.";
-
-"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "Open Settings";
-
-"key_setting_choose_sound_alert_all_turn_off_title" = "Turn Off All Alerts?";
-
-"key_setting_choose_sound_alert_all_turn_off_title_sub" = "You may miss important cooking reminders. Are you sure you want to turn off alert sounds?";
-
-"key_setting_choose_sound_alert_flip_turn_off_title" = "Turn Off Flip Alerts?";
-
-"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "Turn off this alert for the current cook? You may miss this reminder.";
-
-"key_setting_choose_sound_alert_rest_turn_off_title" = "Turn Off Rest Alerts?";
-
-"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "Turn off this alert for the current cook? You may miss this reminder.";
-
-"key_setting_choose_sound_alert_cook_turn_off_title" = "Turn Off Completion Alerts?";
-
-"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "You may miss important cooking reminders.\n Are you sure you want to turn off alert sounds?";
-
-"key_setting_test_page" = "Test Page";
-
-"key_setting_share" = "Share";
-
-"key_setting_connect_wifi" = "Connect Wi-Fi";
-
-"key_setting_screen_timeout" = "Screen Timeout";
-
-"key_setting_beta_mode" = "Beta";
-
-"key_setting_apple_id" = "Apple Id";
-
-"key_setting_google" = "Google";
-
-"key_setting_email" = "Email";
-
-"key_seting_home_page_information" = "Personal Information";
-
-"key_setting_nickname" = "Nickname";
-
-"key_setting_password" = "Password";
-
-"key_setting_user_id" = "User ID";
-
-"key_setting_delete_account" = "Delete Account";
-
-"key_setting_reset" = "Reset";
-
-"key_setting_copy" = "Copy";
-
-"key_setting_log_out" = "Log Out";
-
-"key_setting_tap_log_out" = "Tap 'Log Out' to sign out";
-
-"key_setting_account_has_log_out" = "This account has logged out";
-
-"key_setting_delete_device" = "Delete Device";
-
-"key_setting_delete_device_title" = "Confirm to delete device";
-
-"key_setting_device_management" = "Device Management";
-
-"key_setting_delete_success" = "Delete success";
-
-"key_setting_sure" = "Sure";
-
-"key_setting_change_language_alert_title" = "Change Language";
-
-"key_setting_change_language_alert_title_sub" = "Please select your language";
-
-"key_setting_ambient_management_alert_confirm" = "Sure, I Know";
-
-"key_setting_ambient_management_alert_cancel" = "Go To Open";
-
-"key_setting_ambient_management_alert_title" = "Ambient Management";
-
-"key_setting_ambient_management_alert_question" = "Want to turn on the ambient temperature feature?";
-
-"key_setting_ambient_management_alert_answer" = "You can enable it in Device → Device Management → Ambient Temperature.";
-
-"key_setting_guide_sizzle_welcome_title" = "Welcome To Meatmeet";
-
-"key_setting_guide_sizzle_welcome_title_sub" = "Thanks for joining Meatmeet! Before we fire things up, let’s set a few things so your meat turns out perfect every time.";
-
-"key_setting_guide_sizzle_welcome_title_confirm" = "Let’s Start";
-
-"key_setting_guide_sizzle_select_size_title" = "Inches or Centimeters?";
-
-"key_setting_guide_sizzle_select_size_title_sub" = "There are two kinds of people: inch lovers and centimeter fans. Pick your side and let’s roll!";
-
-"key_setting_guide_sizzle_select_size_title_tips" = "Adjust anytime in Settings.";
-
-"key_setting_guide_sizzle_temperature_unit_title" = "Fahrenheit or Celsius?";
-
-"key_setting_guide_sizzle_temperature_unit_title_sub" = "There are two kinds of people: Fahrenheit folks and Celsius fans. Pick your side!";
-
-"key_setting_guide_sizzle_temperature_unit_title_tips" = "Adjust anytime in Settings.";
-
-"key_setting_guide_sizzle_buzzer_title" = "Buzz or Chill?";
-
-"key_setting_guide_sizzle_buzzer_title_sub" = "Want your meat to buzz when it’s ready, or prefer peace and quiet? Your call!";
-
-"key_setting_guide_sizzle_buzzer_title_tips" = "Device paired? Home → More. Toggle away.";
-
-"key_setting_guide_sizzle_ambient_temperature_title" = "Feeling Fancy?";
-
-"key_setting_guide_sizzle_ambient_temperature_title_sub" = "Turn on ambient temp to feel like a pro. Or keep it simple—no judgment!";
-
-"key_setting_guide_sizzle_ambient_temperature_title_tips" = "Device paired? Home → More. Toggle away.";
-
-"key_setting_guide_sizzle_all_set_title" = "You’re All Set to Sizzle!";
-
-"key_setting_guide_sizzle_all_set_title_sub" = "You’re paired and ready to grill, chef! Don’t forget to save me a bite.";
-
-"key_setting_guide_sizzle_all_set_title_confirm" = "Start Cooking";
-
-"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "Next([<xxxx0>]/[<xxxx1>])";
-
-"key_setting_timeout_title" = "Screen Timeout";
-
-"key_setting_timeout_title_sub" = "Set how long the device screen stays on after inactivity. High brightness lasts 45s, then dims to low brightness for the selected duration.";
-
-"key_setting_timeout_never_title" = "Never";
-
-"key_setting_timeout_never_title_sub" = "Screen stays on at low brightness (default)";
-
-"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] seconds";
-
-"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] minutes";
-
-"key_module_bluetooth" = "key_module_bluetooth";
-
-"key_bluetooth_should_turn_on" = "Turn On Your Bluetooth";
-
-"key_bluetooth_should_turn_on_to_continue" = "Turn On Bluetooth To Continue";
-
-"key_bluetooth_setting_to" = "Setting";
-
-"key_bluetooth_setting_cancel" = "Cancel";
+"Key_Module_Bluetooth" = "Key_Module_Bluetooth";
 
 "key_bluetooth_current_off" = "Bluetooth Off";
 
-"key_module_server" = "key_module_server";
+"key_bluetooth_setting_cancel" = "Cancel";
 
-"key_server_wrong_please_try_later" = "Server error. Please try again later";
+"key_bluetooth_setting_to" = "Setting";
 
-"key_server_try_later" = "Please try again later";
+"key_bluetooth_should_turn_on_to_continue" = "Turn On Bluetooth To Continue";
 
-"key_server_failure" = "Failure";
+"Key_Module_Common" = "Key_Module_Common";
 
-"key_module_common" = "key_module_common";
+"key_common_alert_email_failure_tips" = "We can’t access your email service. Tap 'Settings' to enable it";
 
-"key_common_confirm" = "Confirm";
+"key_common_alert_feedback_publish" = "Publish";
 
-"key_common_cancel" = "Cancel";
+"key_common_alert_feedback_publish_failed_tips" = "Title must be at least 2 characters";
 
-"key_common_delete" = "Delete";
-
-"key_common_jump_to_setting" = "Setting";
-
-"key_common_other" = "Other";
-
-"key_common_feedback" = "Feedback";
+"key_common_alert_feedback_publish_failed_title" = "Failure";
 
 "key_common_alert_feedback_title" = "Title";
 
@@ -1952,429 +640,703 @@
 
 "key_common_alert_feedback_title_sub_placeholder" = "Please enter the content";
 
-"key_common_alert_feedback_publish" = "Publish";
+"key_common_cancel" = "Cancel";
 
-"key_common_alert_feedback_publish_failed_tips" = "Title must be at least 2 characters";
+"key_common_confirm" = "Confirm";
 
-"key_common_alert_feedback_publish_failed_title" = "Failure";
+"key_common_delete" = "Delete";
 
-"key_common_alert_email_failure_tips" = "We can’t access your email service. Tap 'Settings' to enable it";
-
-"key_common_alert_network_loose_title_sub" = "Network error. Please check your connection.";
-
-"key_common_net_not_reachable_title" = "Network Not Reachable";
-
-"key_common_net_not_reachable_title_sub" = "Network connection disconnected. You can continue using offline mode.";
-
-"key_common_net_not_reachable_title_confirm" = "Confirm";
+"key_common_feedback" = "Feedback";
 
 "key_common_net_not_reachable_current_title" = "Network Unavailable";
 
-"key_common_net_not_reachable_current_title_sub" = "The network is currently unavailable. Local data will be loaded.";
+"key_common_net_not_reachable_current_title_cancel" = "Cancel";
 
 "key_common_net_not_reachable_current_title_confirm" = "Confirm";
 
-"key_common_net_not_reachable_current_title_cancel" = "Cancel";
+"key_common_net_not_reachable_current_title_sub" = "The network is currently unavailable. Local data will be loaded.";
+
+"key_common_net_not_reachable_title" = "Network Not Reachable";
+
+"key_common_net_not_reachable_title_confirm" = "Confirm";
+
+"key_common_net_not_reachable_title_sub" = "Network connection disconnected. You can continue using offline mode.";
 
 "key_common_net_reachable_current_title" = "Network Restored";
 
-"key_common_net_reachable_current_title_sub" = "Network connection restored. Loading online data now.";
+"key_common_net_reachable_current_title_cancel" = "Cancel";
 
 "key_common_net_reachable_current_title_confirm" = "Confirm";
 
-"key_common_net_reachable_current_title_cancel" = "Cancel";
+"key_common_net_reachable_current_title_sub" = "Network connection restored. Loading online data now.";
 
-"key_module_iap" = "key_module_iap";
+"key_common_other" = "Other";
 
-"key_ai_home_title" = "AI Cooking";
+"Key_Module_Cook" = "Key_Module_Cook";
 
-"key_ai_home_image_recognition_title" = "AI Image Recognition";
+"key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]h:[<xxxx1>]m have passed";
 
-"key_ai_home_image_recognition_title_sub" = "Photo to Recipe: Cook with What You Have";
+"key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]m:[<xxxx1>]s have passed";
 
-"key_ai_home_recipe_recommendations_title" = "AI Recipe Recommendations";
+"key_cook_[<xxxx>]_min_left" = "[<xxxx>] min left";
 
-"key_ai_home_recipe_recommendations_title_sub" = "Idea to Recipe: Cook What You Love";
+"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>] minutes have passed";
 
-"key_ai_home_ai_cooking_master_title" = "AI Cooking Master";
+"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>] seconds have passed";
 
-"key_ai_home_ai_cooking_master_title_tips" = "Let us know your meat type, cuisine style, and meat thickness. We'll give you a perfect recipe and set it up for you.";
+"key_cook_alert_add_limit_title" = "Can only add up to 5 at most";
 
-"key_ai_home_ai_cooking_master_title_sub" = "Ask AI Cooking Master";
+"key_cook_alert_add_new_warning" = "Add new warning";
 
-"key_ai_answer_title" = "AI Answer";
+"key_cook_alert_cooking_complete_alert" = "Cooking Complete Alert";
 
-"key_ai_answer_title_sub" = "Please select according to the options";
+"key_cook_alert_cooking_complete_unit" = "Cook completed";
 
-"key_ai_answer_option_select_title" = "You Uploaded This Photo";
+"key_cook_alert_end_in_[<xxxx>]" = "Ends in [<xxxx>] minutes";
 
-"key_ai_answer_setting_cooking_title" = "Smart cooking settings";
+"key_cook_alert_mode_popup" = "Popup";
 
-"key_ai_answer_setting_cooking_title_sub" = "Tell us what you like — we'll recommend recipes you'll love!";
+"key_cook_alert_mode_ring" = "Ring";
 
-"key_ai_recipe_answer_nav_title" = "AI Answer";
+"key_cook_alert_mode_vibration" = "Vibration";
 
-"key_ai_recipe_answer_title_sub" = "Please select according to the options";
+"key_cook_alert_multiple_selection" = "multiple selection";
 
-"key_ai_recipe_answer_card_title" = "Smart cooking settings";
+"key_cook_alert_remaining_time_alert" = "Remaining Time Alert";
 
-"key_ai_recipe_answer_card_title_sub" = "Based on your selection, we will generate a drawing recipe for you";
+"key_cook_alert_rest_continue" = "Continue";
 
-"key_ai_image_recognition_title_tip" = "You Uploaded This Photo";
+"key_cook_alert_rest_title" = "Resting Meat";
 
-"key_ai_image_recognition_cart_title" = "Tell us what you like — we'll recommend recipes you'll love!";
+"key_cook_alert_rest_title_sub" = "The meat has reached the resting temperature. Please remove the food you are cooking from your oven";
 
-"key_ai_you_uploaded_this_photo" = "You Uploaded This Photo";
+"key_cook_alert_time_picker_title" = "Time Picker";
 
-"key_ai_answer_setting_cooking_choose_meat_title_sub" = "Choosing Meat";
+"key_cook_alert_time_picker_unit" = "Minute";
 
-"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "Chooseing Equipment";
+"key_cook_alert_warning_mode" = "Warning Modes";
 
-"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "Chooseing Temperature";
+"key_cook_ambient" = "Ambient";
 
-"key_ai_answer_setting_cooking_title_confirm" = "I've Chosen";
+"key_cook_chart_title_ambient" = "Ambient";
 
-"key_ai_answer_result_choice_title" = "Your Choice";
+"key_cook_chart_title_internal" = "Internal";
 
-"key_ai_answer_result_choice_meat_title" = "Choosing Meat";
+"key_cook_chart_title_ntc1" = "NTC1";
 
-"key_ai_answer_result_choice_equipment_title" = "Chooseing Equipment";
+"key_cook_chart_title_ntc2" = "NTC2";
 
-"key_ai_answer_result_choice_temperature_title" = "Chooseing Temperature";
+"key_cook_chart_title_ntc3" = "NTC3";
 
-"key_ai_smart_cooking_master" = "Smart Cooking Master";
+"key_cook_chart_title_ntc4" = "NTC4";
 
-"key_ai_answer_result_choice_confirm_title" = "Using the recipe";
+"key_cook_chart_title_second_grill_temperature" = "Second Grill";
 
-"key_ai_answer_recipe_name_title" = "Recipe Name";
+"key_cook_chart_title_stage1" = "Stage1";
 
-"key_ai_answer_recipe_star_title" = "Star";
+"key_cook_chart_title_stage2" = "Stage2";
 
-"key_ai_answer_recipe_total_time_title" = "Total Time";
+"key_cook_chart_title_target" = "Target";
 
-"key_ai_answer_recipe_pre_time_title" = "Pre Time";
+"key_cook_chart_title_warning" = "Warning";
 
-"key_ai_answer_recipe_cook_time_title" = "Cook Time";
+"key_cook_complete_alert_content" = "You can go to the history records to see this bbq record";
 
-"key_ai_answer_recipe_cook_meat_name_title" = "Cook Meat Name";
+"key_cook_complete_will_complete_title" = "Cook Will Complete";
 
-"key_ai_answer_recipe_ingredient_list_title" = "Ingredient List";
+"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "There are [<xxxx>] minutes left until the end of cooking";
 
-"key_ai_answer_recipe_cook_steps_title" = "Cook Step";
+"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "There are [<xxxx0>] minutes left until the end of cooking ([<xxxx1>])";
 
-"key_ai_answer_recipe_cook_flip_title" = "Cook Flip";
+"key_cook_cooking_completed_on_device_[<xxxx>]" = "Cooking completed on device [<xxxx>]";
 
-"key_ai_answer_recipe_cook_awaken_title" = "Cook Awaken";
+"key_cook_cooking_time_remaining" = "Cooking Time Remaining";
 
-"key_ai_answer_recipe_notes_title" = "Notes";
+"key_cook_cuisine_american_bbq" = "American BBQ";
 
-"key_ai_probe_insert_title" = "Probe Insertion";
+"key_cook_cuisine_asian_fusion" = "Asian Fusion";
 
-"key_ai_probe_insert_tip_title" = "How to use the probe";
+"key_cook_cuisine_classic_pure" = "Classic Pure";
 
-"key_ai_probe_insert_next_title" = "Next Step";
+"key_cook_cuisine_french_elegance" = "French Elegance";
 
-"key_ai_recipe_confirm_title" = "AI Barbecue Solution";
+"key_cook_cuisine_mediterranean" = "Mediterranean";
 
-"key_ai_recipe_confirm_title_sub" = "Based on the content of your photos, we have generated a set of intelligent barbecue solutions for you,If you are not satisfied with a suggestion below, click Edit.";
+"key_cook_cuisine_other" = "Other";
 
-"key_ai_recipe_confirm_detail_title" = "View Recipe Details >";
+"key_cook_cuisine_spicy_heat" = "Spicy Heat";
 
-"key_ai_recipe_confirm_swipe_title_tips" = "Swipe left and right to see more";
+"key_cook_during_express" = "express";
 
-"key_ai_recipe_confirm_next_title" = "Begin Grill";
+"key_cook_during_express_with_time" = "Express (< 30 mins)";
 
-"key_ai_recipe_recommend_card_title_[<xxxx>]" = "Recommended recipe [<xxxx>]";
+"key_cook_during_low" = "low";
 
-"key_ai_recipe_recommend_card_title_sub" = "We recommend personalized recommendations based on your";
+"key_cook_during_low_with_time" = "Low & Slow (4+ hours)";
 
-"key_ai_recipe_recommend_card_meat_name_title" = "Meat";
+"key_cook_during_no_rush" = "noRush";
 
-"key_ai_recipe_recommend_card_cooking_tool_title" = "Cooking environment";
+"key_cook_during_no_rush_with_time" = "No Rush";
 
-"key_ai_recipe_recommend_card_flip_title" = "Flip";
+"key_cook_during_relaxed" = "relaxed";
 
-"key_ai_recipe_recommend_card_temperature_title" = "Cooking Mode";
+"key_cook_during_relaxed_with_time" = "Relaxed (2 - 4 hours)";
 
-"key_ai_recipe_recommend_card_awaken_title" = "Wake up the meat";
+"key_cook_during_standard" = "standard";
 
-"key_ai_recipe_recommend_card_meat_size_title" = "Estimated meat inch";
+"key_cook_during_standard_with_time" = "Standard (45 - 90 mins)";
 
-"key_ai_recipe_unit_seconds" = "seconds";
+"key_cook_end_alert_cancel" = "Back To Cook";
 
-"key_ai_recipe_unit_minute" = "minutes";
+"key_cook_end_alert_confirm" = "Yes, End Cook";
 
-"key_ai_recipe_unit_hour" = "hours";
+"key_cook_end_alert_title" = "Whether To End Cook";
 
-"key_ai_recipe_unit_day" = "days";
+"key_cook_end_cooking" = "End Cooking";
 
-"key_ai_recipe_unit_month" = "months";
+"key_cook_equipment_air_fryer" = "Air Fryer";
 
-"key_ai_recipe_unit_year" = "years";
+"key_cook_equipment_charcoal_grill" = "Charcoal Grill";
 
-"key_ai_recognition_result_title" = "Al Recognition Results";
+"key_cook_equipment_deep_fryer" = "Deep Fryer";
 
-"key_ai_recognition_result_preparation_title" = "Preparation";
+"key_cook_equipment_gas_grill" = "Gas Grill";
 
-"key_ai_recognition_result_cancel_title" = "Re-identification";
+"key_cook_equipment_option_section_title" = "Advanced Options";
 
-"key_ai_recognition_result_confirm_title" = "Next Step";
+"key_cook_equipment_other" = "Other";
 
-"key_ai_recipe_collection" = "Save Recipe";
+"key_cook_equipment_oven" = "Oven";
 
-"key_ai_recipe_dis_collection" = "Unsave Recipe";
+"key_cook_equipment_pan" = "Pan";
 
-"key_ai_master_enterence_title" = "Customize Recipe";
+"key_cook_equipment_reverse_sear" = "Reverse Sear";
 
-"key_ai_master_enterence_title_sub" = "Tell us your preferences — we’ll create the perfect recipe for you.";
+"key_cook_equipment_section_title" = "Common Devices";
 
-"key_ai_master_enterence_header" = "AI Cooking Master";
+"key_cook_equipment_smoker" = "Smoker";
 
-"key_ai_master_enterence_confirm" = "AI Customize";
+"key_cook_equipment_sous_vide" = "Sous Vide";
 
-"key_ai_recipe_description_title" = "Description";
+"key_cook_estimate_time" = "Estimated Cooking Time";
 
-"key_ai_recipe_ingredients_title" = "Ingredients";
+"key_cook_flip_do_not_need_cell_unvalid" = "No Flip Needed";
 
-"key_ai_recipe_pre_cooking_title" = "Pre-Cooking Steps";
+"key_cook_flip_do_not_need_title" = "Don't Need To Flip Food";
 
-"key_ai_recipe_cooking_instruction_title" = "Cooking Instructions";
+"key_cook_flip_do_not_need_title_cell" = "No Flip Needed";
 
-"key_ai_recipe_help_tips_title" = "Helpful Tips";
+"key_cook_flip_every_30_title" = "Flip Food Every 30s";
 
-"key_ai_recipe_difficult_easy" = "Easy";
+"key_cook_flip_every_30_title_cell" = "Every 30 seconds";
 
-"key_ai_recipe_difficult_moderate" = "Moderate";
+"key_cook_flip_once_alert_title" = "Time to Flip Your Food";
 
-"key_ai_recipe_difficult_professional" = "Professional";
+"key_cook_flip_once_alert_title_confirm" = "I've Flipped It";
 
-"key_ai_recipe_difficult_challenging" = "Challenging";
+"key_cook_flip_once_alert_title_sub" = "Use tongs to flip, not a fork. Piercing the meat will cause juices to escape.";
 
-"key_ai_recipe_collection_success_title" = "Saved successfully!";
+"key_cook_flip_once_title" = "Flip Food Only Once";
 
-"key_ai_recipe_collection_success_title_sub" = "You can view and manage it in “My → Favorite Recipes.”";
+"key_cook_flip_once_title_cell" = "Once Only";
 
-"key_ai_recipe_collection_failure_title" = "Successfully removed from Favorites";
+"key_cook_food_beef" = "Beef";
 
-"key_ai_recognition_photo_title" = "Use This Photo";
+"key_cook_food_fish" = "Fish";
 
-"key_ai_recognition_photo_working_title" = "AI Cooking Master Is Working";
+"key_cook_food_lamb" = "Lamb";
 
-"key_ai_master_setting_nav_title" = "AI Master Settings";
+"key_cook_food_other" = "Other";
 
-"key_ai_master_setting_animal_title" = "What are you cooking today";
+"key_cook_food_pork" = "Pork";
 
-"key_ai_master_setting_doneness_title" = "Perfect Doneness";
+"key_cook_food_poultry" = "Poultry";
 
-"key_ai_master_setting_equipment_title" = "Cooking Method";
+"key_cook_go_cooking" = "Go Cooking";
 
-"key_ai_master_setting_during_title" = "Time Budget";
+"key_cook_go_to_cooking" = "Go To Cooking";
 
-"key_ai_master_setting_flavor_title" = "Flavor Preference";
+"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-sensor";
 
-"key_ai_master_setting_confirm_open_title" = "Open Vip To Save";
+"key_cook_guide_ambient_sensor" = "Ambient Sensor";
 
-"key_ai_master_setting_confirm_save_title" = "Save";
+"key_cook_guide_base_back" = "Back";
 
-"key_ai_collection_recipes_segment_title" = "Ai Recipes";
+"key_cook_guide_base_next" = "Next";
 
-"key_ai_collection_cook_segment_title" = "Cooking Profile";
+"key_cook_guide_base_no_need" = "Needn't Guide";
 
-"key_ai_home_last_recipe_title" = "Last AI Recipe";
+"key_cook_guide_choose_alert_tips" = "Set up notifications";
 
-"key_ai_home_last_recipe_scan_title" = "Scan";
+"key_cook_guide_choose_chart_tips" = "Tap to change chart";
 
-"key_ai_home_last_recipe_ask_title" = "Ask";
+"key_cook_guide_choose_distance_tips" = "Place your device close to the grill for the best experience";
 
-"key_ai_home_last_recipe_master_title" = "Master";
+"key_cook_guide_choose_equipment_tips" = "Please select the cooking device you want to use";
 
-"key_ai_day_distance_today" = "Today";
+"key_cook_guide_choose_flip_tips" = "Select the food you want to flip";
 
-"key_ai_day_distance_last_day" = "Yesterday";
+"key_cook_guide_choose_history_tips" = "Tap here to start a new roast";
 
-"key_ai_day_distance_last_7_day" = "Last 7 Day";
+"key_cook_guide_choose_lefttime_tips" = "Tap to switch from remaining time to elapsed time";
 
-"key_ai_day_distance_last_30_day" = "Last 30 Day";
+"key_cook_guide_choose_meat_tips" = "Select the meat you want to cook";
 
-"key_ai_master_see_more_title" = "Unlock AI Membership to access more Master Recipes.";
+"key_cook_guide_choose_meatsize_tips" = "Select the thickness of the meat you want to cook";
 
-"key_ai_master_see_more_title_sub" = "Subscribe";
+"key_cook_guide_choose_multitemperature_tips" = "Tap 'Ambient' or 'Internal' to view the sensor temperature";
 
-"key_ai_dialogue_empty_title" = "No AI History Yet";
+"key_cook_guide_choose_realtime_tips" = "Real-time cooking progress";
 
-"key_ai_dialogue_empty_title_sub" = "Start using AI to generate recipes, get tips, and see your results here.";
+"key_cook_guide_choose_remove_probe_tips" = "Remove The Probe And Insert";
 
-"key_module_vip" = "key_module_vip";
+"key_cook_guide_choose_resting_tips" = "Choose the Resting Mode you want to use";
 
-"key_vip_to_open_vip" = "To Open VIP";
+"key_cook_guide_choose_start_tips" = "Tap to start cooking";
 
-"key_vip_to_renew_ai_membership" = "Renew AI Membership";
+"key_cook_guide_choose_temperature_tips" = "View temperature of each part";
 
-"key_vip_credits_total_histroy_[<xxxx>]" = "Credits: [<xxxx>] | Credits History >";
+"key_cook_guide_temp_s_welcome_title" = "New Meatmeet S Pro\n Welcome To You";
 
-"key_vip_purchase_nav_title" = "AI Pro";
+"key_cook_guide_temp_s_welcome_title_tips" = "Introducing our all-new 5-sensor smart meat thermometer with fully upgraded hardware:\n • Multi-point Temperature Monitoring: Simultaneously monitors 5 spots for evenly cooked perfection\n • Real-time Data Transmission: Instantly track temperature changes without frequently opening the grill\n • High Compatibility: Easily works with various grills and accessories for seamless operation";
 
-"key_vip_purchase_nav_billing_title" = "Billing";
+"key_cook_guide_welcome_to_use" = "Welcome To Use";
 
-"key_vip_ware_price_per_day_title_[<xxxx>]" = "[<xxxx>] per day";
+"key_cook_hub_distance_confirm_title" = "Go Cooking";
 
-"key_vip_ware_price_per_count_title_[<xxxx>]" = "[<xxxx>] per point";
+"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "Place the probe in the thickest part of the meat. Make sure the Safety Line stays inside.";
 
-"key_vip_ware_month_title" = "AI Pro Monthly";
+"key_cook_internal" = "Internal";
 
-"key_vip_ware_quarterly_title" = "AI Pro Quarterly";
+"key_cook_meat_thickness_cell_unvalid" = "No Thickness Needed";
 
-"key_vip_ware_yearly_title" = "AI Pro Yearly";
+"key_cook_meat_thickness_cm" = "cm";
 
-"key_vip_ware_count_title_[<xxxx>]" = "AI Credits [<xxxx>]";
+"key_cook_meat_thickness_inches" = "Inches";
 
-"key_vip_benefit_0" = "Unlimited AI image analysis";
+"key_cook_meat_thickness_most_common_size" = "Most Common Size";
 
-"key_vip_benefit_1" = "Unlimited AI recipe recommendations";
+"key_cook_nav_alert_setting" = "Alert Settings";
 
-"key_vip_benefit_2" = "Exclusive AI memberID";
+"key_cook_nav_choose_flip_food" = "Choose Flip Food";
 
-"key_vip_benefit_3" = "Get early access to more new features in the future";
+"key_cook_nav_choosing_device" = "Choosing device";
 
-"key_vip_action_restore" = "Restore Purchase";
+"key_cook_nav_meat_thickness" = "Meat Thickness";
 
-"key_vip_action_manage" = "Manage Subscription";
+"key_cook_nav_poultry" = "Poultry";
 
-"key_vip_action_support" = "Contact Support";
+"key_cook_nav_probe_position" = "Note The Probe Position";
 
-"key_vip_purchase_vip_title" = "Upgrade Membership";
+"key_cook_nav_rest_meat" = "Rest The Meat";
 
-"key_vip_purchase_point_title" = "Purchase Point";
+"key_cook_nav_select_cooking_option" = "Select Cooking Option";
 
-"key_vip_purchase_title_sub_[<xxxx>]" = "You will be charged [<xxxx>]. You can cancel at any time";
+"key_cook_nav_set_cooking" = "Set Cooking";
 
-"key_vip_contact_us_nav_title" = "Email丨Contact Us";
+"key_cook_nav_setting_cooking" = "Your Cooking Settings";
 
-"key_vip_contact_us_left_title" = "Contact Us";
+"key_cook_nav_temperature" = "Temperature";
 
-"key_vip_credits_usage_nav_title" = "Credits Usage";
+"key_cook_notify_time_to_flip_30s_title_sub" = "For Probe [<xxxx1>]（[<xxxx2>]）: flip food 30s once";
 
-"key_vip_credits_usage_balance_title" = "Credits Balance";
+"key_cook_notify_time_to_flip_title" = "Time to flip the meat";
 
-"key_vip_credits_usage_history_title" = "Credits History";
+"key_cook_notify_time_to_flip_title_sub" = "For Probe [<xxxx1>]（[<xxxx2>]）: flip food from heat";
 
-"key_vip_credits_usage_balance_total_title" = "Total Credits";
+"key_cook_notify_time_to_rest_title" = "Meat is resting";
 
-"key_vip_credits_usage_balance_purchase_title" = "Purchased Credits";
+"key_cook_notify_time_to_rest_title_sub" = "The meat has reached the target temperature. Please remove it from the oven.";
 
-"key_vip_credits_usage_balance_subscription_title" = "subscription credits";
+"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "Please remove the food from the heat source immediately";
 
-"key_vip_credits_usage_balance_bouns_title" = "Bonus Credits";
+"key_cook_poultry_correct_operation" = "Correct Operation";
 
-"key_vip_credits_usage_item_qa" = "AI Q&A";
+"key_cook_poultry_incorrect_operation" = "Incorrect Operation";
 
-"key_vip_credits_usage_item_recipe" = "AI Recipe";
+"key_cook_poultry_tips_title" = "Insert Probe into Solid Portion for Most Accurate Temperature";
 
-"key_vip_credits_usage_item_image" = "Image Scan";
+"key_cook_poultry_tips_title_sub" = "Insert the probe into its solid portion, like breast and legs, to effectively measure the meat's temperature.\n Avoiding rib cavities and large areas of bones and fatty.\n Ensure the groove on the probe is inserted into the meat entirely for safety use.Please insert the probe properly to prevent damage.";
 
-"key_vip_purchase_remine_less_one_day" = "Less Than One Day";
+"key_cook_probe_check_alert_battery_check_failed_title" = "Battery Check Failed";
 
-"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] Days";
+"key_cook_probe_check_alert_battery_check_failed_title_sub" = "Please insert the probe into the charging base to ensure that the device has sufficient power";
 
-"key_vip_manager_nav_title" = "Manage Subscription & Credits";
+"key_cook_probe_check_alert_battery_check_title" = "Battery Check";
 
-"key_vip_manager_refund" = "Request a Refund";
+"key_cook_probe_check_alert_signal_check_failed_title" = "Signal Check Failed";
 
-"key_vip_manager_service" = "Terms Of Service";
+"key_cook_probe_check_alert_signal_check_failed_title_sub" = "Please place the probe within signal connection range";
 
-"key_vip_manager_policy" = "Privacy Policy";
+"key_cook_probe_check_alert_signal_check_title" = "Signal Check";
 
-"key_vip_purchase_switch_title" = "Switch Subscription";
+"key_cook_probe_check_alert_success_title" = "Probe Status: Good";
 
-"key_vip_purchase_switch_title_sub_[<xxxx>]" = "Do you want to restore your existing subscription to '[<xxxx>]'？";
+"key_cook_probe_check_alert_title" = "Probe status checking";
 
-"key_vip_purchase_switch_success_title" = "Switched Successfully";
+"key_cook_probe_position_do_not_show" = "Do Not Pop Up This Message Again";
 
-"key_vip_purchase_switch_success_title_sub" = "Your subscription has been switched. Premium benefits are now available.";
+"key_cook_probe_position_title" = "Meatmeet Device Location Information";
 
-"key_vip_purchase_restore_success_title" = "Restored Successfully";
+"key_cook_probe_position_title_sub" = "Your meatmeet Pro Charger should be placed as close to your cooker as possible to maintain the connection with the probe and enhance the signal. \n Just make sure you don't leave it on any hot surfaces!";
 
-"key_vip_purchase_restore_success_title_sub" = "Your subscription has been restore. Premium benefits are now available.";
+"key_cook_probe_position_title_sub_[<xxxx>]" = "Your [<xxxx>] Charger should be placed as close to your cooker as possible to maintain the connection with the probe and enhance the signal.\n Just make sure you don't leave it on any hot surfaces!";
 
-"key_vip_purchase_restore_success_confirm_title" = "Get Started";
+"key_cook_progress_flip_countdown_[<xxxx>]" = "Flip in [<xxxx>] S";
 
-"key_vip_purchase_restore_success_account_title" = "Account";
+"key_cook_progress_flip_food" = "Flip Food";
 
-"key_vip_purchase_restore_success_account_value" = "Current Account";
+"key_cook_progress_flip_once_food" = "Flip Food";
 
-"key_vip_purchase_restore_success_remain_title" = "Remaining Time";
+"key_cook_ready_insert_probe_black_line" = "Black Line";
 
-"key_vip_purchase_restore_success_status_title" = "Account Status";
+"key_cook_ready_insert_probe_safe_line" = "Safety Line";
 
-"key_vip_purchase_restore_success_status_value" = "Premium(active)";
+"key_cook_ready_insert_probe_title" = "How To Insert The Probe";
 
-"key_vip_purchase_restore_success_method_title" = "Payment Method";
+"key_cook_ready_insert_probe_title_sub" = "Insert the probe into the thickest part of the meat until the Safety Line is completely inside the meat, do not past the Black Line, ensuring that the tip does not pierce through.";
 
-"key_vip_purchase_restore_success_method_value" = "Apple ID";
+"key_cook_ready_insert_probe_title_confirm" = "Confirm";
 
-"key_vip_purchase_failure_method_value" = "Purchase Failed";
+"key_cook_ready_to_grill" = "Ready To Grill";
 
-"key_vip_purchase_failure_reason_title" = "Possible reasons";
+"key_cook_rest_mode_cell_unvalid" = "Resting Mode Not Supported";
 
-"key_vip_purchase_failure_support_title" = "Contact Support";
+"key_cook_rest_mode_off" = "Resting Mode Off";
 
-"key_vip_purchase_failure_try_step_title" = "Try The Following";
+"key_cook_rest_mode_off_cell" = "Off";
 
-"key_vip_purchase_failure_try_step_0_title" = "Check your internet connection and try again";
+"key_cook_rest_mode_off_tips" = "Resting mode will be turned off. The final internal temperature of the cooked meat may exceed the target temperature. Do you want to proceed with turning off this mode?";
 
-"key_vip_purchase_failure_try_step_1_title" = "Try a different payment method";
+"key_cook_rest_mode_on" = "Resting Mode On";
 
-"key_vip_purchase_failure_try_step_2_title" = "Contact support for help";
+"key_cook_rest_mode_on_cell" = "On";
 
-"key_vip_purchase_failure_try_again_title" = "Try Again";
+"key_cook_rest_mode_on_tips" = "When Resting Mode is enabled, we’ll notify you to remove the meat from the heat each time its temperature rises by 10°C / 20°F ± 2°C / 3.6°F, ensuring optimal cooking results.";
 
-"key_vip_purchase_failure_benefit_0" = "Daily Master Recipes";
+"key_cook_rest_mode_unvalid_temperature_low" = "The current target temperature is too low for resting the meat. To rest the meat, please set the target temperature to at least 30°C / 86°F.";
 
-"key_vip_purchase_failure_benefit_1" = "Snap & Get Recipes";
+"key_cook_reverse_sear_nav_title" = "Reverse Sear";
 
-"key_vip_purchase_failure_benefit_2" = "VIP Badge";
+"key_cook_reverse_sear_section_final_title" = "Stage 2: Final Temperature";
 
-"key_vip_purchase_failure_benefit_3" = "More VIP Perks";
+"key_cook_reverse_sear_section_low_title" = "Stage 1: Low Temperature";
 
-"key_vip_purchase_success_title" = "Payment was successful";
+"key_cook_reverse_sear_section_strategy_title" = "Select Strategy";
 
-"key_vip_purchase_success_title_sub_[<xxxx>]" = "The [<xxxx>] you purchased has been successfully delivered";
+"key_cook_second_grill_stage_[<xxxx>]" = "Stage [<xxxx>]";
 
-"key_vip_expire_title_[<xxxx>]" = "VIP Expires [<xxxx>]";
+"key_cook_second_grill_stage_all" = "All";
 
-"key_vip_restore_title" = "Restore Subscription";
+"key_cook_setting_cook_save_favorite_tips" = "Save your favorites to start your next cook faster!";
 
-"key_vip_restore_title_sub_[<xxxx>]" = "Do you want to restore your existing subscription to '[<xxxx>]'？";
+"key_cook_setting_cooking_all_start" = "All Set — Start Cooking!";
 
-"key_vip_to_open_title" = "Unlock 4 VIP Benefits";
+"key_cook_setting_cooking_change_tips" = "Your cooking setup has changed — please confirm it’s correct.";
 
-"key_vip_to_open_title_sub" = "Recipes that understand your preferences — healthier and more delicious.";
+"key_cook_setting_cooking_tips" = "Your setup looks great. Let’s start cooking when you’re ready.";
 
-"key_vip_to_open_confirm_title" = "Subscribe Now";
+"key_cook_start" = "Start";
 
-"key_vip_expire_title" = "AI Membership Expired";
+"key_cook_start_new_cook" = "Start A New Cooking";
 
-"key_vip_expire_title_sub" = "Your AI features are paused. Resubscribe to continue using AI cooking tools.";
+"key_cook_strategy_other_title" = "Other";
 
-"key_vip_expire_cancel_title" = "Use Free";
+"key_cook_strategy_other_title_sub" = "Extended sear. Maximum crust formation. Please select your temperature.";
 
-"key_vip_expire_confirm_title" = "Resubscribe";
+"key_cook_strategy_stabdrad_title_sub" = "Extended sear. Maximum crust formation.";
 
-"key_vip_point_limit_title" = "Not Enough Points";
+"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Standard:[<xxxx0>]-[<xxxx1>][<xxxx2>]";
 
-"key_vip_point_limit_benefit_title" = "Keep Your AI Benefits";
+"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → Switch → Final: [<xxxx1>]";
 
-"key_vip_point_limit_title_sub" = "You've run out of credits.Get more to keep using AI";
+"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "Final [<xxxx>]";
 
-"key_vip_point_limit_cancel_title" = "Use Free";
+"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "Low [<xxxx>]";
 
-"key_vip_point_limit_confirm_title" = "Resubscribe";
+"key_cook_strategy_tag_recommend" = "Recommend";
 
-"key_vip_point_limit_cost" = "Cost";
+"key_cook_target" = "Target";
 
-"key_vip_point_limit_credits" = "Credits";
+"key_cook_temperature_alert_tips" = "The sensing part of the probe is intuitively displayed, so you can control the barbecue temperature. Let you have a better cooking experience.";
 
-"key_module_esp_server" = "key_module_esp_server";
+"key_cook_temperature_alert_title" = "Probe Temperature";
+
+"key_cook_temperature_medium" = "Medium";
+
+"key_cook_temperature_medium_rare" = "Medium rare";
+
+"key_cook_temperature_medium_well" = "Medium well";
+
+"key_cook_temperature_other" = "Other";
+
+"key_cook_temperature_rare" = "Rare";
+
+"key_cook_temperature_very_rare" = "Very Rare";
+
+"key_cook_temperature_well_done" = "Well done";
+
+"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "The ambient temperature has risen to [<xxxx0>]°C / [<xxxx1>]°F. Remove it to prevent cracking.";
+
+"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "The internal temperature has reached [<xxxx0>]°C / [<xxxx1>]°F. Remove it now to avoid damage.";
+
+"key_cook_time_budget_express" = "Express (< 30 mins)";
+
+"key_cook_time_budget_low" = "Low & Slow (4+ hours)";
+
+"key_cook_time_budget_other" = "No Rush";
+
+"key_cook_time_budget_relaxed" = "Relaxed (2 - 4 hours)";
+
+"key_cook_time_budget_standard" = "Standard (45 - 90 mins)";
+
+"key_cook_title_cooking_mode" = "Cooking Mode";
+
+"key_cook_title_equipment" = "Cooking Environment";
+
+"key_cook_title_estimate_meat_thickness" = "Estimated Meat Thickness";
+
+"key_cook_title_flip" = "Flip";
+
+"key_cook_title_food" = "Meat";
+
+"key_cook_title_wake_up_meat" = "Resting Meat";
+
+"key_cook_use_last_session" = "Use Last Cooking Session";
+
+"Key_Module_Device" = "Key_Module_Device";
+
+"key_device_access_restricted" = "Access Restricted";
+
+"key_device_alert_battery_low_0201" = "Battery is below 20%. Consider replacing the battery soon.";
+
+"key_device_alert_battery_low_second_0201" = "Please replace the battery";
+
+"key_device_bluetooth_disconnected_title" = "Bluetooth Disconnected";
+
+"key_device_bluetooth_disconnected_title_sub" = "Please check the Bluetooth connection status of the device";
+
+"key_device_booster_low_battery" = "Booster: Low battery";
+
+"key_device_change_alias_alert_placeholder" = "Please input new device name";
+
+"key_device_change_alias_alert_title" = "Device Name";
+
+"key_device_change_alias_alert_title_sub" = "Choose a unique name to easily identify your device when multiple probes are nearby.";
+
+"key_device_delete" = "Delete";
+
+"key_device_delete_failure" = "Device Delete Failure";
+
+"key_device_delete_unvalid_cause_cooking" = "Couldn't delete device while cooking";
+
+"key_device_home_tourist_title" = "You are currently in guest mode. Register or log in to view and edit your personal information.";
+
+"key_device_hub_disconnected" = "Device Disconnected";
+
+"key_device_in_cooking" = "Cooking in progress";
+
+"key_device_insert" = "Insert";
+
+"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "Device is currently connected but offline. Please ensure it’s connected to the internet to share.";
+
+"key_device_name_010x" = "meatmeet Pro";
+
+"key_device_name_010x_[<xxxx>]" = "meatmeet Pro [<xxxx>]";
+
+"key_device_name_0200" = "meatmeet S Pro";
+
+"key_device_name_0200_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
+
+"key_device_name_0201" = "meatmeet Pro 2026";
+
+"key_device_name_0201_[<xxxx>]" = "meatmeet Pro 2026 [<xxxx>]";
+
+"key_device_name_0300" = "meatmeet X Pro";
+
+"key_device_name_0301" = "meatmeet Z Pro";
+
+"key_device_name_0301_[<xxxx>]" = "meatmeet Z Pro [<xxxx>]";
+
+"key_device_name_030x_[<xxxx>]" = "meatmeet X Pro [<xxxx>]";
+
+"key_device_name_0400" = "meatmeet S pro 2026";
+
+"key_device_name_0400_[<xxxx>]" = "meatmeet S Pro 2026 [<xxxx>]";
+
+"key_device_nav_share" = "Share";
+
+"key_device_network_error" = "Network Error";
+
+"key_device_no_device" = "No Device Found";
+
+"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "Insert the probe into its charging case and keep it there for 1–3 minutes while the update completes.\n\n Note: Please do not remove the probe or power off the case during the update.";
+
+"key_device_ota_already_the_lastest_version" = "Already The Latest Version";
+
+"key_device_ota_check" = "Check";
+
+"key_device_ota_checking" = "Checking";
+
+"key_device_ota_current_version" = "Current Version";
+
+"key_device_ota_doing_title" = "During update";
+
+"key_device_ota_doing_title_sub" = "Updating firmware, please wait…";
+
+"key_device_ota_doing_transmit_title_sub" = "The new firmware is currently being transmitted and may take some time. Please be patient";
+
+"key_device_ota_fail_alert_device_busy_failed_title" = "Device Busy";
+
+"key_device_ota_fail_alert_device_busy_failed_title_sub" = "The device is busy with other tasks and cannot start the firmware update immediately. Please ensure the device is idle before updating.";
+
+"key_device_ota_fail_alert_download_failed_title" = "Download Failed";
+
+"key_device_ota_fail_alert_download_failed_title_sub" = "Firmware download failed. Please check your network connection.";
+
+"key_device_ota_fail_alert_during_cooking_title" = "Cooking in progress";
+
+"key_device_ota_fail_alert_during_cooking_title_sub" = "Cooking in progress. OTA updates are not supported during cooking. Please wait until the process is complete.";
+
+"key_device_ota_fail_alert_low_power_title" = "Update blocked";
+
+"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "Update unavailable. Make sure battery is above [<xxxx>]% or keep the device plugged in.";
+
+"key_device_ota_fail_alert_not_online_title" = "Device Not Networked";
+
+"key_device_ota_fail_alert_not_online_title_sub" = "Please add the device to your network before attempting a firmware update.";
+
+"key_device_ota_fail_alert_not_primary_failed_title_sub" = "This device is not the main device, and the device cannot be OTA upgraded";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title" = "Server Unresponsive";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "The firmware server is unavailable or the request timed out, causing the firmware download to fail. Please try again later.";
+
+"key_device_ota_fail_alert_server_update_failed_title" = "Update Failed";
+
+"key_device_ota_fail_alert_server_update_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device status.";
+
+"key_device_ota_fail_alert_transfer_failed_title" = "Transfer Failed";
+
+"key_device_ota_fail_alert_transfer_failed_title_sub" = "Update failed due to transfer timeout or device shutdown. Please retry firmware transfer";
+
+"key_device_ota_fail_alert_update_delay_failed_title" = "Update Delay";
+
+"key_device_ota_fail_alert_update_delay_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device status.";
+
+"key_device_ota_firmware_image_download_complete" = "Firmware Image Download Complete";
+
+"key_device_ota_firmware_installing" = "Firmware Installing";
+
+"key_device_ota_installing_firmware" = "Installing firmware updates, which may take some time";
+
+"key_device_ota_new_version" = "New Version";
+
+"key_device_ota_new_version_ready" = "New Version Ready";
+
+"key_device_ota_preparing" = "Preparing";
+
+"key_device_ota_rejected" = "Rejected";
+
+"key_device_ota_success" = "Update Successful";
+
+"key_device_ota_success_alert_title" = "Update Successful";
+
+"key_device_ota_success_alert_title_sub" = "Congratulations, your device firmware has been successfully updated!";
+
+"key_device_ota_update" = "Update";
+
+"key_device_ota_update_start" = "Update Start";
+
+"key_device_please_add_your_probe" = "Please add your probe";
+
+"key_device_please_check_the_position_and_condition_of_the_probe" = "Please check the position and condition of the probe";
+
+"key_device_please_connect_the_meat_[<xxxx>]_charger" = "Please connect the meat [<xxxx>] charger";
+
+"key_device_please_insert_the_probe_into_the_box" = "Please Insert The Probe Into The Box";
+
+"key_device_probe_[<xxxx>]" = "Probe [<xxxx>]";
+
+"key_device_probe_[<xxxx>]_mac" = "Probe [<xxxx>] Mac";
+
+"key_device_probe_change_not_allow_while_cooking" = "Probe change is not allowed while cooking. Please wait until the cooking is complete";
+
+"key_device_probe_change_unvalid" = "Probe Change Unavailable";
+
+"key_device_probe_firmware_update" = "Probe Firmware Update";
+
+"key_device_probe_is_charging" = "Probe is charging";
+
+"key_device_probe_low_battery" = "Probe: Low battery";
+
+"key_device_probe_not_connected" = "Probe Not Connected";
+
+"key_device_probe_repair_failure" = "Probe repair failure";
+
+"key_device_probe_repair_success" = "Probe repair success";
+
+"key_device_probe_repair_success_tips" = "Probe firmware upgraded successfully — thank you for your patience! Enjoy your cooking.";
+
+"key_device_probe_temperature" = "Probe Temperature";
+
+"key_device_probe_upgrade_in_progress" = "Probe Upgrade In Progress";
+
+"key_device_put_probe_into_booster_to_charge" = "Put probe into booster to charge";
+
+"key_device_select_add_device_cancel" = "Not Now";
+
+"key_device_select_add_device_confirm" = "Add Device";
+
+"key_device_select_add_device_title" = "Select Device";
+
+"key_device_select_add_device_title_sub" = "No device found.\n Add a device to start cooking.";
+
+"key_device_select_add_probe_cancel" = "Not Now";
+
+"key_device_select_add_probe_confirm" = "Add Probe";
+
+"key_device_select_add_probe_title" = "Select Probe";
+
+"key_device_select_add_probe_title_sub" = "No probe detected. \n Add a probe to start cooking.";
+
+"key_device_select_mode" = "Select Mode";
+
+"key_device_setting_wifi_manager_nav_title" = "WiFi Manage";
+
+"key_device_share_add" = "Add User";
+
+"key_device_share_alert_device_delete_account_title" = "Delete Account";
+
+"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "The user '[<xxxx>]' is about to be removed. Are you sure you want to remove it?";
+
+"key_device_share_alert_device_delete_failure_network_error" = "Delete failed. Please check your internet connection.";
+
+"key_device_share_alert_device_delete_success" = "Delete success";
+
+"key_device_share_alert_device_invitation_success_title" = "Sharing Successful";
+
+"key_device_share_alert_device_invitation_success_title_sub" = "Device has been successfully shared. Please notify the user promptly.";
+
+"key_device_share_alert_device_invite_user" = "Invite User";
+
+"key_device_signal_interrupted" = "Signal interrupted";
+
+"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "The device [<xxxx>] is disconnected. Please check your device and reconnect. Press the button till LED flash（about 2s）to turn on the device";
+
+"key_device_warning" = "Warning!!!";
+
+"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "We’re updating your probe’s firmware to enhance your cooking experience.";
+
+"key_device_what_is_happen" = "What’s Happening";
+
+"key_device_what_you_need_to_do" = "What You Need to Do?";
+
+"key_device_wifi_unvalid_cause_cooking" = "Couldn't config Wi-Fi while cooking";
+
+"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "Your grill detection has been interrupted because the phone is too far from the device [<xxxx>]";
+
+"Key_Module_Server_Error" = "Key_Module_Server_Error";
 
 "key_esp_server_error_code_100001" = "Error in fetching user details";
 
@@ -2646,32 +1608,722 @@
 
 "key_esp_server_error_code_119017" = "Super-admin user deletion is restricted!";
 
-"key_module_will_delete" = "key_module_will_delete";
+"Key_Module_Home" = "Key_Module_Home";
 
-"key_login_account_forget" = "Forgot password?";
+"key_home_add_offline" = "Add offline";
 
-"key_iap_describe_card_year_non_consume" = "Unlimited AI image analysis\n Unlimited AI recipe recommendations\n Exclusive AI member ID\n Get early access to more new features in the future";
+"key_home_add_offline_tips" = "Currently offline, the devices you added may be overwritten by devices added online.";
 
-"key_iap_describe_card_season_non_consume" = "Unlimited AI image analysis\n Unlimited AI recipe recommendations\n Exclusive AI member ID";
+"key_home_add_tips" = "Please add device";
 
-"key_iap_describe_card_month_non_consume" = "Unlimited AI image analysis\n Unlimited AI recipe recommendations";
+"key_home_device_add_limit" = "Add Device Limit";
 
-"key_iap_describe_card_week_non_consume" = "Unlimited AI image analysis";
+"key_home_device_add_limit_tips" = "Can't add more devices. Remove one or contact support";
 
-"key_bind_delete_probe" = "Delete Probe";
+"key_home_exit_visitor_mode" = "Exit Visitor Mode";
 
-"key_bind_connect_wifi" = "Connecting To Wi-Fi";
+"key_home_guest" = "Guest";
 
-"key_bind_connecting_to_wifi" = "Connecting To Wi-Fi";
+"key_home_status_change_alert_title" = "Status Change";
 
-"key_bind_cloud_connecting" = "Cloud Connecting";
+"key_home_status_change_alert_title_confirm" = "Connect To Wi-Fi";
 
-"key_bind_connect_to_wifi" = "Connecting To Wi-Fi";
+"key_home_status_change_alert_title_sub" = "Logged in. Connect booster to Wi-Fi for unlimited range and remote monitoring.";
 
-"key_bind_select_your_wifi" = "Select Your Wi-Fi";
+"key_home_tourist_alert_title" = "Note";
 
-"key_bind_searching_wifi" = "Scanning Wi-Fi";
+"key_home_tourist_alert_title_sub" = "Guest mode only supports Bluetooth connection. To enjoy unlimited range, please log in.";
 
-"key_bind_wiFi_connection_failed" = "Wi-Fi connection failed";
+"Key_Module_Log" = "Key_Module_Log";
 
-"key_bind_WiFi_connection_failed" = "Wi-Fi connection failed";
+"key_log_log_in_failure" = "Log in failure";
+
+"key_log_log_in_success" = "Log in success";
+
+"Key_Module_Login" = "Key_Module_Login";
+
+"key_login_account_delete_success" = "Delete success";
+
+"key_login_account_delete_sure" = "Sure";
+
+"key_login_account_delete_title" = "Are you sure you want to delete your account";
+
+"key_login_account_delete_title_sub" = "Once your account is deleted, your data cannot be recovered.";
+
+"key_login_account_error_empty" = "Please enter email";
+
+"key_login_account_error_unvalid" = "Enter the correct email";
+
+"key_login_code_error_less" = "Verification code must be at least 6 characters";
+
+"key_login_code_error_unvalid" = "Verification Code Incorrect";
+
+"key_login_delete_code_input_placeholder" = "Please input code";
+
+"key_login_delete_code_resend_title" = "Resend";
+
+"key_login_delete_code_send_title" = "Get";
+
+"key_login_delete_code_title" = "Verification Code";
+
+"key_login_delete_confirm_title" = "Delete Account";
+
+"key_login_delete_email_input_email_placeholder" = "Code";
+
+"key_login_delete_email_title" = "Your Email";
+
+"key_login_delete_nav_title" = "Authentication";
+
+"key_login_email_button_code_send_title" = "Get";
+
+"key_login_email_code_auth_resend_title_[<xxxx>]" = "Resend Code [<xxxx>]";
+
+"key_login_email_code_auth_send_tips_[<xxxx>]" = "Verification Code Sent To: [<xxxx>]";
+
+"key_login_email_code_auth_title" = "Enter Verification Code";
+
+"key_login_email_code_login_button_get_code_title" = "Get Code";
+
+"key_login_email_code_login_button_password_title" = "Login With Password";
+
+"key_login_email_code_send_success_title" = "Verification code sent";
+
+"key_login_email_code_title" = "Login\n With Code";
+
+"key_login_email_create_confirm_title" = "Next";
+
+"key_login_email_create_input_code_title" = "Verification Code";
+
+"key_login_email_create_input_code_title_placeholder" = "Please input code";
+
+"key_login_email_create_title" = "Email \n Sign-up";
+
+"key_login_email_password_button_code_title" = "Login With Code";
+
+"key_login_email_password_button_create_title" = "Create Account";
+
+"key_login_email_password_button_login_title" = "Log in";
+
+"key_login_email_password_button_reset_title" = "Reset Password";
+
+"key_login_email_password_input_email_placeholder" = "Please input email";
+
+"key_login_email_password_input_email_title" = "Email";
+
+"key_login_email_password_input_password_placeholder" = "Please input password";
+
+"key_login_email_password_input_password_title" = "Password";
+
+"key_login_email_password_title" = "Login\n With Password";
+
+"key_login_go_to_login" = "Go to login";
+
+"key_login_home_title_email" = "Sign In With Email";
+
+"key_login_home_title_start" = "Get Started";
+
+"key_login_log_in" = "Log In";
+
+"key_login_password_create_password_confirm_button_title" = "Next";
+
+"key_login_password_create_password_confirm_input_placeholder_title" = "Please input password";
+
+"key_login_password_create_password_confirm_input_title" = "Enter Password";
+
+"key_login_password_create_password_input_placeholder_title" = "Please input password";
+
+"key_login_password_create_password_input_title" = "Password";
+
+"key_login_password_create_step_title" = "Create Your Password";
+
+"key_login_password_create_title" = "Password Reset";
+
+"key_login_password_error_less" = "Password must be at least 6 characters";
+
+"key_login_password_match_error" = "Passwords do not match";
+
+"key_login_privacy_[<xxxx>]" = "I agree that I have read and accepted the [<xxxx>].";
+
+"key_login_privacy_service" = "《Privacy & Terms》";
+
+"key_login_privacy_view_confirm" = "Agree And Continue";
+
+"key_login_privacy_view_title" = "Please read and agree to the terms below";
+
+"key_login_regist_success" = "Register success";
+
+"key_login_register_error_account_exist_subtitle" = "User account already exists";
+
+"key_login_register_error_account_exist_title" = "Account Exists";
+
+"key_login_reset_code_input_placeholder" = "Please input code";
+
+"key_login_reset_code_resend_title" = "Resend";
+
+"key_login_reset_code_send_title" = "Get";
+
+"key_login_reset_code_title" = "Verification Code";
+
+"key_login_reset_email_title" = "Your Email";
+
+"key_login_reset_nav_title" = "Authentication";
+
+"key_login_reset_success" = "Password Reset Successful";
+
+"key_login_reset_success_then_login" = "Your password has been successfully reset. For the security of your account, please log in again";
+
+"key_login_tourist_alert_confirm_title" = "Confirm";
+
+"key_login_tourist_alert_sign_in_title" = "Sign In";
+
+"key_login_tourist_alert_title" = "Bluetooth Only Mode";
+
+"key_login_tourist_alert_title_tips" = "Right now, you’re connected via Bluetooth only. Log in to unlock more features and enjoy the full experience.";
+
+"Key_Module_OTA" = "Key_Module_OTA";
+
+"key_ota_status_check" = "Check";
+
+"key_ota_status_checking" = "Checking";
+
+"key_ota_status_download" = "Download And Install";
+
+"key_ota_status_download_success" = "Download Success";
+
+"key_ota_status_downloading" = "Downloading";
+
+"key_ota_status_downloading_[<xxxx>]" = "Downloading [<xxxx>]";
+
+"key_ota_status_install" = "Install";
+
+"key_ota_status_install_success" = "Install Success";
+
+"key_ota_status_installing" = "Installing";
+
+"key_ota_status_installing_[<xxxx>]" = "Installing [<xxxx>]";
+
+"key_ota_status_title_checking" = "Checking";
+
+"key_ota_status_title_latest" = "Already the latest version";
+
+"key_ota_status_title_new_valid" = "New firmware version is ready";
+
+"key_update_failed_device_ota" = "Update Failed";
+
+"key_upgrading_device_ota" = "Upgrading";
+
+"Key_Module_Server" = "Key_Module_Server";
+
+"key_server_failure" = "Failure";
+
+"key_server_try_later" = "Please try again later";
+
+"key_server_wrong_please_try_later" = "Server error. Please try again later";
+
+"Key_Module_Setting" = "Key_Module_Setting";
+
+"key_seting_home_page_information" = "Personal Information";
+
+"key_setting_account_has_log_out" = "This account has logged out";
+
+"key_setting_alert_option_complete" = "Cook Complete Alert";
+
+"key_setting_alert_option_flip" = "Flip Alerts";
+
+"key_setting_alert_option_manage_option_your_sound" = "Your Sounds";
+
+"key_setting_alert_option_manage_title" = "Manage Ringtones";
+
+"key_setting_alert_option_notification_title" = "Notification Sounds";
+
+"key_setting_alert_option_reset" = "Rest Alerts";
+
+"key_setting_alert_option_tips" = "Tip:\n1. Sound alerts may be affected by Silent Mode, Do Not Disturb, and system notification settings.\n2. Please check that your device's media volume is turned up and the app has permission to play sounds.";
+
+"key_setting_alert_option_toggle_option_alert_sound" = "Alert Sounds";
+
+"key_setting_alert_option_toggle_tips" = "Enable sound notifications for important alerts.";
+
+"key_setting_alert_option_toggle_title" = "Toggle";
+
+"key_setting_alert_sound_nav_title" = "Alert Sounds";
+
+"key_setting_alert_sound_set" = "Set Alert Sound";
+
+"key_setting_alexa" = "Alexa";
+
+"key_setting_ambient_management_alert_answer" = "You can enable it in Device → Device Management → Ambient Temperature.";
+
+"key_setting_ambient_management_alert_cancel" = "Go To Open";
+
+"key_setting_ambient_management_alert_confirm" = "Sure, I Know";
+
+"key_setting_ambient_management_alert_question" = "Want to turn on the ambient temperature feature?";
+
+"key_setting_ambient_management_alert_title" = "Ambient Management";
+
+"key_setting_ambient_temperature" = "Ambient Temperature";
+
+"key_setting_app_version" = "App Version";
+
+"key_setting_apple_id" = "Apple Id";
+
+"key_setting_beta_mode" = "Beta";
+
+"key_setting_buzzer" = "Buzzer";
+
+"key_setting_change_language_alert_title" = "Change Language";
+
+"key_setting_change_language_alert_title_sub" = "Please select your language";
+
+"key_setting_choose_sound_alert_all_turn_off_title" = "Turn Off All Alerts?";
+
+"key_setting_choose_sound_alert_all_turn_off_title_sub" = "You may miss important cooking reminders. Are you sure you want to turn off alert sounds?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title" = "Turn Off Completion Alerts?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "You may miss important cooking reminders.\\n Are you sure you want to turn off alert sounds?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title" = "Turn Off Flip Alerts?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "Turn off this alert for the current cook? You may miss this reminder.";
+
+"key_setting_choose_sound_alert_notification_turn_off_title" = "Notifications Off";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "Open Settings";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "Notifications are off in system settings.";
+
+"key_setting_choose_sound_alert_repeat_reminder_once" = "Once";
+
+"key_setting_choose_sound_alert_repeat_reminder_title" = "Repeat Reminder";
+
+"key_setting_choose_sound_alert_repeat_reminder_twice" = "Twice";
+
+"key_setting_choose_sound_alert_rest_turn_off_title" = "Turn Off Rest Alerts?";
+
+"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "Turn off this alert for the current cook? You may miss this reminder.";
+
+"key_setting_choose_sound_alert_type_all" = "All";
+
+"key_setting_choose_sound_alert_type_popup" = "Popup";
+
+"key_setting_choose_sound_alert_type_sound" = "Sound";
+
+"key_setting_choose_sound_alert_type_title" = "Alert Type";
+
+"key_setting_choose_sound_alert_type_vibration" = "Vibration";
+
+"key_setting_choose_sound_cook_nav_title" = "Cook Complete Sound";
+
+"key_setting_choose_sound_flip_nav_title" = "Flip Alert Sound";
+
+"key_setting_choose_sound_nav_title" = "Choose Sound";
+
+"key_setting_choose_sound_rest_nav_title" = "Rest Alert Sound";
+
+"key_setting_choose_sound_title_bbq_time" = "BBQ Timer";
+
+"key_setting_choose_sound_title_bright_tone" = "Bright Tone";
+
+"key_setting_choose_sound_title_cheerful_ring" = "Cheerful Ring";
+
+"key_setting_choose_sound_title_chefs_call" = "Chef’s Call";
+
+"key_setting_choose_sound_title_classic_cell" = "Classic Bell";
+
+"key_setting_choose_sound_title_cook_sound" = "Cook Complete Sound";
+
+"key_setting_choose_sound_title_cozy_chime" = "Cozy Chime";
+
+"key_setting_choose_sound_title_flip_sound" = "Flip Alert Sound";
+
+"key_setting_choose_sound_title_gentle_chime" = "Gentle Chime";
+
+"key_setting_choose_sound_title_grill_pulse" = "Grill Pulse";
+
+"key_setting_choose_sound_title_pick_your_vibe" = "Pick your vibe";
+
+"key_setting_choose_sound_title_rest_sound" = "Rest Alert Sound";
+
+"key_setting_choose_sound_title_soft_alert" = "Soft Alert";
+
+"key_setting_choose_sound_title_sub" = "Lap a sound to preview and select.";
+
+"key_setting_choose_sound_title_warm_reminder" = "Warm Reminder";
+
+"key_setting_connect_wifi" = "Connect Wi-Fi";
+
+"key_setting_copy" = "Copy";
+
+"key_setting_cycle_firmware_update" = "Cycle Firmware Update";
+
+"key_setting_delete_account" = "Delete Account";
+
+"key_setting_delete_device" = "Delete Device";
+
+"key_setting_delete_device_title" = "Confirm to delete device";
+
+"key_setting_delete_success" = "Delete success";
+
+"key_setting_device_management" = "Device Management";
+
+"key_setting_email" = "Email";
+
+"key_setting_faqs" = "FAQS";
+
+"key_setting_firmware_update" = "Firmware Update";
+
+"key_setting_google" = "Google";
+
+"key_setting_guide_sizzle_all_set_title" = "You’re All Set to Sizzle!";
+
+"key_setting_guide_sizzle_all_set_title_confirm" = "Start Cooking";
+
+"key_setting_guide_sizzle_all_set_title_sub" = "You’re paired and ready to grill, chef! Don’t forget to save me a bite.";
+
+"key_setting_guide_sizzle_ambient_temperature_title" = "Feeling Fancy?";
+
+"key_setting_guide_sizzle_ambient_temperature_title_sub" = "Turn on ambient temp to feel like a pro. Or keep it simple—no judgment!";
+
+"key_setting_guide_sizzle_ambient_temperature_title_tips" = "Device paired? Home → More. Toggle away.";
+
+"key_setting_guide_sizzle_buzzer_title" = "Buzz or Chill?";
+
+"key_setting_guide_sizzle_buzzer_title_sub" = "Want your meat to buzz when it’s ready, or prefer peace and quiet? Your call!";
+
+"key_setting_guide_sizzle_buzzer_title_tips" = "Device paired? Home → More. Toggle away.";
+
+"key_setting_guide_sizzle_select_size_title" = "Inches or Centimeters?";
+
+"key_setting_guide_sizzle_select_size_title_sub" = "There are two kinds of people: inch lovers and centimeter fans. Pick your side and let’s roll!";
+
+"key_setting_guide_sizzle_select_size_title_tips" = "Adjust anytime in Settings.";
+
+"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "Next([<xxxx0>]/[<xxxx1>])";
+
+"key_setting_guide_sizzle_temperature_unit_title" = "Fahrenheit or Celsius?";
+
+"key_setting_guide_sizzle_temperature_unit_title_sub" = "There are two kinds of people: Fahrenheit folks and Celsius fans. Pick your side!";
+
+"key_setting_guide_sizzle_temperature_unit_title_tips" = "Adjust anytime in Settings.";
+
+"key_setting_guide_sizzle_welcome_title" = "Welcome To Meatmeet";
+
+"key_setting_guide_sizzle_welcome_title_confirm" = "Let’s Start";
+
+"key_setting_guide_sizzle_welcome_title_sub" = "Thanks for joining Meatmeet! Before we fire things up, let’s set a few things so your meat turns out perfect every time.";
+
+"key_setting_hardware_version" = "Hardware version";
+
+"key_setting_icloud_sync" = "iCloud Sync";
+
+"key_setting_language" = "Language";
+
+"key_setting_log_out" = "Log Out";
+
+"key_setting_member_information" = "Member Information";
+
+"key_setting_my_favorite" = "My Favorite";
+
+"key_setting_my_favorites" = "My Favorites";
+
+"key_setting_nickname" = "Nickname";
+
+"key_setting_password" = "Password";
+
+"key_setting_probe_mac_address" = "Probe Management";
+
+"key_setting_reset" = "Reset";
+
+"key_setting_screen_timeout" = "Screen Timeout";
+
+"key_setting_select_size" = "Select Size";
+
+"key_setting_share" = "Share";
+
+"key_setting_sound_cook_alert_reminder_title" = "Repeat Reminder";
+
+"key_setting_sound_cook_alert_title" = "Notification Method";
+
+"key_setting_sound_cook_alert_type_title" = "Alert Type";
+
+"key_setting_sound_cook_nav_title" = "Cook Complete Alert";
+
+"key_setting_sound_cook_remain_add" = "Add new warning";
+
+"key_setting_sound_cook_remain_end_[<xxxx>]" = "End in [<xxxx>] minutes";
+
+"key_setting_sound_cook_remain_time_exist_toast" = "Remain time exist";
+
+"key_setting_sound_cook_remain_title" = "Remaining Time Warning";
+
+"key_setting_sound_cook_sound_select_title" = "Select Sound";
+
+"key_setting_sound_cook_sound_tips" = "Tip：\\n Stay on track with the perfect resting time.";
+
+"key_setting_sound_cook_sound_title" = "Alert Sound";
+
+"key_setting_sound_cook_toggle_switch_title" = "Enable Complete Alert";
+
+"key_setting_sound_cook_toggle_title" = "Toggle";
+
+"key_setting_sound_flip_alert_reminder_title" = "Repeat Reminder";
+
+"key_setting_sound_flip_alert_title" = "Alert Method";
+
+"key_setting_sound_flip_alert_type_title" = "Alert Type";
+
+"key_setting_sound_flip_nav_title" = "Flip Alerts";
+
+"key_setting_sound_flip_sound_select_title" = "Select Sound";
+
+"key_setting_sound_flip_sound_tips" = "Tip：\\n Get notified when it's time to flip your food.";
+
+"key_setting_sound_flip_sound_title" = "Alert Sound";
+
+"key_setting_sound_flip_toggle_switch_title" = "Enable Flip Alert";
+
+"key_setting_sound_flip_toggle_title" = "Toggle";
+
+"key_setting_sound_rest_alert_reminder_title" = "Repeat Reminder";
+
+"key_setting_sound_rest_alert_title" = "Alert Method";
+
+"key_setting_sound_rest_alert_type_title" = "Alert Type";
+
+"key_setting_sound_rest_nav_title" = "Rest Alerts";
+
+"key_setting_sound_rest_sound_select_title" = "Select Sound";
+
+"key_setting_sound_rest_sound_tips" = "Tip：\\n Stay on track with the perfect resting time.";
+
+"key_setting_sound_rest_sound_title" = "Alert Sound";
+
+"key_setting_sound_rest_toggle_switch_title" = "Enable Rest Alerts";
+
+"key_setting_sound_rest_toggle_title" = "Toggle";
+
+"key_setting_sure" = "Sure";
+
+"key_setting_tap_log_out" = "Tap 'Log Out' to sign out";
+
+"key_setting_temperature_units" = "Temperature Units";
+
+"key_setting_test_page" = "Test Page";
+
+"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] minutes";
+
+"key_setting_timeout_never_title" = "Never";
+
+"key_setting_timeout_never_title_sub" = "Screen stays on at low brightness (default)";
+
+"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] seconds";
+
+"key_setting_timeout_title" = "Screen Timeout";
+
+"key_setting_timeout_title_sub" = "Set how long the device screen stays on after inactivity. High brightness lasts 45s, then dims to low brightness for the selected duration.";
+
+"key_setting_user_id" = "User ID";
+
+"Key_Module_Share" = "Key_Module_Share";
+
+"key_share_action_accepted" = "Accepted";
+
+"key_share_action_device_delete" = "Delete Device";
+
+"key_share_action_device_exit" = "Exit";
+
+"key_share_action_refuse" = "Refuse";
+
+"key_share_share_list" = "Share List";
+
+"Key_Module_TabBar" = "Key_Module_TabBar";
+
+"key_tabbar_ai" = "Ai";
+
+"key_tabbar_history" = "History";
+
+"key_tabbar_home" = "Home";
+
+"key_tabbar_setting" = "Setting";
+
+"Key_Module_UserInfo" = "Key_Module_UserInfo";
+
+"key_userinfo_edit_title" = "Edit Personal";
+
+"key_userinfo_nick_placeholder" = "Enter nickname";
+
+"key_userinfo_nick_tips_[<xxxx0>]_[<xxxx1>]" = "Nickname needs to meet [<xxxx0>]-[<xxxx1>] characters";
+
+"key_userinfo_personal_information" = "Personal Information";
+
+"key_userinfo_save_confirm" = "Save";
+
+"Key_Module_VIP" = "Key_Module_VIP";
+
+"key_vip_action_manage" = "Manage Subscription";
+
+"key_vip_action_restore" = "Restore Purchase";
+
+"key_vip_action_support" = "Contact Support";
+
+"key_vip_benefit_0" = "Unlimited AI image analysis";
+
+"key_vip_benefit_1" = "Unlimited AI recipe recommendations";
+
+"key_vip_benefit_2" = "Exclusive AI memberID";
+
+"key_vip_benefit_3" = "Get early access to more new features in the future";
+
+"key_vip_contact_us_left_title" = "Contact Us";
+
+"key_vip_contact_us_nav_title" = "Email丨Contact Us";
+
+"key_vip_credits_total_histroy_[<xxxx>]" = "Credits: [<xxxx>] | Credits History >";
+
+"key_vip_credits_usage_balance_bouns_title" = "Bonus Credits";
+
+"key_vip_credits_usage_balance_purchase_title" = "Purchased Credits";
+
+"key_vip_credits_usage_balance_subscription_title" = "subscription credits";
+
+"key_vip_credits_usage_balance_title" = "Credits Balance";
+
+"key_vip_credits_usage_balance_total_title" = "Total Credits";
+
+"key_vip_credits_usage_history_title" = "Credits History";
+
+"key_vip_credits_usage_item_image" = "Image Scan";
+
+"key_vip_credits_usage_item_qa" = "AI Q&A";
+
+"key_vip_credits_usage_item_recipe" = "AI Recipe";
+
+"key_vip_credits_usage_nav_title" = "Credits Usage";
+
+"key_vip_expire_cancel_title" = "Use Free";
+
+"key_vip_expire_confirm_title" = "Resubscribe";
+
+"key_vip_expire_title" = "AI Membership Expired";
+
+"key_vip_expire_title_[<xxxx>]" = "VIP Expires [<xxxx>]";
+
+"key_vip_expire_title_sub" = "Your AI features are paused. Resubscribe to continue using AI cooking tools.";
+
+"key_vip_manager_nav_title" = "Manage Subscription & Credits";
+
+"key_vip_manager_policy" = "Privacy Policy";
+
+"key_vip_manager_refund" = "Request a Refund";
+
+"key_vip_manager_service" = "Terms Of Service";
+
+"key_vip_point_limit_benefit_title" = "Keep Your AI Benefits";
+
+"key_vip_point_limit_cancel_title" = "Use Free";
+
+"key_vip_point_limit_confirm_title" = "Resubscribe";
+
+"key_vip_point_limit_cost" = "Cost";
+
+"key_vip_point_limit_credits" = "Credits";
+
+"key_vip_point_limit_title" = "Not Enough Points";
+
+"key_vip_point_limit_title_sub" = "You've run out of credits.Get more to keep using AI";
+
+"key_vip_purchase_failure_benefit_0" = "Daily Master Recipes";
+
+"key_vip_purchase_failure_benefit_1" = "Snap & Get Recipes";
+
+"key_vip_purchase_failure_benefit_2" = "VIP Badge";
+
+"key_vip_purchase_failure_benefit_3" = "More VIP Perks";
+
+"key_vip_purchase_failure_method_value" = "Purchase Failed";
+
+"key_vip_purchase_failure_reason_title" = "Possible reasons";
+
+"key_vip_purchase_failure_try_again_title" = "Try Again";
+
+"key_vip_purchase_failure_try_step_0_title" = "Check your internet connection and try again";
+
+"key_vip_purchase_failure_try_step_1_title" = "Try a different payment method";
+
+"key_vip_purchase_failure_try_step_2_title" = "Contact support for help";
+
+"key_vip_purchase_failure_try_step_title" = "Try The Following";
+
+"key_vip_purchase_nav_billing_title" = "Billing";
+
+"key_vip_purchase_nav_title" = "AI Pro";
+
+"key_vip_purchase_point_title" = "Purchase Point";
+
+"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] Days";
+
+"key_vip_purchase_remine_less_one_day" = "Less Than One Day";
+
+"key_vip_purchase_restore_success_account_title" = "Account";
+
+"key_vip_purchase_restore_success_account_value" = "Current Account";
+
+"key_vip_purchase_restore_success_confirm_title" = "Get Started";
+
+"key_vip_purchase_restore_success_method_title" = "Payment Method";
+
+"key_vip_purchase_restore_success_method_value" = "Apple ID";
+
+"key_vip_purchase_restore_success_remain_title" = "Remaining Time";
+
+"key_vip_purchase_restore_success_status_title" = "Account Status";
+
+"key_vip_purchase_restore_success_status_value" = "Premium(active)";
+
+"key_vip_purchase_restore_success_title" = "Restored Successfully";
+
+"key_vip_purchase_restore_success_title_sub" = "Your subscription has been restore. Premium benefits are now available.";
+
+"key_vip_purchase_success_title" = "Payment was successful";
+
+"key_vip_purchase_success_title_sub_[<xxxx>]" = "The [<xxxx>] you purchased has been successfully delivered";
+
+"key_vip_purchase_switch_success_title" = "Switched Successfully";
+
+"key_vip_purchase_switch_success_title_sub" = "Your subscription has been switched. Premium benefits are now available.";
+
+"key_vip_purchase_switch_title" = "Switch Subscription";
+
+"key_vip_purchase_switch_title_sub_[<xxxx>]" = "Do you want to restore your existing subscription to '[<xxxx>]'？";
+
+"key_vip_purchase_title" = "Purchase";
+
+"key_vip_purchase_title_sub_[<xxxx>]" = "You will be charged [<xxxx>]. You can cancel at any time";
+
+"key_vip_purchase_vip_title" = "Upgrade Membership";
+
+"key_vip_restore_title" = "Restore Subscription";
+
+"key_vip_restore_title_sub_[<xxxx>]" = "Do you want to restore your existing subscription to '[<xxxx>]'？";
+
+"key_vip_to_open_confirm_title" = "Subscribe Now";
+
+"key_vip_to_open_title" = "Unlock 4 VIP Benefits";
+
+"key_vip_to_open_title_sub" = "Recipes that understand your preferences — healthier and more delicious.";
+
+"key_vip_to_open_vip" = "To Open VIP";
+
+"key_vip_to_renew_ai_membership" = "Renew AI Membership";
+
+"key_vip_ware_price_per_count_title_[<xxxx>]" = "[<xxxx>] per point";
+
+"key_vip_ware_price_per_day_title_[<xxxx>]" = "[<xxxx>] per day";
+
+"Key-Origin" = "Value-English";
+
+"key_cook_guide_choose_cook_mode_tips​" = "Choose the mode you want to cook in";
+
+"key_bind_unified_product_brochure​" = "Product Brochure";

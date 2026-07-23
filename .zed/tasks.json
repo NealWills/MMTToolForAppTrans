@@ -1,0 +1,51 @@
+[
+  {
+    "label": "xcede buildrun (模拟器)",
+    "command": "xcede buildrun",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  },
+  {
+    "label": "xcede build (仅构建)",
+    "command": "xcede build",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  },
+  {
+    "label": "xcede run (仅运行)",
+    "command": "xcede run",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  },
+  {
+    "label": "xcede test",
+    "command": "xcede test",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  },
+  {
+    "label": "xcede switcher (切换设备)",
+    "command": "xcede switcher",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  },
+  {
+    "label": "xcede clean",
+    "command": "xcede clean",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  },
+  {
+    "label": "Pod Lib Lint",
+    "command": "pod lib lint MMTToolForAppTrans.podspec --allow-warnings",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal_target": "center"
+  }
+]

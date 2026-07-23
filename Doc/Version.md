@@ -5,6 +5,16 @@ This file tracks the documented release history of MMTToolForAppTrans.
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
 
+## 0.6.9
+
+- Added Korean (ko), Russian (ru), and Ukrainian (uk) language support across the entire library: Language enum, WCDB model columns, bundle synchronization, localization lookup, cache, database viewer, and Example bundle fixture.
+- Added OSLog debugging to the localization lookup flow for easier runtime diagnostics.
+- Added `xcede` integration for building, running, and debugging from Zed.
+- Rewrote Example demo page with key-value mapping card, grouped sections, and scrollable layout.
+- Updated Example bundle to include KoLocalizable, RuLocalizable, and UkLocalizable strings.
+- Updated podspec description to reflect all 11 supported languages.
+
+
 ## 0.6.7
 
 - Added Polish (pl) language support across the entire library: Language enum, WCDB model column, bundle synchronization, localization lookup, cache, database viewer, and Example bundle fixture.
@@ -55,5 +65,5 @@ Entries are append-only. Add a new version section at the top when the podspec v
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.6`.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.9`.
 - When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.5` and summarize only that version's visible changes.

@@ -48,6 +48,15 @@ class MMTToolForAppTransLocalizableModel: TableCodable, Copyable {
     
     /// Polish translation value
     var value_pl: String?
+    
+    /// Korean translation value
+    var value_ko: String?
+    
+    /// Russian translation value
+    var value_ru: String?
+    
+    /// Ukrainian translation value
+    var value_uk: String?
 
     /// Coding keys for encoding/decoding with WCDB
     enum CodingKeys: String, CodingTableKey {
@@ -68,6 +77,9 @@ class MMTToolForAppTransLocalizableModel: TableCodable, Copyable {
         case value_es
         case value_it
         case value_pl
+        case value_ko
+        case value_ru
+        case value_uk
         
         /// Define database table schema with column constraints
         /// - identifier: Primary key with auto-increment
@@ -94,6 +106,9 @@ class MMTToolForAppTransLocalizableModel: TableCodable, Copyable {
     ///   - value_es: Spanish translation
     ///   - value_it: Italian translation
     ///   - value_pl: Polish translation
+    ///   - value_ko: Korean translation
+    ///   - value_ru: Russian translation
+    ///   - value_uk: Ukrainian translation
     init(
         key: String? = nil,
         value_en_US: String? = nil,
@@ -103,7 +118,10 @@ class MMTToolForAppTransLocalizableModel: TableCodable, Copyable {
         value_de: String? = nil,
         value_es: String? = nil,
         value_it: String? = nil,
-        value_pl: String? = nil
+        value_pl: String? = nil,
+        value_ko: String? = nil,
+        value_ru: String? = nil,
+        value_uk: String? = nil
     ) {
         identifier = 0
         description = "Add"
@@ -119,6 +137,9 @@ class MMTToolForAppTransLocalizableModel: TableCodable, Copyable {
         self.value_es = value_es
         self.value_it = value_it
         self.value_pl = value_pl
+        self.value_ko = value_ko
+        self.value_ru = value_ru
+        self.value_uk = value_uk
     }
     
     /// Create a deep copy of this localization model.
@@ -133,7 +154,10 @@ class MMTToolForAppTransLocalizableModel: TableCodable, Copyable {
             value_de: value_de,
             value_es: value_es,
             value_it: value_it,
-            value_pl: value_pl
+            value_pl: value_pl,
+            value_ko: value_ko,
+            value_ru: value_ru,
+            value_uk: value_uk
         )
         model.identifier = identifier
         model.is_delete = is_delete

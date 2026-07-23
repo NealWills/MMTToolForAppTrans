@@ -1,0 +1,1 @@
+{"fullProductName":"MMTToolForAppTrans_Example.app","executablePath":"MMTToolForAppTrans_Example.app\/MMTToolForAppTrans_Example","builtProductsDir":"\/Users\/nealwills\/Library\/Developer\/Xcode\/DerivedData\/MMTToolForAppTrans-gnkrbvwsilbgvkcoiudaewxvncaw\/Build\/Products\/Debug-iphonesimulator"}

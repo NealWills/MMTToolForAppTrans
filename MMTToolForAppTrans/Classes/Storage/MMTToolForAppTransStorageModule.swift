@@ -46,8 +46,11 @@ final class MMTToolForAppTransStorageModule {
 			apply(languageDictionaries[.es]?[key], to: item, language: .es)
 			apply(languageDictionaries[.it]?[key], to: item, language: .it)
 			apply(languageDictionaries[.pl]?[key], to: item, language: .pl)
+			apply(languageDictionaries[.ko]?[key], to: item, language: .ko)
+			apply(languageDictionaries[.ru]?[key], to: item, language: .ru)
+			apply(languageDictionaries[.uk]?[key], to: item, language: .uk)
 
-			if existingItem == nil {
+				if existingItem == nil {
 				_ = MMTToolForAppTransDBManager.insertNewItem(with: .localizableTable(item))
 			} else {
 				_ = MMTToolForAppTransDBManager.updateNewItem(with: .localizableTable(item))
@@ -138,6 +141,12 @@ final class MMTToolForAppTransStorageModule {
 			item.value_it = value
 		case .pl:
 			item.value_pl = value
+		case .ko:
+			item.value_ko = value
+		case .ru:
+			item.value_ru = value
+		case .uk:
+			item.value_uk = value
 		}
 	}
 }

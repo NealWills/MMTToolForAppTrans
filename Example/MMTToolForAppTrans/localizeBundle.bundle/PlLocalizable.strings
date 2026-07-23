@@ -1,1588 +1,726 @@
-"key_module_login" = "key_module_login";
+"Key_Module_AI" = "Key_Module_AI";
 
-"key_login_go_to_login" = "Zum Login gehen";
+"key_ai_answer_recipe_cook_awaken_title" = "Ruhen lassen";
 
-"key_login_log_in" = "Anmelden";
+"key_ai_answer_recipe_cook_flip_title" = "Wenden";
 
-"key_login_visitor" = "Gast";
+"key_ai_answer_recipe_cook_meat_name_title" = "Fleischsorte";
 
-"key_login_privacy_[<xxxx>]" = "Ich stimme zu, dass ich die [<xxxx>] gelesen und akzeptiert habe.";
+"key_ai_answer_recipe_cook_steps_title" = "Zubereitungsschritt";
 
-"key_login_privacy_service" = "《Datenschutz & AGB》";
+"key_ai_answer_recipe_cook_time_title" = "Garzeit";
 
-"key_login_sign_in" = "Anmelden";
+"key_ai_answer_recipe_ingredient_list_title" = "Zutaten";
 
-"key_login_account_title" = "Ihre E-Mail";
+"key_ai_answer_recipe_name_title" = "Rezeptname";
 
-"key_login_account_placeholder" = "E-Mail";
+"key_ai_answer_recipe_notes_title" = "Uwagi";
 
-"key_login_account_error_empty" = "Bitte E-Mail eingeben";
+"key_ai_answer_recipe_pre_time_title" = "Vorbereitungszeit";
 
-"key_login_account_error_less" = "Die E-Mail muss mindestens 4 Zeichen lang sein";
+"key_ai_answer_recipe_star_title" = "Bewertung";
 
-"key_login_account_error_unvalid" = "Geben Sie die richtige E-Mail-Adresse ein";
+"key_ai_answer_recipe_total_time_title" = "Gesamtzeit";
 
-"key_login_password_title" = "Passwort";
+"key_ai_answer_result_choice_confirm_title" = "Korzystasz The Przepis";
 
-"key_login_password_placeholder" = "Passwort";
+"key_ai_answer_result_choice_equipment_title" = "Garmethode auswählen";
 
-"key_login_password_error_less" = "Das Passwort darf nicht kleiner als 6 Zeichen sein";
+"key_ai_answer_result_choice_meat_title" = "Choosing Meat";
 
-"key_login_password_error_unvalid" = "Bitte geben Sie das richtige Passwort ein";
+"key_ai_answer_result_choice_temperature_title" = "Garstufe auswählen";
 
-"key_login_password_old_title" = "Altes Passwort";
+"key_ai_answer_result_choice_title" = "Twój Choice";
 
-"key_login_password_old_placeholder" = "Altes Passwort";
+"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "Garmethode auswählen";
 
-"key_login_password_old_empty" = "Bitte altes Passwort eingeben";
+"key_ai_answer_setting_cooking_choose_meat_title_sub" = "Choosing Meat";
 
-"key_login_password_old_error_less" = "Das Passwort darf nicht kleiner als 6 Zeichen sein";
+"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "Garstufe auswählen";
 
-"key_login_password_old_error_unvalid" = "Bitte geben Sie das richtige Passwort ein";
+"key_ai_answer_setting_cooking_title_confirm" = "Ich habe gewählt";
 
-"key_login_password_new_title" = "Neues Passwort";
+"key_ai_collection_cook_segment_title" = "Profil gotowania";
 
-"key_login_password_new_placeholder" = "Neues Passwort";
+"key_ai_collection_recipes_segment_title" = "AI Przepisy";
 
-"key_login_password_new_error_less" = "Das neue Passwort muss mindestens 6 Zeichen lang sein";
+"key_ai_day_distance_last_30_day" = "Letzte 30 Tage";
 
-"key_login_password_new_error_unvalid" = "Bitte geben Sie das korrekte neue Passwort ein";
+"key_ai_day_distance_last_7_day" = "Letzte 7 Tage";
 
-"key_login_password_confirm_title" = "Passwort bestätigen";
+"key_ai_day_distance_last_day" = "Yesterday";
 
-"key_login_password_confirm_placeholder" = "Passwort bestätigen";
+"key_ai_day_distance_today" = "Dziś";
 
-"key_login_password_confirm_error_less" = "Bestätigungs-Passwort muss mindestens 6 Zeichen lang sein";
+"key_ai_dialogue_empty_title" = "Noch keine KI-Verlauf";
 
-"key_login_password_confirm_error_unvalid" = "Bitte geben Sie das korrekte Bestätigungspasswort ein";
+"key_ai_dialogue_empty_title_sub" = "Beginnen Sie KI zu nutzen, um Rezepte zu erstellen, Tipps zu erhalten und Ihre Ergebnisse hier zu sehen.";
 
-"key_login_password_match_error" = "Die beiden Passworteingaben sind inkonsistent";
+"key_ai_home_image_recognition_title" = "AI Obraz Recognition";
 
-"key_login_password_old_equal_to_new_error" = "Das alte Passwort und das neue Passwort sind identisch";
+"key_ai_home_image_recognition_title_sub" = "Zdjęcie aby Przepis: Gotowanie dzięki Co Ty Have";
 
-"key_login_code_title" = "Verifizierungscode";
+"key_ai_home_last_recipe_ask_title" = "Fragen";
 
-"key_login_code_placeholder" = "Verifizierungscode";
+"key_ai_home_last_recipe_master_title" = "Maestro";
 
-"key_login_code_empty" = "Der Verifizierungscode darf nicht leer sein";
+"key_ai_home_last_recipe_scan_title" = "Scannen";
 
-"key_login_code_error_less" = "Der Bestätigungscode muss mindestens 6 Zeichen lang sein";
+"key_ai_home_last_recipe_title" = "Ostatni przepis AI";
 
-"key_login_code_error_unvalid" = "Bestätigungscode ungültig";
+"key_ai_home_recipe_recommendations_title" = "AI Przepis Recommendations";
 
-"key_login_code_error_tips" = "Falscher Code. Bitte versuchen Sie es erneut.";
+"key_ai_home_recipe_recommendations_title_sub" = "Idea aby Przepis: Gotowanie Co Ty Love";
 
-"key_login_privacy_view_title" = "Bitte lesen und stimmen Sie den folgenden Bedingungen zu";
+"key_ai_home_title" = "AI Cooking";
 
-"key_login_privacy_view_term" = "Nutzungsbedingungen";
+"key_ai_image_recognition_cart_title" = "Sagen Sie uns, was Ihnen gefällt – wir empfehlen Ihnen Rezepte, die Sie lieben werden!";
 
-"key_login_privacy_view_privacy" = "Datenschutzvereinbarung";
+"key_ai_master_enterence_confirm" = "Dostosuj z AI";
 
-"key_login_privacy_view_confirm" = "Zustimmen und fortfahren";
+"key_ai_master_enterence_header" = "AI Cooking Master";
 
-"key_login_sign_in_error" = "Falscher Benutzername oder falsches Passwort";
+"key_ai_master_enterence_title" = "Dostosuj przepis";
 
-"key_login_account_btn_forget" = "Passwort vergessen";
+"key_ai_master_enterence_title_sub" = "Powiedz nam, co lubisz, a przygotujemy idealny przepis dla Ciebie.";
 
-"key_login_account_reset" = "Passwort zurücksetzen";
+"key_ai_master_see_more_title" = "Odblokuj AI Membership aby access więcej Master Przepisy.";
 
-"key_login_account_exist_not" = "Ich habe kein Konto";
+"key_ai_master_see_more_title_sub" = "Subscribe";
 
-"key_login_account_create" = "Neuen Account anlegen";
+"key_ai_master_setting_animal_title" = "Was kochst du heute?";
 
-"key_login_email_verify" = "Bestätigen Sie Ihre E-Mail";
+"key_ai_master_setting_confirm_open_title" = "VIP aktivieren, um zu speichern";
 
-"key_login_verify_confirm" = "Überprüfen";
+"key_ai_master_setting_confirm_save_title" = "Zapisz";
 
-"key_login_code_get" = "Erhalten";
+"key_ai_master_setting_doneness_title" = "Idealny stopień wysmażenia";
 
-"key_login_code_sent" = "Verifizierungscode gesendet";
+"key_ai_master_setting_during_title" = "Dostępny czas";
 
-"key_login_code_sent_failure" = "Bestätigungscode konnte nicht gesendet werden";
+"key_ai_master_setting_equipment_title" = "Metoda gotowania";
 
-"key_login_reset_success" = "Passwort-Reset erfolgreich";
+"key_ai_master_setting_flavor_title" = "Geschmacksvorlieben";
 
-"key_login_nav_password_reset" = "Passwort zurücksetzen";
+"key_ai_master_setting_nav_title" = "Einstellungen des KI-Kochassistenten";
 
-"key_login_nav_register" = "Registrieren";
+"key_ai_probe_insert_next_title" = "Next Krok";
 
-"key_login_register_confirm" = "Registrieren";
+"key_ai_probe_insert_title" = "Sonda Insertion";
 
-"key_login_register_failure" = "Registrierung fehlgeschlagen";
+"key_ai_recipe_answer_card_title" = "Smart Gotowanie Ustawienia";
 
-"key_login_regist_success" = "Erfolgreich registrieren";
+"key_ai_recipe_answer_card_title_sub" = "Based włącz Twój selection, we zostanie generate a drawing przepis for ty";
 
-"key_login_register_error_account_exist_subtitle" = "Benutzeracount existiert bereits";
+"key_ai_recipe_answer_nav_title" = "AI Answer";
 
-"key_login_register_error_account_exist_title" = "Konto existiert";
+"key_ai_recipe_answer_title_sub" = "Proszę wybierz according aby the opcje";
 
-"key_login_regist_code_tips" = "Achten Sie auf den Verifizierungscode in Ihrer E-Mail";
+"key_ai_recipe_collection" = "Zapisz przepis";
 
-"key_login_info_edit_success" = "Update erfolgreich";
+"key_ai_recipe_collection_failure_title" = "Pomyślnie usunięto z ulubionych";
 
-"key_login_nav_account_delete" = "Konto löschen";
+"key_ai_recipe_collection_success_title" = "Zapisano pomyślnie!";
 
-"key_lgoin_account_delete" = "Konto löschen";
+"key_ai_recipe_collection_success_title_sub" = "Du kannst es unter „Ich → Lieblingsrezepte“ ansehen und verwalten.";
 
-"key_login_account_delete_success" = "Eliminazione riuscita";
+"key_ai_recipe_confirm_detail_title" = "Zobacz szczegóły przepisu >";
 
-"key_login_password_reset" = "Zurücksetzen";
+"key_ai_recipe_confirm_next_title" = "Begin Grill";
 
-"key_login_nav_reset" = "Zurücksetzen";
+"key_ai_recipe_confirm_swipe_title_tips" = "Przesuń w lewo lub w prawo, aby zobaczyć więcej";
 
-"key_login_reset_account_[<xxxx>]" = "Sie sind dabei, das Passwort für [<xxxx>] zurückzusetzen";
+"key_ai_recipe_confirm_title" = "Rozwiązanie grillowe AI";
 
-"key_login_reset_success_then_login" = "Ihr Passwort wurde erfolgreich zurückgesetzt. Bitte melden Sie sich aus Sicherheitsgründen erneut an";
+"key_ai_recipe_confirm_title_sub" = "Basierend auf deinen Fotos haben wir passende Grillvorschläge für dich erstellt. Wenn dir ein Vorschlag unten nicht gefällt, tippe auf „Bearbeiten“.";
 
-"key_login_account_delete_title" = "Sicher Konto löschen";
+"key_ai_recipe_cooking_instruction_title" = "Instrukcje gotowania";
 
-"key_login_account_delete_title_sub" = "Nach dem Löschen Ihres Kontos können Ihre Daten nicht mehr abgerufen werden";
+"key_ai_recipe_description_title" = "Opis";
 
-"key_login_account_delete_sure" = "Sicher";
+"key_ai_recipe_difficult_challenging" = "Wymagające";
 
-"key_log_log_in_success" = "Erfolgreich angemeldet";
+"key_ai_recipe_difficult_easy" = "Łatwe";
 
-"key_log_log_in_failure" = "Anmeldung fehlgeschlagen";
+"key_ai_recipe_difficult_moderate" = "Średnie";
 
-"key_login_tourist_alert_title" = "Nur Bluetooth-Modus";
+"key_ai_recipe_difficult_professional" = "Profesjonalne";
 
-"key_login_tourist_alert_title_tips" = "Sie sind derzeit nur über Bluetooth verbunden. Melden Sie sich an, um mehr Funktionen freizuschalten und das volle Erlebnis zu genießen";
+"key_ai_recipe_dis_collection" = "Rezept entfernen";
 
-"key_login_tourist_alert_sign_in_title" = "Anmelden";
+"key_ai_recipe_help_tips_title" = "Przydatne wskazówki";
 
-"key_login_tourist_alert_confirm_title" = "Sicher";
+"key_ai_recipe_ingredients_title" = "Składniki";
 
-"key_login_home_title_email" = "Mit E-Mail anmelden";
+"key_ai_recipe_pre_cooking_title" = "Przed-gotowanie Kroki";
 
-"key_login_home_title_start" = "Loslegen";
+"key_ai_recipe_recommend_card_awaken_title" = "Odpoczynek mięsa";
 
-"key_login_email_password_title" = "Mit\n Passwort anmelden";
+"key_ai_recipe_recommend_card_cooking_tool_title" = "Gotowanie environment";
 
-"key_login_email_password_input_email_title" = "E-Mail";
+"key_ai_recipe_recommend_card_flip_title" = "Obróć";
 
-"key_login_email_password_input_email_placeholder" = "Bitte E-Mail eingeben";
+"key_ai_recipe_recommend_card_meat_name_title" = "Mięso";
 
-"key_login_email_password_input_password_title" = "Passwort";
+"key_ai_recipe_recommend_card_meat_size_title" = "Estimated Meat Inch";
 
-"key_login_email_password_input_password_placeholder" = "Bitte Passwort eingeben";
+"key_ai_recipe_recommend_card_temperature_title" = "Tryb gotowania";
 
-"key_login_email_password_button_reset_title" = "Passwort zurücksetzen";
+"key_ai_recipe_recommend_card_title_[<xxxx>]" = "Empfohlenes Rezept [<xxxx>]";
 
-"key_login_email_password_button_code_title" = "Mit Code anmelden";
+"key_ai_recipe_recommend_card_title_sub" = "Wir empfehlen dir passende Vorschläge basierend auf deinen Angaben";
 
-"key_login_email_password_button_create_title" = "Konto erstellen";
+"key_ai_recipe_unit_minute" = "minuty";
 
-"key_login_email_password_button_login_title" = "Anmelden";
+"key_ai_recognition_photo_title" = "Użyj tego zdjęcia";
 
-"key_login_email_code_title" = "Anmelden\n mit Code";
+"key_ai_recognition_photo_working_title" = "AI Gotowanie Master pracuje";
 
-"key_login_email_code_login_button_password_title" = "Anmelden mit Passwort";
+"key_ai_recognition_result_cancel_title" = "Rozpoznaj ponownie";
 
-"key_login_email_code_login_button_get_code_title" = "Code anfordern";
+"key_ai_recognition_result_confirm_title" = "Next Krok";
 
-"key_login_email_code_send_success_title" = "Verifizierungscode gesendet";
+"key_ai_recognition_result_preparation_title" = "Vorbereitung";
 
-"key_login_email_code_auth_title" = "Bestätigungscode eingeben";
+"key_ai_recognition_result_title" = "Wyniki rozpoznawania AI";
 
-"key_login_email_code_auth_send_tips_[<xxxx>]" = "Bestätigungscode gesendet an: [<xxxx>]";
+"key_ai_smart_cooking_master" = "Smart Gotowanie Master";
 
-"key_login_email_code_auth_confirm_title" = "Anmelden";
+"key_ai_you_uploaded_this_photo" = "Ty Uploaded This Zdjęcie";
 
-"key_login_email_code_auth_code_unvalid_tips" = "Der Verifizierungscode ist abgelaufen. Wir senden Ihnen einen neuen.";
+"Key_Module_BBQ" = "Key_Module_BBQ";
 
-"key_login_email_code_auth_resend_title_[<xxxx>]" = "Code erneut senden [<xxxx>]";
+"key_bbq_complete_cooking_settings" = "Proszę zakończono gotowanie ustawienia";
 
-"key_login_email_create_title" = "E-Mail-Registrierung";
+"key_bbq_cook_again" = "Gotowanie Ponownie";
 
-"key_login_email_create_input_email_title" = "Ihre E-Mail";
+"key_bbq_cook_device" = "Gotowanie Urządzenie";
 
-"key_login_email_create_input_code_title" = "Bestätigungscode";
+"key_bbq_cook_duration" = "Gotowanie Duration";
 
-"key_login_email_create_input_code_title_placeholder" = "Bitte Code eingeben";
+"key_bbq_cook_end_time" = "End Czas";
 
-"key_login_email_create_confirm_title" = "Weiter";
-
-"key_login_email_button_code_send_title" = "Erhalten";
-
-"key_login_email_button_code_resend_title" = "Erneut senden";
-
-"key_login_password_create_title" = "Passwort zurücksetzen";
-
-"key_login_password_create_step_title" = "Erstellen Sie Ihr Passwort";
-
-"key_login_password_create_password_input_title" = "Passwort";
-
-"key_login_password_create_password_input_placeholder_title" = "Bitte Passwort eingeben";
-
-"key_login_password_create_password_confirm_input_title" = "Passwort eingeben";
-
-"key_login_password_create_password_confirm_input_placeholder_title" = "Bitte Passwort eingeben";
-
-"key_login_password_create_password_confirm_button_title" = "Weiter";
-
-"key_login_reset_nav_title" = "Authentifizierung";
-
-"key_login_reset_email_title" = "Ihre E-Mail";
-
-"key_login_reset_code_title" = "Bestätigungscode";
-
-"key_login_reset_code_input_placeholder" = "Bitte Code eingeben";
-
-"key_login_reset_code_send_title" = "Erhalten";
-
-"key_login_reset_code_resend_title" = "Erneut senden";
-
-"key_login_delete_nav_title" = "Authentifizierung";
-
-"key_login_delete_email_title" = "Ihre E-Mail";
-
-"key_login_delete_code_title" = "Bestätigungscode";
-
-"key_login_delete_code_input_placeholder" = "Bitte Code eingeben";
-
-"key_login_delete_code_send_title" = "Erhalten";
-
-"key_login_delete_code_resend_title" = "Erneut senden";
-
-"key_login_delete_confirm_title" = "Konto löschen";
-
-"key_module_userinfo" = "key_module_userinfo";
-
-"key_userinfo_edit_title" = "Persönlich bearbeiten";
-
-"key_userinfo_nick_placeholder" = "Spitzname eingeben";
-
-"key_userinfo_nick_tips_[<xxxx0>]_[<xxxx1>]" = "Der Spitzname muss zwischen [<xxxx0>] 和 [<xxxx1>] Zeichen lang sein";
-
-"key_userinfo_personal_information" = "Persönliche informationen";
-
-"key_userinfo_save_confirm" = "Speichern";
-
-"key_module_tabbar" = "key_module_tabbar";
-
-"key_tabbar_home" = "Startseite";
-
-"key_tabbar_history" = "Historie";
-
-"key_tabbar_setting" = "Einstellungen";
-
-"key_tabbar_ai" = "Ai";
-
-"key_module_home" = "key_module_home";
-
-"key_home_add_tips" = "Bitte Gerät hinzufügen";
-
-"key_home_tourist_alert_title" = "Aufmerksamkeit";
-
-"key_home_tourist_alert_title_sub" = "Der Besuchermodus kann nur eine Bluetooth-Verbindung verwenden. Wenn Sie eine unbegrenzte Reichweite genießen möchten, ist eine Anmeldung erforderlich";
-
-"key_home_tourist_bluetooth_only" = "Nur Bluetooth verwenden";
-
-"key_home_status_change_alert_title" = "Statusänderung";
-
-"key_home_status_change_alert_title_sub" = "Melden Sie sich erfolgreich an, verbinden Sie Ihren Booster mit WLAN, um eine unbegrenzte Reichweite zu genießen und überall zu überwachen.";
-
-"key_home_status_change_alert_title_confirm" = "mit WiFi verbinden";
-
-"key_home_device_add_limit" = "Gerätegrenze hinzufügen";
-
-"key_home_device_add_limit_tips" = "Es können keine weiteren Geräte hinzugefügt werden. Entfernen Sie eines oder kontaktieren Sie den Support";
-
-"key_home_add_offline" = "Offline hinzufügen";
-
-"key_home_add_offline_tips" = "Derzeit offline, können die von Ihnen hinzugefügten Geräte von online hinzugefügten Geräten überschrieben werden.";
-
-"key_home_guest" = "Gastzugang";
-
-"key_home_exit_visitor_mode" = "Besuchermodus beenden";
-
-"key_module_device" = "key_module_device";
-
-"key_device_name_010x_[<xxxx>]" = "meatmeet Pro [<xxxx>]";
-
-"key_device_name_020x_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
-
-"key_device_name_0200_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
-
-"key_device_name_0201_[<xxxx>]" = "meatmeet Pro 2026 [<xxxx>]";
-
-"key_device_name_030x_[<xxxx>]" = "meatmeet X Pro [<xxxx>]";
-
-"key_device_name_0301_[<xxxx>]" = "meatmeet Z Pro [<xxxx>]";
-
-"key_device_name_0400_[<xxxx>]" = "meatmeet S Pro 2026 [<xxxx>]";
-
-"key_device_name_010x" = "meatmeet Pro";
-
-"key_device_name_020x" = "meatmeet S Pro";
-
-"key_device_name_0200" = "meatmeet S Pro";
-
-"key_device_name_0201" = "meatmeet Pro 2026";
-
-"key_device_name_030x" = "meatmeet X Pro";
-
-"key_device_name_0300" = "meatmeet X Pro";
-
-"key_device_name_0301" = "meatmeet Z Pro";
-
-"key_device_name_0400" = "meatmeet S pro 2026";
-
-"key_device_probe_[<xxxx>]" = "Sonde [<xxxx>]";
-
-"key_device_probe_[<xxxx>]_mac" = "Sonde [<xxxx>] Mac";
-
-"key_device_warning" = "Warnung!!!";
-
-"key_device_probe_not_connected" = "Sonde nicht verbunden";
-
-"key_device_hub_disconnected" = "Gerät getrennt";
-
-"key_device_signal_interrupted" = "Signalunterbrechung";
-
-"key_device_booster_low_battery" = "Booster: Batterie schwach";
-
-"key_device_probe_low_battery" = "Sonde: Batterie schwach";
-
-"key_device_probe_is_charging" = "Sonde wird geladen";
-
-"key_device_insert" = "Einfügen";
-
-"key_device_access_restricted" = "Zugang eingeschränkt";
-
-"key_device_network_error" = "Netzwerk-Fehler";
-
-"key_device_probe_temperature" = "Sonde Temperatur";
-
-"key_device_bluetooth_disconnected" = "Bluetooth getrennt";
-
-"key_device_bluetooth_disconnected_title" = "Bluetooth getrennt";
-
-"key_device_bluetooth_disconnected_title_sub" = "Bitte überprüfen Sie den Bluetooth-Verbindungsstatus des Geräts";
-
-"key_device_home_tourist_title" = "Sie befinden sich derzeit im Gastmodus. Registrieren Sie sich oder melden Sie sich an, um Ihre persönlichen Daten einzusehen und zu bearbeiten.";
-
-"key_device_please_check_the_position_and_condition_of_the_probe" = "Bitte überprüfen Sie die Position und den Zustand der Sonde";
-
-"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "Das Gerät [<xxxx>] ist getrennt. Bitte überprüfen Sie Ihr Gerät und stellen Sie die Verbindung wieder her. Drücken Sie die Taste, bis die LED blinkt (ca. 2s), um das Gerät einzuschalten";
-
-"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "Verbindung getrennt, da das Smartphone zu weit vom Gerät [<xxxx>] entfernt ist";
-
-"key_device_please_connect_the_meat_[<xxxx>]_charger" = "Bitte schließen Sie das Fleisch [<xxxx>] Ladegerät an";
-
-"key_device_put_probe_into_booster_to_charge" = "Sonde zum Aufladen in den Booster stecken";
-
-"key_device_delete" = "Löschen";
-
-"key_device_no_device" = "Kein Gerät gefunden";
-
-"key_device_in_cooking" = "Kochen im Gange";
-
-"key_device_please_add_your_probe" = "Bitte füge deine Sonde hinzu";
-
-"key_device_ota_checking" = "Prüfen";
-
-"key_device_ota_check" = "Prüfen Sie";
-
-"key_device_ota_new_version" = "Neue Version";
-
-"key_device_ota_new_version_ready" = "Neue Version bereit";
-
-"key_device_ota_current_version" = "Aktuelle Version";
-
-"key_device_ota_download_and_install" = "herunterladen und installieren";
-
-"key_device_ota_fail_alert_download_failed_title" = "Download fehlgeschlagen";
-
-"key_device_ota_fail_alert_download_failed_title_sub" = "Ihr Firmware-Download ist fehlgeschlagen. Bitte überprüfen Sie, ob die Netzwerkverbindung normal ist";
-
-"key_device_ota_fail_alert_update_delay_failed_title" = "Update-Verzögerung";
-
-"key_device_ota_fail_alert_update_delay_failed_title_sub" = "Die Firmware ist nicht mit dem Gerät kompatibel oder das Gerät verfügt nicht über ausreichend Speicherplatz. Bitte überprüfen Sie den Gerätestatus.";
-
-"key_device_ota_fail_alert_device_busy_failed_title" = "Gerät beschäftigt";
-
-"key_device_ota_fail_alert_device_busy_failed_title_sub" = "Das Gerät ist mit anderen Aufgaben beschäftigt und kann das Firmware-Update nicht sofort starten. Bitte stellen Sie sicher, dass das Gerät im Leerlauf ist, bevor Sie das Update durchführen.";
-
-"key_device_ota_fail_alert_server_unresponsive_failed_title" = "Server nicht erreichbar";
-
-"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "Der Firmware-Server ist nicht verfügbar oder die Antwort ist abgelaufen, so dass der Download der Firmware fehlschlägt. Bitte versuchen Sie es später noch einmal.";
-
-"key_device_ota_fail_alert_server_update_failed_title" = "Update fehlgeschlagen";
-
-"key_device_ota_fail_alert_server_update_failed_title_sub" = "Die Firmware ist nicht mit dem Gerät kompatibel oder das Gerät verfügt nicht über ausreichend Speicherplatz. Bitte überprüfen Sie den Gerätestatus.";
-
-"key_device_ota_fail_alert_not_primary_failed_title_sub" = "Dieses Gerät ist nicht das Hauptgerät, und das Gerät kann nicht mit OTA aufgerüstet werden";
-
-"key_device_ota_success_alert_title" = "Update erfolgreich";
-
-"key_device_ota_success_alert_title_sub" = "Herzlichen Glückwunsch, die Firmware Ihres Geräts wurde erfolgreich aktualisiert!";
-
-"key_device_ota_fail_alert_transfer_failed_title" = "Übertragung fehlgeschlagen";
-
-"key_device_ota_fail_alert_transfer_failed_title_sub" = "Update fehlgeschlagen aufgrund von Übertragungszeitüberschreitung oder Geräteabschaltung. Bitte versuchen Sie die Firmware-Übertragung erneut";
-
-"key_device_ota_file_downloading_[<xxxx>]" = "Herunterladen [<xxxx>]%";
-
-"key_device_ota_install" = "installieren";
-
-"key_device_ota_doing_title" = "Während des Upgrades";
-
-"key_device_ota_doing_title_sub" = "Firmware wird aktualisiert, bitte warten";
-
-"key_device_ota_doing_transmit_title_sub" = "Die neue Firmware wird derzeit übertragen und kann einige Zeit in Anspruch nehmen. Bitte haben Sie Geduld";
-
-"key_device_ota_installing_firmware" = "Firmware-Updates werden installiert, was einige Zeit dauern kann";
-
-"key_device_ota_firmware_installing" = "Firmware wird installiert";
-
-"key_device_ota_firmware_image_download_complete" = "Firmware-Image-Download abgeschlossen";
-
-"key_device_ota_fail_alert_during_cooking_title" = "Kochen im Gange";
-
-"key_device_ota_fail_alert_during_cooking_title_sub" = "Das Kochen ist im Gange, das OTA-Upgrade wird derzeit nicht unterstützt. Bitte warten Sie, bis der Kochvorgang abgeschlossen ist.";
-
-"key_device_ota_fail_alert_not_online_title" = "Gerät nicht vernetzt";
-
-"key_device_ota_fail_alert_not_online_title_sub" = "Bitte fügen Sie Ihrem Netzwerk ein Gerät hinzu, bevor Sie ein Firmware-Upgrade versuchen";
-
-"key_device_ota_fail_alert_low_power_title" = "Upgrade blockiert";
-
-"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "Upgrade nicht verfügbar. Stellen Sie sicher, dass der Akku über [<xxxx>]% liegt oder halten Sie das Gerät eingesteckt";
-
-"key_device_ota_already_the_lastest_version" = "Bereits die neueste Version";
-
-"key_device_ota_update" = "Mise à jour";
-
-"key_device_ota_preparing" = "Vorbereiten";
-
-"key_device_ota_update_start" = "Update gestartet";
-
-"key_upgrading_device_ota" = "Aktualisierung wird durchgeführt";
-
-"key_update_failed_device_ota" = "Update fehlgeschlagen";
-
-"key_device_ota_rejected" = "Abgelehnt";
-
-"key_device_ota_success" = "Update erfolgreich";
-
-"key_device_nav_share" = "Teilen";
-
-"key_device_share_add" = "Benutzer hinzufügen";
-
-"key_device_share_alert_device_invitation" = "Geräteeinladung";
-
-"key_device_share_alert_device_invitation_will_send" = "Einladung wird an Benutzer gesendet";
-
-"key_device_share_alert_device_invitation_success_title_sub" = "Das Gerät wurde erfolgreich mit dem Benutzer geteilt, bitte informieren Sie ihn umgehend";
-
-"key_device_share_alert_device_invitation_success_title" = "Teilen erfolgreich";
-
-"key_device_share_alert_device_invitation_failed_title" = "Teilen fehlgeschlagen";
-
-"key_device_share_alert_device_invite_user" = "Benutzer einladen";
-
-"key_device_share_alert_device_delete_account_title" = "Konto löschen";
-
-"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "Der Benutzer '[<xxxx>]' wird demnächst entfernt. Sind Sie sicher, dass Sie ihn entfernen möchten?";
-
-"key_device_share_alert_device_delete_success" = "Eliminazione riuscita";
-
-"key_device_share_alert_device_delete_failure_network_error" = "Löschen fehlgeschlagen. Bitte überprüfen Sie Ihre Internetverbindung.";
-
-"key_share_share_list" = "Liste teilen";
-
-"key_share_action_accepted" = "Angenommen";
-
-"key_share_action_refuse" = "Ablehnung";
-
-"key_share_action_device_delete" = "Gerät löschen";
-
-"key_share_action_device_exit" = "Ausfahrt";
-
-"key_device_probe_firmware_update" = "Mise à jour du micrologiciel de la sonde";
-
-"key_device_what_is_happen" = "Was ist los";
-
-"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "Wir aktualisieren die Firmware Ihrer Sonde, um Ihr Kocherlebnis zu verbessern.";
-
-"key_device_what_you_need_to_do" = "Was Sie tun müssen?";
-
-"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "Stecken Sie die Sonde in ihr Ladeetui und lassen Sie sie dort für 1-3 Minuten, während das Update abgeschlossen ist.\n \n Hinweis: Bitte entfernen Sie die Sonde nicht und schalten Sie das Gehäuse während des Updates nicht aus.";
-
-"key_device_please_insert_the_probe_into_the_box" = "Bitte Sonde in die Box einsetzen";
-
-"key_device_probe_upgrade_in_progress" = "Sonden-Update läuft";
-
-"key_device_probe_repair_failure" = "Sondenreparatur fehlgeschlagen";
-
-"key_device_probe_repair_failure_tips" = "Probleme beim Aufrüsten Ihrer Sonde, während des Upgrades ist etwas schief gelaufen.\n Bitte tippen Sie auf die Schaltfläche unten, um uns mitzuteilen was passiert ist - wir werden uns so schnell wie möglich darum kümmern";
-
-"key_device_probe_repair_success" = "Sondenreparatur erfolgreich";
-
-"key_device_probe_repair_success_tips" = "Ihre Sonden-Firmware wurde erfolgreich aktualisiert - vielen Dank für Ihre Geduld! Genießen Sie Ihr wunderbares Kocherlebnis.";
-
-"key_device_delete_unvalid_cause_cooking" = "Gerät konnte während des Kochens nicht gelöscht werden";
-
-"key_device_wifi_unvalid_cause_cooking" = "Wi-Fi konnte während des Kochens nicht eingerichtet werden";
-
-"key_device_probe_change_unvalid" = "Sondenwechsel nicht möglich";
-
-"key_device_probe_change_not_allow_while_cooking" = "Sondenwechsel ist während des Garvorgangs nicht möglich. Bitte warten Sie, bis der Garvorgang abgeschlossen ist.";
-
-"key_device_new_meatmeet_s_pro_welcome_to_you" = "„Neues Meatmeet S Pro\n Willkommen bei Ihnen“";
-
-"key_device_introducing_our_all_new_5_sensor_smart_meat_thermometer_with_fully_upgraded_hardware_multi_point_temperature_monitoring_simultaneously_monitors_5_spots_for_evenly_cooked_perfection_real_time_data_transmission_instantly_track_temperature_changes_without_frequently_opening_the_grill_high_compatibility_easily_works_with_various_grills_and_accessories_for_seamless_operation" = "Wir stellen Ihnen unseren brandneuen 5-Sensor Smart-Fleischthermometer vor, mit vollständig aktualisierter Hardware:\n • Mehrpunkt-Temperaturüberwachung: Überwacht gleichzeitig 5 Punkte für perfekt gleichmäßig gegartes Fleisch\n • Echtzeit-Datenübertragung: Verfolgen Sie Temperaturänderungen sofort, ohne den Grill häufig zu öffnen\n • Hohe Kompatibilität: Funktioniert problemlos mit verschiedenen Grills und Zubehör für einen nahtlosen Betrieb";
-
-"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "Das Gerät ist derzeit verbunden, aber nicht online. Bitte stellen Sie sicher, dass es mit dem Internet verbunden ist, um es zu teilen";
-
-"key_device_probe_replace_failure_while_cooking" = "Sondenwechsel ist während des Garvorgangs nicht möglich. Bitte warten Sie, bis der Garvorgang abgeschlossen ist.";
-
-"key_device_select_mode" = "Modus auswählen";
-
-"key_device_select_add_device_title" = "Gerät auswählen";
-
-"key_device_select_add_device_title_sub" = "Kein Gerät gefunden.\n Fügen Sie ein Gerät hinzu, um mit dem Kochen zu beginnen.";
-
-"key_device_select_add_device_cancel" = "Nicht jetzt";
-
-"key_device_select_add_device_confirm" = "Gerät hinzufügen";
-
-"key_device_select_add_probe_title" = "Sonde auswählen";
-
-"key_device_select_add_probe_title_sub" = "Keine Sonde erkannt.\n Fügen Sie eine Sonde hinzu, um mit dem Kochen zu beginnen.";
-
-"key_device_select_add_probe_cancel" = "Nicht jetzt";
-
-"key_device_select_add_probe_confirm" = "Sonde hinzufügen";
-
-"key_device_setting_wifi_manager_nav_title" = "WLAN-Verwaltung";
-
-"key_device_change_alias_alert_title" = "Gerätename";
-
-"key_device_change_alias_alert_title_sub" = "Wählen Sie einen eindeutigen Namen, um Ihr Gerät bei mehreren in der Nähe befindlichen Sensoren leicht zu identifizieren.";
-
-"key_device_change_alias_alert_placeholder" = "Bitte neuen Gerätenamen eingeben";
-
-"key_device_change_alias_alert_success" = "Gerätename erfolgreich geändert";
-
-"key_module_bind" = "key_module_bind";
-
-"key_bind_float_title" = "Geräte anschließen";
-
-"key_bind_float_confirm" = "Verbindung";
-
-"key_bind_float_pairing_title" = "Geräte-Kopplung";
-
-"key_bind_float_pairing_title_sub" = "Wählen Sie das Gerät aus, mit dem Sie eine Verbindung herstellen möchten.";
-
-"key_bind_float_pairing_failed_title" = "Gerätekopplung fehlgeschlagen";
-
-"key_bind_float_pairing_failed_title_sub" = "Es ist möglicherweise einer der folgenden Fehler aufgetreten – bitte versuche es erneut.";
-
-"key_bind_float_pairing_failed_faqs" = "FAQ";
-
-"key_bind_float_pairing_failed_confirm" = "Verbinden";
-
-"key_bind_float_pairing_reconnecting" = "Erneut verbinden";
-
-"key_bind_float_go_cooking" = "Kochen gehen";
-
-"key_bind_float_ready_to_use" = "Bereit zur Verwendung";
-
-"key_bind_float_ready_to_use_start_cook" = "Bist du bereit?\n Starte deine Pro-Reise!";
-
-"key_bind_float_probe_pairing_title" = "Sonden-Kopplung";
-
-"key_bind_float_probe_pairing_failed_title" = "Sonden-Pairing fehlgeschlagen";
-
-"key_bind_float_probe_pairing_failed_title_sub" = "Bitte stellen Sie sicher, dass sich die Sonde in der Box befindet. Wir werden die Sonde anschließen. Bitte beachten Sie, dass dieser Vorgang schnell abläuft.";
-
-"key_bind_float_probe_pairing_failed_faqs" = "FAQ";
-
-"key_bind_float_probe_pairing_failed_confirm" = "Erneut verbinden";
-
-"key_bind_connecting_devices" = "Geräte anschließen";
-
-"key_bind_found_devices" = "Gerät gefunden";
-
-"key_bind_first_time_use" = "Erstmalige Verwendung";
-
-"key_bind_turn_on_the_device" = "Schalten Sie das Gerät ein";
-
-"key_bind_bluetooth_connecting" = "Bluetooth verbunden";
-
-"key_bind_no_device_found" = "Kein Gerät gefunden";
-
-"key_bind_connected_failure" = "Geräteverbindung fehlgeschlagen";
-
-"key_bind_ready_to_connect_wiFi" = "Bereit für WiFi-Verbindung";
-
-"key_bind_connect_the_probe" = "Schließen Sie die Sonde an";
-
-"key_bind_transferring_firmware" = "Übertragen von Firmware";
-
-"key_bind_bluetooth_permissions_deny" = "Bluetooth-Berechtigungen verweigert";
-
-"key_bind_wifi_connection_failed" = "WiFi-Verbindung fehlgeschlagen";
-
-"key_bind_wifi_search_title" = "WIFI wird gescannt";
-
-"key_bind_wifi_select_title" = "Wählen Sie Ihr WiFi";
-
-"key_bind_wifi_input_title" = "Mit WiFi verbinden";
-
-"key_bind_wifi_input_title_confirm" = "Mit WiFi verbinden";
-
-"key_bind_wifi_connecting_title" = "Mit WiFi verbinden";
-
-"key_bind_wifi_connecting_title_sub" = "Mit WiFi verbinden";
-
-"key_bind_cloud_connecting_title" = "Cloud-Verbindung";
-
-"key_bind_cloud_connecting_title_sub" = "Verbinde mit der Cloud";
-
-"key_bind_cloud_connecting_to_cloud" = "Verbinde mit der Cloud";
-
-"key_bind_ok_completed" = "GUT,\n abgeschlossen";
-
-"key_bind_firmware_found" = "Firmware entdecken";
-
-"key_bind_download_firmware" = "Firmware herunterladen";
-
-"key_bind_firmware_update" = "Firmware-Update";
-
-"key_bind_update_successful" = "Update erfolgreich";
-
-"key_bind_ready_to_use" = "Bereit zur Verwendung";
-
-"key_bind_guide_title_sub" = "1. Bitte verwenden Sie USB-C, um den Booster nach dem ersten Empfang des Geräts anzuschließen\n \n 2. Bitte laden Sie die Sonde für fünf Minuten nach erfolgreicher Kopplung für eine bessere Erfahrung auf";
-
-"key_bind_device_scan_title_sub" = "Stellen Sie sicher, dass Ihr Booster eingesteckt ist über TypC und eingeschaltet.\n Doppelklicken Sie dann auf die Einschalttaste, um die Bluetooth-Kopplung zu starten.";
-
-"key_bind_keep_your_bluetooth_turning_on" = "Lassen Sie Ihr Bluetooth eingeschaltet";
-
-"key_bind_scan_timeout" = "Stellen Sie sicher, dass Ihr Booster eingeschaltet ist und blinkt\n 1.Drücken Sie den Knopf, bis die LED blinkt (ca. 2s)\n 2.Doppelklicken Sie den Knopf zum Koppeln";
-
-"key_bind_connect_success_then_ready_for_wifi" = "Sie können das Gerät über Bluetooth verwenden,\n Einige Funktionen werden jedoch eingeschränkt sein.\n Um die beste Erfahrung zu machen,\n Bitte folgen Sie den Anweisungen, um eine Verbindung zu WiFi herzustellen.";
-
-"key_bind_connect_success_than_temp_bind" = "Bitte entfernen Sie die Sonde vom Booster";
-
-"key_bind_please_place_the_new_probe_in_the_booster" = "Bitte setzen Sie die neue Sonde in den Booster ein";
-
-"key_bind_the_new_firmware_is_currently_being_transmitted_and_may_take_some_time_please_be_patient" = "Die neue Firmware wird derzeit übertragen und kann einige Zeit in Anspruch nehmen. Bitte haben Sie Geduld";
-
-"key_bind_unable_to_use_your_bluetooth_please_click_setting_to_turn_on_bluetooth" = "Sie können Ihr Bluetooth nicht verwenden.\n Bitte klicken Sie auf Einstellungen, um Bluetooth zu aktivieren.";
-
-"key_bind_keep_bluetooth_turned_on" = "Lassen Sie Ihr Bluetooth eingeschaltet";
-
-"key_bind_you_may_have_encountered_one_of_the_following_situations_please_try_again" = "Es ist möglicherweise einer der folgenden Fehler aufgetreten – bitte versuche es erneut.";
-
-"key_bind_your_smart_thermometer_is_connected_to_wifi" = "Ihr intelligentes Thermometer ist mit WiFi verbunden";
-
-"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "Unbegrenzte Fernsteuerung über die Cloud möglich, es kann einige Sekunden dauern";
-
-"key_bind_the_device_is_connected_to_wifi_network_successfully" = "Das Gerät wurde erfolgreich mit dem WiFi-Netzwerk verbunden.";
-
-"key_bind_new_firmware_version_found_updating_will_provide_improved_performance_and_new_features" = "Neue Firmware-Version gefunden! Das Upgrade bietet verbesserte Leistung und neue Funktionen.";
-
-"key_bind_downloading_firmware_update_please_keep_your_device_connected_and_do_not_turn_it_off" = "Bitte lassen Sie das Gerät während des Firmware-Updates eingeschaltet und mit dem verbunden.";
-
-"the_bind_firmware_update_failed_please_try_again_you_can_also_update_the_firmware_in_setting_page_in_future_if_you_choose_to_ignore_it_now" = "Das Firmware-Update ist fehlgeschlagen. Bitte versuchen Sie es erneut.\n Sie können die Firmware auch in Zukunft auf der Seite 'Einstellungen' aktualisieren, wenn Sie sie jetzt ignorieren möchten.";
-
-"key_bind_congratulations_your_device_firmware_has_been_successfully_updated" = "Herzlichen Glückwunsch, die Firmware Ihres Geräts wurde erfolgreich aktualisiert!";
-
-"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "Bist du bereit?\n Starte deine Pro-Reise!";
-
-"key_bind_finish_net_without_tips" = "Bist du bereit?\n Starte deine Pro-Reise!";
-
-"key_bind_finish_net_with_tips" = "Bist du bereit?\n Starte deine Pro-Reise!";
-
-"key_bind_finish_not_now_tips" = "Sie können Bluetooth weiterhin nutzen, aber durch eine Wi-Fi-Verbindung erhalten Sie das volle Erlebnis. Tippen Sie auf das Wi-Fi-Symbol oder gehen Sie zu den Geräteeinstellungen, um eine Verbindung herzustellen.";
-
-"key_bind_next" = "Weiter";
-
-"key_bind_back" = "Zurück";
-
-"key_bind_step_1_Press_the_button_till_led_flash_about_2s" = "Schritt 1: Drücken Sie die Taste, bis die LED blinkt (ca. 2 s)";
-
-"key_bind_step_2_double_click_the_button_to_pair" = "Schritt 2: Doppelklicken Sie die Taste zum Koppeln";
-
-"key_bind_setup_guide" = "Einrichtungsanleitung";
-
-"key_bind_step_[<xxxx>]" = "Schritt [<xxxx>]";
-
-"key_bind_unified_step_1_tips_010x" = "Halten Sie den Einschaltknopf 2 Sekunden gedrückt, um das Gerät einzuschalten.";
-
-"key_bind_unified_step_2_tips_010x" = "Drücken Sie dann den Einschaltknopf zweimal. Wenn die Anzeige schnell blinkt, ist das Gerät bereit zur Kopplung.";
-
-"key_bind_unified_step_1_tips_020x" = "Drücken Sie die Einschalttaste, um das Gerät einzuschalten. Sie hören einen kurzen Signalton und sehen, dass das Licht zu blinken beginnt.";
-
-"key_bind_unified_step_2_tips_020x" = "Tippen Sie zweimal auf die Einschalttaste, um das Gerät in den Koppelmodus zu versetzen. Tippen Sie dann auf die Schaltfläche unten, um die Kopplung zu starten.";
-
-"key_bind_unified_step_1_tips_0200" = "Drücken Sie die Einschalttaste, um das Gerät einzuschalten. Sie hören einen kurzen Signalton und sehen, dass das Licht zu blinken beginnt.";
-
-"key_bind_unified_step_2_tips_0200" = "Tippen Sie zweimal auf die Einschalttaste, um das Gerät in den Koppelmodus zu versetzen. Tippen Sie dann auf die Schaltfläche unten, um die Kopplung zu starten.";
-
-"key_bind_unified_step_1_tips_0201" = "Stellen Sie sicher, dass der Akku eingesetzt und das Gerät eingeschaltet ist.";
-
-"key_bind_unified_step_2_tips_0201" = "Warten Sie, bis der untere Button klickbar wird.";
-
-"key_bind_unified_step_1_tips_030x" = "Drücken Sie 1,5 Sekunden lang die Einschalttaste, um das Gerät einzuschalten. Lassen Sie die Taste los, sobald der Bildschirm aufleuchtet.";
-
-"key_bind_unified_step_2_tips_030x" = "Achten Sie auf die blinkenden Bluetooth- und WiFi-Symbole in der linken oberen Ecke. Dies signalisiert den aktiven Koppelmodus (er schaltet sich nach 10 Minuten ab. Drücken Sie zum Neustart 3 Sekunden lang die Bestätigungstaste).";
-
-"key_bind_unified_step_3_tips_030x" = "Bitte legen Sie die Sonde während des Koppelvorgangs in ihre Halterung. Vielen Dank für Ihre Mitarbeit!";
-
-"key_bind_unified_step_1_tips_0300" = "Drücken Sie 1,5 Sekunden lang die Einschalttaste, um das Gerät einzuschalten. Lassen Sie die Taste los, sobald der Bildschirm aufleuchtet.";
-
-"key_bind_unified_step_2_tips_0300" = "Achten Sie auf die blinkenden Bluetooth- und WiFi-Symbole in der linken oberen Ecke. Dies signalisiert den aktiven Koppelmodus (er schaltet sich nach 10 Minuten ab. Drücken Sie zum Neustart 3 Sekunden lang die Bestätigungstaste).";
-
-"key_bind_unified_step_3_tips_0300" = "Bitte legen Sie die Sonde während des Koppelvorgangs in ihre Halterung. Vielen Dank für Ihre Mitarbeit!";
-
-"key_bind_unified_step_1_tips_0301" = "Drücken Sie 1,5 Sekunden lang die Einschalttaste, um das Gerät einzuschalten. Lassen Sie die Taste los, sobald der Bildschirm aufleuchtet.";
-
-"key_bind_unified_step_2_tips_0301" = "Achten Sie auf die blinkenden Bluetooth- und WiFi-Symbole in der linken oberen Ecke. Dies signalisiert den aktiven Koppelmodus (er schaltet sich nach 10 Minuten ab. Drücken Sie zum Neustart 3 Sekunden lang die Bestätigungstaste).";
-
-"key_bind_unified_step_3_tips_0301" = "Bitte legen Sie die Sonde während des Koppelvorgangs in ihre Halterung. Vielen Dank für Ihre Mitarbeit!";
-
-"key_bind_unified_step_1_tips_0400" = "Drücken Sie die Einschalttaste 1,5 Sekunden lang, um das Gerät einzuschalten. Lassen Sie los, sobald der Bildschirm aufleuchtet.";
-
-"key_bind_unified_step_2_tips_0400" = "Prüfen Sie die blinkenden Bluetooth- und WLAN-Symbole in der oberen linken Ecke. Dies bedeutet, dass der Pairing-Modus aktiv ist (er schaltet sich nach 10 Minuten ab. Drücken Sie die Bestätigungstaste 3 Sekunden lang, um ihn neu zu starten).";
-
-"key_bind_unified_step_3_tips_0400" = "Bitte legen Sie die Sonde während des Pairings in ihr Case. Vielen Dank für Ihre Mitarbeit!";
-
-"key_bind_unified_product_brochure" = "";
-
-"key_bind_unified_go_pairing" = "Jetzt koppeln";
-
-"key_bind_unified_go_pairing_unvalid_tips" = "Bitte folgen Sie den Anweisungen auf dem Bildschirm, um eine Verbindung herzustellen und zu beginnen.";
-
-"key_bind_bluetooth_is_scanning" = "Bluetooth scannt";
-
-"key_bind_bluetooth_is_connecting" = "Bluetooth wird verbunden";
-
-"key_bind_bluetooth_is_connected" = "Bluetooth ist verbunden";
-
-"key_bind_go_cooking" = "Kochen gehen";
-
-"key_bind_try_again" = "Versuchen Sie es noch einmal";
-
-"key_bind_go_to_cooking" = "zum Kochen gehen";
-
-"key_bind_feedback" = "Rückmeldung";
-
-"key_bind_setting" = "Einstellungen";
-
-"key_bind_device_upgrade" = "Geräte-Upgrade";
-
-"key_bind_keep_the_booster_within_wifi_range" = "Booster in WiFi-Reichweite halten";
-
-"key_bind_connection_successful" = "Erfolg beim Verbinden";
-
-"key_bind_not_now" = "Nicht jetzt";
-
-"key_bind_connect" = "Verbinden";
-
-"key_bind_please_enter_wifi" = "Bitte geben Sie die WLAN-SSID ein";
-
-"key_bind_please_enter_wifi_password" = "Bitte geben Sie das Wi-Fi-Passwort ein";
-
-"key_bind_invalid_wifi_username_or_password" = "Ungültiges WiFi-Konto oder Passwort";
-
-"key_bind_other" = "Sonstiges";
-
-"key_bind_preparing" = "Vorbereiten";
-
-"key_bind_device_config_service" = "Gerätekonfigurationsdienst";
-
-"key_bind_wifi_is_scanning" = "WiFi wird gescannt";
-
-"key_bind_searching_for_your_network" = "Durchsuchen Sie Ihr Netzwerk";
-
-"key_bind_refresh_list_2_4_g_hz_wifi_only" = "Aktualisieren Sie die Liste (nur WiFi 2,4G unterstützt)";
-
-"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "Sonde verloren. Bitte überprüfen Sie die Verbindung und stellen Sie sicher, dass die Sonde richtig angebracht ist";
-
-"key_bind_add_probe" = "Sonde hinzufügen";
-
-"key_bind_the_probe_is_searching_please_wait" = "Die Sonde sucht, bitte warten";
-
-"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "Die Sonde kann nicht lokalisiert werden. Stellen Sie sicher, dass es\n Einschalten und zum Aktualisieren antippen";
-
-"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "Um die Sonde zu ersetzen, klicken Sie bitte auf die Suchschaltfläche unten";
-
-"key_bind_refresh" = "Freigabe zur Aktualisierung";
-
-"key_bind_search" = "Suche";
-
-"key_bind_probe_connect_failed" = "Sondenverbindung fehlgeschlagen";
-
-"key_bind_probe_connect_retry_title" = "Bitte versuchen Sie es noch einmal, indem Sie die folgenden Schritte ausführen:";
-
-"key_bind_probe_connect_retry_tip1" = "1. Entnehmen Sie die Sonde aus dem Booster und schließen Sie sie an";
-
-"key_bind_probe_connect_retry_tip2" = "2. Laden Sie die Sonde auf und koppeln Sie sie erneut";
-
-"key_bind_probe_connect_retry_tip3" = "3. Platzieren Sie die Sonde in der Nähe des Boosters und des Telefons";
-
-"key_bind_the_wlan_permission_of_your_phone_is_turned_off" = "Die WLAN-Berechtigung Ihres Telefons ist deaktiviert";
-
-"key_bind_no_wifi_found" = "Kein verfügbares WiFi gefunden，Bitte versuchen Sie es erneut";
-
-"key_bind_sorry" = "Entschuldigung";
-
-"key_bind_retry" = "Wiederholen";
-
-"key_bind_enter_wifi" = "Bitte geben Sie die WLAN-SSID ein";
-
-"key_bind_wifi_error_less" = "Die Wi-Fi-SSID muss mindestens 4 Zeichen lang sein";
-
-"key_bind_probe_management" = "Sondenmanagement";
-
-"key_bind_current_probe" = "Stromsonde";
-
-"key_bind_current_probe_choose" = "Sonde wählen";
-
-"key_bind_probe_add_success" = "Sonde erfolgreich hinzugefügt";
-
-"key_bind_probe_add_failed" = "Hinzufügen der Sonde fehlgeschlagen";
-
-"key_bind_probe_add_probe" = "Sonde hinzufügen";
-
-"key_bind_probe_adding" = "Bitte warten Sie, während die Sonde hinzugefügt wird";
-
-"key_bind_unbind_probe_title" = "Sonde aufheben";
-
-"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "Sie werden die Bindung aufheben 'Probe [<xxxx0>] Mac: [<xxxx1>]'.\n Bestätigen Sie die Aufhebung der Bindung?";
-
-"key_bind_device_hub_disconnected" = "Gerät trennen";
-
-"key_bind_probe_bind_status_check" = "Bitte überprüfen Sie den Bluetooth-Verbindungsstatus des Geräts";
-
-"key_bind_probe_change_unvalid" = "Sondenwechsel nicht möglich";
-
-"key_bind_probe_change_unvalid_cause_cooking" = "Sondenwechsel ist während des Garvorgangs nicht möglich. Bitte warten Sie, bis der Garvorgang abgeschlossen ist.";
-
-"key_bind_probe_sure_to_delete" = "Sonde sicher löschen";
-
-"key_bind_probe_unvalid_cause_id_[<xxxx0>]_mac_[<xxxx1>]" = "Ungültige Sonde, Grund-ID: [<xxxx0>] MAC: [<xxxx1>]";
-
-"key_bind_probe_change_unavailable" = "Sondenwechsel nicht möglich";
-
-"key_bind_probe_change_is_not_allowed_while_cooking_please_wait_until_the_cooking_is_complete" = "Sondenwechsel ist während des Garvorgangs nicht möglich. Bitte warten Sie, bis der Garvorgang abgeschlossen ist.";
-
-"key_bind_probe_device_invitation" = "Geräteeinladung";
-
-"key_bind_please_wait_while_the_probe_is_being_added" = "Bitte warten, während die Sonde hinzugefügt wird.";
-
-"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "Ihre 'Sonde [<xxxx0>]' wurde erfolgreich zu '[<xxxx1>]' hinzugefügt, bitte beginnen Sie mit dem Kochen";
-
-"key_bind_probe_add_successfully" = "Erfolgreich hinzufügen";
-
-"key_bind_probe_010x_alert_bind_tips" = "1. Bitte laden Sie die Sonde mindestens 3 bis 5 Minuten lang auf, insbesondere wenn Sie sie zum ersten Mal benutzen.\n \n 2. Dies hilft, das Problem 'Failed to Connect the Probe' im nächsten Schritt zu vermeiden";
-
-"key_bind_probe_010x_alert_bind_tips_[<xxxx0>]_[<xxxx1>]" = "1. Bitte laden Sie die Sonde mindestens 3 bis 5 Minuten lang auf, insbesondere wenn Sie sie zum ersten Mal benutzen.\n \n 2. Dies hilft, das Problem 'Failed to Connect the Probe' im nächsten Schritt zu vermeiden";
-
-"key_bind_probe_010x_alert_remove_title" = "Sonde bewegen";
-
-"key_bind_probe_010x_alert_remove_title_sub" = "Die Sonde sucht, bitte warten";
-
-"key_bind_probe_010x_alert_add_title" = "Sonde hinzufügen";
-
-"key_bind_probe_010x_alert_add_title_sub" = "Bitte warten Sie, während die Sonde hinzugefügt wird";
-
-"key_bind_probe_010x_alert_success_title" = "Paarung erfolgreich";
-
-"key_bind_probe_010x_alert_success_title_sub" = "Bitte beginnen Sie Ihre Kochreise";
-
-"key_bind_probe_010x_alert_failed_title" = "Sondenverbindung fehlgeschlagen";
-
-"key_bind_probe_010x_alert_failed_title_sub" = "Bitte versuchen Sie es noch einmal, indem Sie die folgenden Schritte ausführen:\n 1. Entnehmen Sie die Sonde aus dem Booster und schließen Sie sie an\n 2. Laden Sie die Sonde auf und koppeln Sie sie erneut\n 3. Platzieren Sie die Sonde in der Nähe des Boosters und des Telefons";
-
-"key_bind_wifi_name" = "WLAN-Name";
-
-"key_bind_wifi_password" = "Wi-Fi-Passwort";
-
-"key_bind_enter_wifi_password" = "Gib dein WLAN-Passwort ein";
-
-"key_bind_enter_your_wifi_credentials" = "Geben Sie Ihre WiFi-Anmeldedaten ein";
-
-"key_bind_wifi_connection" = "WiFi verbunden";
-
-"key_bind_wifi_name_can_not_be_empty" = "Wifi Name ist leer";
-
-"key_bind_your_device_is_successfully_connected_to_the_wifi_network" = "Das Gerät ist erfolgreich mit dem WiFi-Netzwerk verbunden.";
-
-"key_bind_wifi_password_error" = "Ungültiges WiFi-Konto oder Passwort";
-
-"key_bind_wifi_connect_timeout" = "Wi-Fi-Verbindungszeitüberschreitung";
-
-"key_bind_wifi_ap_not_valid" = "Wi-Fi-Zugangspunkt ungültig";
-
-"key_bind_wifi_auth_timeout" = "Wi-Fi-Authentifizierungszeitüberschreitung";
-
-"key_bind_wifi_connect_failure" = "Wi-Fi-Verbindungsfehler";
-
-"key_bind_wifi_name_cannot_be_empty" = "Wifi Name ist leer";
-
-"key_bind_unified_add_device" = "Gerät hinzufügen";
-
-"key_bind_unified_scan_for_nearby" = "Suchen Sie nach Geräten in der Nähe";
-
-"key_bind_unified_auto_scaning" = "Kontinuierliche automatische Suche";
-
-"key_bind_unified_device_searching" = "Suche";
-
-"key_bind_unified_device_search_no_result" = "Keine Geräte gefunden. Sie können auf die nachstehende Liste tippen, um eines manuell hinzuzufügen";
-
-"key_bind_unified_device_manually_add" = "Gerät manuell hinzufügen";
-
-"key_bind_unified_failure_device_scan_no_result_title" = "Bluetooth-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_scan_no_result_subtitle" = "Der Pairing-Versuch mit dem Gerät war nicht erfolgreich";
-
-"key_bind_unified_failure_device_scan_no_result_tips" = "Versuchen Sie folgende Schritte:\n • Stellen Sie sicher, dass das Gerät sich im Kopplungsmodus befindet\n • Prüfen Sie, ob Bluetooth auf beiden Geräten aktiviert ist\n • Starten Sie Bluetooth neu und versuchen Sie es erneut";
-
-"key_bind_unified_failure_device_connect_failure_title" = "Bluetooth-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_connect_failure_subtitle" = "Der Pairing-Versuch mit dem Gerät war nicht erfolgreich";
-
-"key_bind_unified_failure_device_connect_failure_tips" = "Versuchen Sie folgende Schritte:\n • Stellen Sie sicher, dass das Gerät sich im Kopplungsmodus befindet\n • Prüfen Sie, ob Bluetooth auf beiden Geräten aktiviert ist\n • Starten Sie Bluetooth neu und versuchen Sie es erneut";
-
-"key_bind_unified_failure_device_status_check_failure_title" = "Bluetooth-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_status_check_failure_subtitle" = "Der Pairing-Versuch mit dem Gerät war nicht erfolgreich";
-
-"key_bind_unified_failure_device_status_check_failure_tips" = "Versuchen Sie folgende Schritte:\n • Stellen Sie sicher, dass das Gerät sich im Kopplungsmodus befindet\n • Prüfen Sie, ob Bluetooth auf beiden Geräten aktiviert ist\n • Starten Sie Bluetooth neu und versuchen Sie es erneut";
-
-"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi-Fi-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "Verbindung zum Drahtlosnetzwerk konnte nicht hergestellt werden";
-
-"key_bind_unified_failure_device_esp_enter_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
-
-"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi-Fi-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "Verbindung zum Drahtlosnetzwerk konnte nicht hergestellt werden";
-
-"key_bind_unified_failure_device_nodeid_check_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
-
-"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi-Fi-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "Verbindung zum Drahtlosnetzwerk konnte nicht hergestellt werden";
-
-"key_bind_unified_failure_device_wifi_scan_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
-
-"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi-Fi-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "Verbindung zum Drahtlosnetzwerk konnte nicht hergestellt werden";
-
-"key_bind_unified_failure_device_wifi_connect_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
-
-"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi-Fi-Verbindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "Verbindung zum Drahtlosnetzwerk konnte nicht hergestellt werden";
-
-"key_bind_unified_failure_device_cloud_bind_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
-
-"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "Cloud-Bindung fehlgeschlagen";
-
-"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "Das Gerät kann derzeit nicht mit Ihrem Konto in der Cloud verbunden werden.";
-
-"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "Versuchen Sie folgende Schritte:\n • Starten Sie das Gerät neu\n • Platzieren Sie das Gerät so nah wie möglich am Router\n • Stellen Sie sicher, dass keine Signalstörungen in der Umgebung vorliegen\n • Stellen Sie sicher, dass Ihr Router auf das Internet zugreifen kann";
-
-"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "Möglicherweise ist einer der folgenden Fehler aufgetreten, bitte versuchen Sie es erneut\n \n • Senden des WiFi-Passworts fehlgeschlagen\n • Der Verstärker wurde vom Router getrennt\n • Das Gerät konnte nicht zur Cloud hinzugefügt werden\n • Verbindungstimeout";
-
-"key_bind_device_pairing_success" = "Gerät gekoppelt";
-
-"key_bind_wifi_confirm_change" = "WLAN ändern";
-
-"key_bind_change_wifi_current_title" = "Optionale Position";
-
-"key_bind_change_wifi_scan_title" = "Empfohlene Position";
-
-"key_bind_change_wifi_current_none_title" = "Kein Wi-Fi. Bitte verbinden.";
-
-"key_bind_change_wifi_current_connect_title" = "Bereits mit Wi-Fi verbunden.";
-
-"key_bind_wifi_to_connect_title" = "Mit Wi-Fi mehr entdecken";
-
-"key_bind_wifi_to_connect_title_sub" = "Sie verwenden derzeit Bluetooth.\n Schließen Sie sich für eine bessere Stabilität und volle Funktionalität mit Wi-Fi an.";
-
-"key_bind_wifi_to_connect_confirm_title" = "Jetzt verbinden";
-
-"key_bind_wifi_to_connect_cancel_title" = "Vielleicht später";
-
-"key_bind_wifi_all_set_title" = "Alles fertig";
-
-"key_bind_wifi_all_set_title_sub" = "Ihr Gerät ist vollständig verbunden und einsatzbereit.\n Genießen Sie einen reibungslosen Kochvom Anfang bis zum Ende.";
-
-"key_bind_wifi_all_set_confirm_title" = "Los geht’s!";
-
-"key_bind_wifi_scan_warning_title" = "WLAN-Liste aktualisieren?";
-
-"key_bind_wifi_scan_warning_title_sub" = "Das Aktualisieren der verfügbaren Netzwerke trennt Ihre aktuelle WLAN-Verbindung.";
-
-"key_bind_temp_empty_title" = "Keine Sonden";
-
-"key_bind_temp_empty_title" = "Klicken Sie unten auf die Schaltfläche „Hinzufügen“, um Ihre Sonden hinzuzufügen.";
-
-"key_module_OTA" = "key_module_OTA";
-
-"key_ota_status_check" = "Prüfen";
-
-"key_ota_status_checking" = "Prüft";
-
-"key_ota_status_download" = "Herunterladen und installieren";
-
-"key_ota_status_downloading" = "Wird heruntergeladen";
-
-"key_ota_status_downloading_[<xxxx>]" = "Wird heruntergeladen [<xxxx>]";
-
-"key_ota_status_download_success" = "Download erfolgreich";
-
-"key_ota_status_install" = "Installieren";
-
-"key_ota_status_installing" = "Wird installiert";
-
-"key_ota_status_installing_[<xxxx>]" = "Wird installiert [<xxxx>]";
-
-"key_ota_status_install_success" = "Installation erfolgreich";
-
-"key_ota_status_title_checking" = "Prüft";
-
-"key_ota_status_title_latest" = "Bereits die neueste Version";
-
-"key_ota_status_title_new_valid" = "Neue Firmware-Version ist bereit";
-
-"key_module_bbq" = "key_module_bbq";
-
-"key_bbq_resting" = "Ruhen";
-
-"key_bbq_temperature_chart_title" = "Temperaturkarte";
-
-"key_bbq_cook_device" = "Kochgerät";
-
-"key_bbq_cook_probe" = "Kochen Sonde";
-
-"key_bbq_flip_food" = "Fleisch wenden";
-
-"key_bbq_cook_start_time" = "Startzeit";
-
-"key_bbq_cook_end_time" = "Endzeit";
-
-"key_bbq_notes_title" = "Anmerkungen";
-
-"key_bbq_note_create_tips" = "Klicken Sie, um Ihre Koch-Erfahrungen aufzuzeichnen";
-
-"key_bbq_notes_delete_title" = "BBQ-Notizen-Titel";
-
-"key_bbq_favorite_remove" = "Entfernen";
-
-"key_bbq_favorite_add" = "Zu Favoriten";
-
-"key_bbq_cook_again" = "Nochmals kochen";
-
-"key_bbq_cook_duration" = "Kochdauer";
-
-"key_bbq_note_add_alert_title" = "Anmerkungen";
-
-"key_bbq_note_add_alert_title_title" = "Titel";
-
-"key_bbq_note_add_alert_title_placeholder" = "Bitte geben Sie den Inhalt ein";
-
-"key_bbq_note_add_alert_failed_title" = "Fehlgeschlagen hinzufügen";
-
-"key_bbq_note_add_alert_failed_title_sub" = "Titel erfordert mindestens 2 Zeichen";
-
-"key_bbq_note_add_alert_content_title" = "Inhalt";
-
-"key_bbq_note_add_alert_content_placeholder" = "Bitte geben Sie den Inhalt ein";
-
-"key_bbq_note_delete_alert_title" = "Notiz wirklich löschen";
-
-"key_bbq_delete_alert_title" = "Datensatz wirklich löschen?";
-
-"key_bbq_nav_history" = "Historie";
-
-"key_bbq_history_tempty_tips" = "Derzeit gibt es keine Kochaufzeichnungen";
-
-"key_bbq_more_cooks" = "Weitere Köche";
-
-"key_bbq_re_select" = "Erneut auswählen";
+"key_bbq_cook_probe" = "Gotowanie Sonda";
 
 "key_bbq_cook_setting_confirm" = "Kocheinstellungen bestätigen";
 
-"key_bbq_wait_cook_end" = "Bitte warten Sie, bis der aktuelle Koch fertig ist oder beenden Sie ihn";
+"key_bbq_cook_start_time" = "Start Czas";
 
-"key_bbq_unavailable" = "Nicht verfügbar";
+"key_bbq_delete_alert_title" = "Datensatz wirklich löschen?";
 
-"key_bbq_select_device" = "Gerät auswählen";
+"key_bbq_detail_back" = "Wstecz";
 
-"key_bbq_select_device_cooking" = "Kochen";
+"key_bbq_favorite_add" = "Dodaj aby ulubione";
+
+"key_bbq_favorite_remove" = "Usuń ulubione";
+
+"key_bbq_flip_food" = "Obróć Jedzenie";
+
+"key_bbq_grill_flip_not_support_tips" = "This grill does nie pomoc flipping";
+
+"key_bbq_grill_rest_not_support_tips" = "Ten grill nie obsługuje odpoczynku mięsa";
+
+"key_bbq_history_tempty_tips" = "Brak Gotowanie Records";
+
+"key_bbq_more_cooks" = "Weitere Köche";
+
+"key_bbq_nav_history" = "Historia";
+
+"key_bbq_note_add_alert_content_placeholder" = "Wprowadź treść";
+
+"key_bbq_note_add_alert_content_title" = "Content";
+
+"key_bbq_note_add_alert_confirm_title" = "Potwierdź";
+
+"key_bbq_note_add_alert_failed_title" = "Dodaj nie powiodło się";
+
+"key_bbq_note_add_alert_failed_title_sub" = "Tytuł must be at least 2 characters";
+
+"key_bbq_note_add_alert_title" = "Uwagi";
+
+"key_bbq_note_add_alert_title_placeholder" = "Wprowadź treść";
+
+"key_bbq_note_add_alert_title_title" = "Titel";
+
+"key_bbq_note_create_tips" = "Tap aby wprowadź twój gotowanie notes";
+
+"key_bbq_notes_delete_title" = "BBQ-Notizen-Titel";
+
+"key_bbq_notes_title" = "Uwagi";
+
+"key_bbq_re_select" = "Re-wybierz";
+
+"key_bbq_rest_off_no_need_tips" = "Tryb odpoczynku mięsa jest wyłączony — nie trzeba sprawdzać grubości, przejdźmy od razu do gotowania!";
+
+"key_bbq_resting" = "Resting";
+
+"key_bbq_select_device" = "Wybierz urządzenie";
+
+"key_bbq_select_device_cooking" = "Gotowanie";
 
 "key_bbq_select_device_low_battery" = "Niedriger Akkustand";
 
 "key_bbq_select_device_no_probe_available" = "Keine Sonde verfügbar";
 
-"key_bbq_select_device_title" = "Gerät auswählen";
-
-"key_bbq_select_device_title_sub" = "Bitte wählen Sie Kochgeräte aus, um Ihre neue Grillreise zu beginnen";
-
-"key_bbq_select_device_probe_title" = "Sonde auswählen";
+"key_bbq_select_device_probe_title" = "Wybierz sonda";
 
 "key_bbq_select_device_probe_title_sub" = "Bitte wählen Sie Ihre Sonde aus, um den wichtigsten Schritt abzuschließen – wir beginnen gleich mit dem Grillen";
 
-"key_bbq_complete_cooking_settings" = "Bitte vervollständigen Sie die Kocheinstellungen";
+"key_bbq_select_device_title" = "Wybierz urządzenie";
 
-"key_bbq_grill_flip_not_support_tips" = "Aktueller Grill unterstützt kein Wenden.";
+"key_bbq_select_device_title_sub" = "Bitte wählen Sie Kochgeräte aus, um Ihre neue Grillreise zu beginnen";
 
-"key_bbq_grill_rest_not_support_tips" = "Aktueller Grill unterstützt kein Ruhen.";
+"key_bbq_temperature_chart_title" = "Temperatura Chart";
 
-"key_bbq_rest_off_no_need_tips" = "Ruhemodus ist aus – sparen wir uns das Messen und legen direkt los!";
+"Key_Module_Bind" = "Key_Module_Bind";
 
-"key_bbq_detail_back" = "Zurück";
+"key_bind_add_probe" = "Dodaj sonda";
 
-"key_module_cook" = "key_module_cook";
+"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "Bist du bereit?\n Starte deine Pro-Reise!";
 
-"key_cook_ready_to_grill" = "Fertig zum Grillen";
+"key_bind_back" = "Wstecz";
 
-"key_cook_start" = "Commencer";
+"key_bind_bluetooth_connecting" = "Łączenie przez Bluetooth";
 
-"key_cook_second_grill_stage_[<xxxx>]" = "Stufe [<xxxx>]";
+"key_bind_bluetooth_is_connecting" = "Bluetooth wird verbunden";
 
-"key_cook_second_grill_stage_all" = "Alle";
+"key_bind_bluetooth_is_scanning" = "Bluetooth is scaning";
 
-"key_cook_click_to_start_cook" = "Klicken Sie, um das Kochen zu starten";
+"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "Die Sonde kann nicht lokalisiert werden. Stellen Sie sicher, dass es\n Einschalten und zum Aktualisieren antippen";
 
-"key_cook_internal" = "Intern";
+"key_bind_change_wifi_current_connect_title" = "Bereits mit Wi-Fi verbunden.";
 
-"key_cook_target" = "Ziel";
+"key_bind_change_wifi_current_none_title" = "Brak Wi‑Fi. Połącz się.";
 
-"key_cook_ambient" = "Umgebung";
+"key_bind_change_wifi_current_title" = "Optionale Position";
 
-"key_cook_whether_to_end_cook" = "Kochvorgang beenden?";
+"key_bind_change_wifi_scan_title" = "Empfohlene Position";
 
-"key_cook_cooking_completed_on_device_[<xxxx>]" = "Gerät [<xxxx>] Garvorgang abgeschlossen";
+"key_bind_cloud_connecting" = "Łączenie z chmurą";
 
-"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "Die Umgebungstemperatur ist auf [<xxxx0>]℃ / [<xxxx1>]℉ gestiegen, entfernen Sie es oder es kann gebrochen sein";
+"key_bind_cloud_connecting_title" = "Łączenie z chmurą";
 
-"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "Die Innentemperatur ist auf [<xxxx0>] ℃ / [<xxxx1>]℉ geklettert, entfernen Sie es oder es kann gebrochen sein";
+"key_bind_cloud_connecting_title_sub" = "Łączenie z chmurą";
 
-"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "Führen Sie die Sonde in das Fleisch ein (dickste Stelle), sodass die Sicherheitslinie im Fleisch bleibt";
+"key_bind_cloud_connecting_to_cloud" = "Łączenie z chmurą";
 
-"key_cook_nav_set_cooking" = "Koch einrichten";
+"key_bind_connect" = "Połącz";
 
-"key_cook_title_food" = "Fleisch";
+"key_bind_connect_success_than_temp_bind" = "Wyjmij sondę z boostera";
 
-"key_cook_food_beef" = "Rindfleisch";
+"key_bind_connect_the_probe" = "Połącz the sonda";
 
-"key_cook_food_lamb" = "Lamm";
+"key_bind_connected_failure" = "Geräteverbindung fehlgeschlagen";
 
-"key_cook_food_pork" = "Schweinefleisch";
+"key_bind_current_probe" = "Bieżące sonda";
 
-"key_cook_food_fish" = "Fisch";
+"key_bind_current_probe_choose" = "Wybierz sonda";
 
-"key_cook_food_turkey" = "Truthahn";
+"key_bind_device_hub_disconnected" = "Urządzenie rozłączone";
 
-"key_cook_food_poultry" = "Geflügel";
+"key_bind_device_invitation" = "Zaproszenie urządzenia";
 
-"key_cook_food_other" = "Sonstiges";
+"key_bind_device_invitation_tips" = "Zaproś użytkowników";
 
-"key_cook_nav_temperature" = "Temperatur";
+"key_bind_enter_wifi_password" = "Wprowadź Wi‑Fi Hasło";
 
-"key_cook_title_cooking_mode" = "Kochmodus";
+"key_bind_enter_your_wifi_credentials" = "Wprowadź swój wi‑fi dane logowania";
 
-"key_cook_temperature_very_rare" = "Sehr selten";
+"key_bind_finish_net_with_tips" = "Bist du bereit?\n Starte deine Pro-Reise!";
 
-"key_cook_temperature_rare" = "Blutig";
+"key_bind_finish_net_without_tips" = "Bist du bereit?\n Starte deine Pro-Reise!";
 
-"key_cook_temperature_medium_rare" = "Leicht blutig";
+"key_bind_finish_not_now_tips" = "Możesz nadal korzystać z Bluetooth, ale połączenie z Wi‑Fi odblokowuje pełnię możliwości. Stuknij ikonę Wi‑Fi lub przejdź do Ustawień urządzenia, aby się połączyć.";
 
-"key_cook_temperature_medium" = "Rosa";
+"key_bind_firmware_update" = "Aktualizacja firmware";
 
-"key_cook_temperature_medium_well" = "Halb durchgebraten";
+"key_bind_float_confirm" = "Połączenie";
 
-"key_cook_temperature_well_done" = "Durchgebraten";
+"key_bind_float_go_cooking" = "Przejdź do gotowania";
 
-"key_cook_temperature_other" = "Sonstiges";
+"key_bind_float_pairing_failed_confirm" = "Połącz ponownie";
 
-"key_cook_set_cooking" = "Koch einrichten";
+"key_bind_float_pairing_failed_faqs" = "FAQS";
 
-"key_cook_nav_poultry" = "Geflügel";
+"key_bind_float_pairing_failed_title" = "Urządzenie parowania nie powiodło się";
 
-"key_cook_poultry_correct_operation" = "korrekte Bedienung";
+"key_bind_float_pairing_failed_title_sub" = "Mogła wystąpić jedna z poniższych sytuacji. Spróbuj ponownie.";
 
-"key_cook_poultry_incorrect_operation" = "Falsche Bedienung";
+"key_bind_float_pairing_reconnecting" = "Erneut verbinden";
 
-"key_cook_poultry_tips_title" = "Führen Sie die Sonde für die genaueste Temperatur in den festen Teil ein";
+"key_bind_float_pairing_title" = "Urządzenie Parowania";
 
-"key_cook_poultry_tips_title_sub" = "Führen Sie die Sonde in ihren festen Teil, wie Brust und Beine, ein, um die Temperatur des Fleisches effektiv zu messen.\n Vermeidung von Rippenhöhlen und großen Knochen- und Fettpartien.\n Vergewissern Sie sich, dass die Nut an der Sonde aus Sicherheitsgründen vollständig in das Fleisch eingeführt ist.";
+"key_bind_float_probe_pairing_failed_title" = "Sonden-Pairing fehlgeschlagen";
 
-"key_cook_nav_choosing_device" = "Auswahl der Ausrüstung";
+"key_bind_float_probe_pairing_failed_title_sub" = "Upewnij się, że sonda znajduje się w pudełku. Połączymy sondę. Pamiętaj, że ten proces potrwa tylko chwilę.";
 
-"key_cook_title_equipment" = "Kochumgebung";
+"key_bind_float_probe_pairing_title" = "Sonda Parowania";
 
-"key_cook_equipment_oven" = "Backofen";
+"key_bind_float_ready_to_use" = "Gotowe Aby Użyj";
 
-"key_cook_equipment_charcoal_grill" = "Holzkohlegrill";
+"key_bind_float_ready_to_use_start_cook" = "Bist du bereit?\n Starte deine Pro-Reise!";
 
-"key_cook_equipment_gas_grill" = "Gasgrill";
+"key_bind_float_title" = "Łączenie urządzenia";
 
-"key_cook_equipment_smoker" = "Raucher";
+"key_bind_found_devices" = "Znaleziono Urządzenie";
 
-"key_cook_equipment_air_fryer" = "Heißluftfritteuse";
+"key_bind_go_cooking" = "Przejdź do gotowania";
 
-"key_cook_equipment_deep_fryer" = "Fritteuse";
+"key_bind_go_to_cooking" = "Przejdź do gotowania";
 
-"key_cook_equipment_pan" = "Pfanne";
+"key_bind_keep_the_booster_within_wifi_range" = "Pozostaw the booster within Wi‑Fi zasięg";
 
-"key_cook_equipment_option_reverse_sear" = "Umgekehrtes Anbraten";
+"key_bind_keep_your_bluetooth_turning_on" = "Pozostaw twój Bluetooth turning włącz";
 
-"key_cook_equipment_section_title" = "Häufige Geräte";
+"key_bind_next" = "Dalej";
 
-"key_cook_equipment_option_section_title" = "Erweiterte Optionen";
+"key_bind_not_now" = "Nie Teraz";
 
-"key_cook_reverse_sear_nav_title" = "Umgekehrtes Anbraten";
+"key_bind_other" = "Inne";
 
-"key_cook_reverse_sear_section_low_title" = "Stufe 1: Niedrige Temperatur";
+"key_bind_please_enter_wifi_password" = "Bitte geben Sie das Wi-Fi-Passwort ein";
 
-"key_cook_reverse_sear_section_final_title" = "Stufe 2: Endtemperatur";
+"key_bind_please_place_the_new_probe_in_the_booster" = "Umieść nową sondę w boosterze";
 
-"key_cook_reverse_sear_section_strategy_title" = "Strategie wählen";
+"key_bind_probe_010x_alert_add_title" = "Adding Sonda";
 
-"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Standard :[<xxxx0>]-[<xxxx1>][<xxxx2>]";
+"key_bind_probe_010x_alert_add_title_sub" = "Proszę czekać, trwa dodawanie sondy";
 
-"key_cook_strategy_recommend" = "Empfohlen";
+"key_bind_probe_010x_alert_bind_tips" = "1. Bitte laden Sie die Sonde mindestens 3 bis 5 Minuten lang auf, insbesondere wenn Sie sie zum ersten Mal benutzen.\n\n 2. Dies hilft, das Problem 'Failed to Connect the Probe' im nächsten Schritt zu vermeiden";
 
-"key_cook_strategy_stabdrad_title_sub" = "Längeres Anbraten. Maximale Krustenbildung.";
+"key_bind_probe_010x_alert_failed_title" = "Sonda połączenie nie powiodło się";
 
-"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → Wechsel → Final: [<xxxx1>]";
+"key_bind_probe_010x_alert_failed_title_sub" = "Bitte versuchen Sie es noch einmal, indem Sie die folgenden Schritte ausführen:\n 1. Entnehmen Sie die Sonde aus dem Booster und schließen Sie sie an\n 2. Laden Sie die Sonde auf und koppeln Sie sie erneut\n 3. Platzieren Sie die Sonde in der Nähe des Boosters und des Telefons";
 
-"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "Niedrig [<xxxx>]";
+"key_bind_probe_010x_alert_remove_title" = "Move sonda";
 
-"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "Final [<xxxx>]";
+"key_bind_probe_010x_alert_success_title" = "Parowania pomyślny";
 
-"key_cook_strategy_other_title" = "Andere";
+"key_bind_probe_010x_alert_success_title_sub" = "Rozpocznij gotowanie";
 
-"key_cook_strategy_other_title_sub" = "Längeres Anbraten. Maximale Krustenbildung. Bitte wählen Sie Ihre Temperatur.";
+"key_bind_probe_add_failed" = "Adding sonda nie powiodło się";
 
-"key_cook_equipment_option_sous_vide" = "Sous Vide";
+"key_bind_probe_add_probe" = "Dodaj sonda";
 
-"key_cook_equipment_other" = "Sonstiges";
+"key_bind_probe_add_success" = "Sonda dodano pomyślnie";
 
-"key_cook_nav_choose_flip_food" = "Wendeoption wählen";
+"key_bind_probe_add_successfully" = "Dodaj pomyślnie";
 
-"key_cook_title_flip" = "Wenden";
+"key_bind_probe_adding" = "Proszę czekać, trwa dodawanie sondy";
 
-"key_cook_flip_every_30_title" = "Alle 30 s wenden";
+"key_bind_probe_bind_status_check" = "Sprawdź stan połączenia Bluetooth urządzenia";
 
-"key_cook_flip_every_30_title_cell" = "Alle 30 Sek.";
+"key_bind_probe_change_unvalid" = "Sonda Change Niedostępna";
 
-"key_cook_flip_every_30_title_sub" = "Wir erinnern dich alle 30 Sekunden daran, dein Essen zu wenden – außen knusprig, innen saftig";
+"key_bind_probe_change_unvalid_cause_cooking" = "Zmiana sondy podczas gotowania nie jest dozwolona. Poczekaj, aż gotowanie się zakończy.";
 
-"key_cook_flip_once_title" = "Einmal wenden";
+"key_bind_probe_device_invitation" = "Urządzenie Invitation";
 
-"key_cook_flip_once_title_cell" = "Nur einmal";
+"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "Utracono sondę. Sprawdź połączenie i upewnij się, że sonda jest prawidłowo zamocowana";
 
-"key_cook_flip_once_title_sub" = "Du bekommst nur eine intelligente Wendungserinnerung pro Garvorgang";
+"key_bind_probe_management" = "Sonda Management";
 
-"key_cook_flip_do_not_need_title" = "Nicht wenden";
+"key_bind_ready_to_use" = "Gotowe Aby Użyj";
 
-"key_cook_flip_do_not_need_title_cell" = "Wenden nicht unterstützt";
+"key_bind_refresh" = "Odśwież";
 
-"key_cook_flip_do_not_need_title_sub" = "Keine zusätzlichen Hinweise während das Fleisch gart";
+"key_bind_retry" = "Spróbuj ponownie";
 
-"key_cook_flip_do_not_need_cell_unvalid" = "Wenden nicht unterstützt";
+"key_bind_search" = "Szukaj";
 
-"key_cook_nav_rest_meat" = "Fleisch aufwecken";
+"key_bind_searching_for_your_network" = "Wyszukiwanie for twój sieć";
 
-"key_cook_title_wake_up_meat" = "Fleisch-Erwachen";
+"key_bind_searching_wifi" = "WIFI wird gescannt";
 
-"key_cook_rest_mode_on" = "Weckmodus ein";
+"key_bind_select_your_wifi" = "Wybierz swoją sieć Wi‑Fi";
 
-"key_cook_rest_mode_off" = "Weckmodus aus";
+"key_bind_setting" = "Ustawienie";
 
-"key_cook_rest_mode_on_cell" = "An";
+"key_bind_setup_guide" = "Setup Guide";
 
-"key_cook_rest_mode_off_cell" = "Aus";
+"key_bind_step_[<xxxx>]" = "Schritt [<xxxx>]";
 
-"key_cook_rest_mode_cell_unvalid" = "Ruhemodus nicht unterstützt";
+"key_bind_temp_empty_title" = "Klicken Sie unten auf die Schaltfläche „Hinzufügen“, um Ihre Sonden hinzuzufügen.";
 
-"key_cook_rest_mode_on_tips" = "Im Aufwachmodus erhältst du eine Erinnerung, wenn die Temperatur um 10 °C ±2 steigt – für perfektes Grillen";
+"key_bind_the_probe_is_searching_please_wait" = "The sonda is wyszukiwanie, proszę czekaj";
 
-"key_cook_rest_mode_off_tips" = "Der Ruhemodus wird deaktiviert. Die Endtemperatur des Fleisches kann höher als das Ziel sein. Möchtest du fortfahren?";
+"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "Aby wymienić sondę, kliknij przycisk wyszukiwania poniżej";
 
-"key_cook_rest_mode_unvalid_temperature_low" = "Die aktuelle Zieltemperatur ist zu niedrig, um das Fleisch ruhen zu lassen. Wenn Sie das Fleisch ruhen lassen möchten, stellen Sie die Zieltemperatur bitte auf über 30°C/86°F ein.";
+"key_bind_transferring_firmware" = "Transferring firmware";
 
-"key_cook_nav_meat_thickness" = "Fleischdicke";
+"key_bind_try_again" = "Spróbuj ponownie";
 
-"key_cook_title_estimate_meat_thickness" = "Geschätzte Fleischdicke";
+"key_bind_unbind_probe_title" = "Unbind sonda";
 
-"key_cook_meat_thickness_inches" = "Zoll";
+"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "Sie werden die Bindung aufheben 'Probe [<xxxx0>] Mac: [<xxxx1>]'.\n Bestätigen Sie die Aufhebung der Bindung?";
 
-"key_cook_meat_thickness_cm" = "cm";
+"key_bind_unified_add_device" = "Dodaj urządzenie";
 
-"key_cook_meat_thickness_most_common_size" = "Beliebteste Größe";
+"key_bind_unified_auto_scaning" = "Kontinuierliche automatische Suche";
 
-"key_cook_meat_thickness_cell_unvalid" = "Keine Dicke erforderlich";
+"key_bind_unified_device_manually_add" = "Manually dodaj a urządzenie";
 
-"key_cook_nav_probe_position" = "Beachten Sie Die Sondenposition";
+"key_bind_unified_device_search_no_result" = "Brak urządzenies znaleziono. Tap the lista below aby dodaj one manually.";
 
-"key_cook_probe_position_title" = "Standortinformationen des Meatmeet-Geräts";
+"key_bind_unified_device_searching" = "Wyszukiwanie";
 
-"key_cook_probe_position_title_sub" = "Stelle das Pro-Ladegerät nah am Gerät auf, um die Verbindung zur Sonde zu sichern. Nicht auf heiße Flächen legen!";
+"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "Möglicherweise ist einer der folgenden Fehler aufgetreten, bitte versuchen Sie es erneut\n\n • Senden des WiFi-Passworts fehlgeschlagen\n • Der Verstärker wurde vom Router getrennt\n • Das Gerät konnte nicht zur Cloud hinzugefügt werden\n • Verbindungstimeout";
 
-"key_cook_probe_position_title_sub_[<xxxx>]" = "Stellen Sie Ihren [<xxxx>]-Ladegerät so nah wie möglich an Ihrem Grillgerät auf, um die Verbindung zur Sonde aufrechtzuerhalten und das Signal zu verstärken.\n Achten Sie darauf, dass er nicht auf heißen Oberflächen abgestellt wird!";
+"key_bind_unified_failure_device_box0400_cloud_bind_failure_tips" = "Mogłeś napotkać jedną z następujących sytuacji. Spróbuj ponownie:\n\n• Nie udało się wysłać hasła WIFI\n• Wzmacniacz został odłączony od routera\n• Nie można dodać urządzenia do chmury\n• Przekroczono limit czasu połączenia";
 
-"key_cook_probe_position_do_not_show" = "Diese Nachricht Darf Nicht Mehr angezeigt werden";
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "Nie udało się połączyć z siecią bezprzewodową";
 
-"key_cook_ready_insert_probe_title" = "Wie setzt man die Sonde ein";
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "Das Gerät kann derzeit nicht mit Ihrem Konto in der Cloud verbunden werden.";
 
-"key_cook_ready_insert_probe_title_sub" = "Führen Sie die Sonde in den dicksten Teil des Fleisches ein, bis die Sicherheitslinie vollständig im Fleisch ist. Gehen Sie nicht über die Schwarze Linie hinaus und stellen Sie sicher, dass die Spitze nicht durch das Fleisch sticht.";
+"key_bind_unified_failure_device_cloud_bind_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
 
-"key_cook_ready_insert_probe_safe_line" = "Sicherheitslinie";
+"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "Versuchen Sie folgende Schritte:\n • Starten Sie das Gerät neu\n • Platzieren Sie das Gerät so nah wie möglich am Router\n • Stellen Sie sicher, dass keine Signalstörungen in der Umgebung vorliegen\n • Stellen Sie sicher, dass Ihr Router auf das Internet zugreifen kann";
 
-"key_cook_ready_insert_probe_black_line" = "Schwarze Linie";
+"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi‑Fi Połączenie Nie powiodło się";
 
-"key_cook_estimate_time" = "Schätzung der Kochzeit";
+"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "Cloud-Bindung fehlgeschlagen";
 
-"key_cook_end_cooking" = "Garzeit beenden";
+"key_bind_unified_failure_device_connect_failure_subtitle" = "The attempt aby sparuj dzięki urządzenie was unsuccessful";
 
-"key_cook_end_alert_title" = "Kochvorgang beenden?";
+"key_bind_unified_failure_device_connect_failure_tips" = "Versuchen Sie folgende Schritte:\n • Stellen Sie sicher, dass das Gerät sich im Kopplungsmodus befindet\n • Prüfen Sie, ob Bluetooth auf beiden Geräten aktiviert ist\n • Starten Sie Bluetooth neu und versuchen Sie es erneut";
 
-"key_cook_end_alert_confirm" = "Ja, Ende kochen";
+"key_bind_unified_failure_device_connect_failure_title" = "Bluetooth Połączenie Nie powiodło się";
 
-"key_cook_end_alert_cancel" = "Zurück zum Kochen";
+"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "Nie udało się połączyć z siecią bezprzewodową";
 
-"key_cook_nav_select_cooking_option" = "Kochoptionen auswählen";
+"key_bind_unified_failure_device_esp_enter_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
 
-"key_cook_start_new_cook" = "Neue Garung starten";
+"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi‑Fi Połączenie Nie powiodło się";
 
-"key_cook_use_last_session" = "Letzte Kochsitzung verwenden";
+"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "Nie udało się połączyć z siecią bezprzewodową";
 
-"key_cook_go_cooking" = "Kochen gehen";
+"key_bind_unified_failure_device_nodeid_check_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
 
-"key_cook_hub_distance_confirm_title" = "Kochen gehen";
+"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi‑Fi Połączenie Nie powiodło się";
 
-"key_cook_nav_setting_cooking" = "Deine Kocheinstellungen";
+"key_bind_unified_failure_device_scan_no_result_subtitle" = "The attempt aby sparuj dzięki urządzenie was unsuccessful";
 
-"key_cook_setting_cooking_tips" = "Deine Einstellungen sehen super aus. Starte mit dem Kochen, wenn du bereit bist!";
+"key_bind_unified_failure_device_scan_no_result_tips" = "Versuchen Sie folgende Schritte:\n • Stellen Sie sicher, dass das Gerät sich im Kopplungsmodus befindet\n • Prüfen Sie, ob Bluetooth auf beiden Geräten aktiviert ist\n • Starten Sie Bluetooth neu und versuchen Sie es erneut";
 
-"key_cook_setting_cooking_all_start" = "Alles bereit – lass uns kochen!";
+"key_bind_unified_failure_device_scan_no_result_title" = "Bluetooth Połączenie Nie powiodło się";
 
-"key_cook_setting_cooking_change_tips" = "Deine Kocheinstellungen wurden geändert – bitte überprüfe sie.";
+"key_bind_unified_failure_device_status_check_failure_subtitle" = "The attempt aby sparuj dzięki urządzenie was unsuccessful";
 
-"key_cook_time_to_flip" = "ES IST ZEIT, DAS FLEISCH ZU WENDEN";
+"key_bind_unified_failure_device_status_check_failure_tips" = "Versuchen Sie folgende Schritte:\n • Stellen Sie sicher, dass das Gerät sich im Kopplungsmodus befindet\n • Prüfen Sie, ob Bluetooth auf beiden Geräten aktiviert ist\n • Starten Sie Bluetooth neu und versuchen Sie es erneut";
 
-"key_cook_time_to_awaken_[<xxxx>]" = "Zeit, das Essen aus [<xxxx>] zu nehmen";
+"key_bind_unified_failure_device_status_check_failure_title" = "Bluetooth Połączenie Nie powiodło się";
 
-"key_cook_setting_cook_save_favorite_tips" = "Fangen Sie an, Ihre Favoriten aufzubewahren, damit Sie Ihren nächsten Koch noch schneller anfeuern können!";
+"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "Nie udało się połączyć z siecią bezprzewodową";
 
-"key_cook_nav_alert_setting" = "Warnung einrichten";
+"key_bind_unified_failure_device_wifi_connect_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
 
-"key_cook_alert_time_picker_title" = "Zeitwähler";
+"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi‑Fi Połączenie Nie powiodło się";
 
-"key_cook_alert_time_picker_unit" = "Minute";
+"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "Nie udało się połączyć z siecią bezprzewodową";
 
-"key_cook_alert_warning_mode" = "Warnmodus";
+"key_bind_unified_failure_device_wifi_scan_failure_tips" = "Versuchen Sie folgende Schritte:\n • Überprüfen Sie, ob das Wi-Fi-Passwort korrekt ist\n • Stellen Sie sicher, dass der Router ordnungsgemäß funktioniert\n • Bewegen Sie sich näher an die Wi-Fi-Signalquelle";
 
-"key_cook_alert_multiple_selection" = "mehrere Optionen verfügbar";
+"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi‑Fi Połączenie Nie powiodło się";
 
-"key_cook_alert_mode_ring" = "Läute die Glocke";
+"key_bind_unified_go_pairing" = "Go Parowania";
 
-"key_cook_alert_mode_vibration" = "Vibrieren";
+"key_bind_unified_go_pairing_unvalid_tips" = "Postępuj zgodnie z instrukcjami na ekranie, aby się połączyć i rozpocząć.";
 
-"key_cook_alert_mode_popup" = "Pop-ups";
+"key_bind_unified_product_brochure" = "Product Brochure";
 
-"key_cook_alert_end_in_[<xxxx>]" = "Ende in [<xxxx>] Minuten";
+"key_bind_unified_scan_for_nearby" = "Skanuj for pobliskich urządzenia";
 
-"key_cook_alert_cooking_complete_alert" = "Warnung vor dem Abschluss des Kochens";
+"key_bind_unified_step_1_tips_010x" = "Naciśnij i przytrzymaj przycisk zasilania przez 2 sekundy, aby włączyć urządzenie.";
 
-"key_cook_alert_remaining_time_alert" = "Verbleibende Zeitwarnung";
+"key_bind_unified_step_1_tips_0201" = "Stellen Sie sicher, dass der Akku eingesetzt und das Gerät eingeschaltet ist.";
 
-"key_cook_alert_add_limit_title" = "Es können maximal 5 hinzugefügt werden";
+"key_bind_unified_step_1_tips_020x" = "Stuknij przycisk zasilania, aby włączyć urządzenie. Usłyszysz krótki sygnał i zobaczysz, jak kontrolka zacznie migać.";
 
-"key_cook_alert_cooking_complete_unit" = "Koch abgeschlossen";
+"key_bind_unified_step_1_tips_0300" = "Naciśnij przycisk zasilania przez 1,5 sekundy, aby włączyć urządzenie. Puść przycisk, gdy ekran się podświetli.";
 
-"key_cook_alert_add_new_warning" = "Neue Warnung hinzufügen";
+"key_bind_unified_step_1_tips_0301" = "Naciśnij przycisk zasilania przez 1,5 sekundy, aby włączyć urządzenie. Puść przycisk, gdy ekran się podświetli.";
 
-"key_cook_progress_flip_food" = "Fleisch wenden";
+"key_bind_unified_step_1_tips_0400" = "Drücken Sie die Einschalttaste 1,5 Sekunden lang, um das Gerät einzuschalten. Lassen Sie los, sobald der Bildschirm aufleuchtet.";
 
-"key_cook_progress_flip_once_food" = "Fleisch wenden";
+"key_bind_unified_step_2_tips_010x" = "Następnie naciśnij dwukrotnie przycisk zasilania. Gdy wskaźnik zacznie szybko migać, urządzenie będzie gotowe do parowania.";
 
-"key_cook_progress_flip_countdown_[<xxxx>]" = "In [<xxxx>] Sekunden wenden";
+"key_bind_unified_step_2_tips_0201" = "Warten Sie, bis der untere Button klickbar wird.";
 
-"key_cook_notify_time_to_flip_title" = "ES IST ZEIT, DAS FLEISCH ZU WENDEN";
+"key_bind_unified_step_2_tips_020x" = "Naciśnij dwukrotnie przycisk zasilania, aby przełączyć urządzenie w tryb parowania, a następnie stuknij przycisk poniżej, aby rozpocząć parowanie.";
 
-"key_cook_notify_time_to_flip_30s_title_sub" = "Für Sonde [<xxxx1>]（[<xxxx2>]）：Wende das Fleisch einmal nach 30 Sekunden.";
+"key_bind_unified_step_2_tips_0300" = "Sprawdź migające ikony Bluetooth i Wi‑Fi w lewym górnym rogu. Oznacza to, że tryb parowania jest włączony (wyłączy się po 10 minutach. Naciśnij i przytrzymaj przycisk potwierdzenia przez 3 sekundy, aby uruchomić go ponownie).";
 
-"key_cook_notify_time_to_flip_title_sub" = "Für Sonde [<xxxx1>]（[<xxxx2>]）：Nimm das Fleisch jetzt von der Hitze und wende es.";
+"key_bind_unified_step_2_tips_0301" = "Sprawdź migające ikony Bluetooth i Wi‑Fi w lewym górnym rogu. Oznacza to, że tryb parowania jest włączony (wyłączy się po 10 minutach. Naciśnij i przytrzymaj przycisk potwierdzenia przez 3 sekundy, aby uruchomić go ponownie).";
 
-"key_cook_notify_time_to_rest_title" = "Fleisch ruht";
+"key_bind_unified_step_2_tips_0400" = "Prüfen Sie die blinkenden Bluetooth- und WLAN-Symbole in der oberen linken Ecke. Dies bedeutet, dass der Pairing-Modus aktiv ist (er schaltet sich nach 10 Minuten ab. Drücken Sie die Bestätigungstaste 3 Sekunden lang, um ihn neu zu starten).";
 
-"key_cook_notify_time_to_rest_title_sub" = "Das Fleisch hat die gewünschte Ruhetemperatur erreicht. Bitte nimm es jetzt aus dem Ofen.";
+"key_bind_unified_step_3_tips_0300" = "Podczas parowania umieść sondę w etui. Dziękujemy za współpracę!";
 
-"key_cook_temperature_alert_title" = "Sonde Temperatur";
+"key_bind_unified_step_3_tips_0301" = "Podczas parowania umieść sondę w etui. Dziękujemy za współpracę!";
 
-"key_cook_temperature_alert_title_sub" = "Umgebungstemperatur";
+"key_bind_unified_step_3_tips_0400" = "Bitte legen Sie die Sonde während des Pairings in ihr Case. Vielen Dank für Ihre Mitarbeit!";
 
-"key_cook_temperature_alert_tips" = "Der Sensorteil der Sonde wird intuitiv angezeigt, sodass Sie die Grilltemperatur steuern können. So haben Sie ein besseres Kocherlebnis.";
+"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "Nielimitowany distance control possible via the chmury，it may take few sekund";
 
-"key_cook_probe_check_alert_title" = "Statusprüfung der Sonde";
+"key_bind_wifi_all_set_confirm_title" = "Los geht’s!";
 
-"key_cook_probe_check_alert_battery_check_title" = "Batteriestandprüfung";
+"key_bind_wifi_all_set_title" = "Alles fertig";
 
-"key_cook_probe_check_alert_battery_check_failed_title" = "Batteriestandprüfung fehlgeschlagen";
+"key_bind_wifi_all_set_title_sub" = "Ihr Gerät ist vollständig verbunden und einsatzbereit.\n Genießen Sie einen reibungslosen Kochvom Anfang bis zum Ende.";
 
-"key_cook_probe_check_alert_battery_check_failed_title_sub" = "Bitte stecken Sie die Sonde in die Ladestation, um sicherzustellen, dass das Gerät ausreichend mit Strom versorgt wird.";
+"key_bind_wifi_ap_not_valid" = "Wi-Fi-Zugangspunkt ungültig";
 
-"key_cook_probe_check_alert_signal_check_title" = "Signalerkennung";
+"key_bind_wifi_auth_timeout" = "Wi-Fi-Authentifizierungszeitüberschreitung";
 
-"key_cook_probe_check_alert_signal_check_failed_title" = "Signalerkennung fehlgeschlagen";
+"key_bind_wifi_confirm_change" = "WLAN ändern";
 
-"key_cook_probe_check_alert_signal_check_failed_title_sub" = "Bitte platzieren Sie die Sonde in Signalverbindungsreichweite.";
+"key_bind_wifi_connect_failure" = "Wi-Fi-Verbindungsfehler";
 
-"key_cook_probe_check_alert_success_title" = "Sonden sind in gutem Zustand";
+"key_bind_wifi_connect_timeout" = "Wi-Fi-Verbindungszeitüberschreitung";
 
-"key_cook_guide_base_next" = "Weiter";
+"key_bind_wifi_connecting_title" = "Mit WiFi verbinden";
 
-"key_cook_guide_base_back" = "Zurück";
+"key_bind_wifi_connecting_title_sub" = "Mit WiFi verbinden";
 
-"key_cook_guide_base_no_need" = "Guide nécessaire";
+"key_bind_wifi_connection_failed" = "Wi‑Fi Połączenie Nie powiodło się";
 
-"key_cook_guide_choose_meat_tips" = "Wählen Sie das Fleisch, das Sie kochen möchten";
+"key_bind_wifi_input_title" = "Mit WiFi verbinden";
 
-"key_cook_guide_choose_equipment_tips" = "Wähle das Gerät, mit dem du kochen möchtest";
+"key_bind_wifi_input_title_confirm" = "Mit WiFi verbinden";
 
-"key_cook_guide_choose_mode_tips" = "Wählen Sie den Modus, in dem Sie kochen möchten";
+"key_bind_wifi_name" = "Wi‑Fi nazwa";
 
-"key_cook_guide_choose_flip_tips" = "Wählen Sie das Flip-Food, das Sie kochen möchten";
+"key_bind_wifi_password" = "Wi-Fi-Passwort";
 
-"key_cook_guide_choose_lefttime_tips" = "Klicken Sie, um von der verbleibenden Zeit zur verstrichenen Zeit zu wechseln";
+"key_bind_wifi_password_error" = "Invalid Wi‑Fi nazwę użytkownika or hasło";
 
-"key_cook_guide_choose_temperature_tips" = "Kennen Sie die Temperatur der einzelnen Teile";
+"key_bind_wifi_scan_warning_title" = "Odświeżyć listę Wi‑Fi?";
 
-"key_cook_guide_choose_history_tips" = "Tippen Sie hier, um einen neuen Braten zuzubereiten";
+"key_bind_wifi_scan_warning_title_sub" = "Odświeżenie listy dostępnych sieci rozłączy bieżące połączenie Wi‑Fi.";
 
-"key_cook_guide_choose_chart_tips" = "Klicken Sie zum Ändern des Diagramms";
+"key_bind_wifi_search_title" = "WIFI wird gescannt";
 
-"key_cook_guide_choose_realtime_tips" = "Echtzeit-Überwachung Ihres Kochvorgangs";
+"key_bind_wifi_select_title" = "Wybierz swoją sieć Wi‑Fi";
 
-"key_cook_guide_choose_alert_tips" = "Richten Sie Ihre Benachrichtigungen ein";
+"key_bind_wifi_to_connect_cancel_title" = "Może później";
 
-"key_cook_guide_choose_meatsize_tips" = "Wählen Sie die Fleischdicke, die Sie kochen möchten:";
+"key_bind_wifi_to_connect_confirm_title" = "Połącz teraz";
 
-"key_cook_guide_choose_resting_tips" = "Wählen Sie den Fleisch-Erweckungsmodus, den Sie verwenden möchten.";
+"key_bind_wifi_to_connect_title" = "Odblokuj Więcej Dzięki Wi‑Fi";
 
-"key_cook_guide_choose_multitemperature_tips" = "Tippen Sie auf „Umgebung“ oder „Intern“, um die Sensor-Temperatur anzuzeigen.";
+"key_bind_wifi_to_connect_title_sub" = "Sie verwenden derzeit Bluetooth.\n Schließen Sie sich für eine bessere Stabilität und volle Funktionalität mit Wi-Fi an.";
 
-"key_cook_guide_choose_start_tips" = "Zum Kochen anklicken";
+"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "Ihre 'Sonde [<xxxx0>]' wurde erfolgreich zu '[<xxxx1>]' hinzugefügt, bitte beginnen Sie mit dem Kochen";
 
-"key_cook_guide_choose_distance_tips" = "Stellen Sie die Box für die beste Erfahrung in die Nähe des Ofens.";
+"Key_Module_Bluetooth" = "Key_Module_Bluetooth";
 
-"key_cook_guide_choose_remove_probe_tips" = "Sonde einsetzen";
+"key_bluetooth_current_off" = "Bluetooth Wyłącz";
 
-"key_cook_complete_alert_content" = "Sie können zu den Verlaufsaufzeichnungen gehen, um diesen Grillrekord anzuzeigen";
+"key_bluetooth_setting_cancel" = "Anuluj";
 
-"key_cook_complete_will_complete_title" = "Kochen wird abgeschlossen";
+"key_bluetooth_setting_to" = "Ustawienie";
 
-"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "Noch [<xxxx0>] Minuten bis zum Ende des Kochvorgangs ([<xxxx1>])";
+"key_bluetooth_should_turn_on_to_continue" = "Włącz włącz Bluetooth aby kontynuuj";
 
-"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "Es sind noch [<xxxx>] Minuten bis zum Ende des Garvorgangs";
+"Key_Module_Common" = "Key_Module_Common";
 
-"key_cook_alert_rest_title" = "Fleisch-Erwachen";
+"key_common_alert_email_failure_tips" = "Wir können Ihren E-Mail-Dienst nicht nutzen, bitte klicken Sie auf Einstellungen, um ihn zu aktivieren";
 
-"key_cook_alert_rest_title_sub" = "Das Fleisch hat die Ruhetemperatur erreicht. Bitte nehmen Sie das Gargut aus dem Ofen.";
+"key_common_alert_feedback_publish" = "Publish";
 
-"key_cook_alert_rest_continue" = "Weiter";
+"key_common_alert_feedback_publish_failed_tips" = "Tytuł must be at least 2 characters";
 
-"key_cook_alert_flip_once_[<xxxx1>]_[<xxxx2>]" = "Für Sonde [<xxxx1>]（[<xxxx2>]）drehen Sie das Fleisch nur einmal um.";
+"key_common_alert_feedback_publish_failed_title" = "Failure";
 
-"key_cook_cooking_time_remaining" = "Verbleibende Kochzeit";
+"key_common_alert_feedback_title" = "Titel";
 
-"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "Bitte nehmen Sie die Lebensmittel sofort vom Herd";
+"key_common_alert_feedback_title_placeholder" = "Wprowadź a tytuł";
 
-"key_cook_choosing_device" = "Auswahl der Ausrüstung";
+"key_common_alert_feedback_title_sub" = "Content";
 
-"key_cook_guide_temp_s_welcome_title" = "„Neues Meatmeet S Pro\n Willkommen bei Ihnen“";
+"key_common_alert_feedback_title_sub_placeholder" = "Wprowadź treść";
 
-"key_cook_guide_temp_s_welcome_title_tips" = "„Wir stellen Ihnen unseren brandneuen 5-Sensor Smart-Fleischthermometer vor, mit vollständig aktualisierter Hardware:\n • Mehrpunkt-Temperaturüberwachung: Überwacht gleichzeitig 5 Punkte für perfekt gleichmäßig gegartes Fleisch\n • Echtzeit-Datenübertragung: Verfolgen Sie Temperaturänderungen sofort, ohne den Grill häufig zu öffnen\n • Hohe Kompatibilität: Funktioniert problemlos mit verschiedenen Grills und Zubehör für einen nahtlosen Betrieb“";
+"key_common_cancel" = "Anuluj";
 
-"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-Sonde";
+"key_common_confirm" = "Potwierdź";
 
-"key_cook_guide_ambient_sensor" = "Umgebungs-Sensor";
+"key_common_delete" = "Löschen";
 
-"key_cook_guide_welcome_to_use" = "Willkommen zur Nutzung";
+"key_common_feedback" = "Opinie";
 
-"key_cook_[<xxxx>]_min_left" = "[<xxxx>] min links";
+"key_common_net_not_reachable_current_title" = "Netzwerk nicht verfügbar";
 
-"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>] Minuten sind vergangen";
+"key_common_net_not_reachable_current_title_cancel" = "Abbrechen";
 
-"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>] Sekunden sind vergangen";
+"key_common_net_not_reachable_current_title_confirm" = "Bestätigen";
+
+"key_common_net_not_reachable_current_title_sub" = "Das Netzwerk ist derzeit nicht verfügbar. Lokale Daten werden geladen.";
+
+"key_common_net_not_reachable_title" = "Netzwerk nicht erreichbar";
+
+"key_common_net_not_reachable_title_confirm" = "Bestätigen";
+
+"key_common_net_not_reachable_title_sub" = "Netzwerkverbindung getrennt. Sie können im Offline-Modus weiternutzen.";
+
+"key_common_net_reachable_current_title" = "Netzwerk wiederhergestellt";
+
+"key_common_net_reachable_current_title_cancel" = "Abbrechen";
+
+"key_common_net_reachable_current_title_confirm" = "Bestätigen";
+
+"key_common_net_reachable_current_title_sub" = "Netzwerkverbindung wiederhergestellt. Online-Daten werden nun geladen.";
+
+"key_common_other" = "Inne";
+
+"Key_Module_Cook" = "Key_Module_Cook";
 
 "key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]h:[<xxxx1>]m vergangen";
 
 "key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]m:[<xxxx1>]s vergangen";
 
-"key_cook_during_express" = "Express";
+"key_cook_[<xxxx>]_min_left" = "[<xxxx>] min left";
 
-"key_cook_during_standard" = "Standard";
+"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>] minuty have passed";
 
-"key_cook_during_relaxed" = "entspannt";
+"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>] sekund have passed";
 
-"key_cook_during_low" = "niedrig";
+"key_cook_alert_add_limit_title" = "Es können maximal 5 hinzugefügt werden";
 
-"key_cook_during_no_rush" = "keine Eile";
+"key_cook_alert_add_new_warning" = "Dodaj nowe ostrzeżenie";
 
-"key_cook_during_express_with_time" = "Express (< 30 Min.)";
+"key_cook_alert_cooking_complete_alert" = "Gotowanie Zakończono Alert";
 
-"key_cook_during_standard_with_time" = "Standard (45 - 90 Min.)";
+"key_cook_alert_cooking_complete_unit" = "Gotowanie zakończone";
 
-"key_cook_during_relaxed_with_time" = "Entspannt (2 - 4 Std.)";
+"key_cook_alert_end_in_[<xxxx>]" = "Ende in [<xxxx>] Minuten";
 
-"key_cook_during_low_with_time" = "Low & Slow (4+ Std.)";
+"key_cook_alert_mode_popup" = "Popup";
 
-"key_cook_during_no_rush_with_time" = "Keine Eile";
+"key_cook_alert_mode_ring" = "Dzwonek";
 
-"key_cook_cuisine_asian_fusion" = "Asiatische Fusion";
+"key_cook_alert_mode_vibration" = "Vibration";
 
-"key_cook_cuisine_american_bbq" = "Amerikanisches BBQ";
+"key_cook_alert_multiple_selection" = "mehrere Optionen verfügbar";
 
-"key_cook_cuisine_french_elegance" = "Französische Eleganz";
+"key_cook_alert_remaining_time_alert" = "Pozostały Czas Alert";
 
-"key_cook_cuisine_classic_pure" = "Klassisch Pur";
+"key_cook_alert_rest_continue" = "Kontynuuj";
 
-"key_cook_cuisine_mediterranean" = "Mediterran";
+"key_cook_alert_rest_title" = "Odpoczynek mięsa";
 
-"key_cook_cuisine_spicy_heat" = "Würzige Schärfe";
+"key_cook_alert_rest_title_sub" = "Mięso osiągnęło temperaturę odpoczynku. Wyjmij przygotowywane jedzenie z piekarnika.";
 
-"key_cook_cuisine_other" = "Andere";
+"key_cook_alert_time_picker_title" = "Czas Picker";
 
-"key_cook_time_budget_express" = "Express (< 30 Min.)";
+"key_cook_alert_time_picker_unit" = "Minuta";
 
-"key_cook_time_budget_standard" = "Standard (45 - 90 Min.)";
+"key_cook_alert_warning_mode" = "Warnmodus";
 
-"key_cook_time_budget_relaxed" = "Entspannt (2 - 4 Std.)";
+"key_cook_ambient" = "Otoczenie";
 
-"key_cook_time_budget_low" = "Low & Slow (4+ Std.)";
+"key_cook_chart_title_ambient" = "Otoczenia";
 
-"key_cook_time_budget_other" = "Keine Eile";
-
-"key_cook_flip_once_alert_title" = "Zeit, Ihr Essen zu wenden";
-
-"key_cook_flip_once_alert_title_sub" = "Zum Wenden eine Zange verwenden, keine Gabel. Das Eindringen in das Fleisch führt zum Austritt von Säften.";
-
-"key_cook_flip_once_alert_title_confirm" = "Ich habe es gewendet";
-
-"key_cook_chart_title_internal" = "Internal";
-
-"key_cook_chart_title_target" = "Target";
-
-"key_cook_chart_title_ambient" = "Ambient";
-
-"key_cook_chart_title_warning" = "Warning";
+"key_cook_chart_title_internal" = "Wewnętrzna";
 
 "key_cook_chart_title_ntc1" = "NTC1";
 
@@ -1592,789 +730,613 @@
 
 "key_cook_chart_title_ntc4" = "NTC4";
 
-"key_cook_chart_title_stage1" = "Stage1";
+"key_cook_chart_title_second_grill_temperature" = "Drugi grill";
 
-"key_cook_chart_title_stage2" = "Stage2";
+"key_cook_chart_title_stage1" = "Etap 1";
 
-"key_module_firmware" = "key_module_firmware";
+"key_cook_chart_title_stage2" = "Etap 2";
 
-"key_module_setting" = "key_module_setting";
+"key_cook_chart_title_target" = "Cel";
 
-"key_setting_temperature_units" = "Temperatur-Einheiten";
+"key_cook_chart_title_warning" = "Ostrzeżenie";
 
-"key_setting_select_size" = "Größe auswählen";
+"key_cook_complete_alert_content" = "Możesz przejść do historii, aby zobaczyć ten zapis grillowania";
 
-"key_setting_my_favorite" = "Mein Favorit";
+"key_cook_complete_will_complete_title" = "Gotowanie Zostanie Zakończono";
 
-"key_setting_my_favorites" = "Meine Favoriten";
+"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "Do końca gotowania pozostało [<xxxx>] minut";
 
-"key_setting_icloud_sync" = "iCloud Sync";
+"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "Noch [<xxxx0>] Minuten bis zum Ende des Kochvorgangs ([<xxxx1>])";
 
-"key_setting_firmware_update" = "Firmware-Update";
+"key_cook_cooking_completed_on_device_[<xxxx>]" = "Gotowanie completed włącz urządzenie [<xxxx>]";
 
-"key_setting_member_information" = "Mitgliedsinformationen";
+"key_cook_cooking_time_remaining" = "Gotowanie Czas Pozostały";
 
-"key_setting_cycle_firmware_update" = "Zyklus-Firmware-Update";
+"key_cook_cuisine_american_bbq" = "American BBQ";
 
-"key_setting_probe_mac_address" = "Sondenmanagement";
+"key_cook_cuisine_asian_fusion" = "Asian Fusion";
 
-"key_setting_ambient_temperature" = "Umgebungstemperatur";
+"key_cook_cuisine_classic_pure" = "Classic Pure";
 
-"key_setting_hardware_version" = "Hardware-Version";
+"key_cook_cuisine_french_elegance" = "French Elegance";
 
-"key_setting_buzzer" = "Summer";
+"key_cook_cuisine_mediterranean" = "Mediterranean";
 
-"key_setting_language" = "Sprache";
+"key_cook_cuisine_other" = "Inne";
 
-"key_setting_app_version" = "App-Version";
+"key_cook_cuisine_spicy_heat" = "Spicy Heat";
 
-"key_setting_faqs" = "FAQ";
+"key_cook_during_express" = "Express";
 
-"key_setting_alexa" = "Alexa";
+"key_cook_during_express_with_time" = "Express (< 30 mins)";
 
-"key_setting_alert_sound" = "Alarmton einstellen";
+"key_cook_during_low" = "niedrig";
 
-"key_setting_alert_sound_set" = "Alarmton einstellen";
+"key_cook_during_low_with_time" = "Low & Slow (4+ godziny)";
 
-"key_setting_alert_option_toggle_title" = "Ein/Aus";
+"key_cook_during_no_rush" = "keine Eile";
 
-"key_setting_alert_option_toggle_tips" = "Aktivieren Sie Tonbenachrichtigungen für wichtige Warnungen.";
+"key_cook_during_no_rush_with_time" = "Brak Rush";
 
-"key_setting_alert_sound_nav_title" = "Alarmtöne";
+"key_cook_during_relaxed" = "entspannt";
 
-"key_setting_alert_option_toggle_option_alert_sound" = "Alarmtöne";
+"key_cook_during_relaxed_with_time" = "Relaxed (2 - 4 godziny)";
 
-"key_setting_alert_option_notification_title" = "Benachrichtigungstöne";
+"key_cook_during_standard" = "Standard";
 
-"key_setting_alert_option_flip" = "Wendewarnungen";
+"key_cook_during_standard_with_time" = "Standard (45 - 90 mins)";
 
-"key_setting_alert_option_reset" = "Ruhewarnungen";
+"key_cook_end_alert_cancel" = "Wstecz Aby Gotowanie";
 
-"key_setting_alert_option_complete" = "Warnung „Kochen abgeschlossen“";
+"key_cook_end_alert_confirm" = "Yes, End Gotowanie";
 
-"key_setting_alert_option_manage_title" = "Klingeltöne verwalten";
+"key_cook_end_alert_title" = "Whether Aby End Gotowanie";
 
-"key_setting_alert_option_manage_option_your_sound" = "Ihre Töne";
+"key_cook_end_cooking" = "End Gotowanie";
 
-"key_setting_alert_option_tips" = "Hinweis：\n 1. Tonbenachrichtigungen können durch den Stummmodus, den Nicht-stören-Modus und die Systembenachrichtigungseinstellungen beeinflusst werden.\n 2. Bitte stellen Sie sicher, dass die Medienlautstärke Ihres Geräts erhöht ist und die App die Berechtigung zum Abspielen von Tönen hat.";
+"key_cook_equipment_air_fryer" = "Air Fryer";
 
-"key_setting_choose_sound_title" = "Ton auswählen";
+"key_cook_equipment_charcoal_grill" = "Grill węglowy";
 
-"key_setting_choose_sound_title_sub" = "Tippen Sie auf einen Ton, um eine Vorschau anzusehen und ihn auszuwählen.";
+"key_cook_equipment_deep_fryer" = "Deep Fryer";
 
-"key_setting_sound_flip_nav_title" = "Wendewarnungen";
+"key_cook_equipment_gas_grill" = "Gas Grill";
 
-"key_setting_sound_flip_toggle_title" = "Ein/Aus";
+"key_cook_equipment_option_section_title" = "Erweiterte Optionen";
 
-"key_setting_sound_flip_toggle_switch_title" = "Wendewarnung aktivieren";
+"key_cook_equipment_other" = "Inne";
 
-"key_setting_sound_flip_alert_title" = "Warnmethode";
+"key_cook_equipment_oven" = "Oven";
 
-"key_setting_sound_flip_alert_type_title" = "Warnungstyp";
+"key_cook_equipment_pan" = "Pfanne";
 
-"key_setting_sound_flip_alert_reminder_title" = "Wiederholungserinnerung";
+"key_cook_equipment_reverse_sear" = "Odwrócone pieczenie";
 
-"key_setting_sound_flip_sound_title" = "Warnsignal";
+"key_cook_equipment_section_title" = "Häufige Geräte";
 
-"key_setting_sound_flip_sound_select_title" = "Ton auswählen";
+"key_cook_equipment_smoker" = "Smoker";
 
-"key_setting_sound_flip_sound_tips" = "Tipp：\n Lassen Sie sich benachrichtigen, wenn es Zeit ist, Ihr Essen zu wenden.";
+"key_cook_equipment_sous_vide" = "Sous Vide";
 
-"key_setting_sound_rest_nav_title" = "Ruhewarnungen";
+"key_cook_estimate_time" = "Estimated Gotowanie Czas";
 
-"key_setting_sound_rest_toggle_title" = "Ein/Aus";
+"key_cook_flip_do_not_need_cell_unvalid" = "Brak Obróć Needed";
 
-"key_setting_sound_rest_toggle_switch_title" = "Ruhewarnungen aktivieren";
+"key_cook_flip_do_not_need_title" = "Nicht wenden";
 
-"key_setting_sound_rest_alert_title" = "Warnmethode";
+"key_cook_flip_do_not_need_title_cell" = "Brak Obróć Needed";
 
-"key_setting_sound_rest_alert_type_title" = "Warnungstyp";
+"key_cook_flip_every_30_title" = "Obróć Jedzenie Every 30s";
 
-"key_setting_sound_rest_alert_reminder_title" = "Wiederholungserinnerung";
+"key_cook_flip_every_30_title_cell" = "Every 30 sekund";
 
-"key_setting_sound_rest_sound_title" = "Warnsignal";
+"key_cook_flip_once_alert_title" = "Zeit, Ihr Essen zu wenden";
 
-"key_setting_sound_rest_sound_select_title" = "Ton auswählen";
+"key_cook_flip_once_alert_title_confirm" = "Ich habe es gewendet";
 
-"key_setting_sound_rest_sound_tips" = "Tipp：\n Halten Sie den perfekten Ruhezeitpunkt ein.";
+"key_cook_flip_once_alert_title_sub" = "Do obracania używaj szczypiec, nie widelca. Nakłucie mięsa spowoduje wypłynięcie soków.";
 
-"key_setting_sound_cook_nav_title" = "Ruhewarnungen";
+"key_cook_flip_once_title" = "Obróć jedzenie only once";
 
-"key_setting_sound_cook_toggle_title" = "Ein/Aus";
+"key_cook_flip_once_title_cell" = "Once Only";
 
-"key_setting_sound_cook_toggle_switch_title" = "Ruhewarnungen aktivieren";
+"key_cook_food_beef" = "Beef";
 
-"key_setting_sound_cook_alert_title" = "Warnmethode";
+"key_cook_food_fish" = "Fish";
 
-"key_setting_sound_cook_alert_type_title" = "Warnungstyp";
+"key_cook_food_lamb" = "Jagnięcina";
 
-"key_setting_sound_cook_alert_reminder_title" = "Wiederholungserinnerung";
+"key_cook_food_other" = "Inne";
 
-"key_setting_sound_cook_sound_title" = "Warnsignal";
+"key_cook_food_pork" = "Pork";
 
-"key_setting_sound_cook_sound_select_title" = "Ton auswählen";
+"key_cook_food_poultry" = "Drób";
 
-"key_setting_sound_cook_remain_title" = "Restzeit-Warnung";
+"key_cook_go_cooking" = "Przejdź do gotowania";
 
-"key_setting_sound_cook_remain_end_[<xxxx>]" = "Ende in [<xxxx>] Minuten";
+"key_cook_go_to_cooking" = "Przejdź do gotowania";
 
-"key_setting_sound_cook_remain_add" = "Neue Warnung hinzufügen";
+"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-sensor";
 
-"key_setting_sound_cook_remain_time_exist_toast" = "Restzeit bereits vorhanden";
+"key_cook_guide_ambient_sensor" = "Otoczenia Sensor";
 
-"key_setting_sound_cook_sound_tips" = "Tipp：\n Halten Sie den perfekten Ruhezeitpunkt ein.";
+"key_cook_guide_base_back" = "Wstecz";
 
-"key_setting_choose_sound_nav_title" = "Ton auswählen";
+"key_cook_guide_base_next" = "Dalej";
 
-"key_setting_choose_sound_flip_nav_title" = "Wendewarnungston";
+"key_cook_guide_base_no_need" = "Guide nécessaire";
 
-"key_setting_choose_sound_rest_nav_title" = "Ruhewarnungston";
+"key_cook_guide_choose_alert_tips" = "Gotowe up notifications";
 
-"key_setting_choose_sound_cook_nav_title" = "Kochen-abgeschlossen-Ton";
+"key_cook_guide_choose_chart_tips" = "Tap aby change chart";
 
-"key_setting_choose_sound_title_sub" = "Ton antippen, um eine Vorschau zu hören und auszuwählen.";
+"key_cook_guide_choose_distance_tips" = "Umieść urządzenie blisko grilla, aby uzyskać najlepsze działanie";
 
-"key_setting_choose_sound_title_flip_sound" = "Wendewarnungston";
+"key_cook_guide_choose_equipment_tips" = "Wybierz urządzenie do gotowania, którego chcesz użyć";
 
-"key_setting_choose_sound_title_rest_sound" = "Ruhewarnungston";
+"key_cook_guide_choose_flip_tips" = "Wybierz jedzenie, które chcesz obrócić";
 
-"key_setting_choose_sound_title_cook_sound" = "Ton „Kochen abgeschlossen“";
+"key_cook_guide_choose_history_tips" = "Tippen Sie hier, um einen neuen Braten zuzubereiten";
 
-"key_setting_choose_sound_title_classic_cell" = "Klassische Glocke";
+"key_cook_guide_choose_lefttime_tips" = "Tap aby przełącznik from pozostały czas aby elapsed czas";
 
-"key_setting_choose_sound_title_gentle_chime" = "Sanftes Glockenspiel";
+"key_cook_guide_choose_meat_tips" = "Wybierz mięso, które chcesz przygotować";
 
-"key_setting_choose_sound_title_soft_alert" = "Sanfter Alarm";
+"key_cook_guide_choose_meatsize_tips" = "Wybierz grubość mięsa, które chcesz przygotować";
 
-"key_setting_choose_sound_title_bbq_time" = "Grill-Timer";
+"key_cook_guide_choose_multitemperature_tips" = "Tippen Sie auf „Umgebung“ oder „Intern“, um die Sensor-Temperatur anzuzeigen.";
 
-"key_setting_choose_sound_title_bright_tone" = "Heller Ton";
+"key_cook_guide_choose_realtime_tips" = "Real-czas gotowanie progress";
 
-"key_setting_choose_sound_title_warm_reminder" = "Herzliche Erinnerung";
+"key_cook_guide_choose_remove_probe_tips" = "Wyjmij sondę i włóż ją ponownie";
 
-"key_setting_choose_sound_title_chefs_call" = "Aufgeregtes Geräusch";
+"key_cook_guide_choose_resting_tips" = "Wybierz tryb odpoczynku mięsa, którego chcesz używać";
 
-"key_setting_choose_sound_title_cozy_chime" = "Energiegeladenes Geräusch";
+"key_cook_guide_choose_start_tips" = "Tap aby start gotowanie";
 
-"key_setting_choose_sound_title_grill_pulse" = "Niedliches Geräusch";
+"key_cook_guide_choose_temperature_tips" = "View temperatura of each part";
 
-"key_setting_choose_sound_title_cheerful_ring" = "Fröhliches Geräusch";
+"key_cook_guide_temp_s_welcome_title" = "„Neues Meatmeet S Pro\n Willkommen bei Ihnen“";
 
-"key_setting_choose_sound_title_pick_your_vibe" = "Wähle deine Stimmung";
+"key_cook_guide_temp_s_welcome_title_tips" = "„Wir stellen Ihnen unseren brandneuen 5-Sensor Smart-Fleischthermometer vor, mit vollständig aktualisierter Hardware:\n • Mehrpunkt-Temperaturüberwachung: Überwacht gleichzeitig 5 Punkte für perfekt gleichmäßig gegartes Fleisch\n • Echtzeit-Datenübertragung: Verfolgen Sie Temperaturänderungen sofort, ohne den Grill häufig zu öffnen\n • Hohe Kompatibilität: Funktioniert problemlos mit verschiedenen Grills und Zubehör für einen nahtlosen Betrieb“";
 
-"key_setting_choose_sound_alert_repeat_reminder_title" = "Wiederholungserinnerung";
+"key_cook_guide_welcome_to_use" = "Witamy Aby Użyj";
 
-"key_setting_choose_sound_alert_repeat_reminder_once" = "Einmal";
+"key_cook_hub_distance_confirm_title" = "Przejdź do gotowania";
 
-"key_setting_choose_sound_alert_repeat_reminder_twice" = "Zweimal";
+"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "Umieść sondę w najgrubszej części mięsa. Upewnij się, że linia bezpieczeństwa pozostaje w środku.";
 
-"key_setting_choose_sound_alert_type_title" = "Warnungstyp";
+"key_cook_internal" = "Wewnętrzna";
 
-"key_setting_choose_sound_alert_type_sound" = "Ton";
+"key_cook_meat_thickness_cell_unvalid" = "Brak Thickness Needed";
 
-"key_setting_choose_sound_alert_type_vibration" = "Vibration";
+"key_cook_meat_thickness_cm" = "cm";
 
-"key_setting_choose_sound_alert_type_popup" = "Pop-up";
+"key_cook_meat_thickness_inches" = "Inches";
 
-"key_setting_choose_sound_alert_type_all" = "Alle";
+"key_cook_meat_thickness_most_common_size" = "Most Popularne Size";
 
-"key_setting_choose_sound_alert_notification_turn_off_title" = "Benachrichtigungen aus";
+"key_cook_nav_alert_setting" = "Alert Ustawienia";
 
-"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "Benachrichtigungen sind in den Systemeinstellungen deaktiviert.";
+"key_cook_nav_choose_flip_food" = "Wybierz Obróć Jedzenie";
 
-"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "Einstellungen öffnen";
+"key_cook_nav_choosing_device" = "Choosing Urządzenie";
 
-"key_setting_choose_sound_alert_all_turn_off_title" = "Alle Warnungen deaktivieren?";
+"key_cook_nav_meat_thickness" = "Meat Thickness";
 
-"key_setting_choose_sound_alert_all_turn_off_title_sub" = "Sie könnten wichtige Koch-Erinnerungen verpassen. Sind Sie sicher, dass Sie die Warnungstöne deaktivieren möchten?";
+"key_cook_nav_poultry" = "Drób";
 
-"key_setting_choose_sound_alert_flip_turn_off_title" = "Wendewarnungen deaktivieren?";
+"key_cook_nav_probe_position" = "Zwróć uwagę na pozycję sondy";
 
-"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "Diese Warnung für den aktuellen Kochvorgang deaktivieren? Sie könnten diese Erinnerung verpassen.";
+"key_cook_nav_rest_meat" = "Fleisch aufwecken";
 
-"key_setting_choose_sound_alert_rest_turn_off_title" = "Ruhewarnungen deaktivieren?";
+"key_cook_nav_select_cooking_option" = "Wybierz opcję gotowania";
 
-"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "Diese Warnung für den aktuellen Kochvorgang deaktivieren? Sie könnten diese Erinnerung verpassen.";
+"key_cook_nav_set_cooking" = "Gotowe Gotowanie";
 
-"key_setting_choose_sound_alert_cook_turn_off_title" = "Abschlussbenachrichtigungen deaktivieren?";
+"key_cook_nav_setting_cooking" = "Twój Gotowanie Ustawienia";
 
-"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "Sie könnten wichtige Koch-Erinnerungen verpassen.\n Sind Sie sicher, dass Sie die Warnungstöne deaktivieren möchten?";
+"key_cook_nav_temperature" = "Temperatura";
 
-"key_setting_test_page" = "Test Page";
+"key_cook_notify_time_to_flip_30s_title_sub" = "Für Sonde [<xxxx1>]（[<xxxx2>]）：Wende das Fleisch einmal nach 30 Sekunden.";
 
-"key_setting_share" = "Share";
+"key_cook_notify_time_to_flip_title" = "Czas obrócić mięso";
 
-"key_setting_connect_wifi" = "Mit Wi-Fi verbinden";
+"key_cook_notify_time_to_flip_title_sub" = "Für Sonde [<xxxx1>]（[<xxxx2>]）：Nimm das Fleisch jetzt von der Hitze und wende es.";
 
-"key_setting_screen_timeout" = "Bildschirmzeitüberschreitung";
+"key_cook_notify_time_to_rest_title" = "Mięso odpoczywa";
 
-"key_setting_beta_mode" = "Beta";
+"key_cook_notify_time_to_rest_title_sub" = "Mięso osiągnęło temperaturę docelową. Wyjmij je z piekarnika.";
 
-"key_setting_apple_id" = "Apple Id";
+"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "Natychmiast usuń jedzenie ze źródła ciepła";
 
-"key_setting_google" = "Google";
+"key_cook_poultry_correct_operation" = "Correct Operation";
 
-"key_setting_email" = "E-Mail";
+"key_cook_poultry_incorrect_operation" = "Incorrect Operation";
 
-"key_seting_home_page_information" = "Persönliche informationen";
+"key_cook_poultry_tips_title" = "Führen Sie die Sonde für die genaueste Temperatur in den festen Teil ein";
 
-"key_setting_nickname" = "Spitzname";
+"key_cook_poultry_tips_title_sub" = "Führen Sie die Sonde in ihren festen Teil, wie Brust und Beine, ein, um die Temperatur des Fleisches effektiv zu messen.\n Vermeidung von Rippenhöhlen und großen Knochen- und Fettpartien.\n Vergewissern Sie sich, dass die Nut an der Sonde aus Sicherheitsgründen vollständig in das Fleisch eingeführt ist.";
 
-"key_setting_password" = "Passwort";
+"key_cook_probe_check_alert_battery_check_failed_title" = "Batteriestandprüfung fehlgeschlagen";
 
-"key_setting_user_id" = "User ID";
+"key_cook_probe_check_alert_battery_check_failed_title_sub" = "Włóż sondę do bazy ładującej, aby upewnić się, że urządzenie ma wystarczającą ilość energii";
 
-"key_setting_delete_account" = "Konto löschen";
+"key_cook_probe_check_alert_battery_check_title" = "Bateria Sprawdź";
 
-"key_setting_reset" = "Zurücksetzen";
+"key_cook_probe_check_alert_signal_check_failed_title" = "Sygnał Sprawdź Nie powiodło się";
 
-"key_setting_copy" = "Copy";
+"key_cook_probe_check_alert_signal_check_failed_title_sub" = "Umieść sondę w zasięgu połączenia sygnałowego";
 
-"key_setting_log_out" = "Ausfahrt";
+"key_cook_probe_check_alert_signal_check_title" = "Sygnał Sprawdź";
 
-"key_setting_tap_log_out" = "Klicken Sie auf 'Ausfahrt', um sich abzumelden";
+"key_cook_probe_check_alert_success_title" = "Sonda Status: Good";
 
-"key_setting_account_has_log_out" = "Dieses Konto wurde abgemeldet";
+"key_cook_probe_check_alert_title" = "Statusprüfung der Sonde";
 
-"key_setting_delete_device" = "Gerät löschen";
+"key_cook_probe_position_do_not_show" = "Do Nie Pop Up This Message Ponownie";
 
-"key_setting_delete_device_title" = "Gerät löschen bestätigen";
+"key_cook_probe_position_title" = "Meatmeet Urządzenie Lokalizacja Information";
 
-"key_setting_device_management" = "Geräteverwaltung";
+"key_cook_probe_position_title_sub" = "Stelle das Pro-Ladegerät nah am Gerät auf, um die Verbindung zur Sonde zu sichern. Nicht auf heiße Flächen legen!";
 
-"key_setting_delete_success" = "Eliminazione riuscita";
+"key_cook_probe_position_title_sub_[<xxxx>]" = "Stellen Sie Ihren [<xxxx>]-Ladegerät so nah wie möglich an Ihrem Grillgerät auf, um die Verbindung zur Sonde aufrechtzuerhalten und das Signal zu verstärken.\n Achten Sie darauf, dass er nicht auf heißen Oberflächen abgestellt wird!";
 
-"key_setting_sure" = "Sicher";
+"key_cook_progress_flip_countdown_[<xxxx>]" = "In [<xxxx>] Sekunden wenden";
 
-"key_setting_change_language_alert_title" = "Sprache ändern";
+"key_cook_progress_flip_food" = "Obróć Jedzenie";
 
-"key_setting_change_language_alert_title_sub" = "Bitte wählen Sie Ihre Sprache";
+"key_cook_progress_flip_once_food" = "Obróć Jedzenie";
 
-"key_setting_ambient_management_alert_confirm" = "Alles klar";
+"key_cook_ready_insert_probe_black_line" = "Black Line";
 
-"key_setting_ambient_management_alert_cancel" = "Öffnen";
+"key_cook_ready_insert_probe_safe_line" = "linia bezpieczeństwa";
 
-"key_setting_ambient_management_alert_title" = "Umgebung verwalten";
+"key_cook_ready_insert_probe_title" = "Wie setzt man die Sonde ein";
 
-"key_setting_ambient_management_alert_question" = "Möchtest du die Umgebungstemperatur aktivieren?";
+"key_cook_ready_insert_probe_title_sub" = "Włóż sondę w najgrubszą część mięsa tak, aby linia bezpieczeństwa znalazła się całkowicie w środku mięsa. Nie przekraczaj czarnej linii. Upewnij się, że końcówka nie przebija mięsa.";
 
-"key_setting_ambient_management_alert_answer" = "Du kannst sie unter Gerät → Gerätemanagement → Umgebungstemperatur aktivieren.";
+"key_cook_ready_insert_probe_title_confirm" = "Potwierdź";
 
-"key_setting_guide_sizzle_welcome_title" = "Willkommen bei Meatmeet";
+"key_cook_ready_to_grill" = "Gotowe aby Grill";
 
-"key_setting_guide_sizzle_welcome_title_sub" = "Danke, dass du bei Meatmeet dabei bist! Bevor wir loslegen, stellen wir kurz ein paar Dinge ein, damit dein Fleisch jedes Mal perfekt gelingt.";
+"key_cook_rest_mode_cell_unvalid" = "Tryb odpoczynku mięsa nie jest obsługiwany";
 
-"key_setting_guide_sizzle_welcome_title_confirm" = "Los geht’s";
+"key_cook_rest_mode_off" = "Tryb odpoczynku mięsa wyłączony";
 
-"key_setting_guide_sizzle_select_size_title" = "Zoll oder Zentimeter?";
+"key_cook_rest_mode_off_cell" = "Wyłączone";
 
-"key_setting_guide_sizzle_select_size_title_sub" = "Es gibt zwei Arten von Menschen: die Zoll-Fans und die Zentimeter-Fans. Wähl deine Seite und los geht’s!";
+"key_cook_rest_mode_off_tips" = "Tryb odpoczynku mięsa zostanie wyłączony. Końcowa temperatura wewnętrzna gotowego mięsa może przekroczyć temperaturę docelową. Czy chcesz wyłączyć ten tryb?";
 
-"key_setting_guide_sizzle_select_size_title_tips" = "Du kannst es jederzeit in den Einstellungen ändern.";
+"key_cook_rest_mode_on" = "Tryb odpoczynku mięsa włączony";
 
-"key_setting_guide_sizzle_temperature_unit_title" = "Fahrenheit oder Celsius?";
+"key_cook_rest_mode_on_cell" = "Włączone";
 
-"key_setting_guide_sizzle_temperature_unit_title_sub" = "Es gibt Fahrenheit-Fans und Celsius-Fans. Such dir deinen Favoriten aus!";
+"key_cook_rest_mode_on_tips" = "Gdy tryb odpoczynku mięsa jest włączony, powiadomimy Cię, aby zdjąć mięso z ognia za każdym razem, gdy jego temperatura wzrośnie o 10°C / 20°F ± 2°C / 3.6°F, co pomaga uzyskać najlepszy efekt gotowania.";
 
-"key_setting_guide_sizzle_temperature_unit_title_tips" = "Du kannst es jederzeit in den Einstellungen ändern.";
+"key_cook_rest_mode_unvalid_temperature_low" = "Obecna temperatura docelowa jest zbyt niska, aby włączyć odpoczynek mięsa. Aby korzystać z tej funkcji, ustaw temperaturę docelową na co najmniej 30°C / 86°F.";
 
-"key_setting_guide_sizzle_buzzer_title" = "Klingeln oder Ruhe?";
+"key_cook_reverse_sear_nav_title" = "Umgekehrtes Anbraten";
 
-"key_setting_guide_sizzle_buzzer_title_sub" = "Soll dein Fleisch piepen, wenn es fertig ist? Oder lieber Ruhe? Deine Entscheidung!";
+"key_cook_reverse_sear_section_final_title" = "Stufe 2: Endtemperatur";
 
-"key_setting_guide_sizzle_buzzer_title_tips" = "Gerät verbunden? Home → Mehr. Einfach umschalten.";
+"key_cook_reverse_sear_section_low_title" = "Stufe 1: Niedrige Temperatur";
 
-"key_setting_guide_sizzle_ambient_temperature_title" = "Fühlst du dich fancy?";
+"key_cook_reverse_sear_section_strategy_title" = "Strategie wählen";
 
-"key_setting_guide_sizzle_ambient_temperature_title_sub" = "Aktiviere die Umgebungstemperatur, wenn du dich wie ein Profi fühlen willst. Oder lass es einfach – alles gut!";
+"key_cook_second_grill_stage_[<xxxx>]" = "Stufe [<xxxx>]";
 
-"key_setting_guide_sizzle_ambient_temperature_title_tips" = "Gerät verbunden? Home → Mehr. Einfach umschalten.";
+"key_cook_second_grill_stage_all" = "Alle";
 
-"key_setting_guide_sizzle_all_set_title" = "Bereit zum Brutzeln!";
+"key_cook_setting_cook_save_favorite_tips" = "Zapisz Twój ulubione aby start Twój next gotowanie faster!";
 
-"key_setting_guide_sizzle_all_set_title_sub" = "Du bist verbunden und bereit zum Grillen, Chef! Heb mir ein Stück auf.";
+"key_cook_setting_cooking_all_start" = "Wszystko Gotowe — Start Gotowanie!";
 
-"key_setting_guide_sizzle_all_set_title_confirm" = "zum Kochen gehen";
+"key_cook_setting_cooking_change_tips" = "Twój gotowanie setup has changed — Proszę potwierdź it’s correct.";
 
-"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "Weiter ([<xxxx0>]/[<xxxx1>])";
+"key_cook_setting_cooking_tips" = "Deine Einstellungen sehen super aus. Starte mit dem Kochen, wenn du bereit bist!";
 
-"key_setting_timeout_title" = "Bildschirm-Timeout";
+"key_cook_start" = "Start";
 
-"key_setting_timeout_title_sub" = "Legen Sie fest, wie lange der Gerätebildschirm nach Inaktivität eingeschaltet bleibt. Hohe Helligkeit dauert 45s, dann wird für die gewählte Dauer auf niedrige Helligkeit gedimmt.";
+"key_cook_start_new_cook" = "Start A Nowe Gotowanie";
 
-"key_setting_timeout_never_title" = "Nie";
+"key_cook_strategy_other_title" = "Andere";
 
-"key_setting_timeout_never_title_sub" = "Bildschirm bleibt mit niedriger Helligkeit eingeschaltet (Standard)";
+"key_cook_strategy_other_title_sub" = "Längeres Anbraten. Maximale Krustenbildung. Bitte wählen Sie Ihre Temperatur.";
 
-"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] Sekunden";
+"key_cook_strategy_stabdrad_title_sub" = "Längeres Anbraten. Maximale Krustenbildung.";
 
-"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] Minuten";
+"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Standard :[<xxxx0>]-[<xxxx1>][<xxxx2>]";
 
-"key_module_bluetooth" = "key_module_bluetooth";
+"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → Wechsel → Final: [<xxxx1>]";
 
-"key_bluetooth_should_turn_on" = "Bitte öffnen Sie Ihr Bluetooth";
+"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "Final [<xxxx>]";
 
-"key_bluetooth_should_turn_on_to_continue" = "Bitte aktivieren Sie Bluetooth, um fortzufahren";
+"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "Niedrig [<xxxx>]";
 
-"key_bluetooth_setting_to" = "Einstellungen";
+"key_cook_strategy_tag_recommend" = "Polecane";
 
-"key_bluetooth_setting_cancel" = "Abbrechen";
+"key_cook_target" = "Cel";
 
-"key_bluetooth_current_off" = "Bluetooth deaktiviert";
+"key_cook_temperature_alert_tips" = "Część pomiarowa sondy jest pokazana w czytelny sposób, dzięki czemu możesz lepiej kontrolować temperaturę grillowania i cieszyć się wygodniejszym gotowaniem.";
 
-"key_module_server" = "key_module_server";
+"key_cook_temperature_alert_title" = "Temperatura sondy";
 
-"key_server_wrong_please_try_later" = "Server falsch, bitte später versuchen";
+"key_cook_temperature_medium" = "Średnie";
 
-"key_server_try_later" = "Bitte versuchen Sie es später";
+"key_cook_temperature_medium_rare" = "Średnio krwiste";
 
-"key_server_failure" = "Fehler";
+"key_cook_temperature_medium_well" = "Średnio wysmażone";
 
-"key_module_common" = "key_module_common";
+"key_cook_temperature_other" = "Inne";
 
-"key_common_confirm" = "Sicher";
+"key_cook_temperature_rare" = "Rare";
 
-"key_common_cancel" = "Abbrechen";
+"key_cook_temperature_very_rare" = "Sehr selten";
 
-"key_common_delete" = "Löschen";
+"key_cook_temperature_well_done" = "Dobrze wysmażone";
 
-"key_common_jump_to_setting" = "Einstellungen";
+"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "Die Umgebungstemperatur ist auf [<xxxx0>]℃ / [<xxxx1>]℉ gestiegen, entfernen Sie es oder es kann gebrochen sein";
 
-"key_common_other" = "Sonstiges";
+"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "Die Innentemperatur ist auf [<xxxx0>] ℃ / [<xxxx1>]℉ geklettert, entfernen Sie es oder es kann gebrochen sein";
 
-"key_common_feedback" = "Rückmeldung";
+"key_cook_time_budget_express" = "Express (< 30 mins)";
 
-"key_common_alert_feedback_title" = "Titel";
+"key_cook_time_budget_low" = "Low & Slow (4+ godziny)";
 
-"key_common_alert_feedback_title_placeholder" = "Bitte geben Sie einen Titel ein";
+"key_cook_time_budget_other" = "Brak Rush";
 
-"key_common_alert_feedback_title_sub" = "Inhalt";
+"key_cook_time_budget_relaxed" = "Relaxed (2 - 4 godziny)";
 
-"key_common_alert_feedback_title_sub_placeholder" = "Bitte geben Sie den Inhalt ein";
+"key_cook_time_budget_standard" = "Standard (45 - 90 mins)";
 
-"key_common_alert_feedback_publish" = "Veröffentlichen";
+"key_cook_title_cooking_mode" = "Tryb gotowania";
 
-"key_common_alert_feedback_publish_failed_tips" = "Titel erfordert mindestens 2 Zeichen";
+"key_cook_title_equipment" = "Gotowanie environment";
 
-"key_common_alert_feedback_publish_failed_title" = "Ausfall";
+"key_cook_title_estimate_meat_thickness" = "Estimated meat thickness";
 
-"key_common_alert_email_failure_tips" = "Wir können Ihren E-Mail-Dienst nicht nutzen, bitte klicken Sie auf Einstellungen, um ihn zu aktivieren";
+"key_cook_title_flip" = "Obróć";
 
-"key_common_alert_network_loose_title_sub" = "Netzwerkanomalie, bitte überprüfen Sie die Netzwerkverbindung";
+"key_cook_title_food" = "Mięso";
 
-"key_common_net_not_reachable_title" = "Netzwerk nicht erreichbar";
+"key_cook_title_wake_up_meat" = "Odpoczynek mięsa";
 
-"key_common_net_not_reachable_title_sub" = "Netzwerkverbindung getrennt. Sie können im Offline-Modus weiternutzen.";
+"key_cook_use_last_session" = "Użyj Ostatni Gotowanie Session";
 
-"key_common_net_not_reachable_title_confirm" = "Bestätigen";
+"Key_Module_Device" = "Key_Module_Device";
 
-"key_common_net_not_reachable_current_title" = "Netzwerk nicht verfügbar";
+"key_device_access_restricted" = "Access restricted";
 
-"key_common_net_not_reachable_current_title_sub" = "Das Netzwerk ist derzeit nicht verfügbar. Lokale Daten werden geladen.";
+"key_device_alert_battery_low_0201" = "Bateria jest poniżej 20%. Rozważ wkrótce wymianę baterii.";
 
-"key_common_net_not_reachable_current_title_confirm" = "Bestätigen";
+"key_device_alert_battery_low_second_0201" = "Proszę wymienić baterię.";
 
-"key_common_net_not_reachable_current_title_cancel" = "Abbrechen";
+"key_device_bluetooth_disconnected_title" = "Bluetooth Rozłączone";
 
-"key_common_net_reachable_current_title" = "Netzwerk wiederhergestellt";
+"key_device_bluetooth_disconnected_title_sub" = "Sprawdź stan połączenia Bluetooth urządzenia";
 
-"key_common_net_reachable_current_title_sub" = "Netzwerkverbindung wiederhergestellt. Online-Daten werden nun geladen.";
+"key_device_booster_low_battery" = "Booster: Low bateria";
 
-"key_common_net_reachable_current_title_confirm" = "Bestätigen";
+"key_device_change_alias_alert_placeholder" = "Bitte neuen Gerätenamen eingeben";
 
-"key_common_net_reachable_current_title_cancel" = "Abbrechen";
+"key_device_change_alias_alert_title" = "Gerätename";
 
-"key_module_iap" = "key_module_iap";
+"key_device_change_alias_alert_title_sub" = "Wählen Sie einen eindeutigen Namen, um Ihr Gerät bei mehreren in der Nähe befindlichen Sensoren leicht zu identifizieren.";
 
-"key_ai_home_title" = "KI-Kochen";
+"key_device_delete" = "Usuń";
 
-"key_ai_home_image_recognition_title" = "KI-Bilderkennung";
+"key_device_delete_failure" = "Nie udało się usunąć urządzenia";
 
-"key_ai_home_image_recognition_title_sub" = "Vom Foto zum Rezept: Koche mit dem, was du da hast";
+"key_device_delete_unvalid_cause_cooking" = "Gerät konnte während des Kochens nicht gelöscht werden";
 
-"key_ai_home_recipe_recommendations_title" = "KI-Rezeptempfehlungen";
+"key_device_home_tourist_title" = "Obecnie korzystasz z trybu gościa. Zarejestruj się lub zaloguj, aby wyświetlać i edytować swoje dane osobowe.";
 
-"key_ai_home_recipe_recommendations_title_sub" = "Von der Idee zum Rezept: Koche, was du liebst";
+"key_device_hub_disconnected" = "Urządzenie rozłączone";
 
-"key_ai_home_ai_cooking_master_title" = "KI-Kochassistent";
+"key_device_in_cooking" = "Gotowanie in progress";
 
-"key_ai_home_ai_cooking_master_title_tips" = "Sag uns einfach, welche Fleischsorte du zubereitest, welchen Küchenstil du magst und wie dick das Fleisch ist. Wir erstellen dir ein passendes Rezept und richten alles für dich ein.";
+"key_device_insert" = "Insert";
 
-"key_ai_home_ai_cooking_master_title_sub" = "Frag den KI-Kochassistenten";
+"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "Urządzenie jest obecnie połączone, ale offline. Aby je udostępnić, upewnij się, że ma połączenie z internetem.";
 
-"key_ai_answer_title" = "KI-Antwort";
+"key_device_name_010x" = "Meatmeet pro";
 
-"key_ai_answer_title_sub" = "Bitte wählen Sie gemäß den Optionen.";
+"key_device_name_010x_[<xxxx>]" = "meatmeet Pro [<xxxx>]";
 
-"key_ai_answer_option_select_title" = "Sie haben dieses Foto hochgeladen";
+"key_device_name_0200" = "meatmeet S Pro";
 
-"key_ai_answer_setting_cooking_title" = "Smarte Kocheinstellungen";
+"key_device_name_0200_[<xxxx>]" = "meatmeet S Pro [<xxxx>]";
 
-"key_ai_answer_setting_cooking_title_sub" = "Sagen Sie uns, was Ihnen gefällt – wir empfehlen Ihnen Rezepte, die Sie lieben werden!";
+"key_device_name_0201" = "meatmeet Pro 2026";
 
-"key_ai_recipe_answer_nav_title" = "KI-Antwort";
+"key_device_name_0201_[<xxxx>]" = "meatmeet Pro 2026 [<xxxx>]";
 
-"key_ai_recipe_answer_title_sub" = "Bitte wählen Sie gemäß den Optionen.";
+"key_device_name_0300" = "meatmeet X Pro";
 
-"key_ai_recipe_answer_card_title" = "Smarte Kocheinstellungen";
+"key_device_name_0301" = "meatmeet Z Pro";
 
-"key_ai_recipe_answer_card_title_sub" = "Basierend auf Ihrer Auswahl erstellen wir ein maßgeschneidertes Rezept für Sie.";
+"key_device_name_0301_[<xxxx>]" = "meatmeet Z Pro [<xxxx>]";
 
-"key_ai_image_recognition_title_tip" = "Sie haben dieses Foto hochgeladen";
+"key_device_name_030x_[<xxxx>]" = "meatmeet X Pro [<xxxx>]";
 
-"key_ai_image_recognition_cart_title" = "Sagen Sie uns, was Ihnen gefällt – wir empfehlen Ihnen Rezepte, die Sie lieben werden!";
+"key_device_name_0400" = "meatmeet S pro 2026";
 
-"key_ai_you_uploaded_this_photo" = "Sie haben dieses Foto hochgeladen";
+"key_device_name_0400_[<xxxx>]" = "meatmeet S Pro 2026 [<xxxx>]";
 
-"key_ai_answer_setting_cooking_choose_meat_title_sub" = "Fleisch auswählen";
+"key_device_nav_share" = "Udostępnij";
 
-"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "Garmethode auswählen";
+"key_device_network_error" = "Błąd sieci";
 
-"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "Garstufe auswählen";
+"key_device_no_device" = "Brak Urządzenie Znaleziono";
 
-"key_ai_answer_setting_cooking_title_confirm" = "Ich habe gewählt";
+"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "Stecken Sie die Sonde in ihr Ladeetui und lassen Sie sie dort für 1-3 Minuten, während das Update abgeschlossen ist.\n\n Hinweis: Bitte entfernen Sie die Sonde nicht und schalten Sie das Gehäuse während des Updates nicht aus.";
 
-"key_ai_answer_result_choice_title" = "Deine Auswahl";
+"key_device_ota_already_the_lastest_version" = "To już najnowsza wersja";
 
-"key_ai_answer_result_choice_meat_title" = "Fleisch auswählen";
+"key_device_ota_check" = "Sprawdź";
 
-"key_ai_answer_result_choice_equipment_title" = "Garmethode auswählen";
+"key_device_ota_checking" = "Checking";
 
-"key_ai_answer_result_choice_temperature_title" = "Garstufe auswählen";
+"key_device_ota_current_version" = "Aktualna wersja";
 
-"key_ai_smart_cooking_master" = "Smarter Kochassistent";
+"key_device_ota_doing_title" = "During aktualizacja";
 
-"key_ai_answer_result_choice_confirm_title" = "Rezept verwenden";
+"key_device_ota_doing_title_sub" = "Updating firmware, proszę czekaj…";
 
-"key_ai_answer_recipe_name_title" = "Rezeptname";
+"key_device_ota_doing_transmit_title_sub" = "Nowe firmware jest obecnie przesyłane, co może chwilę potrwać. Prosimy o cierpliwość.";
 
-"key_ai_answer_recipe_star_title" = "Bewertung";
+"key_device_ota_fail_alert_device_busy_failed_title" = "Gerät beschäftigt";
 
-"key_ai_answer_recipe_total_time_title" = "Gesamtzeit";
+"key_device_ota_fail_alert_device_busy_failed_title_sub" = "Urządzenie jest zajęte innymi zadaniami i nie może od razu rozpocząć aktualizacji firmware. Upewnij się, że jest bezczynne przed aktualizacją.";
 
-"key_ai_answer_recipe_pre_time_title" = "Vorbereitungszeit";
+"key_device_ota_fail_alert_download_failed_title" = "Download fehlgeschlagen";
 
-"key_ai_answer_recipe_cook_time_title" = "Garzeit";
+"key_device_ota_fail_alert_download_failed_title_sub" = "firmware download nie powiodło się. Proszę sprawdź Twój sieć połączenie.";
 
-"key_ai_answer_recipe_cook_meat_name_title" = "Fleischsorte";
+"key_device_ota_fail_alert_during_cooking_title" = "Gotowanie in progress";
 
-"key_ai_answer_recipe_ingredient_list_title" = "Zutaten";
+"key_device_ota_fail_alert_during_cooking_title_sub" = "Gotowanie trwa. Aktualizacje OTA nie są obsługiwane podczas gotowania. Poczekaj, aż proces się zakończy.";
 
-"key_ai_answer_recipe_cook_steps_title" = "Zubereitungsschritt";
+"key_device_ota_fail_alert_low_power_title" = "Aktualizacja zablokowana";
 
-"key_ai_answer_recipe_cook_flip_title" = "Wenden";
+"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "Upgrade nicht verfügbar. Stellen Sie sicher, dass der Akku über [<xxxx>]% liegt oder halten Sie das Gerät eingesteckt";
 
-"key_ai_answer_recipe_cook_awaken_title" = "Ruhen lassen";
+"key_device_ota_fail_alert_not_online_title" = "Urządzenie niepołączone z siecią";
 
-"key_ai_answer_recipe_notes_title" = "Hinweise";
+"key_device_ota_fail_alert_not_online_title_sub" = "Proszę dodaj urządzenie aby Twój sieć before próbą a firmware aktualizacja.";
 
-"key_ai_probe_insert_title" = "Sonde einsetzen";
+"key_device_ota_fail_alert_not_primary_failed_title_sub" = "To urządzenie nie jest urządzeniem głównym i nie może zostać zaktualizowane przez OTA";
 
-"key_ai_probe_insert_tip_title" = "So verwendest du die Sonde";
+"key_device_ota_fail_alert_server_unresponsive_failed_title" = "Server nicht erreichbar";
 
-"key_ai_probe_insert_next_title" = "Nächster Schritt";
+"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "Serwer firmware jest niedostępny albo upłynął limit czasu żądania, przez co nie udało się pobrać firmware. Spróbuj ponownie później.";
 
-"key_ai_recipe_confirm_title" = "KI-Grilllösung";
+"key_device_ota_fail_alert_server_update_failed_title" = "Aktualizuj nie powiodło się";
 
-"key_ai_recipe_confirm_title_sub" = "Basierend auf deinen Fotos haben wir passende Grillvorschläge für dich erstellt. Wenn dir ein Vorschlag unten nicht gefällt, tippe auf „Bearbeiten“.";
+"key_device_ota_fail_alert_server_update_failed_title_sub" = "Firmware jest niezgodne z urządzeniem albo urządzenie ma za mało pamięci. Sprawdź stan urządzenia.";
 
-"key_ai_recipe_confirm_detail_title" = "Rezeptdetails anzeigen >";
+"key_device_ota_fail_alert_transfer_failed_title" = "Transfer Nie powiodło się";
 
-"key_ai_recipe_confirm_swipe_title_tips" = "Wische nach links oder rechts, um mehr zu sehen";
+"key_device_ota_fail_alert_transfer_failed_title_sub" = "Aktualizacja nie powiodła się z powodu przekroczenia czasu transferu albo wyłączenia urządzenia. Spróbuj ponownie przesłać firmware.";
 
-"key_ai_recipe_confirm_next_title" = "Grillen starten";
+"key_device_ota_fail_alert_update_delay_failed_title" = "Aktualizuj delay";
 
-"key_ai_recipe_recommend_card_title_[<xxxx>]" = "Empfohlenes Rezept [<xxxx>]";
+"key_device_ota_fail_alert_update_delay_failed_title_sub" = "Firmware jest niezgodne z urządzeniem albo urządzenie ma za mało pamięci. Sprawdź stan urządzenia.";
 
-"key_ai_recipe_recommend_card_title_sub" = "Wir empfehlen dir passende Vorschläge basierend auf deinen Angaben";
+"key_device_ota_firmware_image_download_complete" = "Firmware-Image-Download abgeschlossen";
 
-"key_ai_recipe_recommend_card_meat_name_title" = "Fleisch";
+"key_device_ota_firmware_installing" = "Firmware wird installiert";
 
-"key_ai_recipe_recommend_card_cooking_tool_title" = "Kochumgebung";
+"key_device_ota_installing_firmware" = "Installing firmware updates, which may take some czas";
 
-"key_ai_recipe_recommend_card_flip_title" = "Wenden";
+"key_device_ota_new_version" = "Nowa wersja";
 
-"key_ai_recipe_recommend_card_temperature_title" = "Kochmodus";
+"key_device_ota_new_version_ready" = "Nowe Wersja Gotowe";
 
-"key_ai_recipe_recommend_card_awaken_title" = "Fleisch ruhen lassen";
+"key_device_ota_preparing" = "Preparing";
 
-"key_ai_recipe_recommend_card_meat_size_title" = "Geschätzte Fleischdicke (Zoll)";
+"key_device_ota_rejected" = "Abgelehnt";
 
-"key_ai_recipe_unit_seconds" = "Sekunden";
+"key_device_ota_success" = "Aktualizuj pomyślny";
 
-"key_ai_recipe_unit_minute" = "Minuten";
+"key_device_ota_success_alert_title" = "Aktualizuj pomyślny";
 
-"key_ai_recipe_unit_hour" = "Stunden";
+"key_device_ota_success_alert_title_sub" = "Congratulations, Twój urządzenie firmware has been pomyślnie zaktualizowano!";
 
-"key_ai_recipe_unit_day" = "Tage";
+"key_device_ota_update" = "Aktualizacja";
 
-"key_ai_recipe_unit_month" = "Monate";
+"key_device_ota_update_start" = "Update gestartet";
 
-"key_ai_recipe_unit_year" = "Jahre";
+"key_device_please_add_your_probe" = "Proszę dodaj twój sonda";
 
-"key_ai_recognition_result_title" = "KI-Erkennungsergebnisse";
+"key_device_please_check_the_position_and_condition_of_the_probe" = "Sprawdź położenie i stan sondy";
 
-"key_ai_recognition_result_preparation_title" = "Vorbereitung";
+"key_device_please_connect_the_meat_[<xxxx>]_charger" = "Podłącz ładowarkę meat [<xxxx>]";
 
-"key_ai_recognition_result_cancel_title" = "Erneut erkennen";
+"key_device_please_insert_the_probe_into_the_box" = "Włóż sondę do pudełka";
 
-"key_ai_recognition_result_confirm_title" = "Nächster Schritt";
+"key_device_probe_[<xxxx>]" = "Sonde [<xxxx>]";
 
-"key_ai_recipe_collection" = "Rezept speichern";
+"key_device_probe_[<xxxx>]_mac" = "Sonda [<xxxx>] Mac";
 
-"key_ai_recipe_dis_collection" = "Rezept entfernen";
+"key_device_probe_change_not_allow_while_cooking" = "Zmiana sondy podczas gotowania nie jest dozwolona. Poczekaj, aż gotowanie się zakończy.";
 
-"key_ai_master_enterence_title" = "Rezept anpassen";
+"key_device_probe_change_unvalid" = "Sonda Change Niedostępna";
 
-"key_ai_master_enterence_title_sub" = "Sag uns einfach, was du magst – wir erstellen das passende Rezept für dich.";
+"key_device_probe_firmware_update" = "Sonda Firmware Aktualizacja";
 
-"key_ai_master_enterence_header" = "KI-Kochassistent";
+"key_device_probe_is_charging" = "Sonda is ładowanie";
 
-"key_ai_master_enterence_confirm" = "Mit KI anpassen";
+"key_device_probe_low_battery" = "Sonda: Low bateria";
 
-"key_ai_recipe_description_title" = "Beschreibung";
+"key_device_probe_not_connected" = "Sonda Nie Połączono";
 
-"key_ai_recipe_ingredients_title" = "Zutaten";
+"key_device_probe_repair_failure" = "Sonda repair failure";
 
-"key_ai_recipe_pre_cooking_title" = "Vorbereitungsschritte";
+"key_device_probe_repair_success" = "Sondenreparatur erfolgreich";
 
-"key_ai_recipe_cooking_instruction_title" = "Zubereitung";
+"key_device_probe_repair_success_tips" = "Firmware sondy zostało pomyślnie zaktualizowane — dziękujemy za cierpliwość! Smacznego gotowania.";
 
-"key_ai_recipe_help_tips_title" = "Hilfreiche Tipps";
+"key_device_probe_temperature" = "Temperatura sondy";
 
-"key_ai_recipe_difficult_easy" = "Einfach";
+"key_device_probe_upgrade_in_progress" = "Sonda Upgrade In Progress";
 
-"key_ai_recipe_difficult_moderate" = "Mittel";
+"key_device_put_probe_into_booster_to_charge" = "Umieść sondę w boosterze, aby ją naładować";
 
-"key_ai_recipe_difficult_professional" = "Profi";
+"key_device_select_add_device_cancel" = "Nie Teraz";
 
-"key_ai_recipe_difficult_challenging" = "Anspruchsvoll";
+"key_device_select_add_device_confirm" = "Dodaj urządzenie";
 
-"key_ai_recipe_collection_success_title" = "Erfolgreich gespeichert!";
+"key_device_select_add_device_title" = "Wybierz urządzenie";
 
-"key_ai_recipe_collection_success_title_sub" = "Du kannst es unter „Ich → Lieblingsrezepte“ ansehen und verwalten.";
+"key_device_select_add_device_title_sub" = "Kein Gerät gefunden.\n Fügen Sie ein Gerät hinzu, um mit dem Kochen zu beginnen.";
 
-"key_ai_recipe_collection_failure_title" = "Erfolgreich aus den Favoriten entfernt";
+"key_device_select_add_probe_cancel" = "Nie Teraz";
 
-"key_ai_recognition_photo_title" = "Dieses Foto verwenden";
+"key_device_select_add_probe_confirm" = "Dodaj sonda";
 
-"key_ai_recognition_photo_working_title" = "Der KI-Kochassistent arbeitet gerade";
+"key_device_select_add_probe_title" = "Wybierz sonda";
 
-"key_ai_master_setting_nav_title" = "Einstellungen des KI-Kochassistenten";
+"key_device_select_add_probe_title_sub" = "Keine Sonde erkannt.\n Fügen Sie eine Sonde hinzu, um mit dem Kochen zu beginnen.";
 
-"key_ai_master_setting_animal_title" = "Was kochst du heute?";
+"key_device_select_mode" = "Wybierz mode";
 
-"key_ai_master_setting_doneness_title" = "Perfekter Gargrad";
+"key_device_setting_wifi_manager_nav_title" = "Zarządzanie Wi‑Fi";
 
-"key_ai_master_setting_equipment_title" = "Garmethode";
+"key_device_share_add" = "Dodaj user";
 
-"key_ai_master_setting_during_title" = "Zeitbudget";
+"key_device_share_alert_device_delete_account_title" = "Usuń konto";
 
-"key_ai_master_setting_flavor_title" = "Geschmacksvorlieben";
+"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "Der Benutzer '[<xxxx>]' wird demnächst entfernt. Sind Sie sicher, dass Sie ihn entfernen möchten?";
 
-"key_ai_master_setting_confirm_open_title" = "VIP aktivieren, um zu speichern";
+"key_device_share_alert_device_delete_failure_network_error" = "Löschen fehlgeschlagen. Bitte überprüfen Sie Ihre Internetverbindung.";
 
-"key_ai_master_setting_confirm_save_title" = "Speichern";
+"key_device_share_alert_device_delete_success" = "Usuń success";
 
-"key_ai_collection_recipes_segment_title" = "AI Rezepte";
+"key_device_share_alert_device_invitation_success_title" = "Sharing Pomyślny";
 
-"key_ai_collection_cook_segment_title" = "Kochprofil";
+"key_device_share_alert_device_invitation_success_title_sub" = "urządzenie has been pomyślnie shared. Proszę notify the user promptly.";
 
-"key_ai_home_last_recipe_title" = "Letztes KI-Rezept";
+"key_device_share_alert_device_invite_user" = "Invite User";
 
-"key_ai_home_last_recipe_scan_title" = "Scannen";
+"key_device_signal_interrupted" = "Sygnał interrupted";
 
-"key_ai_home_last_recipe_ask_title" = "Fragen";
+"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "Urządzenie [<xxxx>] zostało rozłączone. Sprawdź urządzenie i połącz je ponownie. Aby je włączyć, naciśnij przycisk, aż dioda LED zacznie migać (około 2 s).";
 
-"key_ai_home_last_recipe_master_title" = "Maestro";
+"key_device_warning" = "Ostrzeżenie!!!";
 
-"key_ai_day_distance_today" = "Heute";
+"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "We’re updating Twój sonda’s firmware aby enhance Twój gotowanie experience.";
 
-"key_ai_day_distance_last_day" = "Gestern";
+"key_device_what_is_happen" = "Was ist los";
 
-"key_ai_day_distance_last_7_day" = "Letzte 7 Tage";
+"key_device_what_you_need_to_do" = "Co Ty Potrzebujesz aby Do?";
 
-"key_ai_day_distance_last_30_day" = "Letzte 30 Tage";
+"key_device_wifi_unvalid_cause_cooking" = "Wi-Fi konnte während des Kochens nicht eingerichtet werden";
 
-"key_ai_master_see_more_title" = "Schalte AI Pro frei, um mehr Rezepte zu sehen";
+"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "Verbindung getrennt, da das Smartphone zu weit vom Gerät [<xxxx>] entfernt ist";
 
-"key_ai_master_see_more_title_sub" = "Abonnieren";
-
-"key_ai_dialogue_empty_title" = "Noch keine KI-Verlauf";
-
-"key_ai_dialogue_empty_title_sub" = "Beginnen Sie KI zu nutzen, um Rezepte zu erstellen, Tipps zu erhalten und Ihre Ergebnisse hier zu sehen.";
-
-"key_module_vip" = "key_module_vip";
-
-"key_vip_to_open_vip" = "VIP freischalten";
-
-"key_vip_to_renew_ai_membership" = "KI-Mitgliedschaft verlängern";
-
-"key_vip_credits_total_histroy_[<xxxx>]" = "Credits: [<xxxx>] | Credit-Verlauf >";
-
-"key_vip_purchase_nav_title" = "AI Pro";
-
-"key_vip_purchase_nav_billing_title" = "Abrechnung";
-
-"key_vip_ware_price_per_day_title_[<xxxx>]" = "[<xxxx>] pro Tag";
-
-"key_vip_ware_price_per_count_title_[<xxxx>]" = "[<xxxx>] pro Credit";
-
-"key_vip_ware_month_title" = "AI Pro monatlich";
-
-"key_vip_ware_quarterly_title" = "AI Pro vierteljährlich";
-
-"key_vip_ware_yearly_title" = "AI Pro jährlich";
-
-"key_vip_ware_count_title_[<xxxx>]" = "KI-Credits [<xxxx>]";
-
-"key_vip_benefit_0" = "Unbegrenzte KI-Bildanalyse";
-
-"key_vip_benefit_1" = "Unbegrenzte KI-Rezeptempfehlungen";
-
-"key_vip_benefit_2" = "Exklusive KI-Mitglieds-ID";
-
-"key_vip_benefit_3" = "Erhalte frühzeitig Zugang zu neuen Funktionen";
-
-"key_vip_action_restore" = "Kauf wiederherstellen";
-
-"key_vip_action_manage" = "Abo verwalten";
-
-"key_vip_action_support" = "Support kontaktieren";
-
-"key_vip_purchase_vip_title" = "Mitgliedschaft upgraden";
-
-"key_vip_purchase_point_title" = "Credits kaufen";
-
-"key_vip_purchase_title_sub_[<xxxx>]" = "Dir werden [<xxxx>] berechnet. Du kannst jederzeit kündigen.";
-
-"key_vip_contact_us_nav_title" = "E-Mail丨Kontakt";
-
-"key_vip_contact_us_left_title" = "Kontakt";
-
-"key_vip_credits_usage_nav_title" = "Credit-Nutzung";
-
-"key_vip_credits_usage_balance_title" = "Credit-Guthaben";
-
-"key_vip_credits_usage_history_title" = "Credit-Verlauf";
-
-"key_vip_credits_usage_balance_total_title" = "Gesamtguthaben";
-
-"key_vip_credits_usage_balance_purchase_title" = "Gekaufte Credits";
-
-"key_vip_credits_usage_balance_subscription_title" = "Abo-Credits";
-
-"key_vip_credits_usage_balance_bouns_title" = "Bonus-Credits";
-
-"key_vip_credits_usage_item_qa" = "KI-Fragen & Antworten";
-
-"key_vip_credits_usage_item_recipe" = "KI-Rezept";
-
-"key_vip_credits_usage_item_image" = "Bild-Scan";
-
-"key_vip_purchase_remine_less_one_day" = "Weniger als ein Tag";
-
-"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] Tage";
-
-"key_vip_manager_nav_title" = "Abo & Credits verwalten";
-
-"key_vip_manager_refund" = "Rückerstattung anfordern";
-
-"key_vip_manager_service" = "Nutzungsbedingungen";
-
-"key_vip_manager_policy" = "Datenschutzerklärung";
-
-"key_vip_purchase_switch_title" = "Abo wechseln";
-
-"key_vip_purchase_switch_title_sub_[<xxxx>]" = "Möchtest du dein bestehendes Abo für „[<xxxx>]“ wiederherstellen?";
-
-"key_vip_purchase_switch_success_title" = "Erfolgreich gewechselt";
-
-"key_vip_purchase_switch_success_title_sub" = "Ihr Abonnement wurde gewechselt. Premium-Vorteile sind jetzt verfügbar.";
-
-"key_vip_purchase_restore_success_title" = "Erfolgreich wiederhergestellt";
-
-"key_vip_purchase_restore_success_title_sub" = "Ihr Abonnement wurde gewechselt. Premium-Vorteile sind jetzt verfügbar.";
-
-"key_vip_purchase_restore_success_confirm_title" = "Los geht’s";
-
-"key_vip_purchase_restore_success_account_title" = "Konto";
-
-"key_vip_purchase_restore_success_account_value" = "Aktuelles Konto";
-
-"key_vip_purchase_restore_success_remain_title" = "Verbleibende Zeit";
-
-"key_vip_purchase_restore_success_status_title" = "Kontostatus";
-
-"key_vip_purchase_restore_success_status_value" = "Premium (aktiv)";
-
-"key_vip_purchase_restore_success_method_title" = "Zahlungsmethode";
-
-"key_vip_purchase_restore_success_method_value" = "Apple-ID";
-
-"key_vip_purchase_failure_method_value" = "Kauf fehlgeschlagen";
-
-"key_vip_purchase_failure_reason_title" = "Mögliche Gründe";
-
-"key_vip_purchase_failure_support_title" = "Support kontaktieren";
-
-"key_vip_purchase_failure_try_step_title" = "Versuche Folgendes";
-
-"key_vip_purchase_failure_try_step_0_title" = "Prüfe deine Internetverbindung und versuche es erneut";
-
-"key_vip_purchase_failure_try_step_1_title" = "Versuche es mit einer anderen Zahlungsmethode";
-
-"key_vip_purchase_failure_try_step_2_title" = "Kontaktiere den Support, wenn du Hilfe brauchst";
-
-"key_vip_purchase_failure_try_again_title" = "Erneut versuchen";
-
-"key_vip_purchase_failure_benefit_0" = "Tägliche Master-Rezepte";
-
-"key_vip_purchase_failure_benefit_1" = "Foto aufnehmen & Rezept erhalten";
-
-"key_vip_purchase_failure_benefit_2" = "VIP-Badge";
-
-"key_vip_purchase_failure_benefit_3" = "Mehr VIP-Vorteile";
-
-"key_vip_purchase_success_title" = "Zahlung erfolgreich";
-
-"key_vip_purchase_success_title_sub_[<xxxx>]" = "Dein gekaufter [<xxxx>] wurde erfolgreich gutgeschrieben";
-
-"key_vip_expire_title_[<xxxx>]" = "VIP läuft ab am [<xxxx>]";
-
-"key_vip_restore_title" = "Abo wiederherstellen";
-
-"key_vip_restore_title_sub_[<xxxx>]" = "Möchtest du dein bestehendes Abo für „[<xxxx>]“ wiederherstellen?";
-
-"key_vip_to_open_title" = "4 VIP-Vorteile freischalten";
-
-"key_vip_to_open_title_sub" = "Rezepte, die deine Vorlieben verstehen – gesünder und leckerer.";
-
-"key_vip_to_open_confirm_title" = "Jetzt abonnieren";
-
-"key_vip_expire_title" = "Deine KI-Mitgliedschaft ist abgelaufen";
-
-"key_vip_expire_title_sub" = "Deine KI-Funktionen sind pausiert. Abonniere erneut, um die KI-Kochtools weiter zu nutzen.";
-
-"key_vip_expire_cancel_title" = "Kostenlos weiter";
-
-"key_vip_expire_confirm_title" = "Erneut abonnieren";
-
-"key_vip_point_limit_title" = "Nicht genug Credits";
-
-"key_vip_point_limit_benefit_title" = "Behalte deine KI-Vorteile";
-
-"key_vip_point_limit_title_sub" = "Deine Credits sind aufgebraucht. Hol dir mehr, um KI weiter zu nutzen.";
-
-"key_vip_point_limit_cancel_title" = "Kostenlos weiter";
-
-"key_vip_point_limit_confirm_title" = "Erneut abonnieren";
-
-"key_vip_point_limit_cost" = "Kosten";
-
-"key_vip_point_limit_credits" = "Crediti";
-
-"key_module_esp_server" = "key_module_esp_server";
+"Key_Module_Server_Error" = "Key_Module_Server_Error";
 
 "key_esp_server_error_code_100001" = "Fehler beim Abrufen der Benutzerdetails";
 
@@ -2646,32 +1608,722 @@
 
 "key_esp_server_error_code_119017" = "Löschen von Super-Admin-Benutzern ist eingeschränkt!";
 
-"key_module_will_delete" = "key_module_will_delete";
+"Key_Module_Home" = "Key_Module_Home";
 
-"key_login_account_forget" = "Passwort vergessen?";
+"key_home_add_offline" = "Dodaj offline";
 
-"key_iap_describe_card_year_non_consume" = "Unbegrenzte AI-Bildanalyse\n Unbegrenzte AI-Rezeptempfehlungen\n Exklusive AI-Mitglieds-ID\n Erhalten Sie frühzeitigen Zugang zu weiteren neuen Funktionen in der Zukunft";
+"key_home_add_offline_tips" = "Obecnie jesteś offline. Dodane urządzenia mogą zostać nadpisane przez urządzenia dodane online.";
 
-"key_iap_describe_card_season_non_consume" = "Unbegrenzte AI-Bildanalyse\n Unbegrenzte AI-Rezeptempfehlungen\n Exklusive AI-Mitglieds-ID";
+"key_home_add_tips" = "Proszę Dodaj Urządzenie";
 
-"key_iap_describe_card_month_non_consume" = "Unbegrenzte AI-Bildanalyse\n Unbegrenzte AI-Rezeptempfehlungen";
+"key_home_device_add_limit" = "Dodaj urządzenie limit";
 
-"key_iap_describe_card_week_non_consume" = "Unbegrenzte AI-Bildanalyse";
+"key_home_device_add_limit_tips" = "Es können keine weiteren Geräte hinzugefügt werden. Entfernen Sie eines oder kontaktieren Sie den Support";
 
-"key_bind_delete_probe" = "Sonde löschen";
+"key_home_exit_visitor_mode" = "Besuchermodus beenden";
 
-"key_bind_connect_wifi" = "Verbinde mit Wi-Fi";
+"key_home_guest" = "Gościa";
 
-"key_bind_connecting_to_wifi" = "WiFi verbindet sich";
+"key_home_status_change_alert_title" = "Status Change";
 
-"key_bind_cloud_connecting" = "Cloud-Verbindung";
+"key_home_status_change_alert_title_confirm" = "Połącz z Wi‑Fi";
 
-"key_bind_connect_to_wifi" = "Mit WiFi verbinden";
+"key_home_status_change_alert_title_sub" = "Zalogowano. Połącz booster z Wi‑Fi, aby korzystać z nielimitowanego zasięgu i zdalnego monitorowania.";
 
-"key_bind_select_your_wifi" = "Wählen Sie Ihr WiFi";
+"key_home_tourist_alert_title" = "Note";
 
-"key_bind_searching_wifi" = "WIFI wird gescannt";
+"key_home_tourist_alert_title_sub" = "Tryb gościa obsługuje tylko połączenie Bluetooth. Aby korzystać z nielimitowanego zasięgu, zaloguj się.";
 
-"key_bind_wiFi_connection_failed" = "WiFi-Verbindung fehlgeschlagen";
+"Key_Module_Log" = "Key_Module_Log";
 
-"key_bind_WiFi_connection_failed" = "WiFi-Verbindung fehlgeschlagen";
+"key_log_log_in_failure" = "Anmeldung fehlgeschlagen";
+
+"key_log_log_in_success" = "Erfolgreich angemeldet";
+
+"Key_Module_Login" = "Key_Module_Login";
+
+"key_login_account_delete_success" = "Usuń success";
+
+"key_login_account_delete_sure" = "Sure";
+
+"key_login_account_delete_title" = "Sicher Konto löschen";
+
+"key_login_account_delete_title_sub" = "Po usunięciu konta nie będzie można odzyskać Twoich danych.";
+
+"key_login_account_error_empty" = "Wprowadź e-mail";
+
+"key_login_account_error_unvalid" = "Geben Sie die richtige E-Mail-Adresse ein";
+
+"key_login_code_error_less" = "Der Bestätigungscode muss mindestens 6 Zeichen lang sein";
+
+"key_login_code_error_unvalid" = "Weryfikacyjny Kod Incorrect";
+
+"key_login_delete_code_input_placeholder" = "Wpisz kod";
+
+"key_login_delete_code_resend_title" = "Erneut senden";
+
+"key_login_delete_code_send_title" = "Get";
+
+"key_login_delete_code_title" = "Kod weryfikacyjny";
+
+"key_login_delete_confirm_title" = "Usuń konto";
+
+"key_login_delete_email_input_email_placeholder" = "Kod";
+
+"key_login_delete_email_title" = "Twój E-mail";
+
+"key_login_delete_nav_title" = "Authentication";
+
+"key_login_email_button_code_send_title" = "Get";
+
+"key_login_email_code_auth_resend_title_[<xxxx>]" = "Code erneut senden [<xxxx>]";
+
+"key_login_email_code_auth_send_tips_[<xxxx>]" = "Bestätigungscode gesendet an: [<xxxx>]";
+
+"key_login_email_code_auth_title" = "Wprowadź Weryfikacyjny Kod";
+
+"key_login_email_code_login_button_get_code_title" = "Get Kod";
+
+"key_login_email_code_login_button_password_title" = "Anmelden mit Passwort";
+
+"key_login_email_code_send_success_title" = "Weryfikacyjny kod sent";
+
+"key_login_email_code_title" = "Anmelden\n mit Code";
+
+"key_login_email_create_confirm_title" = "Dalej";
+
+"key_login_email_create_input_code_title" = "Kod weryfikacyjny";
+
+"key_login_email_create_input_code_title_placeholder" = "Wpisz kod";
+
+"key_login_email_create_title" = "E-Mail-Registrierung";
+
+"key_login_email_password_button_code_title" = "Mit Code anmelden";
+
+"key_login_email_password_button_create_title" = "Create Konto";
+
+"key_login_email_password_button_login_title" = "Zaloguj się";
+
+"key_login_email_password_button_reset_title" = "Zresetuj hasło";
+
+"key_login_email_password_input_email_placeholder" = "Wpisz e-mail";
+
+"key_login_email_password_input_email_title" = "E-mail";
+
+"key_login_email_password_input_password_placeholder" = "Wpisz hasło";
+
+"key_login_email_password_input_password_title" = "Hasło";
+
+"key_login_email_password_title" = "Mit\n Passwort anmelden";
+
+"key_login_go_to_login" = "Go aby login";
+
+"key_login_home_title_email" = "Sign In Dzięki E-mail";
+
+"key_login_home_title_start" = "Get Started";
+
+"key_login_log_in" = "Zaloguj się";
+
+"key_login_password_create_password_confirm_button_title" = "Dalej";
+
+"key_login_password_create_password_confirm_input_placeholder_title" = "Wpisz hasło";
+
+"key_login_password_create_password_confirm_input_title" = "Wprowadź hasło";
+
+"key_login_password_create_password_input_placeholder_title" = "Wpisz hasło";
+
+"key_login_password_create_password_input_title" = "Hasło";
+
+"key_login_password_create_step_title" = "Erstellen Sie Ihr Passwort";
+
+"key_login_password_create_title" = "Hasło Reset";
+
+"key_login_password_error_less" = "Hasło musi mieć co najmniej 6 znaków";
+
+"key_login_password_match_error" = "Hasła nie są zgodne";
+
+"key_login_privacy_[<xxxx>]" = "Ich stimme zu, dass ich die [<xxxx>] gelesen und akzeptiert habe.";
+
+"key_login_privacy_service" = "《Datenschutz & AGB》";
+
+"key_login_privacy_view_confirm" = "Zaakceptuj i kontynuuj";
+
+"key_login_privacy_view_title" = "Przeczytaj i zaakceptuj poniższe warunki";
+
+"key_login_regist_success" = "Zarejestruj się success";
+
+"key_login_register_error_account_exist_subtitle" = "User Konto Już Dostępna";
+
+"key_login_register_error_account_exist_title" = "Konto dostępna";
+
+"key_login_reset_code_input_placeholder" = "Wpisz kod";
+
+"key_login_reset_code_resend_title" = "Erneut senden";
+
+"key_login_reset_code_send_title" = "Get";
+
+"key_login_reset_code_title" = "Kod weryfikacyjny";
+
+"key_login_reset_email_title" = "Twój E-mail";
+
+"key_login_reset_nav_title" = "Authentication";
+
+"key_login_reset_success" = "Hasło Reset Pomyślny";
+
+"key_login_reset_success_then_login" = "Ihr Passwort wurde erfolgreich zurückgesetzt. Bitte melden Sie sich aus Sicherheitsgründen erneut an";
+
+"key_login_tourist_alert_confirm_title" = "Potwierdź";
+
+"key_login_tourist_alert_sign_in_title" = "Sign in";
+
+"key_login_tourist_alert_title" = "Tryb tylko Bluetooth";
+
+"key_login_tourist_alert_title_tips" = "Obecnie korzystasz tylko z połączenia Bluetooth. Zaloguj się, aby odblokować więcej funkcji i korzystać z pełni możliwości.";
+
+"Key_Module_OTA" = "Key_Module_OTA";
+
+"key_ota_status_check" = "Prüfen";
+
+"key_ota_status_checking" = "Prüft";
+
+"key_ota_status_download" = "Herunterladen und installieren";
+
+"key_ota_status_download_success" = "Download erfolgreich";
+
+"key_ota_status_downloading" = "Wird heruntergeladen";
+
+"key_ota_status_downloading_[<xxxx>]" = "Wird heruntergeladen [<xxxx>]";
+
+"key_ota_status_install" = "Installieren";
+
+"key_ota_status_install_success" = "Installation erfolgreich";
+
+"key_ota_status_installing" = "Wird installiert";
+
+"key_ota_status_installing_[<xxxx>]" = "Wird installiert [<xxxx>]";
+
+"key_ota_status_title_checking" = "Prüft";
+
+"key_ota_status_title_latest" = "Bereits die neueste Version";
+
+"key_ota_status_title_new_valid" = "Neue Firmware-Version ist bereit";
+
+"key_update_failed_device_ota" = "Aktualizuj nie powiodło się";
+
+"key_upgrading_device_ota" = "Upgrading";
+
+"Key_Module_Server" = "Key_Module_Server";
+
+"key_server_failure" = "Failure";
+
+"key_server_try_later" = "Proszę spróbuj ponownie później";
+
+"key_server_wrong_please_try_later" = "Server błąd. Proszę spróbuj ponownie później";
+
+"Key_Module_Setting" = "Key_Module_Setting";
+
+"key_seting_home_page_information" = "Dane osobowe";
+
+"key_setting_account_has_log_out" = "Dieses Konto wurde abgemeldet";
+
+"key_setting_alert_option_complete" = "Gotowanie Zakończono Alert";
+
+"key_setting_alert_option_flip" = "Obróć Alerts";
+
+"key_setting_alert_option_manage_option_your_sound" = "Twój Sounds";
+
+"key_setting_alert_option_manage_title" = "Zarządzanie Ringtones";
+
+"key_setting_alert_option_notification_title" = "Notification Sounds";
+
+"key_setting_alert_option_reset" = "Odpoczynek Alerts";
+
+"key_setting_alert_option_tips" = "Wskazówka:\n1. Alerty dźwiękowe mogą być zakłócone przez tryb cichy, Nie przeszkadzać i ustawienia powiadomień systemowych.\n2. Sprawdź, czy głośność multimediów urządzenia jest podwyższona, a aplikacja ma uprawnienia do odtwarzania dźwięków.";
+
+"key_setting_alert_option_toggle_option_alert_sound" = "Alarmtöne";
+
+"key_setting_alert_option_toggle_tips" = "Aktivieren Sie Tonbenachrichtigungen für wichtige Warnungen.";
+
+"key_setting_alert_option_toggle_title" = "Ein/Aus";
+
+"key_setting_alert_sound_nav_title" = "Alert Sounds";
+
+"key_setting_alert_sound_set" = "Gotowe Alert Sound";
+
+"key_setting_alexa" = "Alexa";
+
+"key_setting_ambient_management_alert_answer" = "Możesz enable it in urządzenie → urządzenie Management → Otoczenia Temperatura.";
+
+"key_setting_ambient_management_alert_cancel" = "Go Aby Otwórz";
+
+"key_setting_ambient_management_alert_confirm" = "Sure, I Know";
+
+"key_setting_ambient_management_alert_question" = "Chcesz włączyć funkcję temperatury otoczenia?";
+
+"key_setting_ambient_management_alert_title" = "Otoczenia Management";
+
+"key_setting_ambient_temperature" = "Umgebungstemperatur";
+
+"key_setting_app_version" = "Wersja aplikacji";
+
+"key_setting_apple_id" = "Apple Id";
+
+"key_setting_beta_mode" = "Beta";
+
+"key_setting_buzzer" = "Buzzer";
+
+"key_setting_change_language_alert_title" = "Change Language";
+
+"key_setting_change_language_alert_title_sub" = "Proszę wybierz twój language";
+
+"key_setting_choose_sound_alert_all_turn_off_title" = "Alle Warnungen deaktivieren?";
+
+"key_setting_choose_sound_alert_all_turn_off_title_sub" = "Sie könnten wichtige Koch-Erinnerungen verpassen. Sind Sie sicher, dass Sie die Warnungstöne deaktivieren möchten?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title" = "Abschlussbenachrichtigungen deaktivieren?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "Sie könnten wichtige Koch-Erinnerungen verpassen.\\n Sind Sie sicher, dass Sie die Warnungstöne deaktivieren möchten?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title" = "Wendewarnungen deaktivieren?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "Diese Warnung für den aktuellen Kochvorgang deaktivieren? Sie könnten diese Erinnerung verpassen.";
+
+"key_setting_choose_sound_alert_notification_turn_off_title" = "Benachrichtigungen aus";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "Einstellungen öffnen";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "Benachrichtigungen sind in den Systemeinstellungen deaktiviert.";
+
+"key_setting_choose_sound_alert_repeat_reminder_once" = "Einmal";
+
+"key_setting_choose_sound_alert_repeat_reminder_title" = "Wiederholungserinnerung";
+
+"key_setting_choose_sound_alert_repeat_reminder_twice" = "Zweimal";
+
+"key_setting_choose_sound_alert_rest_turn_off_title" = "Ruhewarnungen deaktivieren?";
+
+"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "Diese Warnung für den aktuellen Kochvorgang deaktivieren? Sie könnten diese Erinnerung verpassen.";
+
+"key_setting_choose_sound_alert_type_all" = "Alle";
+
+"key_setting_choose_sound_alert_type_popup" = "Pop-up";
+
+"key_setting_choose_sound_alert_type_sound" = "Ton";
+
+"key_setting_choose_sound_alert_type_title" = "Warnungstyp";
+
+"key_setting_choose_sound_alert_type_vibration" = "Vibration";
+
+"key_setting_choose_sound_cook_nav_title" = "Kochen-abgeschlossen-Ton";
+
+"key_setting_choose_sound_flip_nav_title" = "Wendewarnungston";
+
+"key_setting_choose_sound_nav_title" = "Ton auswählen";
+
+"key_setting_choose_sound_rest_nav_title" = "Ruhewarnungston";
+
+"key_setting_choose_sound_title_bbq_time" = "Grill-Timer";
+
+"key_setting_choose_sound_title_bright_tone" = "Heller Ton";
+
+"key_setting_choose_sound_title_cheerful_ring" = "Fröhliches Geräusch";
+
+"key_setting_choose_sound_title_chefs_call" = "Aufgeregtes Geräusch";
+
+"key_setting_choose_sound_title_classic_cell" = "Klassische Glocke";
+
+"key_setting_choose_sound_title_cook_sound" = "Ton „Kochen abgeschlossen“";
+
+"key_setting_choose_sound_title_cozy_chime" = "Energiegeladenes Geräusch";
+
+"key_setting_choose_sound_title_flip_sound" = "Wendewarnungston";
+
+"key_setting_choose_sound_title_gentle_chime" = "Sanftes Glockenspiel";
+
+"key_setting_choose_sound_title_grill_pulse" = "Niedliches Geräusch";
+
+"key_setting_choose_sound_title_pick_your_vibe" = "Wähle deine Stimmung";
+
+"key_setting_choose_sound_title_rest_sound" = "Ruhewarnungston";
+
+"key_setting_choose_sound_title_soft_alert" = "Sanfter Alarm";
+
+"key_setting_choose_sound_title_sub" = "Ton antippen, um eine Vorschau zu hören und auszuwählen.";
+
+"key_setting_choose_sound_title_warm_reminder" = "Herzliche Erinnerung";
+
+"key_setting_connect_wifi" = "Połącz wi‑fi";
+
+"key_setting_copy" = "Kopiuj";
+
+"key_setting_cycle_firmware_update" = "Zyklus-Firmware-Update";
+
+"key_setting_delete_account" = "Usuń konto";
+
+"key_setting_delete_device" = "Usuń urządzenie";
+
+"key_setting_delete_device_title" = "Gerät löschen bestätigen";
+
+"key_setting_delete_success" = "Usuń success";
+
+"key_setting_device_management" = "Urządzenie management";
+
+"key_setting_email" = "E-mail";
+
+"key_setting_faqs" = "FAQS";
+
+"key_setting_firmware_update" = "Aktualizacja firmware";
+
+"key_setting_google" = "Google";
+
+"key_setting_guide_sizzle_all_set_title" = "Ty’re Wszystko Gotowe aby Sizzle!";
+
+"key_setting_guide_sizzle_all_set_title_confirm" = "Start Gotowanie";
+
+"key_setting_guide_sizzle_all_set_title_sub" = "Ty’re paired and gotowe aby grill, chef! Don’t zapomniałeś aby zapisz me a bite.";
+
+"key_setting_guide_sizzle_ambient_temperature_title" = "Fühlst du dich fancy?";
+
+"key_setting_guide_sizzle_ambient_temperature_title_sub" = "Aktiviere die Umgebungstemperatur, wenn du dich wie ein Profi fühlen willst. Oder lass es einfach – alles gut!";
+
+"key_setting_guide_sizzle_ambient_temperature_title_tips" = "Gerät verbunden? Home → Mehr. Einfach umschalten.";
+
+"key_setting_guide_sizzle_buzzer_title" = "Klingeln oder Ruhe?";
+
+"key_setting_guide_sizzle_buzzer_title_sub" = "Soll dein Fleisch piepen, wenn es fertig ist? Oder lieber Ruhe? Deine Entscheidung!";
+
+"key_setting_guide_sizzle_buzzer_title_tips" = "Gerät verbunden? Home → Mehr. Einfach umschalten.";
+
+"key_setting_guide_sizzle_select_size_title" = "Zoll oder Zentimeter?";
+
+"key_setting_guide_sizzle_select_size_title_sub" = "Es gibt zwei Arten von Menschen: die Zoll-Fans und die Zentimeter-Fans. Wähl deine Seite und los geht’s!";
+
+"key_setting_guide_sizzle_select_size_title_tips" = "Du kannst es jederzeit in den Einstellungen ändern.";
+
+"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "Weiter ([<xxxx0>]/[<xxxx1>])";
+
+"key_setting_guide_sizzle_temperature_unit_title" = "Fahrenheit oder Celsius?";
+
+"key_setting_guide_sizzle_temperature_unit_title_sub" = "Es gibt Fahrenheit-Fans und Celsius-Fans. Such dir deinen Favoriten aus!";
+
+"key_setting_guide_sizzle_temperature_unit_title_tips" = "Du kannst es jederzeit in den Einstellungen ändern.";
+
+"key_setting_guide_sizzle_welcome_title" = "Witamy w Meatmeet";
+
+"key_setting_guide_sizzle_welcome_title_confirm" = "Let’s Start";
+
+"key_setting_guide_sizzle_welcome_title_sub" = "Dziękujemy, że dołączasz do Meatmeet! Zanim zaczniemy, ustawmy kilka rzeczy, aby Twoje mięso za każdym razem wychodziło idealnie.";
+
+"key_setting_hardware_version" = "Hardware wersja";
+
+"key_setting_icloud_sync" = "iCloud Sync";
+
+"key_setting_language" = "Język";
+
+"key_setting_log_out" = "Log out";
+
+"key_setting_member_information" = "Członek Information";
+
+"key_setting_my_favorite" = "Mój ulubiony";
+
+"key_setting_my_favorites" = "Moje ulubione";
+
+"key_setting_nickname" = "Spitzname";
+
+"key_setting_password" = "Hasło";
+
+"key_setting_probe_mac_address" = "Sonda Management";
+
+"key_setting_reset" = "Resetuj";
+
+"key_setting_screen_timeout" = "Bildschirmzeitüberschreitung";
+
+"key_setting_select_size" = "Wybierz size";
+
+"key_setting_share" = "Udostępnij";
+
+"key_setting_sound_cook_alert_reminder_title" = "Wiederholungserinnerung";
+
+"key_setting_sound_cook_alert_title" = "Warnmethode";
+
+"key_setting_sound_cook_alert_type_title" = "Warnungstyp";
+
+"key_setting_sound_cook_nav_title" = "Ruhewarnungen";
+
+"key_setting_sound_cook_remain_add" = "Neue Warnung hinzufügen";
+
+"key_setting_sound_cook_remain_end_[<xxxx>]" = "Ende in [<xxxx>] Minuten";
+
+"key_setting_sound_cook_remain_time_exist_toast" = "Restzeit bereits vorhanden";
+
+"key_setting_sound_cook_remain_title" = "Restzeit-Warnung";
+
+"key_setting_sound_cook_sound_select_title" = "Ton auswählen";
+
+"key_setting_sound_cook_sound_tips" = "Tipp：\\n Halten Sie den perfekten Ruhezeitpunkt ein.";
+
+"key_setting_sound_cook_sound_title" = "Warnsignal";
+
+"key_setting_sound_cook_toggle_switch_title" = "Ruhewarnungen aktivieren";
+
+"key_setting_sound_cook_toggle_title" = "Ein/Aus";
+
+"key_setting_sound_flip_alert_reminder_title" = "Wiederholungserinnerung";
+
+"key_setting_sound_flip_alert_title" = "Warnmethode";
+
+"key_setting_sound_flip_alert_type_title" = "Warnungstyp";
+
+"key_setting_sound_flip_nav_title" = "Wendewarnungen";
+
+"key_setting_sound_flip_sound_select_title" = "Ton auswählen";
+
+"key_setting_sound_flip_sound_tips" = "Tipp：\\n Lassen Sie sich benachrichtigen, wenn es Zeit ist, Ihr Essen zu wenden.";
+
+"key_setting_sound_flip_sound_title" = "Warnsignal";
+
+"key_setting_sound_flip_toggle_switch_title" = "Wendewarnung aktivieren";
+
+"key_setting_sound_flip_toggle_title" = "Ein/Aus";
+
+"key_setting_sound_rest_alert_reminder_title" = "Wiederholungserinnerung";
+
+"key_setting_sound_rest_alert_title" = "Warnmethode";
+
+"key_setting_sound_rest_alert_type_title" = "Warnungstyp";
+
+"key_setting_sound_rest_nav_title" = "Ruhewarnungen";
+
+"key_setting_sound_rest_sound_select_title" = "Ton auswählen";
+
+"key_setting_sound_rest_sound_tips" = "Tipp：\\n Halten Sie den perfekten Ruhezeitpunkt ein.";
+
+"key_setting_sound_rest_sound_title" = "Warnsignal";
+
+"key_setting_sound_rest_toggle_switch_title" = "Ruhewarnungen aktivieren";
+
+"key_setting_sound_rest_toggle_title" = "Ein/Aus";
+
+"key_setting_sure" = "Sure";
+
+"key_setting_tap_log_out" = "Klicken Sie auf 'Ausfahrt', um sich abzumelden";
+
+"key_setting_temperature_units" = "Temperatura Units";
+
+"key_setting_test_page" = "Test Page";
+
+"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] Minuten";
+
+"key_setting_timeout_never_title" = "Nie";
+
+"key_setting_timeout_never_title_sub" = "Bildschirm bleibt mit niedriger Helligkeit eingeschaltet (Standard)";
+
+"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] Sekunden";
+
+"key_setting_timeout_title" = "Bildschirm-Timeout";
+
+"key_setting_timeout_title_sub" = "Legen Sie fest, wie lange der Gerätebildschirm nach Inaktivität eingeschaltet bleibt. Hohe Helligkeit dauert 45s, dann wird für die gewählte Dauer auf niedrige Helligkeit gedimmt.";
+
+"key_setting_user_id" = "User ID";
+
+"Key_Module_Share" = "Key_Module_Share";
+
+"key_share_action_accepted" = "Zaakceptowałem";
+
+"key_share_action_device_delete" = "Usuń urządzenie";
+
+"key_share_action_device_exit" = "Exit";
+
+"key_share_action_refuse" = "Refuse";
+
+"key_share_share_list" = "Share Lista";
+
+"Key_Module_TabBar" = "Key_Module_TabBar";
+
+"key_tabbar_ai" = "AI";
+
+"key_tabbar_history" = "Historia";
+
+"key_tabbar_home" = "Home";
+
+"key_tabbar_setting" = "Ustawienie";
+
+"Key_Module_UserInfo" = "Key_Module_UserInfo";
+
+"key_userinfo_edit_title" = "Edit Personal";
+
+"key_userinfo_nick_placeholder" = "Wprowadź nickname";
+
+"key_userinfo_nick_tips_[<xxxx0>]_[<xxxx1>]" = "Nickname needs aby meet [<xxxx0>]-[<xxxx1>] characters";
+
+"key_userinfo_personal_information" = "Dane osobowe";
+
+"key_userinfo_save_confirm" = "Zapisz";
+
+"Key_Module_VIP" = "Key_Module_VIP";
+
+"key_vip_action_manage" = "Abo verwalten";
+
+"key_vip_action_restore" = "Przywróć Zakup";
+
+"key_vip_action_support" = "Contact Pomoc";
+
+"key_vip_benefit_0" = "Unbegrenzte KI-Bildanalyse";
+
+"key_vip_benefit_1" = "Unbegrenzte KI-Rezeptempfehlungen";
+
+"key_vip_benefit_2" = "Exklusive KI-Mitglieds-ID";
+
+"key_vip_benefit_3" = "Erhalte frühzeitig Zugang zu neuen Funktionen";
+
+"key_vip_contact_us_left_title" = "Contact Us";
+
+"key_vip_contact_us_nav_title" = "E-Mail丨Kontakt";
+
+"key_vip_credits_total_histroy_[<xxxx>]" = "Credits: [<xxxx>] | Credit-Verlauf >";
+
+"key_vip_credits_usage_balance_bouns_title" = "Bonus-Credits";
+
+"key_vip_credits_usage_balance_purchase_title" = "Gekaufte Credits";
+
+"key_vip_credits_usage_balance_subscription_title" = "Abo-Credits";
+
+"key_vip_credits_usage_balance_title" = "Credits Balance";
+
+"key_vip_credits_usage_balance_total_title" = "Total Credits";
+
+"key_vip_credits_usage_history_title" = "Credits Historia";
+
+"key_vip_credits_usage_item_image" = "Bild-Scan";
+
+"key_vip_credits_usage_item_qa" = "KI-Fragen & Antworten";
+
+"key_vip_credits_usage_item_recipe" = "KI-Rezept";
+
+"key_vip_credits_usage_nav_title" = "Credits Usage";
+
+"key_vip_expire_cancel_title" = "Użyj Free";
+
+"key_vip_expire_confirm_title" = "Resubscribe";
+
+"key_vip_expire_title" = "Deine KI-Mitgliedschaft ist abgelaufen";
+
+"key_vip_expire_title_[<xxxx>]" = "VIP läuft ab am [<xxxx>]";
+
+"key_vip_expire_title_sub" = "Deine KI-Funktionen sind pausiert. Abonniere erneut, um die KI-Kochtools weiter zu nutzen.";
+
+"key_vip_manager_nav_title" = "Zarządzanie Subskrypcja & Credits";
+
+"key_vip_manager_policy" = "Privacy Politykę";
+
+"key_vip_manager_refund" = "Poproś a Refund";
+
+"key_vip_manager_service" = "Terms Of Usługi";
+
+"key_vip_point_limit_benefit_title" = "Pozostaw Twój AI Korzyści";
+
+"key_vip_point_limit_cancel_title" = "Użyj Free";
+
+"key_vip_point_limit_confirm_title" = "Resubscribe";
+
+"key_vip_point_limit_cost" = "Cost";
+
+"key_vip_point_limit_credits" = "Credits";
+
+"key_vip_point_limit_title" = "Nicht genug Credits";
+
+"key_vip_point_limit_title_sub" = "Deine Credits sind aufgebraucht. Hol dir mehr, um KI weiter zu nutzen.";
+
+"key_vip_purchase_failure_benefit_0" = "Codzienne przepisy mistrza";
+
+"key_vip_purchase_failure_benefit_1" = "Foto aufnehmen & Rezept erhalten";
+
+"key_vip_purchase_failure_benefit_2" = "VIP Odznaka";
+
+"key_vip_purchase_failure_benefit_3" = "Więcej VIP Perks";
+
+"key_vip_purchase_failure_method_value" = "Zakup Nie powiodło się";
+
+"key_vip_purchase_failure_reason_title" = "Mögliche Gründe";
+
+"key_vip_purchase_failure_try_again_title" = "Spróbuj ponownie";
+
+"key_vip_purchase_failure_try_step_0_title" = "Sprawdź twój internet połączenie and spróbuj ponownie";
+
+"key_vip_purchase_failure_try_step_1_title" = "Spróbuj a different płatność metoda";
+
+"key_vip_purchase_failure_try_step_2_title" = "Contact pomoc for pomoc";
+
+"key_vip_purchase_failure_try_step_title" = "Spróbuj the poniższe";
+
+"key_vip_purchase_nav_billing_title" = "Billing";
+
+"key_vip_purchase_nav_title" = "AI Pro";
+
+"key_vip_purchase_point_title" = "Credits kaufen";
+
+"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] Tage";
+
+"key_vip_purchase_remine_less_one_day" = "Weniger als ein Tag";
+
+"key_vip_purchase_restore_success_account_title" = "Konto";
+
+"key_vip_purchase_restore_success_account_value" = "Bieżące Konto";
+
+"key_vip_purchase_restore_success_confirm_title" = "Get Started";
+
+"key_vip_purchase_restore_success_method_title" = "Płatność Metoda";
+
+"key_vip_purchase_restore_success_method_value" = "Apple-ID";
+
+"key_vip_purchase_restore_success_remain_title" = "Pozostały czas";
+
+"key_vip_purchase_restore_success_status_title" = "Konto Status";
+
+"key_vip_purchase_restore_success_status_value" = "Premium(active)";
+
+"key_vip_purchase_restore_success_title" = "Erfolgreich wiederhergestellt";
+
+"key_vip_purchase_restore_success_title_sub" = "Ihr Abonnement wurde gewechselt. Premium-Vorteile sind jetzt verfügbar.";
+
+"key_vip_purchase_success_title" = "Zahlung erfolgreich";
+
+"key_vip_purchase_success_title_sub_[<xxxx>]" = "Dein gekaufter [<xxxx>] wurde erfolgreich gutgeschrieben";
+
+"key_vip_purchase_switch_success_title" = "Switched Pomyślnie";
+
+"key_vip_purchase_switch_success_title_sub" = "Ihr Abonnement wurde gewechselt. Premium-Vorteile sind jetzt verfügbar.";
+
+"key_vip_purchase_switch_title" = "Abo wechseln";
+
+"key_vip_purchase_switch_title_sub_[<xxxx>]" = "Möchtest du dein bestehendes Abo für „[<xxxx>]“ wiederherstellen?";
+
+"key_vip_purchase_title" = "Kup";
+
+"key_vip_purchase_title_sub_[<xxxx>]" = "Dir werden [<xxxx>] berechnet. Du kannst jederzeit kündigen.";
+
+"key_vip_purchase_vip_title" = "Upgrade Membership";
+
+"key_vip_restore_title" = "Przywróć subskrypcję";
+
+"key_vip_restore_title_sub_[<xxxx>]" = "Möchtest du dein bestehendes Abo für „[<xxxx>]“ wiederherstellen?";
+
+"key_vip_to_open_confirm_title" = "Subscribe Teraz";
+
+"key_vip_to_open_title" = "Odblokuj 4 korzyści VIP";
+
+"key_vip_to_open_title_sub" = "Rezepte, die deine Vorlieben verstehen – gesünder und leckerer.";
+
+"key_vip_to_open_vip" = "Aby Otwórz VIP";
+
+"key_vip_to_renew_ai_membership" = "KI-Mitgliedschaft verlängern";
+
+"key_vip_ware_price_per_count_title_[<xxxx>]" = "[<xxxx>] pro Credit";
+
+"key_vip_ware_price_per_day_title_[<xxxx>]" = "[<xxxx>] pro Tag";
+
+"Key-Origin" = "Value-Polish";
+
+"key_cook_guide_choose_cook_mode_tips​" = "Wybierz tryb, w którym chcesz gotować";
+
+"key_bind_unified_product_brochure​" = "Broszura produktowa";

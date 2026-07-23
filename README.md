@@ -17,7 +17,7 @@ The current priority path is bundle-based localization loading. A localization b
 
 The runtime path now also includes inline code comments around bundle registration, import validation, cache behavior, and storage fallback.
 
-Current supported languages: English, Simplified Chinese, Traditional Chinese, French, German, Spanish, Italian, and Polish.
+Current supported languages: English, Simplified Chinese, Traditional Chinese, French, German, Spanish, Italian, Polish, Korean, Russian, and Ukrainian.
 
 At the repository level, the project is split into three main parts:
 

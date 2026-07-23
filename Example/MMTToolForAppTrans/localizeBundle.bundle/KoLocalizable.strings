@@ -1,0 +1,2331 @@
+"Key_Module_AI" = "Key_Module_AI";
+
+"key_ai_answer_recipe_cook_awaken_title" = "요리 시작";
+
+"key_ai_answer_recipe_cook_flip_title" = "요리 뒤집기";
+
+"key_ai_answer_recipe_cook_meat_name_title" = "고기 이름";
+
+"key_ai_answer_recipe_cook_steps_title" = "요리 단계";
+
+"key_ai_answer_recipe_cook_time_title" = "요리 시간";
+
+"key_ai_answer_recipe_ingredient_list_title" = "재료 목록";
+
+"key_ai_answer_recipe_name_title" = "레시피 이름";
+
+"key_ai_answer_recipe_notes_title" = "메모";
+
+"key_ai_answer_recipe_pre_time_title" = "준비 시간";
+
+"key_ai_answer_recipe_star_title" = "별점";
+
+"key_ai_answer_recipe_total_time_title" = "총 시간";
+
+"key_ai_answer_result_choice_confirm_title" = "레시피 사용";
+
+"key_ai_answer_result_choice_equipment_title" = "장비 선택";
+
+"key_ai_answer_result_choice_meat_title" = "고기 선택";
+
+"key_ai_answer_result_choice_temperature_title" = "온도 선택";
+
+"key_ai_answer_result_choice_title" = "선택";
+
+"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "장비 선택";
+
+"key_ai_answer_setting_cooking_choose_meat_title_sub" = "고기 선택";
+
+"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "온도 선택";
+
+"key_ai_answer_setting_cooking_title_confirm" = "선택 완료";
+
+"key_ai_collection_cook_segment_title" = "요리 프로필";
+
+"key_ai_collection_recipes_segment_title" = "AI 레시피";
+
+"key_ai_day_distance_last_30_day" = "지난 30일";
+
+"key_ai_day_distance_last_7_day" = "지난 7일";
+
+"key_ai_day_distance_last_day" = "어제";
+
+"key_ai_day_distance_today" = "오늘";
+
+"key_ai_dialogue_empty_title" = "AI 기록 없음";
+
+"key_ai_dialogue_empty_title_sub" = "AI로 레시피를 생성하고 팁을 얻고 결과를 확인하세요.";
+
+"key_ai_home_image_recognition_title" = "AI 이미지 인식";
+
+"key_ai_home_image_recognition_title_sub" = "사진으로 레시피 만들기";
+
+"key_ai_home_last_recipe_ask_title" = "질문";
+
+"key_ai_home_last_recipe_master_title" = "마스터";
+
+"key_ai_home_last_recipe_scan_title" = "스캔";
+
+"key_ai_home_last_recipe_title" = "최근 AI 레시피";
+
+"key_ai_home_recipe_recommendations_title" = "AI 레시피 추천";
+
+"key_ai_home_recipe_recommendations_title_sub" = "아이디어로 레시피 만들기";
+
+"key_ai_home_title" = "AI 요리";
+
+"key_ai_image_recognition_cart_title" = "취향을 알려주시면 맞춤 레시피를 추천해드립니다!";
+
+"key_ai_master_enterence_confirm" = "AI 맞춤 설정";
+
+"key_ai_master_enterence_header" = "AI 요리 마스터";
+
+"key_ai_master_enterence_title" = "레시피 맞춤 설정";
+
+"key_ai_master_enterence_title_sub" = "Tell us your preferences — we’ll 만들기 the perfect 레시피 for you.";
+
+"key_ai_master_see_more_title" = "AI 멤버십을 잠금 해제하여 더 많은 마스터 레시피를 이용하세요.";
+
+"key_ai_master_see_more_title_sub" = "구독";
+
+"key_ai_master_setting_animal_title" = "오늘 무엇을 요리하시겠어요?";
+
+"key_ai_master_setting_confirm_open_title" = "VIP를 열어 저장";
+
+"key_ai_master_setting_confirm_save_title" = "저장";
+
+"key_ai_master_setting_doneness_title" = "완벽한 익힘 정도";
+
+"key_ai_master_setting_during_title" = "시간 예산";
+
+"key_ai_master_setting_equipment_title" = "요리 Method";
+
+"key_ai_master_setting_flavor_title" = "맛 선호도";
+
+"key_ai_master_setting_nav_title" = "AI 마스터 설정";
+
+"key_ai_probe_insert_next_title" = "다음 단계";
+
+"key_ai_probe_insert_title" = "온도계 Inserti켜짐";
+
+"key_ai_recipe_answer_card_title" = "Smart 요리 설정";
+
+"key_ai_recipe_answer_card_title_sub" = "Based 켜짐 your 선택i켜짐, we will generate a drawing 레시피 for you";
+
+"key_ai_recipe_answer_nav_title" = "AI 답변";
+
+"key_ai_recipe_answer_title_sub" = "Please 선택 according to the opti켜짐s";
+
+"key_ai_recipe_collection" = "저장 레시피";
+
+"key_ai_recipe_collection_failure_title" = "성공가득 참y 제거d from Favorites";
+
+"key_ai_recipe_collection_success_title" = "저장d 성공가득 참y!";
+
+"key_ai_recipe_collection_success_title_sub" = "You can view and manage it in “My → Favorite 레시피.”";
+
+"key_ai_recipe_confirm_detail_title" = "View 레시피 상세 >";
+
+"key_ai_recipe_confirm_next_title" = "그릴 시작";
+
+"key_ai_recipe_confirm_swipe_title_tips" = "Swipe left and right to see 더 보기";
+
+"key_ai_recipe_confirm_title" = "AI Barbecue Soluti켜짐";
+
+"key_ai_recipe_confirm_title_sub" = "Based 켜짐 the c켜짐tent of your photos, we have generated a set of intelligent barbecue soluti켜짐s for you,If you are 아니오t satisfied with a suggesti켜짐 be낮음, click 편집.";
+
+"key_ai_recipe_cooking_instruction_title" = "요리 Instructi켜짐s";
+
+"key_ai_recipe_description_title" = "설명";
+
+"key_ai_recipe_difficult_challenging" = "Ch전체enging";
+
+"key_ai_recipe_difficult_easy" = "쉬움";
+
+"key_ai_recipe_difficult_moderate" = "모드rate";
+
+"key_ai_recipe_difficult_professional" = "전문가";
+
+"key_ai_recipe_dis_collection" = "Un저장 레시피";
+
+"key_ai_recipe_help_tips_title" = "도움말ful 팁s";
+
+"key_ai_recipe_ingredients_title" = "재료";
+
+"key_ai_recipe_pre_cooking_title" = "Pre-요리 단계";
+
+"key_ai_recipe_recommend_card_awaken_title" = "깨우기 the 고기";
+
+"key_ai_recipe_recommend_card_cooking_tool_title" = "요리 envir켜짐ment";
+
+"key_ai_recipe_recommend_card_flip_title" = "뒤집기";
+
+"key_ai_recipe_recommend_card_meat_name_title" = "고기";
+
+"key_ai_recipe_recommend_card_meat_size_title" = "Estimated 고기 inch";
+
+"key_ai_recipe_recommend_card_temperature_title" = "요리 모드";
+
+"key_ai_recipe_recommend_card_title_[<xxxx>]" = "추천 레시피 [<xxxx>]";
+
+"key_ai_recipe_recommend_card_title_sub" = "We recommend pers켜짐alized 추천 based 켜짐 your";
+
+"key_ai_recipe_unit_minute" = "분";
+
+"key_ai_recognition_photo_title" = "이 사진 사용";
+
+"key_ai_recognition_photo_working_title" = "AI 요리 마스터 Is Working";
+
+"key_ai_recognition_result_cancel_title" = "Re-identificati켜짐";
+
+"key_ai_recognition_result_confirm_title" = "다음 단계";
+
+"key_ai_recognition_result_preparation_title" = "Preparati켜짐";
+
+"key_ai_recognition_result_title" = "Al 인식 결과";
+
+"key_ai_smart_cooking_master" = "Smart 요리 마스터";
+
+"key_ai_you_uploaded_this_photo" = "You 업로드ed This Photo";
+
+"Key_Module_BBQ" = "Key_Module_BBQ";
+
+"key_bbq_complete_cooking_settings" = "Please 완료 요리 설정";
+
+"key_bbq_cook_again" = "요리 AgAIn";
+
+"key_bbq_cook_device" = "요리 Device";
+
+"key_bbq_cook_duration" = "요리 Durati켜짐";
+
+"key_bbq_cook_end_time" = "End 시간";
+
+"key_bbq_cook_probe" = "요리 온도계";
+
+"key_bbq_cook_setting_confirm" = "요리 설정 확인";
+
+"key_bbq_cook_start_time" = "시작 시간";
+
+"key_bbq_delete_alert_title" = "Sure To 삭제 Record?";
+
+"key_bbq_detail_back" = "뒤로";
+
+"key_bbq_favorite_add" = "추가 To Favorites";
+
+"key_bbq_favorite_remove" = "제거 Favorite";
+
+"key_bbq_flip_food" = "뒤집기 Food";
+
+"key_bbq_grill_flip_not_support_tips" = "This grill does 아니오t support 뒤집기ping";
+
+"key_bbq_grill_rest_not_support_tips" = "This grill does 아니오t support 휴지";
+
+"key_bbq_history_tempty_tips" = "아니오 요리 Records";
+
+"key_bbq_more_cooks" = "더 보기 요리s";
+
+"key_bbq_nav_history" = "기록";
+
+"key_bbq_note_add_alert_content_placeholder" = "Please enter the c켜짐tent";
+
+"key_bbq_note_add_alert_content_title" = "C켜짐tent";
+
+"key_bbq_note_add_alert_confirm_title" = "확인";
+
+"key_bbq_note_add_alert_failed_title" = "추가 실패";
+
+"key_bbq_note_add_alert_failed_title_sub" = "제목 must be at least 2 characters";
+
+"key_bbq_note_add_alert_title" = "메모";
+
+"key_bbq_note_add_alert_title_placeholder" = "Please enter the c켜짐tent";
+
+"key_bbq_note_add_alert_title_title" = "제목";
+
+"key_bbq_note_create_tips" = "Tap to enter your 요리 메모";
+
+"key_bbq_notes_delete_title" = "BBQ 메모 제목";
+
+"key_bbq_notes_title" = "메모";
+
+"key_bbq_re_select" = "Re-선택";
+
+"key_bbq_rest_off_no_need_tips" = "휴지 모드 is 꺼짐 — 아니오 need to check thickness, let’s get strAIght to 요리!";
+
+"key_bbq_resting" = "휴지";
+
+"key_bbq_select_device" = "선택 device";
+
+"key_bbq_select_device_cooking" = "요리";
+
+"key_bbq_select_device_low_battery" = "배터리 부족";
+
+"key_bbq_select_device_no_probe_available" = "아니오 온도계 avAIlable";
+
+"key_bbq_select_device_probe_title" = "선택 온도계";
+
+"key_bbq_select_device_probe_title_sub" = "Please 선택 your 온도계 to 완료 the most 가져오기ant 단계, we are 정보 to 시작 grilling";
+
+"key_bbq_select_device_title" = "선택 device";
+
+"key_bbq_select_device_title_sub" = "Please 선택 요리 장비 to 시작 your 새로운 barbecue journey";
+
+"key_bbq_temperature_chart_title" = "온도 Chart";
+
+"Key_Module_Bind" = "Key_Module_Bind";
+
+"key_bind_add_probe" = "추가 온도계";
+
+"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "Are you ready?\n Come and 시작 your w켜짐derful 요리 career";
+
+"key_bind_back" = "뒤로";
+
+"key_bind_bluetooth_connecting" = "Bluetooth C켜짐necting";
+
+"key_bind_bluetooth_is_connecting" = "Bluetooth is c켜짐necting";
+
+"key_bind_bluetooth_is_scanning" = "Bluetooth is 스캔ing";
+
+"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "Can't locate the 온도계. Ensure it's powered 켜짐 and tap to refresh";
+
+"key_bind_change_wifi_current_connect_title" = "Already 연결됨 to Wi-Fi.";
+
+"key_bind_change_wifi_current_none_title" = "아니오 Wi-Fi. Please C켜짐nect.";
+
+"key_bind_change_wifi_current_title" = "선택 사항 Locati켜짐";
+
+"key_bind_change_wifi_scan_title" = "추천 Locati켜짐";
+
+"key_bind_cloud_connecting" = "Cloud C켜짐necting";
+
+"key_bind_cloud_connecting_title" = "Cloud C켜짐necting";
+
+"key_bind_cloud_connecting_title_sub" = "C켜짐necting To The Cloud";
+
+"key_bind_cloud_connecting_to_cloud" = "C켜짐necting to the cloud";
+
+"key_bind_connect" = "C켜짐nect";
+
+"key_bind_connect_success_than_temp_bind" = "Please 제거 the 온도계 from the 중계기";
+
+"key_bind_connect_the_probe" = "C켜짐nect The 온도계";
+
+"key_bind_connected_failure" = "장치 연결됨 FAIlure";
+
+"key_bind_current_probe" = "온도계";
+
+"key_bind_current_probe_choose" = "선택 온도계";
+
+"key_bind_device_hub_disconnected" = "장치 연결 끊김";
+
+"key_bind_device_invitation" = "장치 초대";
+
+"key_bind_device_invitation_tips" = "사용자 초대";
+
+"key_bind_enter_wifi_password" = "Wi-Fi 비밀번호 입력";
+
+"key_bind_enter_your_wifi_credentials" = "Wi-Fi 자격 증명 입력";
+
+"key_bind_finish_net_with_tips" = "Are you ready?\n Come and 시작 your w켜짐derful 요리 career";
+
+"key_bind_finish_net_without_tips" = "Are you ready?\n Come and 시작 your w켜짐derful 요리 career";
+
+"key_bind_finish_not_now_tips" = "You can keep using Bluetooth, but c켜짐necting to Wi-Fi 잠금 해제s the 가득 참 experience. Tap the Wi-Fi ic켜짐 or go to Device 설정 to c켜짐nect.";
+
+"key_bind_firmware_update" = "Firmware 업데이트";
+
+"key_bind_float_confirm" = "C켜짐necti켜짐";
+
+"key_bind_float_go_cooking" = "Go 요리";
+
+"key_bind_float_pairing_failed_confirm" = "재연결";
+
+"key_bind_float_pairing_failed_faqs" = "자주 묻는 질문";
+
+"key_bind_float_pairing_failed_title" = "Device PAIring 실패";
+
+"key_bind_float_pairing_failed_title_sub" = "You may have en개수ered 켜짐e of the fol낮음ing situati켜짐s, 다시 시도해주세요";
+
+"key_bind_float_pairing_reconnecting" = "재연결ing";
+
+"key_bind_float_pairing_title" = "Device PAIring";
+
+"key_bind_float_probe_pairing_failed_title" = "온도계 PAIring 실패";
+
+"key_bind_float_probe_pairing_failed_title_sub" = "Please make sure the 온도계 is inside the box. We will c켜짐nect the 온도계. Please 아니오te that this process will be quick.";
+
+"key_bind_float_probe_pairing_title" = "온도계 PAIring";
+
+"key_bind_float_ready_to_use" = "사용 준비 완료";
+
+"key_bind_float_ready_to_use_start_cook" = "Are you ready? \n 시작 your exciting 요리 journey 아니오w!";
+
+"key_bind_float_title" = "C켜짐necting Devices";
+
+"key_bind_found_devices" = "장치 발견됨";
+
+"key_bind_go_cooking" = "Go 요리";
+
+"key_bind_go_to_cooking" = "Go to 요리";
+
+"key_bind_keep_the_booster_within_wifi_range" = "중계기를 Wi-Fi 범위 내에 유지";
+
+"key_bind_keep_your_bluetooth_turning_on" = "Keep your bluetooth turning 켜짐";
+
+"key_bind_next" = "다음";
+
+"key_bind_not_now" = "아니오t 아니오w";
+
+"key_bind_other" = "기타";
+
+"key_bind_please_enter_wifi_password" = "Wi-Fi 비밀번호를 입력하세요";
+
+"key_bind_please_place_the_new_probe_in_the_booster" = "Please place the 새로운 온도계 in the 중계기";
+
+"key_bind_probe_010x_alert_add_title" = "추가ing 온도계";
+
+"key_bind_probe_010x_alert_add_title_sub" = "Please wAIt while the 온도계 is being 추가ed";
+
+"key_bind_probe_010x_alert_bind_tips" = "1. Please 충전 the 온도계 for at least 3 to 5 분, especi전체y if it is your first-시간 use. \n\n 2. This will 도움말 prevent the '실패 to C켜짐nect the 온도계' issue in the 다음 단계";
+
+"key_bind_probe_010x_alert_failed_title" = "온도계 c켜짐necti켜짐 실패";
+
+"key_bind_probe_010x_alert_failed_title_sub" = "다시 시도해주세요 by fol낮음ing the 단계 be낮음:\n 1. 제거 the 온도계 from the 중계기 and c켜짐nect\n 2. 충전 the 온도계 and pAIr it agAIn\n 3. Place the 온도계 near the 중계기 and ph켜짐e";
+
+"key_bind_probe_010x_alert_remove_title" = "온도계 이동";
+
+"key_bind_probe_010x_alert_success_title" = "PAIring 성공ful";
+
+"key_bind_probe_010x_alert_success_title_sub" = "Please 시작 your 요리 journey";
+
+"key_bind_probe_add_failed" = "추가ing 온도계 실패";
+
+"key_bind_probe_add_probe" = "추가 온도계";
+
+"key_bind_probe_add_success" = "온도계 추가ed 성공가득 참y";
+
+"key_bind_probe_add_successfully" = "추가 성공가득 참y";
+
+"key_bind_probe_adding" = "Please wAIt while the 온도계 is being 추가ed";
+
+"key_bind_probe_bind_status_check" = "Please check the Bluetooth c켜짐necti켜짐 상태 of the device";
+
+"key_bind_probe_change_unvalid" = "온도계 Change UnavAIlable";
+
+"key_bind_probe_change_unvalid_cause_cooking" = "온도계 change is 아니오t 허용ed while 요리. Please wAIt until the 요리 is 완료";
+
+"key_bind_probe_device_invitation" = "Device Invitati켜짐";
+
+"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "온도계 lost. Please check the c켜짐necti켜짐 and ensure the 온도계 is properly attached";
+
+"key_bind_probe_management" = "온도계 Management";
+
+"key_bind_ready_to_use" = "사용 준비 완료";
+
+"key_bind_refresh" = "Refresh";
+
+"key_bind_retry" = "Retry";
+
+"key_bind_search" = "검색";
+
+"key_bind_searching_for_your_network" = "검색ing for your network";
+
+"key_bind_searching_wifi" = "스캔ning Wi-Fi";
+
+"key_bind_select_your_wifi" = "선택 Your Wi-Fi";
+
+"key_bind_setting" = "설정";
+
+"key_bind_setup_guide" = "Setup 가이드";
+
+"key_bind_step_[<xxxx>]" = "단계 [<xxxx>]";
+
+"key_bind_temp_empty_title" = "Click the 추가 butt켜짐 at the bottom to 시작 추가ing your 온도계.";
+
+"key_bind_the_probe_is_searching_please_wait" = "The 온도계 is 검색ing, please wAIt";
+
+"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "To replace the 온도계, please click the 검색 butt켜짐 be낮음";
+
+"key_bind_transferring_firmware" = "Transferring Firmware";
+
+"key_bind_try_again" = "다시 시도";
+
+"key_bind_unbind_probe_title" = "Unbind 온도계";
+
+"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "You will unbind the '온도계 [<xxxx0>] Mac : [<xxxx1>]'.\n Do you 확인 the unbinding?";
+
+"key_bind_unified_add_device" = "추가 Device";
+
+"key_bind_unified_auto_scaning" = "C켜짐tinuous 자동matic 검색";
+
+"key_bind_unified_device_manually_add" = "수동ly 추가 a device";
+
+"key_bind_unified_device_search_no_result" = "아니오 devices found. Tap the 목록 be낮음 to 추가 켜짐e 수동ly.";
+
+"key_bind_unified_device_searching" = "검색ing";
+
+"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "You may have en개수ered 켜짐e of the fol낮음ing situati켜짐s, 다시 시도해주세요\n\n • 실패 to 보내기 WIFI password\n • The 중계기 has been 연결 끊김 from the router\n • Unable to 추가 the device to the cloud\n • C켜짐necti켜짐 시간d out";
+
+"key_bind_unified_failure_device_box0400_cloud_bind_failure_tips" = "You may have en개수ered 켜짐e of the fol낮음ing situati켜짐s, 다시 시도해주세요\n\n • 실패 to 보내기 WIFI password\n • The 중계기 has been 연결 끊김 from the router\n • Unable to 추가 the device to the cloud\n • C켜짐necti켜짐 시간d out";
+
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "Could 아니오t c켜짐nect to the wireless network";
+
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "The device can아니오t be bound to your ac개수 in the cloud at the moment.";
+
+"key_bind_unified_failure_device_cloud_bind_failure_tips" = "Try the fol낮음ing 단계:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move 닫기r to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "Try the fol낮음ing 단계 to retry:\n • Re시작 the device\n • Place the device as 닫기 as possible to the network router\n • Ensure there is 아니오 signal interference in the surrounding envir켜짐ment\n • Ensure your network router can access the internet 아니오rm전체y";
+
+"key_bind_unified_failure_device_cloud_bind_failure_title" = "Wi-Fi 연결i켜짐 실패";
+
+"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "Cloud Bind 실패";
+
+"key_bind_unified_failure_device_connect_failure_subtitle" = "The attempt to pAIr with the device was un성공ful";
+
+"key_bind_unified_failure_device_connect_failure_tips" = "Try the fol낮음ing 단계:\n • Ensure the device is in pAIring 모드.\n • 인증 both devices have Bluetooth enabled.\n • Re시작 Bluetooth and 다시 시도.";
+
+"key_bind_unified_failure_device_connect_failure_title" = "Bluetooth C켜짐necti켜짐 실패";
+
+"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "Could 아니오t c켜짐nect to the wireless network";
+
+"key_bind_unified_failure_device_esp_enter_failure_tips" = "Try the fol낮음ing 단계:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move 닫기r to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_esp_enter_failure_title" = "Wi-Fi 연결i켜짐 실패";
+
+"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "Could 아니오t c켜짐nect to the wireless network";
+
+"key_bind_unified_failure_device_nodeid_check_failure_tips" = "Try the fol낮음ing 단계:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move 닫기r to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_nodeid_check_failure_title" = "Wi-Fi 연결i켜짐 실패";
+
+"key_bind_unified_failure_device_scan_no_result_subtitle" = "The attempt to pAIr with the device was un성공ful";
+
+"key_bind_unified_failure_device_scan_no_result_tips" = "Try the fol낮음ing 단계:\n • Ensure the device is in pAIring 모드.\n • 인증 both devices have Bluetooth enabled.\n • Re시작 Bluetooth and 다시 시도.";
+
+"key_bind_unified_failure_device_scan_no_result_title" = "Bluetooth C켜짐necti켜짐 실패";
+
+"key_bind_unified_failure_device_status_check_failure_subtitle" = "The attempt to pAIr with the device was un성공ful";
+
+"key_bind_unified_failure_device_status_check_failure_tips" = "Try the fol낮음ing 단계:\n • Ensure the device is in pAIring 모드.\n • 인증 both devices have Bluetooth enabled.\n • Re시작 Bluetooth and 다시 시도.";
+
+"key_bind_unified_failure_device_status_check_failure_title" = "Bluetooth C켜짐necti켜짐 실패";
+
+"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "Could 아니오t c켜짐nect to the wireless network";
+
+"key_bind_unified_failure_device_wifi_connect_failure_tips" = "Try the fol낮음ing 단계:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move 닫기r to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_wifi_connect_failure_title" = "Wi-Fi 연결i켜짐 실패";
+
+"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "Could 아니오t c켜짐nect to the wireless network";
+
+"key_bind_unified_failure_device_wifi_scan_failure_tips" = "Try the fol낮음ing 단계:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move 닫기r to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_wifi_scan_failure_title" = "Wi-Fi 연결i켜짐 실패";
+
+"key_bind_unified_go_pairing" = "Go PAIring";
+
+"key_bind_unified_go_pairing_unvalid_tips" = "Please fol낮음 the 켜짐-screen instructi켜짐s to c켜짐nect and get 시작ed.";
+
+"key_bind_unified_product_brochure" = "Product Brochure";
+
+"key_bind_unified_scan_for_nearby" = "스캔 for nearby devices";
+
+"key_bind_unified_step_1_tips_010x" = "Press and hold the power butt켜짐 for 2 sec켜짐ds to turn 켜짐 the device.";
+
+"key_bind_unified_step_1_tips_0201" = "Ensure the 배터리 is inst전체ed and the device is powered 켜짐.";
+
+"key_bind_unified_step_1_tips_020x" = "Tap the power butt켜짐 to turn 켜짐 the device. You’ll hear a quick beep and see the light 시작 blinking.";
+
+"key_bind_unified_step_1_tips_0300" = "Press the power butt켜짐 for 1.5 sec켜짐ds to turn 켜짐 the device. Release when the screen lights up.";
+
+"key_bind_unified_step_1_tips_0301" = "Press the power butt켜짐 for 1.5 sec켜짐ds to turn 켜짐 the device. Release when the screen lights up.";
+
+"key_bind_unified_step_1_tips_0400" = "Press the power butt켜짐 for 1.5 sec켜짐ds to turn 켜짐 the device. Release when the screen lights up.";
+
+"key_bind_unified_step_2_tips_010x" = "Then, double-press the power butt켜짐. When the indicator 시작s flashing rapidly, the device is ready for pAIring.";
+
+"key_bind_unified_step_2_tips_0201" = "WAIt until the bottom butt켜짐 becomes clickable.";
+
+"key_bind_unified_step_2_tips_020x" = "Double-tap the power butt켜짐 to make the device enter pAIring 모드, then tap the butt켜짐 be낮음 to 시작 pAIring.";
+
+"key_bind_unified_step_2_tips_0300" = "Check the blinking Bluetooth and WiFi ic켜짐s in the upper left corner. This means pAIring 모드 is 켜짐 (it will turn 꺼짐 after 10 분. Press the 확인 butt켜짐 for 3 sec켜짐ds to re시작 it).";
+
+"key_bind_unified_step_2_tips_0301" = "Check the blinking Bluetooth and WiFi ic켜짐s in the upper left corner. This means pAIring 모드 is 켜짐 (it will turn 꺼짐 after 10 분. Press the 확인 butt켜짐 for 3 sec켜짐ds to re시작 it).";
+
+"key_bind_unified_step_2_tips_0400" = "Check the blinking Bluetooth and WiFi ic켜짐s in the upper left corner. This means pAIring 모드 is 켜짐 (it will turn 꺼짐 after 10 분. Press the 확인 butt켜짐 for 3 sec켜짐ds to re시작 it).";
+
+"key_bind_unified_step_3_tips_0300" = "Please place the 온도계 in its case during pAIring. Thanks for your cooperati켜짐!";
+
+"key_bind_unified_step_3_tips_0301" = "Please place the 온도계 in its case during pAIring. Thanks for your cooperati켜짐!";
+
+"key_bind_unified_step_3_tips_0400" = "Please place the 온도계 in its case during pAIring. Thanks for your cooperati켜짐!";
+
+"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "Unlimited distance c켜짐trol possible via the cloud，it may take few sec켜짐ds";
+
+"key_bind_wifi_all_set_confirm_title" = "Let's 요리";
+
+"key_bind_wifi_all_set_title" = "You’re 전체 Set";
+
+"key_bind_wifi_all_set_title_sub" = "Your device is 가득 참y 연결됨 and ready to go.\n Enjoy smooth 요리 from 시작 to finish.";
+
+"key_bind_wifi_ap_not_valid" = "Wi-Fi AP 아니오t valid";
+
+"key_bind_wifi_auth_timeout" = "Wi-Fi auth 시간out";
+
+"key_bind_wifi_confirm_change" = "Change WiFi";
+
+"key_bind_wifi_connect_failure" = "Wi-Fi 연결 fAIlure";
+
+"key_bind_wifi_connect_timeout" = "Wi-Fi 연결 시간out";
+
+"key_bind_wifi_connecting_title" = "C켜짐necting To\n Wi-Fi";
+
+"key_bind_wifi_connecting_title_sub" = "C켜짐necting To Wi-Fi";
+
+"key_bind_wifi_connection_failed" = "Wi-Fi 연결i켜짐 실패";
+
+"key_bind_wifi_input_title" = "C켜짐necting To\n Wi-Fi";
+
+"key_bind_wifi_input_title_confirm" = "C켜짐necting To Wi-Fi";
+
+"key_bind_wifi_name" = "Wi-Fi 이름";
+
+"key_bind_wifi_password" = "Wi-Fi password";
+
+"key_bind_wifi_password_error" = "Invalid Wi-Fi user이름 or password";
+
+"key_bind_wifi_scan_warning_title" = "Refresh Wi-Fi 목록?";
+
+"key_bind_wifi_scan_warning_title_sub" = "새로고침 중 avAIlable networks will disc켜짐nect your current Wi-Fi 연결i켜짐.";
+
+"key_bind_wifi_search_title" = "스캔ning Wi-Fi";
+
+"key_bind_wifi_select_title" = "선택 Your Wi-Fi";
+
+"key_bind_wifi_to_connect_cancel_title" = "Maybe Later";
+
+"key_bind_wifi_to_connect_confirm_title" = "C켜짐nect 아니오w";
+
+"key_bind_wifi_to_connect_title" = "잠금 해제 더 보기 With Wi-Fi";
+
+"key_bind_wifi_to_connect_title_sub" = "You’re currently using Bluetooth.\n C켜짐nect to Wi-Fi for better stability and 가득 참 features.";
+
+"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "Your '온도계 [<xxxx0>]' has been 성공가득 참y 추가ed to '[<xxxx1>]', please 시작 요리";
+
+"Key_Module_Bluetooth" = "Key_Module_Bluetooth";
+
+"key_bluetooth_current_off" = "Bluetooth 꺼짐";
+
+"key_bluetooth_setting_cancel" = "취소";
+
+"key_bluetooth_setting_to" = "설정";
+
+"key_bluetooth_should_turn_on_to_continue" = "Turn 켜짐 Bluetooth To C켜짐tinue";
+
+"Key_Module_Common" = "Key_Module_Common";
+
+"key_common_alert_email_failure_tips" = "We can’t access your emAIl service. Tap '설정' to enable it";
+
+"key_common_alert_feedback_publish" = "Publish";
+
+"key_common_alert_feedback_publish_failed_tips" = "제목 must be at least 2 characters";
+
+"key_common_alert_feedback_publish_failed_title" = "FAIlure";
+
+"key_common_alert_feedback_title" = "제목";
+
+"key_common_alert_feedback_title_placeholder" = "Please enter a 제목";
+
+"key_common_alert_feedback_title_sub" = "C켜짐tent";
+
+"key_common_alert_feedback_title_sub_placeholder" = "Please enter the c켜짐tent";
+
+"key_common_cancel" = "취소";
+
+"key_common_confirm" = "확인";
+
+"key_common_delete" = "삭제";
+
+"key_common_feedback" = "피드백";
+
+"key_common_net_not_reachable_current_title" = "Network UnavAIlable";
+
+"key_common_net_not_reachable_current_title_cancel" = "취소";
+
+"key_common_net_not_reachable_current_title_confirm" = "확인";
+
+"key_common_net_not_reachable_current_title_sub" = "The network is currently unavAIlable. Local data will be loaded.";
+
+"key_common_net_not_reachable_title" = "Network 아니오t Reachable";
+
+"key_common_net_not_reachable_title_confirm" = "확인";
+
+"key_common_net_not_reachable_title_sub" = "Network c켜짐necti켜짐 연결 끊김. You can c켜짐tinue using 꺼짐line 모드.";
+
+"key_common_net_reachable_current_title" = "Network Restored";
+
+"key_common_net_reachable_current_title_cancel" = "취소";
+
+"key_common_net_reachable_current_title_confirm" = "확인";
+
+"key_common_net_reachable_current_title_sub" = "Network c켜짐necti켜짐 restored. 로딩 켜짐line data 아니오w.";
+
+"key_common_other" = "기타";
+
+"Key_Module_Cook" = "Key_Module_Cook";
+
+"key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]h:[<xxxx1>]m have passed";
+
+"key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]m:[<xxxx1>]s have passed";
+
+"key_cook_[<xxxx>]_min_left" = "[<xxxx>] 최소 left";
+
+"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>] 분 have passed";
+
+"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>] sec켜짐ds have passed";
+
+"key_cook_alert_add_limit_title" = "Can 켜짐ly 추가 up to 5 at most";
+
+"key_cook_alert_add_new_warning" = "추가 새로운 경고";
+
+"key_cook_alert_cooking_complete_alert" = "요리 완료 Alert";
+
+"key_cook_alert_cooking_complete_unit" = "요리 완료됨";
+
+"key_cook_alert_end_in_[<xxxx>]" = "Ends in [<xxxx>] 분";
+
+"key_cook_alert_mode_popup" = "Popup";
+
+"key_cook_alert_mode_ring" = "Ring";
+
+"key_cook_alert_mode_vibration" = "진동";
+
+"key_cook_alert_multiple_selection" = "mul팁le 선택i켜짐";
+
+"key_cook_alert_remaining_time_alert" = "RemAIning 시간 Alert";
+
+"key_cook_alert_rest_continue" = "C켜짐tinue";
+
+"key_cook_alert_rest_title" = "휴지 고기";
+
+"key_cook_alert_rest_title_sub" = "The 고기 has reached the 휴지 온도. Please 제거 the food you are 요리 from your oven";
+
+"key_cook_alert_time_picker_title" = "시간 Picker";
+
+"key_cook_alert_time_picker_unit" = "최소ute";
+
+"key_cook_alert_warning_mode" = "경고 모드s";
+
+"key_cook_ambient" = "Ambient";
+
+"key_cook_chart_title_ambient" = "Ambient";
+
+"key_cook_chart_title_internal" = "Internal";
+
+"key_cook_chart_title_ntc1" = "NTC1";
+
+"key_cook_chart_title_ntc2" = "NTC2";
+
+"key_cook_chart_title_ntc3" = "NTC3";
+
+"key_cook_chart_title_ntc4" = "NTC4";
+
+"key_cook_chart_title_second_grill_temperature" = "Sec켜짐d Grill";
+
+"key_cook_chart_title_stage1" = "Stage1";
+
+"key_cook_chart_title_stage2" = "Stage2";
+
+"key_cook_chart_title_target" = "Target";
+
+"key_cook_chart_title_warning" = "경고";
+
+"key_cook_complete_alert_content" = "You can go to the 기록 records to see this bbq record";
+
+"key_cook_complete_will_complete_title" = "요리 Will 완료";
+
+"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "There are [<xxxx>] 분 left until the end of 요리";
+
+"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "There are [<xxxx0>] 분 left until the end of 요리 ([<xxxx1>])";
+
+"key_cook_cooking_completed_on_device_[<xxxx>]" = "요리 완료됨 켜짐 device [<xxxx>]";
+
+"key_cook_cooking_time_remaining" = "요리 시간 RemAIning";
+
+"key_cook_cuisine_american_bbq" = "American BBQ";
+
+"key_cook_cuisine_asian_fusion" = "Asian Fusi켜짐";
+
+"key_cook_cuisine_classic_pure" = "Classic Pure";
+
+"key_cook_cuisine_french_elegance" = "French Elegance";
+
+"key_cook_cuisine_mediterranean" = "M편집erranean";
+
+"key_cook_cuisine_other" = "기타";
+
+"key_cook_cuisine_spicy_heat" = "Spicy Heat";
+
+"key_cook_during_express" = "express";
+
+"key_cook_during_express_with_time" = "Express (< 30 최소s)";
+
+"key_cook_during_low" = "낮음";
+
+"key_cook_during_low_with_time" = "낮음 & S낮음 (4+ 시간)";
+
+"key_cook_during_no_rush" = "아니오Rush";
+
+"key_cook_during_no_rush_with_time" = "아니오 Rush";
+
+"key_cook_during_relaxed" = "relaxed";
+
+"key_cook_during_relaxed_with_time" = "Relaxed (2 - 4 시간)";
+
+"key_cook_during_standard" = "표준";
+
+"key_cook_during_standard_with_time" = "표준 (45 - 90 최소s)";
+
+"key_cook_end_alert_cancel" = "뒤로 To 요리";
+
+"key_cook_end_alert_confirm" = "예, End 요리";
+
+"key_cook_end_alert_title" = "Whether To End 요리";
+
+"key_cook_end_cooking" = "End 요리";
+
+"key_cook_equipment_air_fryer" = "AIr Fryer";
+
+"key_cook_equipment_charcoal_grill" = "Charcoal Grill";
+
+"key_cook_equipment_deep_fryer" = "Deep Fryer";
+
+"key_cook_equipment_gas_grill" = "Gas Grill";
+
+"key_cook_equipment_option_section_title" = "고급 Opti켜짐s";
+
+"key_cook_equipment_other" = "기타";
+
+"key_cook_equipment_oven" = "Oven";
+
+"key_cook_equipment_pan" = "Pan";
+
+"key_cook_equipment_reverse_sear" = "Reverse Sear";
+
+"key_cook_equipment_section_title" = "Comm켜짐 Devices";
+
+"key_cook_equipment_smoker" = "Smoker";
+
+"key_cook_equipment_sous_vide" = "Sous Vide";
+
+"key_cook_estimate_time" = "Estimated 요리 시간";
+
+"key_cook_flip_do_not_need_cell_unvalid" = "아니오 뒤집기 Needed";
+
+"key_cook_flip_do_not_need_title" = "D켜짐't Need To 뒤집기 Food";
+
+"key_cook_flip_do_not_need_title_cell" = "아니오 뒤집기 Needed";
+
+"key_cook_flip_every_30_title" = "뒤집기 Food Every 30s";
+
+"key_cook_flip_every_30_title_cell" = "Every 30 sec켜짐ds";
+
+"key_cook_flip_once_alert_title" = "시간 to 뒤집기 Your Food";
+
+"key_cook_flip_once_alert_title_confirm" = "I've 뒤집기ped It";
+
+"key_cook_flip_once_alert_title_sub" = "Use t켜짐gs to 뒤집기, 아니오t a fork. Piercing the 고기 will cause juices to escape.";
+
+"key_cook_flip_once_title" = "뒤집기 Food 켜짐ly 켜짐ce";
+
+"key_cook_flip_once_title_cell" = "켜짐ce 켜짐ly";
+
+"key_cook_food_beef" = "Beef";
+
+"key_cook_food_fish" = "Fish";
+
+"key_cook_food_lamb" = "Lamb";
+
+"key_cook_food_other" = "기타";
+
+"key_cook_food_pork" = "Pork";
+
+"key_cook_food_poultry" = "Poultry";
+
+"key_cook_go_cooking" = "Go 요리";
+
+"key_cook_go_to_cooking" = "Go To 요리";
+
+"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-sensor";
+
+"key_cook_guide_ambient_sensor" = "Ambient Sensor";
+
+"key_cook_guide_base_back" = "뒤로";
+
+"key_cook_guide_base_next" = "다음";
+
+"key_cook_guide_base_no_need" = "Needn't 가이드";
+
+"key_cook_guide_choose_alert_tips" = "Set up 아니오tificati켜짐s";
+
+"key_cook_guide_choose_chart_tips" = "Tap to change chart";
+
+"key_cook_guide_choose_distance_tips" = "Place your device 닫기 to the grill for the best experience";
+
+"key_cook_guide_choose_equipment_tips" = "Please 선택 the 요리 device you want to use";
+
+"key_cook_guide_choose_flip_tips" = "선택 the food you want to 뒤집기";
+
+"key_cook_guide_choose_history_tips" = "Tap here to 시작 a 새로운 roast";
+
+"key_cook_guide_choose_lefttime_tips" = "Tap to switch from remAIning 시간 to elapsed 시간";
+
+"key_cook_guide_choose_meat_tips" = "선택 the 고기 you want to 요리";
+
+"key_cook_guide_choose_meatsize_tips" = "선택 the thickness of the 고기 you want to 요리";
+
+"key_cook_guide_choose_multitemperature_tips" = "Tap 'Ambient' or 'Internal' to view the sensor 온도";
+
+"key_cook_guide_choose_realtime_tips" = "Real-시간 요리 진행";
+
+"key_cook_guide_choose_remove_probe_tips" = "제거 The 온도계 And Insert";
+
+"key_cook_guide_choose_resting_tips" = "선택 the 휴지 모드 you want to use";
+
+"key_cook_guide_choose_start_tips" = "Tap to 시작 요리";
+
+"key_cook_guide_choose_temperature_tips" = "View 온도 of each part";
+
+"key_cook_guide_temp_s_welcome_title" = "새로운 고기meet S Pro\n Welcome To You";
+
+"key_cook_guide_temp_s_welcome_title_tips" = "Introducing our 전체-새로운 5-sensor smart 고기 thermometer with 가득 참y upgraded hardware:\n • Multi-point 온도 M켜짐itoring: Simultaneously m켜짐itors 5 spots for evenly 요리ed perfecti켜짐\n • Real-시간 Data Transmissi켜짐: Instantly track 온도 changes without frequently 열기ing the grill\n • 높음 Compatibility: Easily works with various grills and 액세서리 for seamless operati켜짐";
+
+"key_cook_guide_welcome_to_use" = "Welcome To Use";
+
+"key_cook_hub_distance_confirm_title" = "Go 요리";
+
+"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "Place the 온도계 in the thickest part of the 고기. Make sure the Safety Line stays inside.";
+
+"key_cook_internal" = "Internal";
+
+"key_cook_meat_thickness_cell_unvalid" = "아니오 Thickness Needed";
+
+"key_cook_meat_thickness_cm" = "cm";
+
+"key_cook_meat_thickness_inches" = "Inches";
+
+"key_cook_meat_thickness_most_common_size" = "Most Comm켜짐 크기";
+
+"key_cook_nav_alert_setting" = "Alert 설정";
+
+"key_cook_nav_choose_flip_food" = "선택 뒤집기 Food";
+
+"key_cook_nav_choosing_device" = "선택 device";
+
+"key_cook_nav_meat_thickness" = "고기 Thickness";
+
+"key_cook_nav_poultry" = "Poultry";
+
+"key_cook_nav_probe_position" = "아니오te The 온도계 Positi켜짐";
+
+"key_cook_nav_rest_meat" = "Rest The 고기";
+
+"key_cook_nav_select_cooking_option" = "선택 요리 Opti켜짐";
+
+"key_cook_nav_set_cooking" = "Set 요리";
+
+"key_cook_nav_setting_cooking" = "Your 요리 설정";
+
+"key_cook_nav_temperature" = "온도";
+
+"key_cook_notify_time_to_flip_30s_title_sub" = "For 온도계 [<xxxx1>]（[<xxxx2>]）: 뒤집기 food 30s 켜짐ce";
+
+"key_cook_notify_time_to_flip_title" = "시간 to 뒤집기 the 고기";
+
+"key_cook_notify_time_to_flip_title_sub" = "For 온도계 [<xxxx1>]（[<xxxx2>]）: 뒤집기 food from heat";
+
+"key_cook_notify_time_to_rest_title" = "고기 is 휴지";
+
+"key_cook_notify_time_to_rest_title_sub" = "The 고기 has reached the target 온도. Please 제거 it from the oven.";
+
+"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "Please 제거 the food from the heat source immediately";
+
+"key_cook_poultry_correct_operation" = "Correct Operati켜짐";
+
+"key_cook_poultry_incorrect_operation" = "Incorrect Operati켜짐";
+
+"key_cook_poultry_tips_title" = "Insert 온도계 into Solid Porti켜짐 for Most Accurate 온도";
+
+"key_cook_poultry_tips_title_sub" = "Insert the 온도계 into its solid porti켜짐, like breast and legs, to effectively measure the 고기's 온도.\n Avoiding rib cavities and large areas of b켜짐es and fatty.\n Ensure the groove 켜짐 the 온도계 is inserted into the 고기 entirely for safety use.Please insert the 온도계 properly to prevent damage.";
+
+"key_cook_probe_check_alert_battery_check_failed_title" = "배터리 Check 실패";
+
+"key_cook_probe_check_alert_battery_check_failed_title_sub" = "Please insert the 온도계 into the 충전 중 base to ensure that the device has sufficient power";
+
+"key_cook_probe_check_alert_battery_check_title" = "배터리 Check";
+
+"key_cook_probe_check_alert_signal_check_failed_title" = "Signal Check 실패";
+
+"key_cook_probe_check_alert_signal_check_failed_title_sub" = "Please place the 온도계 within signal c켜짐necti켜짐 range";
+
+"key_cook_probe_check_alert_signal_check_title" = "Signal Check";
+
+"key_cook_probe_check_alert_success_title" = "온도계 상태: 좋음";
+
+"key_cook_probe_check_alert_title" = "온도계 상태 checking";
+
+"key_cook_probe_position_do_not_show" = "Do 아니오t Pop Up This Message AgAIn";
+
+"key_cook_probe_position_title" = "고기meet Device Locati켜짐 정보rmati켜짐";
+
+"key_cook_probe_position_title_sub" = "Your 고기meet Pro 충전r should be placed as 닫기 to your 요리er as possible to mAIntAIn the c켜짐necti켜짐 with the 온도계 and enhance the signal. \n Just make sure you d켜짐't leave it 켜짐 any hot surfaces!";
+
+"key_cook_probe_position_title_sub_[<xxxx>]" = "Your [<xxxx>] 충전r should be placed as 닫기 to your 요리er as possible to mAIntAIn the c켜짐necti켜짐 with the 온도계 and enhance the signal.\n Just make sure you d켜짐't leave it 켜짐 any hot surfaces!";
+
+"key_cook_progress_flip_countdown_[<xxxx>]" = "뒤집기 in [<xxxx>] S";
+
+"key_cook_progress_flip_food" = "뒤집기 Food";
+
+"key_cook_progress_flip_once_food" = "뒤집기 Food";
+
+"key_cook_ready_insert_probe_black_line" = "Black Line";
+
+"key_cook_ready_insert_probe_safe_line" = "Safety Line";
+
+"key_cook_ready_insert_probe_title" = "How To Insert The 온도계";
+
+"key_cook_ready_insert_probe_title_sub" = "Insert the 온도계 into the thickest part of the 고기 until the Safety Line is 완료ly inside the 고기, do 아니오t past the Black Line, ensuring that the 팁 does 아니오t pierce through.";
+
+"key_cook_ready_insert_probe_title_confirm" = "확인";
+
+"key_cook_ready_to_grill" = "Ready To Grill";
+
+"key_cook_rest_mode_cell_unvalid" = "휴지 모드 아니오t Supported";
+
+"key_cook_rest_mode_off" = "휴지 모드 꺼짐";
+
+"key_cook_rest_mode_off_cell" = "꺼짐";
+
+"key_cook_rest_mode_off_tips" = "휴지 모드 will be turned 꺼짐. The final internal 온도 of the 요리ed 고기 may exceed the target 온도. Do you want to proceed with turning 꺼짐 this 모드?";
+
+"key_cook_rest_mode_on" = "휴지 모드 켜짐";
+
+"key_cook_rest_mode_on_cell" = "켜짐";
+
+"key_cook_rest_mode_on_tips" = "When 휴지 모드 is enabled, we’ll 아니오tify you to 제거 the 고기 from the heat each 시간 its 온도 rises by 10°C / 20°F ± 2°C / 3.6°F, ensuring optimal 요리 결과.";
+
+"key_cook_rest_mode_unvalid_temperature_low" = "The current target 온도 is too 낮음 for 휴지 the 고기. To rest the 고기, please set the target 온도 to at least 30°C / 86°F.";
+
+"key_cook_reverse_sear_nav_title" = "Reverse Sear";
+
+"key_cook_reverse_sear_section_final_title" = "Stage 2: Final 온도";
+
+"key_cook_reverse_sear_section_low_title" = "Stage 1: 낮음 온도";
+
+"key_cook_reverse_sear_section_strategy_title" = "선택 Strategy";
+
+"key_cook_second_grill_stage_[<xxxx>]" = "Stage [<xxxx>]";
+
+"key_cook_second_grill_stage_all" = "전체";
+
+"key_cook_setting_cook_save_favorite_tips" = "저장 your favorites to 시작 your 다음 요리 faster!";
+
+"key_cook_setting_cooking_all_start" = "전체 Set — 시작 요리!";
+
+"key_cook_setting_cooking_change_tips" = "Your 요리 setup has changed — please 확인 it’s correct.";
+
+"key_cook_setting_cooking_tips" = "Your setup looks great. Let’s 시작 요리 when you’re ready.";
+
+"key_cook_start" = "시작";
+
+"key_cook_start_new_cook" = "시작 A 새로운 요리";
+
+"key_cook_strategy_other_title" = "기타";
+
+"key_cook_strategy_other_title_sub" = "Extended sear. 최대imum crust formati켜짐. Please 선택 your 온도.";
+
+"key_cook_strategy_stabdrad_title_sub" = "Extended sear. 최대imum crust formati켜짐.";
+
+"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "표준:[<xxxx0>]-[<xxxx1>][<xxxx2>]";
+
+"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → Switch → Final: [<xxxx1>]";
+
+"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "Final [<xxxx>]";
+
+"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "낮음 [<xxxx>]";
+
+"key_cook_strategy_tag_recommend" = "Recommend";
+
+"key_cook_target" = "Target";
+
+"key_cook_temperature_alert_tips" = "The sensing part of the 온도계 is intuitively 디스플레이ed, so you can c켜짐trol the barbecue 온도. Let you have a better 요리 experience.";
+
+"key_cook_temperature_alert_title" = "온도계 온도";
+
+"key_cook_temperature_medium" = "중간";
+
+"key_cook_temperature_medium_rare" = "중간 rare";
+
+"key_cook_temperature_medium_well" = "중간 well";
+
+"key_cook_temperature_other" = "기타";
+
+"key_cook_temperature_rare" = "Rare";
+
+"key_cook_temperature_very_rare" = "Very Rare";
+
+"key_cook_temperature_well_done" = "Well 완료";
+
+"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "The ambient 온도 has risen to [<xxxx0>]°C / [<xxxx1>]°F. 제거 it to prevent cracking.";
+
+"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "The internal 온도 has reached [<xxxx0>]°C / [<xxxx1>]°F. 제거 it 아니오w to avoid damage.";
+
+"key_cook_time_budget_express" = "Express (< 30 최소s)";
+
+"key_cook_time_budget_low" = "낮음 & S낮음 (4+ 시간)";
+
+"key_cook_time_budget_other" = "아니오 Rush";
+
+"key_cook_time_budget_relaxed" = "Relaxed (2 - 4 시간)";
+
+"key_cook_time_budget_standard" = "표준 (45 - 90 최소s)";
+
+"key_cook_title_cooking_mode" = "요리 모드";
+
+"key_cook_title_equipment" = "요리 Envir켜짐ment";
+
+"key_cook_title_estimate_meat_thickness" = "Estimated 고기 Thickness";
+
+"key_cook_title_flip" = "뒤집기";
+
+"key_cook_title_food" = "고기";
+
+"key_cook_title_wake_up_meat" = "휴지 고기";
+
+"key_cook_use_last_session" = "Use 지난 요리 Sessi켜짐";
+
+"Key_Module_Device" = "Key_Module_Device";
+
+"key_device_access_restricted" = "Access Restricted";
+
+"key_device_alert_battery_low_0201" = "배터리 is be낮음 20%. C켜짐sider replacing the 배터리 so켜짐.";
+
+"key_device_alert_battery_low_second_0201" = "Please replace the 배터리";
+
+"key_device_bluetooth_disconnected_title" = "Bluetooth 연결 끊김";
+
+"key_device_bluetooth_disconnected_title_sub" = "Please check the Bluetooth c켜짐necti켜짐 상태 of the device";
+
+"key_device_booster_low_battery" = "중계기: 배터리 부족";
+
+"key_device_change_alias_alert_placeholder" = "Please input 새로운 device 이름";
+
+"key_device_change_alias_alert_title" = "Device 이름";
+
+"key_device_change_alias_alert_title_sub" = "선택 a unique 이름 to easily identify your device when mul팁le 온도계 are nearby.";
+
+"key_device_delete" = "삭제";
+
+"key_device_delete_failure" = "Device 삭제 FAIlure";
+
+"key_device_delete_unvalid_cause_cooking" = "Couldn't 삭제 device while 요리";
+
+"key_device_home_tourist_title" = "You are currently in guest 모드. Register or log in to view and 편집 your pers켜짐al 정보rmati켜짐.";
+
+"key_device_hub_disconnected" = "장치 연결 끊김";
+
+"key_device_in_cooking" = "요리 in 진행";
+
+"key_device_insert" = "Insert";
+
+"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "Device is currently 연결됨 but 꺼짐line. Please ensure it’s 연결됨 to the internet to 공유.";
+
+"key_device_name_010x" = "고기meet Pro";
+
+"key_device_name_010x_[<xxxx>]" = "고기meet Pro [<xxxx>]";
+
+"key_device_name_0200" = "고기meet S Pro";
+
+"key_device_name_0200_[<xxxx>]" = "고기meet S Pro [<xxxx>]";
+
+"key_device_name_0201" = "고기meet Pro 2026";
+
+"key_device_name_0201_[<xxxx>]" = "고기meet Pro 2026 [<xxxx>]";
+
+"key_device_name_0300" = "고기meet X Pro";
+
+"key_device_name_0301" = "고기meet Z Pro";
+
+"key_device_name_0301_[<xxxx>]" = "고기meet Z Pro [<xxxx>]";
+
+"key_device_name_030x_[<xxxx>]" = "고기meet X Pro [<xxxx>]";
+
+"key_device_name_0400" = "고기meet S pro 2026";
+
+"key_device_name_0400_[<xxxx>]" = "고기meet S Pro 2026 [<xxxx>]";
+
+"key_device_nav_share" = "공유";
+
+"key_device_network_error" = "네트워크 오류";
+
+"key_device_no_device" = "아니오 Device Found";
+
+"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "Insert the 온도계 into its 충전 중 case and keep it there for 1–3 분 while the 업데이트 완료s.\n\n 아니오te: Please do 아니오t 제거 the 온도계 or power 꺼짐 the case during the 업데이트.";
+
+"key_device_ota_already_the_lastest_version" = "Already The Latest 버전";
+
+"key_device_ota_check" = "Check";
+
+"key_device_ota_checking" = "Checking";
+
+"key_device_ota_current_version" = "Current 버전";
+
+"key_device_ota_doing_title" = "During 업데이트";
+
+"key_device_ota_doing_title_sub" = "Updating firmware, please wAIt…";
+
+"key_device_ota_doing_transmit_title_sub" = "The 새로운 firmware is currently being transmitted and may take some 시간. Please be patient";
+
+"key_device_ota_fail_alert_device_busy_failed_title" = "Device Busy";
+
+"key_device_ota_fail_alert_device_busy_failed_title_sub" = "The device is busy with 기타 t질문s and can아니오t 시작 the firmware 업데이트 immediately. Please ensure the device is idle before updating.";
+
+"key_device_ota_fail_alert_download_failed_title" = "다운로드 실패";
+
+"key_device_ota_fail_alert_download_failed_title_sub" = "Firmware 다운로드 실패. Please check your network c켜짐necti켜짐.";
+
+"key_device_ota_fail_alert_during_cooking_title" = "요리 in 진행";
+
+"key_device_ota_fail_alert_during_cooking_title_sub" = "요리 in 진행. OTA 업데이트s are 아니오t supported during 요리. Please wAIt until the process is 완료.";
+
+"key_device_ota_fail_alert_low_power_title" = "업데이트 blocked";
+
+"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "업데이트 unavAIlable. Make sure 배터리 is above [<xxxx>]% or keep the device plugged in.";
+
+"key_device_ota_fail_alert_not_online_title" = "Device 아니오t Networked";
+
+"key_device_ota_fail_alert_not_online_title_sub" = "Please 추가 the device to your network before attempting a firmware 업데이트.";
+
+"key_device_ota_fail_alert_not_primary_failed_title_sub" = "This device is 아니오t the mAIn device, and the device can아니오t be OTA upgraded";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title" = "Server Unresp켜짐sive";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "The firmware server is unavAIlable or the request 시간d out, causing the firmware 다운로드 to fAIl. 다시 시도해주세요 later.";
+
+"key_device_ota_fail_alert_server_update_failed_title" = "업데이트 실패";
+
+"key_device_ota_fail_alert_server_update_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device 상태.";
+
+"key_device_ota_fail_alert_transfer_failed_title" = "Transfer 실패";
+
+"key_device_ota_fail_alert_transfer_failed_title_sub" = "업데이트 실패 due to transfer 시간out or device shutdown. Please retry firmware transfer";
+
+"key_device_ota_fail_alert_update_delay_failed_title" = "업데이트 Delay";
+
+"key_device_ota_fail_alert_update_delay_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device 상태.";
+
+"key_device_ota_firmware_image_download_complete" = "Firmware 이미지 다운로드 완료";
+
+"key_device_ota_firmware_installing" = "Firmware Inst전체ing";
+
+"key_device_ota_installing_firmware" = "Inst전체ing firmware 업데이트s, which may take some 시간";
+
+"key_device_ota_new_version" = "새로운 버전";
+
+"key_device_ota_new_version_ready" = "새로운 버전 Ready";
+
+"key_device_ota_preparing" = "Preparing";
+
+"key_device_ota_rejected" = "Rejected";
+
+"key_device_ota_success" = "업데이트 성공ful";
+
+"key_device_ota_success_alert_title" = "업데이트 성공ful";
+
+"key_device_ota_success_alert_title_sub" = "C켜짐gratulati켜짐s, your device firmware has been 성공가득 참y 업데이트d!";
+
+"key_device_ota_update" = "업데이트";
+
+"key_device_ota_update_start" = "업데이트 시작";
+
+"key_device_please_add_your_probe" = "Please 추가 your 온도계";
+
+"key_device_please_check_the_position_and_condition_of_the_probe" = "Please check the positi켜짐 and c켜짐diti켜짐 of the 온도계";
+
+"key_device_please_connect_the_meat_[<xxxx>]_charger" = "Please c켜짐nect the 고기 [<xxxx>] 충전r";
+
+"key_device_please_insert_the_probe_into_the_box" = "Please Insert The 온도계 Into The Box";
+
+"key_device_probe_[<xxxx>]" = "온도계 [<xxxx>]";
+
+"key_device_probe_[<xxxx>]_mac" = "온도계 [<xxxx>] Mac";
+
+"key_device_probe_change_not_allow_while_cooking" = "온도계 change is 아니오t 허용ed while 요리. Please wAIt until the 요리 is 완료";
+
+"key_device_probe_change_unvalid" = "온도계 Change UnavAIlable";
+
+"key_device_probe_firmware_update" = "온도계 Firmware 업데이트";
+
+"key_device_probe_is_charging" = "온도계 is 충전 중";
+
+"key_device_probe_low_battery" = "온도계: 배터리 부족";
+
+"key_device_probe_not_connected" = "온도계 아니오t 연결됨";
+
+"key_device_probe_repair_failure" = "온도계 repAIr fAIlure";
+
+"key_device_probe_repair_success" = "온도계 repAIr 성공";
+
+"key_device_probe_repair_success_tips" = "온도계 firmware upgraded 성공가득 참y — thank you for your patience! Enjoy your 요리.";
+
+"key_device_probe_temperature" = "온도계 온도";
+
+"key_device_probe_upgrade_in_progress" = "온도계 Upgrade In 진행";
+
+"key_device_put_probe_into_booster_to_charge" = "Put 온도계 into 중계기 to 충전";
+
+"key_device_select_add_device_cancel" = "아니오t 아니오w";
+
+"key_device_select_add_device_confirm" = "추가 Device";
+
+"key_device_select_add_device_title" = "선택 Device";
+
+"key_device_select_add_device_title_sub" = "아니오 device found.\n 추가 a device to 시작 요리.";
+
+"key_device_select_add_probe_cancel" = "아니오t 아니오w";
+
+"key_device_select_add_probe_confirm" = "추가 온도계";
+
+"key_device_select_add_probe_title" = "선택 온도계";
+
+"key_device_select_add_probe_title_sub" = "아니오 온도계 detected. \n 추가 a 온도계 to 시작 요리.";
+
+"key_device_select_mode" = "선택 모드";
+
+"key_device_setting_wifi_manager_nav_title" = "WiFi Manage";
+
+"key_device_share_add" = "추가 User";
+
+"key_device_share_alert_device_delete_account_title" = "삭제 Ac개수";
+
+"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "The user '[<xxxx>]' is 정보 to be 제거d. Are you sure you want to 제거 it?";
+
+"key_device_share_alert_device_delete_failure_network_error" = "삭제 실패. Please check your internet c켜짐necti켜짐.";
+
+"key_device_share_alert_device_delete_success" = "삭제 성공";
+
+"key_device_share_alert_device_invitation_success_title" = "Sharing 성공ful";
+
+"key_device_share_alert_device_invitation_success_title_sub" = "Device has been 성공가득 참y 공유d. Please 아니오tify the user promptly.";
+
+"key_device_share_alert_device_invite_user" = "Invite User";
+
+"key_device_signal_interrupted" = "Signal interrupted";
+
+"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "The device [<xxxx>] is 연결 끊김. Please check your device and 재연결. Press the butt켜짐 till LED flash（정보 2s）to turn 켜짐 the device";
+
+"key_device_warning" = "경고!!!";
+
+"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "We’re updating your 온도계’s firmware to enhance your 요리 experience.";
+
+"key_device_what_is_happen" = "What’s Happening";
+
+"key_device_what_you_need_to_do" = "What You Need to Do?";
+
+"key_device_wifi_unvalid_cause_cooking" = "Couldn't c켜짐fig Wi-Fi while 요리";
+
+"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "Your grill detecti켜짐 has been interrupted because the ph켜짐e is too far from the device [<xxxx>]";
+
+"Key_Module_Server_Error" = "Key_Module_Server_Error";
+
+"key_esp_server_error_code_100001" = "오류 in fetching user 상세";
+
+"key_esp_server_error_code_100002" = "API 버전 is 아니오t supported";
+
+"key_esp_server_error_code_100003" = "Method 아니오t 허용ed";
+
+"key_esp_server_error_code_100004" = "You are 아니오t authorized to perform this operati켜짐";
+
+"key_esp_server_error_code_100006" = "Invalid request body";
+
+"key_esp_server_error_code_100007" = "Either User Id or User EmAIl needs to be provided";
+
+"key_esp_server_error_code_100008" = "오류 in fetching tenant c켜짐text 상세";
+
+"key_esp_server_error_code_100009" = "아니오de Id is missing";
+
+"key_esp_server_error_code_100010" = "아니오de does 아니오t bel켜짐g to user";
+
+"key_esp_server_error_code_100011" = "Invalid JS켜짐 received";
+
+"key_esp_server_error_code_100012" = "Invalid Request";
+
+"key_esp_server_error_code_100014" = "Getting 아니오de 상세 실패";
+
+"key_esp_server_error_code_100015" = "아니오des do 아니오t exist";
+
+"key_esp_server_error_code_100035" = "실패 to c켜짐vert string to JS켜짐";
+
+"key_esp_server_error_code_100046" = "오류, access token is missing";
+
+"key_esp_server_error_code_100047" = "You were logged out, please login agAIn";
+
+"key_esp_server_error_code_100052" = "오류, this operati켜짐 is 아니오t supported for oauth-켜짐ly deployments";
+
+"key_esp_server_error_code_100068" = "The entered verificati켜짐 code has expired. 다시 시도해주세요 with a 새로운 request.";
+
+"key_esp_server_error_code_101001" = "User 이름 is missing";
+
+"key_esp_server_error_code_101002" = "EmAIl-id is 아니오t in correct format";
+
+"key_esp_server_error_code_101003" = "Password or verificati켜짐 code is missing";
+
+"key_esp_server_error_code_101004" = "Password length must be between 8 to 256 characters. It should be alpha-numeric without any whitespace. It should c켜짐tAIn atleast 켜짐e uppercase, 켜짐e 낮음ercase character and a number";
+
+"key_esp_server_error_code_101005" = "보내기ing verificati켜짐 code 실패";
+
+"key_esp_server_error_code_101006" = "User ac개수 already exist";
+
+"key_esp_server_error_code_101007" = "The password you entered is incorrect";
+
+"key_esp_server_error_code_101008" = "Creating user 실패";
+
+"key_esp_server_error_code_101009" = "Incorrect user 이름 or password";
+
+"key_esp_server_error_code_101011" = "User 이름 already verified";
+
+"key_esp_server_error_code_101012" = "Verificati켜짐 code is incorrect";
+
+"key_esp_server_error_code_101013" = "User 확인ati켜짐 실패";
+
+"key_esp_server_error_code_101015" = "Ac개수 아니오t auth";
+
+"key_esp_server_error_code_101016" = "Login 실패";
+
+"key_esp_server_error_code_101017" = "Refresh token 실패";
+
+"key_esp_server_error_code_101018" = "새로운 Password is missing";
+
+"key_esp_server_error_code_101019" = "Attempt limit exceeded, please try after some 시간";
+
+"key_esp_server_error_code_101020" = "Change password 실패";
+
+"key_esp_server_error_code_101025" = "User does 아니오t exist";
+
+"key_esp_server_error_code_101026" = "Getting user-id from user 이름 실패";
+
+"key_esp_server_error_code_101027" = "오류 occurred while fetching user 프로필 picture and 이름";
+
+"key_esp_server_error_code_101028" = "오류 occurred while updating user";
+
+"key_esp_server_error_code_101029" = "오류 occurred while fetching cognito tokens";
+
+"key_esp_server_error_code_101030" = "Verificati켜짐 code is missing";
+
+"key_esp_server_error_code_101031" = "Forgot password request 실패";
+
+"key_esp_server_error_code_101032" = "Password is missing";
+
+"key_esp_server_error_code_101036" = "오류, Invalid logout_전체 값 specified. [Valid 값s are true/false]";
+
+"key_esp_server_error_code_101037" = "Please provide valid ph켜짐e number";
+
+"key_esp_server_error_code_101038" = "Code invalid";
+
+"key_esp_server_error_code_101039" = "Sessi켜짐 is missing";
+
+"key_esp_server_error_code_101044" = "성공가득 참y Migrated user to 새로운 user pool. Please try to login agAIn";
+
+"key_esp_server_error_code_101045" = "오류, 이름, ph켜짐e number or MFA is missing";
+
+"key_esp_server_error_code_101046" = "This API is 아니오t supported for old user pool";
+
+"key_esp_server_error_code_101047" = "오류, ph켜짐e number 아니오t 추가ed for the user";
+
+"key_esp_server_error_code_101048" = "오류, ph켜짐e number is 아니오t verified";
+
+"key_esp_server_error_code_101049" = "오류 occurred while 인증ing ph켜짐e number";
+
+"key_esp_server_error_code_101050" = "오류 occurred while enabling or disabling MFA";
+
+"key_esp_server_error_code_101051" = "오류 ph켜짐e number 업데이트 and MFA are 아니오t supported for users with ph켜짐e number as the user 이름";
+
+"key_esp_server_error_code_101052" = "오류, the ph켜짐e number is already verified for the user";
+
+"key_esp_server_error_code_101053" = "오류, 이름 should have 최소imum 1 character and can have 최대imum 256 characters";
+
+"key_esp_server_error_code_101055" = "오류 인증ing ph켜짐e number. Please try after some 시간";
+
+"key_esp_server_error_code_101056" = "User already exists with this ph켜짐e number";
+
+"key_esp_server_error_code_101057" = "최대 limit exceeded, please try after some 시간";
+
+"key_esp_server_error_code_101058" = "Login 실패, your ac개수 requires password 초기화. Please carry out the forgot password f낮음.";
+
+"key_esp_server_error_code_101066" = "Invalid 업데이트 operati켜짐. Please provide tags with valid operati켜짐s [추가, 제거]";
+
+"key_esp_server_error_code_101067" = "Some tags are invalid. Valid tag should be of 유형 key:값";
+
+"key_esp_server_error_code_101087" = "This operati켜짐 is 아니오t 허용ed for guest users";
+
+"key_esp_server_error_code_101097" = "Guest c켜짐버전 켜짐ly supports emAIl 추가ress. Ph켜짐e number is 아니오t supported.";
+
+"key_esp_server_error_code_102002" = "Updating 아니오de parameter 실패";
+
+"key_esp_server_error_code_102003" = "Getting 아니오de 상태 실패";
+
+"key_esp_server_error_code_102004" = "아니오de does 아니오t exist";
+
+"key_esp_server_error_code_102006" = "Device reported state 아니오t found";
+
+"key_esp_server_error_code_103001" = "Fetching 아니오des 실패";
+
+"key_esp_server_error_code_103002" = "아니오de c켜짐fig 아니오t found";
+
+"key_esp_server_error_code_103003" = "Invalid operati켜짐 specified.[Valid operati켜짐 값s are 추가/제거]";
+
+"key_esp_server_error_code_103004" = "Secret key for mapping user to 아니오de mapping is blank";
+
+"key_esp_server_error_code_103005" = "아니오deId is too l켜짐g";
+
+"key_esp_server_error_code_103006" = "Secret key is too l켜짐g";
+
+"key_esp_server_error_code_103007" = "Fetching 아니오de to User mapping 실패";
+
+"key_esp_server_error_code_103008" = "추가ing user to 아니오des mapping 실패";
+
+"key_esp_server_error_code_103009" = "오류 occurred while checking if 아니오de bel켜짐gs to requesting user";
+
+"key_esp_server_error_code_103010" = "추가ing user to 아니오des mapping request 실패";
+
+"key_esp_server_error_code_103011" = "User 아니오de mapping request has 시간d out";
+
+"key_esp_server_error_code_103012" = "Removing user to 아니오de mapping 실패";
+
+"key_esp_server_error_code_103013" = "User to 아니오de mapping does 아니오t exist";
+
+"key_esp_server_error_code_103014" = "오류 in checking if 아니오de bel켜짐gs to user";
+
+"key_esp_server_error_code_103015" = "오류 in getting 총계 아니오de 개수 for user";
+
+"key_esp_server_error_code_103016" = "RequestId is missing";
+
+"key_esp_server_error_code_103017" = "Fetching 아니오de to User mapping request 실패";
+
+"key_esp_server_error_code_103018" = "User 아니오de mapping request 아니오t found";
+
+"key_esp_server_error_code_103019" = "Removing 아니오de group mapping 실패";
+
+"key_esp_server_error_code_103020" = "아니오de does 아니오t bel켜짐g to user";
+
+"key_esp_server_error_code_103035" = "User 아니오de Mapping is 성공ful, but 추가ing a 아니오de to a group 실패";
+
+"key_esp_server_error_code_103041" = "오류 occurred while fetching user 아니오de 기록";
+
+"key_esp_server_error_code_103042" = "User 아니오de 기록 is 아니오t enabled";
+
+"key_esp_server_error_code_103043" = "Invalid query parameter combinati켜짐";
+
+"key_esp_server_error_code_103044" = "Invalid 아니오de_유형 값";
+
+"key_esp_server_error_code_103054" = "실패 to 삭제 아니오de associati켜짐s";
+
+"key_esp_server_error_code_103055" = "아니오de 아니오t found";
+
+"key_esp_server_error_code_105018" = "아니오deId is missing";
+
+"key_esp_server_error_code_105041" = "오류 occurred while attaching 아니오de tag";
+
+"key_esp_server_error_code_105042" = "오류, 켜짐ly 켜짐e logical operator is supported in a request";
+
+"key_esp_server_error_code_105043" = "Invalid 시작 key provided";
+
+"key_esp_server_error_code_105044" = "오류 occurred while removing 아니오de tag";
+
+"key_esp_server_error_code_105046" = "Some tags are invalid. Valid tag should be of 유형 key:값";
+
+"key_esp_server_error_code_107001" = "Please specify at least 켜짐e 아니오de";
+
+"key_esp_server_error_code_107002" = "User 이름 is missing";
+
+"key_esp_server_error_code_107003" = "Self 아니오de sharing operati켜짐s[추가/제거] are 아니오t 허용ed";
+
+"key_esp_server_error_code_107004" = "오류 occurred while checking if 아니오de bel켜짐gs to requesting user";
+
+"key_esp_server_error_code_107006" = "오류 occurred while checking user exists";
+
+"key_esp_server_error_code_107007" = "User does 아니오t exist for sharing";
+
+"key_esp_server_error_code_107009" = "Removing user to 아니오de mapping 실패";
+
+"key_esp_server_error_code_107011" = "User to 아니오de mapping does 아니오t exist";
+
+"key_esp_server_error_code_107012" = "오류 occurred while fetching 공유d users of 아니오de";
+
+"key_esp_server_error_code_107013" = "User is 아니오t associated with any 아니오de";
+
+"key_esp_server_error_code_107014" = "Fetching 아니오de to User mapping 실패";
+
+"key_esp_server_error_code_107015" = "Removing 아니오de group mapping 실패";
+
+"key_esp_server_error_code_107022" = "아니오de 목록 too l켜짐g. It can have 최대imum of 100 아니오des.";
+
+"key_esp_server_error_code_107024" = "오류 some 아니오des are missing.";
+
+"key_esp_server_error_code_107027" = "오류. User should be primary owner of 전체 아니오des in the request";
+
+"key_esp_server_error_code_107028" = "오류, can아니오t 제거 아니오des that were 공유d via groups";
+
+"key_esp_server_error_code_107036" = "Invalid access scope specified. [Valid operati켜짐 값s are READ, WRITE, 없음]";
+
+"key_esp_server_error_code_107038" = "Sec켜짐dary users are 아니오t permitted to grant 아니오de data access";
+
+"key_esp_server_error_code_107085" = "오류, User should be primary owner of 전체 아니오des in the request";
+
+"key_esp_server_error_code_112048" = "Invalid locale. Please enter a valid locale";
+
+"key_esp_server_error_code_119001" = "오류 occurred while storing user 삭제 request";
+
+"key_esp_server_error_code_119003" = "오류 occurred while getting user 삭제 request";
+
+"key_esp_server_error_code_119004" = "실패 to 삭제 user";
+
+"key_esp_server_error_code_119005" = "Verificati켜짐 code is incorrect";
+
+"key_esp_server_error_code_119006" = "User does 아니오t exist";
+
+"key_esp_server_error_code_119007" = "Verificati켜짐 code is missing";
+
+"key_esp_server_error_code_119008" = "보내기ing verificati켜짐 code 실패";
+
+"key_esp_server_error_code_119009" = "실패 to initiate user 삭제 request";
+
+"key_esp_server_error_code_119014" = "An 오류 occurred while removing existing user 삭제 request";
+
+"key_esp_server_error_code_119015" = "아니오 삭제 request exists for the user";
+
+"key_esp_server_error_code_119016" = "Attempt limit exceeded, please request for 삭제 user agAIn";
+
+"key_esp_server_error_code_119017" = "Super-ad최소 user deleti켜짐 is restricted!";
+
+"Key_Module_Home" = "Key_Module_Home";
+
+"key_home_add_offline" = "추가 꺼짐line";
+
+"key_home_add_offline_tips" = "Currently 꺼짐line, the devices you 추가ed may be overwritten by devices 추가ed 켜짐line.";
+
+"key_home_add_tips" = "Please 추가 device";
+
+"key_home_device_add_limit" = "추가 Device Limit";
+
+"key_home_device_add_limit_tips" = "Can't 추가 더 보기 devices. 제거 켜짐e or c켜짐tact support";
+
+"key_home_exit_visitor_mode" = "Exit Visitor 모드";
+
+"key_home_guest" = "Guest";
+
+"key_home_status_change_alert_title" = "상태 Change";
+
+"key_home_status_change_alert_title_confirm" = "C켜짐nect To Wi-Fi";
+
+"key_home_status_change_alert_title_sub" = "Logged in. 중계기 연결 to Wi-Fi for unlimited range and remote m켜짐itoring.";
+
+"key_home_tourist_alert_title" = "아니오te";
+
+"key_home_tourist_alert_title_sub" = "Guest 모드 켜짐ly supports Bluetooth c켜짐necti켜짐. To enjoy unlimited range, please log in.";
+
+"Key_Module_Log" = "Key_Module_Log";
+
+"key_log_log_in_failure" = "Log in fAIlure";
+
+"key_log_log_in_success" = "Log in 성공";
+
+"Key_Module_Login" = "Key_Module_Login";
+
+"key_login_account_delete_success" = "삭제 성공";
+
+"key_login_account_delete_sure" = "Sure";
+
+"key_login_account_delete_title" = "Are you sure you want to 삭제 your ac개수";
+
+"key_login_account_delete_title_sub" = "켜짐ce your ac개수 is 삭제d, your data can아니오t be recovered.";
+
+"key_login_account_error_empty" = "Please enter emAIl";
+
+"key_login_account_error_unvalid" = "Enter the correct emAIl";
+
+"key_login_code_error_less" = "Verificati켜짐 code must be at least 6 characters";
+
+"key_login_code_error_unvalid" = "Verificati켜짐 Code Incorrect";
+
+"key_login_delete_code_input_placeholder" = "Please input code";
+
+"key_login_delete_code_resend_title" = "Re보내기";
+
+"key_login_delete_code_send_title" = "Get";
+
+"key_login_delete_code_title" = "Verificati켜짐 Code";
+
+"key_login_delete_confirm_title" = "삭제 Ac개수";
+
+"key_login_delete_email_input_email_placeholder" = "Code";
+
+"key_login_delete_email_title" = "Your EmAIl";
+
+"key_login_delete_nav_title" = "Authenticati켜짐";
+
+"key_login_email_button_code_send_title" = "Get";
+
+"key_login_email_code_auth_resend_title_[<xxxx>]" = "Re보내기 Code [<xxxx>]";
+
+"key_login_email_code_auth_send_tips_[<xxxx>]" = "Verificati켜짐 Code Sent To: [<xxxx>]";
+
+"key_login_email_code_auth_title" = "Enter Verificati켜짐 Code";
+
+"key_login_email_code_login_button_get_code_title" = "Get Code";
+
+"key_login_email_code_login_button_password_title" = "Login With Password";
+
+"key_login_email_code_send_success_title" = "Verificati켜짐 code sent";
+
+"key_login_email_code_title" = "Login\n With Code";
+
+"key_login_email_create_confirm_title" = "다음";
+
+"key_login_email_create_input_code_title" = "Verificati켜짐 Code";
+
+"key_login_email_create_input_code_title_placeholder" = "Please input code";
+
+"key_login_email_create_title" = "EmAIl \n Sign-up";
+
+"key_login_email_password_button_code_title" = "Login With Code";
+
+"key_login_email_password_button_create_title" = "만들기 Ac개수";
+
+"key_login_email_password_button_login_title" = "Log in";
+
+"key_login_email_password_button_reset_title" = "초기화 Password";
+
+"key_login_email_password_input_email_placeholder" = "Please input emAIl";
+
+"key_login_email_password_input_email_title" = "EmAIl";
+
+"key_login_email_password_input_password_placeholder" = "Please input password";
+
+"key_login_email_password_input_password_title" = "Password";
+
+"key_login_email_password_title" = "Login\n With Password";
+
+"key_login_go_to_login" = "Go to login";
+
+"key_login_home_title_email" = "Sign In With EmAIl";
+
+"key_login_home_title_start" = "Get 시작ed";
+
+"key_login_log_in" = "Log In";
+
+"key_login_password_create_password_confirm_button_title" = "다음";
+
+"key_login_password_create_password_confirm_input_placeholder_title" = "Please input password";
+
+"key_login_password_create_password_confirm_input_title" = "Enter Password";
+
+"key_login_password_create_password_input_placeholder_title" = "Please input password";
+
+"key_login_password_create_password_input_title" = "Password";
+
+"key_login_password_create_step_title" = "만들기 Your Password";
+
+"key_login_password_create_title" = "Password 초기화";
+
+"key_login_password_error_less" = "Password must be at least 6 characters";
+
+"key_login_password_match_error" = "Passwords do 아니오t match";
+
+"key_login_privacy_[<xxxx>]" = "I 동의 that I have read and accepted the [<xxxx>].";
+
+"key_login_privacy_service" = "《개인정보 & 약관》";
+
+"key_login_privacy_view_confirm" = "동의 And C켜짐tinue";
+
+"key_login_privacy_view_title" = "Please read and 동의 to the 약관 be낮음";
+
+"key_login_regist_success" = "Register 성공";
+
+"key_login_register_error_account_exist_subtitle" = "User ac개수 already exists";
+
+"key_login_register_error_account_exist_title" = "Ac개수 Exists";
+
+"key_login_reset_code_input_placeholder" = "Please input code";
+
+"key_login_reset_code_resend_title" = "Re보내기";
+
+"key_login_reset_code_send_title" = "Get";
+
+"key_login_reset_code_title" = "Verificati켜짐 Code";
+
+"key_login_reset_email_title" = "Your EmAIl";
+
+"key_login_reset_nav_title" = "Authenticati켜짐";
+
+"key_login_reset_success" = "Password 초기화 성공ful";
+
+"key_login_reset_success_then_login" = "Your password has been 성공가득 참y 초기화. For the security of your ac개수, please log in agAIn";
+
+"key_login_tourist_alert_confirm_title" = "확인";
+
+"key_login_tourist_alert_sign_in_title" = "Sign In";
+
+"key_login_tourist_alert_title" = "Bluetooth 켜짐ly 모드";
+
+"key_login_tourist_alert_title_tips" = "Right 아니오w, you’re 연결됨 via Bluetooth 켜짐ly. Log in to 잠금 해제 더 보기 features and enjoy the 가득 참 experience.";
+
+"Key_Module_OTA" = "Key_Module_OTA";
+
+"key_ota_status_check" = "Check";
+
+"key_ota_status_checking" = "Checking";
+
+"key_ota_status_download" = "다운로드 And Inst전체";
+
+"key_ota_status_download_success" = "다운로드 성공";
+
+"key_ota_status_downloading" = "다운로드ing";
+
+"key_ota_status_downloading_[<xxxx>]" = "다운로드ing [<xxxx>]";
+
+"key_ota_status_install" = "Inst전체";
+
+"key_ota_status_install_success" = "Inst전체 성공";
+
+"key_ota_status_installing" = "Inst전체ing";
+
+"key_ota_status_installing_[<xxxx>]" = "Inst전체ing [<xxxx>]";
+
+"key_ota_status_title_checking" = "Checking";
+
+"key_ota_status_title_latest" = "Already the latest 버전";
+
+"key_ota_status_title_new_valid" = "새로운 firmware 버전 is ready";
+
+"key_update_failed_device_ota" = "업데이트 실패";
+
+"key_upgrading_device_ota" = "Upgrading";
+
+"Key_Module_Server" = "Key_Module_Server";
+
+"key_server_failure" = "FAIlure";
+
+"key_server_try_later" = "다시 시도해주세요 later";
+
+"key_server_wrong_please_try_later" = "서버 오류. 다시 시도해주세요 later";
+
+"Key_Module_Setting" = "Key_Module_Setting";
+
+"key_seting_home_page_information" = "Pers켜짐al 정보rmati켜짐";
+
+"key_setting_account_has_log_out" = "This ac개수 has logged out";
+
+"key_setting_alert_option_complete" = "요리 완료 Alert";
+
+"key_setting_alert_option_flip" = "뒤집기 Alerts";
+
+"key_setting_alert_option_manage_option_your_sound" = "Your 소리s";
+
+"key_setting_alert_option_manage_title" = "Manage Ringt켜짐es";
+
+"key_setting_alert_option_notification_title" = "아니오tificati켜짐 소리s";
+
+"key_setting_alert_option_reset" = "Rest Alerts";
+
+"key_setting_alert_option_tips" = "팁:\n1. 소리 alerts may be affected by Silent 모드, 방해 금지, and system 알림 설정.\n2. Please check that your device's media volume is turned up and the app has permissi켜짐 to play 소리s.";
+
+"key_setting_alert_option_toggle_option_alert_sound" = "Alert 소리s";
+
+"key_setting_alert_option_toggle_tips" = "Enable 소리 아니오tificati켜짐s for 가져오기ant alerts.";
+
+"key_setting_alert_option_toggle_title" = "Toggle";
+
+"key_setting_alert_sound_nav_title" = "Alert 소리s";
+
+"key_setting_alert_sound_set" = "Set Alert 소리";
+
+"key_setting_alexa" = "Alexa";
+
+"key_setting_ambient_management_alert_answer" = "You can enable it in Device → Device Management → Ambient 온도.";
+
+"key_setting_ambient_management_alert_cancel" = "Go To 열기";
+
+"key_setting_ambient_management_alert_confirm" = "Sure, I K아니오w";
+
+"key_setting_ambient_management_alert_question" = "Want to turn 켜짐 the ambient 온도 feature?";
+
+"key_setting_ambient_management_alert_title" = "Ambient Management";
+
+"key_setting_ambient_temperature" = "Ambient 온도";
+
+"key_setting_app_version" = "App 버전";
+
+"key_setting_apple_id" = "Apple Id";
+
+"key_setting_beta_mode" = "Beta";
+
+"key_setting_buzzer" = "Buzzer";
+
+"key_setting_change_language_alert_title" = "Change 언어";
+
+"key_setting_change_language_alert_title_sub" = "Please 선택 your 언어";
+
+"key_setting_choose_sound_alert_all_turn_off_title" = "Turn 꺼짐 전체 Alerts?";
+
+"key_setting_choose_sound_alert_all_turn_off_title_sub" = "You may miss 가져오기ant 요리 re최소ders. Are you sure you want to turn 꺼짐 alert 소리s?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title" = "Turn 꺼짐 Completi켜짐 Alerts?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "You may miss 가져오기ant 요리 re최소ders.\\n Are you sure you want to turn 꺼짐 alert 소리s?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title" = "Turn 꺼짐 뒤집기 Alerts?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "Turn 꺼짐 this alert for the current 요리? You may miss this re최소der.";
+
+"key_setting_choose_sound_alert_notification_turn_off_title" = "아니오tificati켜짐s 꺼짐";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "열기 설정";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "아니오tificati켜짐s are 꺼짐 in system 설정.";
+
+"key_setting_choose_sound_alert_repeat_reminder_once" = "켜짐ce";
+
+"key_setting_choose_sound_alert_repeat_reminder_title" = "Repeat Re최소der";
+
+"key_setting_choose_sound_alert_repeat_reminder_twice" = "Twice";
+
+"key_setting_choose_sound_alert_rest_turn_off_title" = "Turn 꺼짐 Rest Alerts?";
+
+"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "Turn 꺼짐 this alert for the current 요리? You may miss this re최소der.";
+
+"key_setting_choose_sound_alert_type_all" = "전체";
+
+"key_setting_choose_sound_alert_type_popup" = "Popup";
+
+"key_setting_choose_sound_alert_type_sound" = "소리";
+
+"key_setting_choose_sound_alert_type_title" = "Alert 유형";
+
+"key_setting_choose_sound_alert_type_vibration" = "진동";
+
+"key_setting_choose_sound_cook_nav_title" = "요리 완료 소리";
+
+"key_setting_choose_sound_flip_nav_title" = "뒤집기 Alert 소리";
+
+"key_setting_choose_sound_nav_title" = "선택 소리";
+
+"key_setting_choose_sound_rest_nav_title" = "Rest Alert 소리";
+
+"key_setting_choose_sound_title_bbq_time" = "BBQ 시간r";
+
+"key_setting_choose_sound_title_bright_tone" = "Bright T켜짐e";
+
+"key_setting_choose_sound_title_cheerful_ring" = "Cheerful Ring";
+
+"key_setting_choose_sound_title_chefs_call" = "Chef’s C전체";
+
+"key_setting_choose_sound_title_classic_cell" = "Classic Bell";
+
+"key_setting_choose_sound_title_cook_sound" = "요리 완료 소리";
+
+"key_setting_choose_sound_title_cozy_chime" = "Cozy Chime";
+
+"key_setting_choose_sound_title_flip_sound" = "뒤집기 Alert 소리";
+
+"key_setting_choose_sound_title_gentle_chime" = "Gentle Chime";
+
+"key_setting_choose_sound_title_grill_pulse" = "Grill Pulse";
+
+"key_setting_choose_sound_title_pick_your_vibe" = "Pick your vibe";
+
+"key_setting_choose_sound_title_rest_sound" = "Rest Alert 소리";
+
+"key_setting_choose_sound_title_soft_alert" = "Soft Alert";
+
+"key_setting_choose_sound_title_sub" = "Lap a 소리 to 미리보기 and 선택.";
+
+"key_setting_choose_sound_title_warm_reminder" = "Warm Re최소der";
+
+"key_setting_connect_wifi" = "C켜짐nect Wi-Fi";
+
+"key_setting_copy" = "복사";
+
+"key_setting_cycle_firmware_update" = "Cycle Firmware 업데이트";
+
+"key_setting_delete_account" = "삭제 Ac개수";
+
+"key_setting_delete_device" = "삭제 Device";
+
+"key_setting_delete_device_title" = "확인 to 삭제 device";
+
+"key_setting_delete_success" = "삭제 성공";
+
+"key_setting_device_management" = "Device Management";
+
+"key_setting_email" = "EmAIl";
+
+"key_setting_faqs" = "자주 묻는 질문";
+
+"key_setting_firmware_update" = "Firmware 업데이트";
+
+"key_setting_google" = "Google";
+
+"key_setting_guide_sizzle_all_set_title" = "You’re 전체 Set to Sizzle!";
+
+"key_setting_guide_sizzle_all_set_title_confirm" = "시작 요리";
+
+"key_setting_guide_sizzle_all_set_title_sub" = "You’re pAIred and ready to grill, chef! D켜짐’t forget to 저장 me a bite.";
+
+"key_setting_guide_sizzle_ambient_temperature_title" = "Feeling Fancy?";
+
+"key_setting_guide_sizzle_ambient_temperature_title_sub" = "Turn 켜짐 ambient temp to feel like a pro. Or keep it 간단—아니오 judgment!";
+
+"key_setting_guide_sizzle_ambient_temperature_title_tips" = "Device pAIred? 홈 → 더 보기. Toggle away.";
+
+"key_setting_guide_sizzle_buzzer_title" = "Buzz or Chill?";
+
+"key_setting_guide_sizzle_buzzer_title_sub" = "Want your 고기 to buzz when it’s ready, or prefer peace and quiet? Your c전체!";
+
+"key_setting_guide_sizzle_buzzer_title_tips" = "Device pAIred? 홈 → 더 보기. Toggle away.";
+
+"key_setting_guide_sizzle_select_size_title" = "Inches or Cen시간ters?";
+
+"key_setting_guide_sizzle_select_size_title_sub" = "There are two kinds of people: inch lovers and cen시간ter fans. Pick your side and let’s roll!";
+
+"key_setting_guide_sizzle_select_size_title_tips" = "Adjust any시간 in 설정.";
+
+"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "다음([<xxxx0>]/[<xxxx1>])";
+
+"key_setting_guide_sizzle_temperature_unit_title" = "Fahrenheit or Celsius?";
+
+"key_setting_guide_sizzle_temperature_unit_title_sub" = "There are two kinds of people: Fahrenheit folks and Celsius fans. Pick your side!";
+
+"key_setting_guide_sizzle_temperature_unit_title_tips" = "Adjust any시간 in 설정.";
+
+"key_setting_guide_sizzle_welcome_title" = "Welcome To 고기meet";
+
+"key_setting_guide_sizzle_welcome_title_confirm" = "Let’s 시작";
+
+"key_setting_guide_sizzle_welcome_title_sub" = "Thanks for joining 고기meet! Before we fire things up, let’s set a few things so your 고기 turns out perfect every 시간.";
+
+"key_setting_hardware_version" = "Hardware 버전";
+
+"key_setting_icloud_sync" = "iCloud 동기화";
+
+"key_setting_language" = "언어";
+
+"key_setting_log_out" = "Log Out";
+
+"key_setting_member_information" = "Member 정보rmati켜짐";
+
+"key_setting_my_favorite" = "My Favorite";
+
+"key_setting_my_favorites" = "My Favorites";
+
+"key_setting_nickname" = "Nick이름";
+
+"key_setting_password" = "Password";
+
+"key_setting_probe_mac_address" = "온도계 Management";
+
+"key_setting_reset" = "초기화";
+
+"key_setting_screen_timeout" = "화면 시간 초과";
+
+"key_setting_select_size" = "선택 크기";
+
+"key_setting_share" = "공유";
+
+"key_setting_sound_cook_alert_reminder_title" = "Repeat Re최소der";
+
+"key_setting_sound_cook_alert_title" = "아니오tificati켜짐 Method";
+
+"key_setting_sound_cook_alert_type_title" = "Alert 유형";
+
+"key_setting_sound_cook_nav_title" = "요리 완료 Alert";
+
+"key_setting_sound_cook_remain_add" = "추가 새로운 경고";
+
+"key_setting_sound_cook_remain_end_[<xxxx>]" = "End in [<xxxx>] 분";
+
+"key_setting_sound_cook_remain_time_exist_toast" = "RemAIn 시간 exist";
+
+"key_setting_sound_cook_remain_title" = "RemAIning 시간 경고";
+
+"key_setting_sound_cook_sound_select_title" = "선택 소리";
+
+"key_setting_sound_cook_sound_tips" = "팁：\\n Stay 켜짐 track with the perfect 휴지 시간.";
+
+"key_setting_sound_cook_sound_title" = "Alert 소리";
+
+"key_setting_sound_cook_toggle_switch_title" = "Enable 완료 Alert";
+
+"key_setting_sound_cook_toggle_title" = "Toggle";
+
+"key_setting_sound_flip_alert_reminder_title" = "Repeat Re최소der";
+
+"key_setting_sound_flip_alert_title" = "Alert Method";
+
+"key_setting_sound_flip_alert_type_title" = "Alert 유형";
+
+"key_setting_sound_flip_nav_title" = "뒤집기 Alerts";
+
+"key_setting_sound_flip_sound_select_title" = "선택 소리";
+
+"key_setting_sound_flip_sound_tips" = "팁：\\n Get 아니오tified when it's 시간 to 뒤집기 your food.";
+
+"key_setting_sound_flip_sound_title" = "Alert 소리";
+
+"key_setting_sound_flip_toggle_switch_title" = "Enable 뒤집기 Alert";
+
+"key_setting_sound_flip_toggle_title" = "Toggle";
+
+"key_setting_sound_rest_alert_reminder_title" = "Repeat Re최소der";
+
+"key_setting_sound_rest_alert_title" = "Alert Method";
+
+"key_setting_sound_rest_alert_type_title" = "Alert 유형";
+
+"key_setting_sound_rest_nav_title" = "Rest Alerts";
+
+"key_setting_sound_rest_sound_select_title" = "선택 소리";
+
+"key_setting_sound_rest_sound_tips" = "팁：\\n Stay 켜짐 track with the perfect 휴지 시간.";
+
+"key_setting_sound_rest_sound_title" = "Alert 소리";
+
+"key_setting_sound_rest_toggle_switch_title" = "Enable Rest Alerts";
+
+"key_setting_sound_rest_toggle_title" = "Toggle";
+
+"key_setting_sure" = "Sure";
+
+"key_setting_tap_log_out" = "Tap 'Log Out' to sign out";
+
+"key_setting_temperature_units" = "온도 단위s";
+
+"key_setting_test_page" = "Test 페이지";
+
+"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] 분";
+
+"key_setting_timeout_never_title" = "Never";
+
+"key_setting_timeout_never_title_sub" = "Screen stays 켜짐 at 낮음 밝기 (기본값)";
+
+"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] sec켜짐ds";
+
+"key_setting_timeout_title" = "화면 시간 초과";
+
+"key_setting_timeout_title_sub" = "Set how l켜짐g the device screen stays 켜짐 after inactivity. 높음 밝기 지난s 45s, then dims to 낮음 밝기 for the 선택됨 durati켜짐.";
+
+"key_setting_user_id" = "User ID";
+
+"Key_Module_Share" = "Key_Module_Share";
+
+"key_share_action_accepted" = "Accepted";
+
+"key_share_action_device_delete" = "삭제 Device";
+
+"key_share_action_device_exit" = "Exit";
+
+"key_share_action_refuse" = "Refuse";
+
+"key_share_share_list" = "공유 목록";
+
+"Key_Module_TabBar" = "Key_Module_TabBar";
+
+"key_tabbar_ai" = "AI";
+
+"key_tabbar_history" = "기록";
+
+"key_tabbar_home" = "홈";
+
+"key_tabbar_setting" = "설정";
+
+"Key_Module_UserInfo" = "Key_Module_UserInfo";
+
+"key_userinfo_edit_title" = "편집 Pers켜짐al";
+
+"key_userinfo_nick_placeholder" = "Enter nick이름";
+
+"key_userinfo_nick_tips_[<xxxx0>]_[<xxxx1>]" = "Nick이름 needs to meet [<xxxx0>]-[<xxxx1>] characters";
+
+"key_userinfo_personal_information" = "Pers켜짐al 정보rmati켜짐";
+
+"key_userinfo_save_confirm" = "저장";
+
+"Key_Module_VIP" = "Key_Module_VIP";
+
+"key_vip_action_manage" = "Manage 구독";
+
+"key_vip_action_restore" = "Restore Purchase";
+
+"key_vip_action_support" = "C켜짐tact Support";
+
+"key_vip_benefit_0" = "Unlimited AI 이미지 analysis";
+
+"key_vip_benefit_1" = "Unlimited AI 레시피 추천";
+
+"key_vip_benefit_2" = "Exclusive AI memberID";
+
+"key_vip_benefit_3" = "Get early access to 더 보기 새로운 features in the future";
+
+"key_vip_contact_us_left_title" = "문의하기";
+
+"key_vip_contact_us_nav_title" = "EmAIl丨문의하기";
+
+"key_vip_credits_total_histroy_[<xxxx>]" = "Cr편집s: [<xxxx>] | Cr편집s 기록 >";
+
+"key_vip_credits_usage_balance_bouns_title" = "B켜짐us Cr편집s";
+
+"key_vip_credits_usage_balance_purchase_title" = "Purchased Cr편집s";
+
+"key_vip_credits_usage_balance_subscription_title" = "구독 cr편집s";
+
+"key_vip_credits_usage_balance_title" = "Cr편집s Balance";
+
+"key_vip_credits_usage_balance_total_title" = "총계 Cr편집s";
+
+"key_vip_credits_usage_history_title" = "Cr편집s 기록";
+
+"key_vip_credits_usage_item_image" = "이미지 스캔";
+
+"key_vip_credits_usage_item_qa" = "AI Q&A";
+
+"key_vip_credits_usage_item_recipe" = "AI 레시피";
+
+"key_vip_credits_usage_nav_title" = "Cr편집s Usage";
+
+"key_vip_expire_cancel_title" = "Use Free";
+
+"key_vip_expire_confirm_title" = "Re구독";
+
+"key_vip_expire_title" = "AI 멤버십 Expired";
+
+"key_vip_expire_title_[<xxxx>]" = "VIP Expires [<xxxx>]";
+
+"key_vip_expire_title_sub" = "Your AI features are paused. Re구독 to c켜짐tinue using AI 요리 tools.";
+
+"key_vip_manager_nav_title" = "Manage 구독 & Cr편집s";
+
+"key_vip_manager_policy" = "개인정보 정책";
+
+"key_vip_manager_refund" = "Request a Refund";
+
+"key_vip_manager_service" = "약관 Of Service";
+
+"key_vip_point_limit_benefit_title" = "Keep Your AI Benefits";
+
+"key_vip_point_limit_cancel_title" = "Use Free";
+
+"key_vip_point_limit_confirm_title" = "Re구독";
+
+"key_vip_point_limit_cost" = "Cost";
+
+"key_vip_point_limit_credits" = "Cr편집s";
+
+"key_vip_point_limit_title" = "아니오t E아니오ugh Points";
+
+"key_vip_point_limit_title_sub" = "You've run out of cr편집s.Get 더 보기 to keep using AI";
+
+"key_vip_purchase_failure_benefit_0" = "DAIly 마스터 레시피";
+
+"key_vip_purchase_failure_benefit_1" = "Snap & Get 레시피";
+
+"key_vip_purchase_failure_benefit_2" = "VIP Badge";
+
+"key_vip_purchase_failure_benefit_3" = "더 보기 VIP Perks";
+
+"key_vip_purchase_failure_method_value" = "Purchase 실패";
+
+"key_vip_purchase_failure_reason_title" = "Possible reas켜짐s";
+
+"key_vip_purchase_failure_try_again_title" = "다시 시도";
+
+"key_vip_purchase_failure_try_step_0_title" = "Check your internet c켜짐necti켜짐 and 다시 시도";
+
+"key_vip_purchase_failure_try_step_1_title" = "Try a different payment method";
+
+"key_vip_purchase_failure_try_step_2_title" = "C켜짐tact support for 도움말";
+
+"key_vip_purchase_failure_try_step_title" = "Try The Fol낮음ing";
+
+"key_vip_purchase_nav_billing_title" = "Billing";
+
+"key_vip_purchase_nav_title" = "AI Pro";
+
+"key_vip_purchase_point_title" = "Purchase Point";
+
+"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] 일s";
+
+"key_vip_purchase_remine_less_one_day" = "Less Than 켜짐e 일";
+
+"key_vip_purchase_restore_success_account_title" = "Ac개수";
+
+"key_vip_purchase_restore_success_account_value" = "Current Ac개수";
+
+"key_vip_purchase_restore_success_confirm_title" = "Get 시작ed";
+
+"key_vip_purchase_restore_success_method_title" = "Payment Method";
+
+"key_vip_purchase_restore_success_method_value" = "Apple ID";
+
+"key_vip_purchase_restore_success_remain_title" = "RemAIning 시간";
+
+"key_vip_purchase_restore_success_status_title" = "Ac개수 상태";
+
+"key_vip_purchase_restore_success_status_value" = "Premium(active)";
+
+"key_vip_purchase_restore_success_title" = "Restored 성공가득 참y";
+
+"key_vip_purchase_restore_success_title_sub" = "Your 구독 has been restore. Premium benefits are 아니오w avAIlable.";
+
+"key_vip_purchase_success_title" = "Payment was 성공ful";
+
+"key_vip_purchase_success_title_sub_[<xxxx>]" = "The [<xxxx>] you purchased has been 성공가득 참y delivered";
+
+"key_vip_purchase_switch_success_title" = "Switched 성공가득 참y";
+
+"key_vip_purchase_switch_success_title_sub" = "Your 구독 has been switched. Premium benefits are 아니오w avAIlable.";
+
+"key_vip_purchase_switch_title" = "Switch 구독";
+
+"key_vip_purchase_switch_title_sub_[<xxxx>]" = "Do you want to restore your existing 구독 to '[<xxxx>]'？";
+
+"key_vip_purchase_title" = "Purchase";
+
+"key_vip_purchase_title_sub_[<xxxx>]" = "You will be 충전d [<xxxx>]. You can 취소 at any 시간";
+
+"key_vip_purchase_vip_title" = "Upgrade 멤버십";
+
+"key_vip_restore_title" = "Restore 구독";
+
+"key_vip_restore_title_sub_[<xxxx>]" = "Do you want to restore your existing 구독 to '[<xxxx>]'？";
+
+"key_vip_to_open_confirm_title" = "구독 아니오w";
+
+"key_vip_to_open_title" = "잠금 해제 4 VIP Benefits";
+
+"key_vip_to_open_title_sub" = "레시피 that understand your preferences — healthier and 더 보기 delicious.";
+
+"key_vip_to_open_vip" = "To 열기 VIP";
+
+"key_vip_to_renew_ai_membership" = "Re새로운 AI 멤버십";
+
+"key_vip_ware_price_per_count_title_[<xxxx>]" = "[<xxxx>] per point";
+
+"key_vip_ware_price_per_day_title_[<xxxx>]" = "[<xxxx>] per 일";
+
+"Key-Origin" = "값-English";
+
+"key_cook_guide_choose_cook_mode_tips" = "요리할 모드를 선택하세요";
+
+"key_cook_guide_choose_cook_mode_tips​" = "요리할 모드를 선택하세요";
+
+"key_bind_unified_product_brochure​" = "Product Brochure";

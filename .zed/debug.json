@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Debug MMTToolForAppTrans (仅构建)",
+    "adapter": "Swift",
+    "request": "launch",
+    "program": "xcede:",
+    "build": "xcede build (仅构建)"
+  },
+  {
+    "label": "Debug MMTToolForAppTrans (构建并运行)",
+    "adapter": "Swift",
+    "request": "launch",
+    "program": "xcede:",
+    "build": "xcede buildrun (模拟器)"
+  }
+]

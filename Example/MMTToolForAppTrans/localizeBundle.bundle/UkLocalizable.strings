@@ -1,0 +1,2331 @@
+"Key_Module_AI" = "Key_Module_AI";
+
+"key_ai_answer_recipe_cook_awaken_title" = "Начать готовку";
+
+"key_ai_answer_recipe_cook_flip_title" = "Перевернуть";
+
+"key_ai_answer_recipe_cook_meat_name_title" = "Название мяса";
+
+"key_ai_answer_recipe_cook_steps_title" = "Шаг готовки";
+
+"key_ai_answer_recipe_cook_time_title" = "Время готовки";
+
+"key_ai_answer_recipe_ingredient_list_title" = "Список ингредиентов";
+
+"key_ai_answer_recipe_name_title" = "Название рецепта";
+
+"key_ai_answer_recipe_notes_title" = "Заметки";
+
+"key_ai_answer_recipe_pre_time_title" = "Подготовка";
+
+"key_ai_answer_recipe_star_title" = "Звезда";
+
+"key_ai_answer_recipe_total_time_title" = "Общее время";
+
+"key_ai_answer_result_choice_confirm_title" = "Использовать рецепт";
+
+"key_ai_answer_result_choice_equipment_title" = "Выбор оборудования";
+
+"key_ai_answer_result_choice_meat_title" = "Выбор мяса";
+
+"key_ai_answer_result_choice_temperature_title" = "Выбор температуры";
+
+"key_ai_answer_result_choice_title" = "Ваш выбор";
+
+"key_ai_answer_setting_cooking_choose_equipment_title_sub" = "Выбор оборудования";
+
+"key_ai_answer_setting_cooking_choose_meat_title_sub" = "Выбор мяса";
+
+"key_ai_answer_setting_cooking_choose_temperature_title_sub" = "Выбор температуры";
+
+"key_ai_answer_setting_cooking_title_confirm" = "Я выбрал";
+
+"key_ai_collection_cook_segment_title" = "Профиль готовки";
+
+"key_ai_collection_recipes_segment_title" = "Рецепты ИИ";
+
+"key_ai_day_distance_last_30_day" = "Последние 30 дней";
+
+"key_ai_day_distance_last_7_day" = "Последние 7 дней";
+
+"key_ai_day_distance_last_day" = "Вчера";
+
+"key_ai_day_distance_today" = "Сегодня";
+
+"key_ai_dialogue_empty_title" = "Истории ИИ пока нет";
+
+"key_ai_dialogue_empty_title_sub" = "Начните использовать ИИ для создания рецептов, получения советов и просмотра результатов.";
+
+"key_ai_home_image_recognition_title" = "ИИ распознавание изображений";
+
+"key_ai_home_image_recognition_title_sub" = "Фото в рецепт: готовьте из того, что есть";
+
+"key_ai_home_last_recipe_ask_title" = "Спросить";
+
+"key_ai_home_last_recipe_master_title" = "Мастер";
+
+"key_ai_home_last_recipe_scan_title" = "Сканировать";
+
+"key_ai_home_last_recipe_title" = "Последний рецепт ИИ";
+
+"key_ai_home_recipe_recommendations_title" = "Рекомендации рецептов ИИ";
+
+"key_ai_home_recipe_recommendations_title_sub" = "Идея в рецепт: готовьте то, что любите";
+
+"key_ai_home_title" = "ИИ готовка";
+
+"key_ai_image_recognition_cart_title" = "Расскажите, что вам нравится — мы порекомендуем рецепты!";
+
+"key_ai_master_enterence_confirm" = "ИИ настройка";
+
+"key_ai_master_enterence_header" = "Мастер готовки ИИ";
+
+"key_ai_master_enterence_title" = "Настроить рецепт";
+
+"key_ai_master_enterence_title_sub" = "Tell us your preferences — we’ll Создать the perfect Рецепт for you.";
+
+"key_ai_master_see_more_title" = "Откройте подписку ИИ для доступа к рецептам мастера.";
+
+"key_ai_master_see_more_title_sub" = "Подписаться";
+
+"key_ai_master_setting_animal_title" = "Что готовите сегодня?";
+
+"key_ai_master_setting_confirm_open_title" = "Откройте VIP для сохранения";
+
+"key_ai_master_setting_confirm_save_title" = "Сохранить";
+
+"key_ai_master_setting_doneness_title" = "Идеальная прожарка";
+
+"key_ai_master_setting_during_title" = "Бюджет времени";
+
+"key_ai_master_setting_equipment_title" = "Готовка Method";
+
+"key_ai_master_setting_flavor_title" = "Предпочтение вкуса";
+
+"key_ai_master_setting_nav_title" = "ИИ Мастер Настройки";
+
+"key_ai_probe_insert_next_title" = "Далее Шаг";
+
+"key_ai_probe_insert_title" = "Щуп InsertiВкл";
+
+"key_ai_recipe_answer_card_title" = "Smart Готовка Настройки";
+
+"key_ai_recipe_answer_card_title_sub" = "Based Вкл your ВыбратьiВкл, we will generate a drawing Рецепт for you";
+
+"key_ai_recipe_answer_nav_title" = "Ответ ИИ";
+
+"key_ai_recipe_answer_title_sub" = "Please Выбрать according to the optiВклs";
+
+"key_ai_recipe_collection" = "Сохранить Рецепт";
+
+"key_ai_recipe_collection_failure_title" = "УспехПолныйy Удалитьd from Favorites";
+
+"key_ai_recipe_collection_success_title" = "Сохранитьd УспехПолныйy!";
+
+"key_ai_recipe_collection_success_title_sub" = "You can view and manage it in “My → Favorite Рецепты.”";
+
+"key_ai_recipe_confirm_detail_title" = "View Рецепт Детали >";
+
+"key_ai_recipe_confirm_next_title" = "Начать гриль";
+
+"key_ai_recipe_confirm_swipe_title_tips" = "Swipe left and right to see Больше";
+
+"key_ai_recipe_confirm_title" = "ИИ Barbecue SolutiВкл";
+
+"key_ai_recipe_confirm_title_sub" = "Based Вкл the cВклtent of your photos, we have generated a set of intelligent barbecue solutiВклs for you,If you are Нетt satisfied with a suggestiВкл beНизкий, click Редактировать.";
+
+"key_ai_recipe_cooking_instruction_title" = "Готовка InstructiВклs";
+
+"key_ai_recipe_description_title" = "Описание";
+
+"key_ai_recipe_difficult_challenging" = "ChВсеenging";
+
+"key_ai_recipe_difficult_easy" = "Легко";
+
+"key_ai_recipe_difficult_moderate" = "Режимrate";
+
+"key_ai_recipe_difficult_professional" = "Профессиональный";
+
+"key_ai_recipe_dis_collection" = "UnСохранить Рецепт";
+
+"key_ai_recipe_help_tips_title" = "Помощьful Советs";
+
+"key_ai_recipe_ingredients_title" = "Ингредиенты";
+
+"key_ai_recipe_pre_cooking_title" = "Pre-Готовка Шаги";
+
+"key_ai_recipe_recommend_card_awaken_title" = "Пробуждение the Мясо";
+
+"key_ai_recipe_recommend_card_cooking_tool_title" = "Готовка envirВклment";
+
+"key_ai_recipe_recommend_card_flip_title" = "Переворот";
+
+"key_ai_recipe_recommend_card_meat_name_title" = "Мясо";
+
+"key_ai_recipe_recommend_card_meat_size_title" = "Estimated Мясо inch";
+
+"key_ai_recipe_recommend_card_temperature_title" = "Готовка Режим";
+
+"key_ai_recipe_recommend_card_title_[<xxxx>]" = "Рекомендуемый Рецепт [<xxxx>]";
+
+"key_ai_recipe_recommend_card_title_sub" = "We recommend persВклalized Рекомендации based Вкл your";
+
+"key_ai_recipe_unit_minute" = "Минут";
+
+"key_ai_recognition_photo_title" = "Использовать это фото";
+
+"key_ai_recognition_photo_working_title" = "Мастер готовки ИИ Is Working";
+
+"key_ai_recognition_result_cancel_title" = "Re-identificatiВкл";
+
+"key_ai_recognition_result_confirm_title" = "Далее Шаг";
+
+"key_ai_recognition_result_preparation_title" = "PreparatiВкл";
+
+"key_ai_recognition_result_title" = "Al Распознавание Результаты";
+
+"key_ai_smart_cooking_master" = "Smart Готовка Мастер";
+
+"key_ai_you_uploaded_this_photo" = "You Загрузитьed This Photo";
+
+"Key_Module_BBQ" = "Key_Module_BBQ";
+
+"key_bbq_complete_cooking_settings" = "Please Завершить Готовка Настройки";
+
+"key_bbq_cook_again" = "Готовка AgИИn";
+
+"key_bbq_cook_device" = "Готовка Device";
+
+"key_bbq_cook_duration" = "Готовка DuratiВкл";
+
+"key_bbq_cook_end_time" = "End Время";
+
+"key_bbq_cook_probe" = "Готовка Щуп";
+
+"key_bbq_cook_setting_confirm" = "Готовка Настройки Подтвердить";
+
+"key_bbq_cook_start_time" = "Начать Время";
+
+"key_bbq_delete_alert_title" = "Sure To Удалить Record?";
+
+"key_bbq_detail_back" = "Назад";
+
+"key_bbq_favorite_add" = "Добавить To Favorites";
+
+"key_bbq_favorite_remove" = "Удалить Favorite";
+
+"key_bbq_flip_food" = "Переворот Food";
+
+"key_bbq_grill_flip_not_support_tips" = "This grill does Нетt support Переворотping";
+
+"key_bbq_grill_rest_not_support_tips" = "This grill does Нетt support Отдых";
+
+"key_bbq_history_tempty_tips" = "Нет Готовка Records";
+
+"key_bbq_more_cooks" = "Больше Готовкаs";
+
+"key_bbq_nav_history" = "История";
+
+"key_bbq_note_add_alert_content_placeholder" = "Please enter the cВклtent";
+
+"key_bbq_note_add_alert_content_title" = "CВклtent";
+
+"key_bbq_note_add_alert_confirm_title" = "Подтвердить";
+
+"key_bbq_note_add_alert_failed_title" = "Добавить Ошибка";
+
+"key_bbq_note_add_alert_failed_title_sub" = "Заголовок must be at least 2 characters";
+
+"key_bbq_note_add_alert_title" = "Заметки";
+
+"key_bbq_note_add_alert_title_placeholder" = "Please enter the cВклtent";
+
+"key_bbq_note_add_alert_title_title" = "Заголовок";
+
+"key_bbq_note_create_tips" = "Tap to enter your Готовка Заметки";
+
+"key_bbq_notes_delete_title" = "BBQ Заметки Заголовок";
+
+"key_bbq_notes_title" = "Заметки";
+
+"key_bbq_re_select" = "Re-Выбрать";
+
+"key_bbq_rest_off_no_need_tips" = "Отдых Режим is Выкл — Нет need to check thickness, let’s get strИИght to Готовка!";
+
+"key_bbq_resting" = "Отдых";
+
+"key_bbq_select_device" = "Выбрать device";
+
+"key_bbq_select_device_cooking" = "Готовка";
+
+"key_bbq_select_device_low_battery" = "Низкий заряд";
+
+"key_bbq_select_device_no_probe_available" = "Нет Щуп avИИlable";
+
+"key_bbq_select_device_probe_title" = "Выбрать Щуп";
+
+"key_bbq_select_device_probe_title_sub" = "Please Выбрать your Щуп to Завершить the most Импортant Шаг, we are О нас to Начать grilling";
+
+"key_bbq_select_device_title" = "Выбрать device";
+
+"key_bbq_select_device_title_sub" = "Please Выбрать Готовка Оборудование to Начать your Новый barbecue journey";
+
+"key_bbq_temperature_chart_title" = "Температура Chart";
+
+"Key_Module_Bind" = "Key_Module_Bind";
+
+"key_bind_add_probe" = "Добавить Щуп";
+
+"key_bind_are_you_ready_come_and_start_your_wonderful_cooking_career" = "Are you ready?\n Come and Начать your wВклderful Готовка career";
+
+"key_bind_back" = "Назад";
+
+"key_bind_bluetooth_connecting" = "Bluetooth CВклnecting";
+
+"key_bind_bluetooth_is_connecting" = "Bluetooth is cВклnecting";
+
+"key_bind_bluetooth_is_scanning" = "Bluetooth is Сканироватьing";
+
+"key_bind_can_not_locate_the_probe_ensure_it_is_powered_on_and_tap_to_refresh" = "Can't locate the Щуп. Ensure it's powered Вкл and tap to refresh";
+
+"key_bind_change_wifi_current_connect_title" = "Already Подключено to Wi-Fi.";
+
+"key_bind_change_wifi_current_none_title" = "Нет Wi-Fi. Please CВклnect.";
+
+"key_bind_change_wifi_current_title" = "Опционально LocatiВкл";
+
+"key_bind_change_wifi_scan_title" = "Рекомендуемый LocatiВкл";
+
+"key_bind_cloud_connecting" = "Cloud CВклnecting";
+
+"key_bind_cloud_connecting_title" = "Cloud CВклnecting";
+
+"key_bind_cloud_connecting_title_sub" = "CВклnecting To The Cloud";
+
+"key_bind_cloud_connecting_to_cloud" = "CВклnecting to the cloud";
+
+"key_bind_connect" = "CВклnect";
+
+"key_bind_connect_success_than_temp_bind" = "Please Удалить the Щуп from the Усилитель";
+
+"key_bind_connect_the_probe" = "CВклnect The Щуп";
+
+"key_bind_connected_failure" = "Устройство подключено FИИlure";
+
+"key_bind_current_probe" = "Щуп";
+
+"key_bind_current_probe_choose" = "Выбрать Щуп";
+
+"key_bind_device_hub_disconnected" = "Устройство отключено";
+
+"key_bind_device_invitation" = "Приглашение устройства";
+
+"key_bind_device_invitation_tips" = "Пригласить пользователей";
+
+"key_bind_enter_wifi_password" = "Введите пароль Wi-Fi";
+
+"key_bind_enter_your_wifi_credentials" = "Введите данные Wi-Fi";
+
+"key_bind_finish_net_with_tips" = "Are you ready?\n Come and Начать your wВклderful Готовка career";
+
+"key_bind_finish_net_without_tips" = "Are you ready?\n Come and Начать your wВклderful Готовка career";
+
+"key_bind_finish_not_now_tips" = "You can keep using Bluetooth, but cВклnecting to Wi-Fi Разблокироватьs the Полный experience. Tap the Wi-Fi icВкл or go to Device Настройки to cВклnect.";
+
+"key_bind_firmware_update" = "Firmware Обновить";
+
+"key_bind_float_confirm" = "CВклnectiВкл";
+
+"key_bind_float_go_cooking" = "Go Готовка";
+
+"key_bind_float_pairing_failed_confirm" = "Переподключиться";
+
+"key_bind_float_pairing_failed_faqs" = "Часто задаваемые вопросы";
+
+"key_bind_float_pairing_failed_title" = "Device PИИring Ошибка";
+
+"key_bind_float_pairing_failed_title_sub" = "You may have enКол-воered Вклe of the folНизкийing situatiВклs, Пожалуйста, попробуйте снова";
+
+"key_bind_float_pairing_reconnecting" = "Переподключитьсяing";
+
+"key_bind_float_pairing_title" = "Device PИИring";
+
+"key_bind_float_probe_pairing_failed_title" = "Щуп PИИring Ошибка";
+
+"key_bind_float_probe_pairing_failed_title_sub" = "Please make sure the Щуп is inside the box. We will cВклnect the Щуп. Please Нетte that this process will be quick.";
+
+"key_bind_float_probe_pairing_title" = "Щуп PИИring";
+
+"key_bind_float_ready_to_use" = "Готов к использованию";
+
+"key_bind_float_ready_to_use_start_cook" = "Are you ready? \n Начать your exciting Готовка journey Нетw!";
+
+"key_bind_float_title" = "CВклnecting Devices";
+
+"key_bind_found_devices" = "Устройство найдено";
+
+"key_bind_go_cooking" = "Go Готовка";
+
+"key_bind_go_to_cooking" = "Go to Готовка";
+
+"key_bind_keep_the_booster_within_wifi_range" = "Держите усилитель в зоне Wi-Fi";
+
+"key_bind_keep_your_bluetooth_turning_on" = "Keep your bluetooth turning Вкл";
+
+"key_bind_next" = "Далее";
+
+"key_bind_not_now" = "Нетt Нетw";
+
+"key_bind_other" = "Другое";
+
+"key_bind_please_enter_wifi_password" = "Пожалуйста, введите пароль Wi-Fi";
+
+"key_bind_please_place_the_new_probe_in_the_booster" = "Please place the Новый Щуп in the Усилитель";
+
+"key_bind_probe_010x_alert_add_title" = "Добавитьing Щуп";
+
+"key_bind_probe_010x_alert_add_title_sub" = "Please wИИt while the Щуп is being Добавитьed";
+
+"key_bind_probe_010x_alert_bind_tips" = "1. Please Зарядка the Щуп for at least 3 to 5 Минут, especiВсеy if it is your first-Время use. \n\n 2. This will Помощь prevent the 'Ошибка to CВклnect the Щуп' issue in the Далее Шаг";
+
+"key_bind_probe_010x_alert_failed_title" = "Щуп cВклnectiВкл Ошибка";
+
+"key_bind_probe_010x_alert_failed_title_sub" = "Пожалуйста, попробуйте снова by folНизкийing the Шаги beНизкий:\n 1. Удалить the Щуп from the Усилитель and cВклnect\n 2. Зарядка the Щуп and pИИr it agИИn\n 3. Place the Щуп near the Усилитель and phВклe";
+
+"key_bind_probe_010x_alert_remove_title" = "Переместить щуп";
+
+"key_bind_probe_010x_alert_success_title" = "PИИring Успехful";
+
+"key_bind_probe_010x_alert_success_title_sub" = "Please Начать your Готовка journey";
+
+"key_bind_probe_add_failed" = "Добавитьing Щуп Ошибка";
+
+"key_bind_probe_add_probe" = "Добавить Щуп";
+
+"key_bind_probe_add_success" = "Щуп Добавитьed УспехПолныйy";
+
+"key_bind_probe_add_successfully" = "Добавить УспехПолныйy";
+
+"key_bind_probe_adding" = "Please wИИt while the Щуп is being Добавитьed";
+
+"key_bind_probe_bind_status_check" = "Please check the Bluetooth cВклnectiВкл Статус of the device";
+
+"key_bind_probe_change_unvalid" = "Щуп Change UnavИИlable";
+
+"key_bind_probe_change_unvalid_cause_cooking" = "Щуп change is Нетt Разрешитьed while Готовка. Please wИИt until the Готовка is Завершить";
+
+"key_bind_probe_device_invitation" = "Device InvitatiВкл";
+
+"key_bind_probe_lost_please_check_the_connection_and_ensure_the_probe_is_properly_attached" = "Щуп lost. Please check the cВклnectiВкл and ensure the Щуп is properly attached";
+
+"key_bind_probe_management" = "Щуп Management";
+
+"key_bind_ready_to_use" = "Готов к использованию";
+
+"key_bind_refresh" = "Refresh";
+
+"key_bind_retry" = "Retry";
+
+"key_bind_search" = "Поиск";
+
+"key_bind_searching_for_your_network" = "Поискing for your network";
+
+"key_bind_searching_wifi" = "Сканироватьning Wi-Fi";
+
+"key_bind_select_your_wifi" = "Выбрать Your Wi-Fi";
+
+"key_bind_setting" = "Настройка";
+
+"key_bind_setup_guide" = "Setup Гайд";
+
+"key_bind_step_[<xxxx>]" = "Шаг [<xxxx>]";
+
+"key_bind_temp_empty_title" = "Click the Добавить buttВкл at the bottom to Начать Добавитьing your Щупы.";
+
+"key_bind_the_probe_is_searching_please_wait" = "The Щуп is Поискing, please wИИt";
+
+"key_bind_to_replace_the_probe_please_click_the_search_button_below" = "To replace the Щуп, please click the Поиск buttВкл beНизкий";
+
+"key_bind_transferring_firmware" = "Transferring Firmware";
+
+"key_bind_try_again" = "Попробовать снова";
+
+"key_bind_unbind_probe_title" = "Unbind Щуп";
+
+"key_bind_unbind_probe_title_sub_[<xxxx0>]_[<xxxx1>]" = "You will unbind the 'Щуп [<xxxx0>] Mac : [<xxxx1>]'.\n Do you Подтвердить the unbinding?";
+
+"key_bind_unified_add_device" = "Добавить Device";
+
+"key_bind_unified_auto_scaning" = "CВклtinuous Автоmatic Поиск";
+
+"key_bind_unified_device_manually_add" = "Вручнуюly Добавить a device";
+
+"key_bind_unified_device_search_no_result" = "Нет devices found. Tap the Список beНизкий to Добавить Вклe Вручнуюly.";
+
+"key_bind_unified_device_searching" = "Поискing";
+
+"key_bind_unified_failure_device_box0300_cloud_bind_failure_tips" = "You may have enКол-воered Вклe of the folНизкийing situatiВклs, Пожалуйста, попробуйте снова\n\n • Ошибка to Отправить WIFI password\n • The Усилитель has been Отключено from the router\n • Unable to Добавить the device to the cloud\n • CВклnectiВкл Времяd out";
+
+"key_bind_unified_failure_device_box0400_cloud_bind_failure_tips" = "You may have enКол-воered Вклe of the folНизкийing situatiВклs, Пожалуйста, попробуйте снова\n\n • Ошибка to Отправить WIFI password\n • The Усилитель has been Отключено from the router\n • Unable to Добавить the device to the cloud\n • CВклnectiВкл Времяd out";
+
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle" = "Could Нетt cВклnect to the wireless network";
+
+"key_bind_unified_failure_device_cloud_bind_failure_subtitle_debug" = "The device canНетt be bound to your acКол-во in the cloud at the moment.";
+
+"key_bind_unified_failure_device_cloud_bind_failure_tips" = "Try the folНизкийing Шаги:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move Закрытьr to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_cloud_bind_failure_tips_debug" = "Try the folНизкийing Шаги to retry:\n • ReНачать the device\n • Place the device as Закрыть as possible to the network router\n • Ensure there is Нет signal interference in the surrounding envirВклment\n • Ensure your network router can access the internet НетrmВсеy";
+
+"key_bind_unified_failure_device_cloud_bind_failure_title" = "Подключение Wi-FiiВкл Ошибка";
+
+"key_bind_unified_failure_device_cloud_bind_failure_title_debug" = "Cloud Bind Ошибка";
+
+"key_bind_unified_failure_device_connect_failure_subtitle" = "The attempt to pИИr with the device was unУспехful";
+
+"key_bind_unified_failure_device_connect_failure_tips" = "Try the folНизкийing Шаги:\n • Ensure the device is in pИИring Режим.\n • Подтвердить both devices have Bluetooth enabled.\n • ReНачать Bluetooth and Попробовать снова.";
+
+"key_bind_unified_failure_device_connect_failure_title" = "Bluetooth CВклnectiВкл Ошибка";
+
+"key_bind_unified_failure_device_esp_enter_failure_subtitle" = "Could Нетt cВклnect to the wireless network";
+
+"key_bind_unified_failure_device_esp_enter_failure_tips" = "Try the folНизкийing Шаги:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move Закрытьr to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_esp_enter_failure_title" = "Подключение Wi-FiiВкл Ошибка";
+
+"key_bind_unified_failure_device_nodeid_check_failure_subtitle" = "Could Нетt cВклnect to the wireless network";
+
+"key_bind_unified_failure_device_nodeid_check_failure_tips" = "Try the folНизкийing Шаги:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move Закрытьr to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_nodeid_check_failure_title" = "Подключение Wi-FiiВкл Ошибка";
+
+"key_bind_unified_failure_device_scan_no_result_subtitle" = "The attempt to pИИr with the device was unУспехful";
+
+"key_bind_unified_failure_device_scan_no_result_tips" = "Try the folНизкийing Шаги:\n • Ensure the device is in pИИring Режим.\n • Подтвердить both devices have Bluetooth enabled.\n • ReНачать Bluetooth and Попробовать снова.";
+
+"key_bind_unified_failure_device_scan_no_result_title" = "Bluetooth CВклnectiВкл Ошибка";
+
+"key_bind_unified_failure_device_status_check_failure_subtitle" = "The attempt to pИИr with the device was unУспехful";
+
+"key_bind_unified_failure_device_status_check_failure_tips" = "Try the folНизкийing Шаги:\n • Ensure the device is in pИИring Режим.\n • Подтвердить both devices have Bluetooth enabled.\n • ReНачать Bluetooth and Попробовать снова.";
+
+"key_bind_unified_failure_device_status_check_failure_title" = "Bluetooth CВклnectiВкл Ошибка";
+
+"key_bind_unified_failure_device_wifi_connect_failure_subtitle" = "Could Нетt cВклnect to the wireless network";
+
+"key_bind_unified_failure_device_wifi_connect_failure_tips" = "Try the folНизкийing Шаги:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move Закрытьr to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_wifi_connect_failure_title" = "Подключение Wi-FiiВкл Ошибка";
+
+"key_bind_unified_failure_device_wifi_scan_failure_subtitle" = "Could Нетt cВклnect to the wireless network";
+
+"key_bind_unified_failure_device_wifi_scan_failure_tips" = "Try the folНизкийing Шаги:\n • Check if the Wi-Fi password is correct\n • Ensure the router is working properly\n • Move Закрытьr to the Wi-Fi signal source";
+
+"key_bind_unified_failure_device_wifi_scan_failure_title" = "Подключение Wi-FiiВкл Ошибка";
+
+"key_bind_unified_go_pairing" = "Go PИИring";
+
+"key_bind_unified_go_pairing_unvalid_tips" = "Please folНизкий the Вкл-screen instructiВклs to cВклnect and get Начатьed.";
+
+"key_bind_unified_product_brochure" = "Product Brochure";
+
+"key_bind_unified_scan_for_nearby" = "Сканировать for nearby devices";
+
+"key_bind_unified_step_1_tips_010x" = "Press and hold the power buttВкл for 2 secВклds to turn Вкл the device.";
+
+"key_bind_unified_step_1_tips_0201" = "Ensure the Батарея is instВсеed and the device is powered Вкл.";
+
+"key_bind_unified_step_1_tips_020x" = "Tap the power buttВкл to turn Вкл the device. You’ll hear a quick beep and see the light Начать blinking.";
+
+"key_bind_unified_step_1_tips_0300" = "Press the power buttВкл for 1.5 secВклds to turn Вкл the device. Release when the screen lights up.";
+
+"key_bind_unified_step_1_tips_0301" = "Press the power buttВкл for 1.5 secВклds to turn Вкл the device. Release when the screen lights up.";
+
+"key_bind_unified_step_1_tips_0400" = "Press the power buttВкл for 1.5 secВклds to turn Вкл the device. Release when the screen lights up.";
+
+"key_bind_unified_step_2_tips_010x" = "Then, double-press the power buttВкл. When the indicator Начатьs flashing rapidly, the device is ready for pИИring.";
+
+"key_bind_unified_step_2_tips_0201" = "WИИt until the bottom buttВкл becomes clickable.";
+
+"key_bind_unified_step_2_tips_020x" = "Double-tap the power buttВкл to make the device enter pИИring Режим, then tap the buttВкл beНизкий to Начать pИИring.";
+
+"key_bind_unified_step_2_tips_0300" = "Check the blinking Bluetooth and WiFi icВклs in the upper left corner. This means pИИring Режим is Вкл (it will turn Выкл after 10 Минут. Press the Подтвердить buttВкл for 3 secВклds to reНачать it).";
+
+"key_bind_unified_step_2_tips_0301" = "Check the blinking Bluetooth and WiFi icВклs in the upper left corner. This means pИИring Режим is Вкл (it will turn Выкл after 10 Минут. Press the Подтвердить buttВкл for 3 secВклds to reНачать it).";
+
+"key_bind_unified_step_2_tips_0400" = "Check the blinking Bluetooth and WiFi icВклs in the upper left corner. This means pИИring Режим is Вкл (it will turn Выкл after 10 Минут. Press the Подтвердить buttВкл for 3 secВклds to reНачать it).";
+
+"key_bind_unified_step_3_tips_0300" = "Please place the Щуп in its case during pИИring. Thanks for your cooperatiВкл!";
+
+"key_bind_unified_step_3_tips_0301" = "Please place the Щуп in its case during pИИring. Thanks for your cooperatiВкл!";
+
+"key_bind_unified_step_3_tips_0400" = "Please place the Щуп in its case during pИИring. Thanks for your cooperatiВкл!";
+
+"key_bind_unlimited_distance_control_possible_via_the_cloud_it_may_take_few_seconds" = "Unlimited distance cВклtrol possible via the cloud，it may take few secВклds";
+
+"key_bind_wifi_all_set_confirm_title" = "Let's Готовка";
+
+"key_bind_wifi_all_set_title" = "You’re Все Set";
+
+"key_bind_wifi_all_set_title_sub" = "Your device is Полныйy Подключено and ready to go.\n Enjoy smooth Готовка from Начать to finish.";
+
+"key_bind_wifi_ap_not_valid" = "Wi-Fi AP Нетt valid";
+
+"key_bind_wifi_auth_timeout" = "Wi-Fi auth Времяout";
+
+"key_bind_wifi_confirm_change" = "Change WiFi";
+
+"key_bind_wifi_connect_failure" = "Подключение Wi-Fi fИИlure";
+
+"key_bind_wifi_connect_timeout" = "Подключение Wi-Fi Времяout";
+
+"key_bind_wifi_connecting_title" = "CВклnecting To\n Wi-Fi";
+
+"key_bind_wifi_connecting_title_sub" = "CВклnecting To Wi-Fi";
+
+"key_bind_wifi_connection_failed" = "Подключение Wi-FiiВкл Ошибка";
+
+"key_bind_wifi_input_title" = "CВклnecting To\n Wi-Fi";
+
+"key_bind_wifi_input_title_confirm" = "CВклnecting To Wi-Fi";
+
+"key_bind_wifi_name" = "Wi-Fi Название";
+
+"key_bind_wifi_password" = "Wi-Fi password";
+
+"key_bind_wifi_password_error" = "Invalid Wi-Fi userНазвание or password";
+
+"key_bind_wifi_scan_warning_title" = "Refresh Wi-Fi Список?";
+
+"key_bind_wifi_scan_warning_title_sub" = "Обновление avИИlable networks will discВклnect your current Подключение Wi-FiiВкл.";
+
+"key_bind_wifi_search_title" = "Сканироватьning Wi-Fi";
+
+"key_bind_wifi_select_title" = "Выбрать Your Wi-Fi";
+
+"key_bind_wifi_to_connect_cancel_title" = "Maybe Later";
+
+"key_bind_wifi_to_connect_confirm_title" = "CВклnect Нетw";
+
+"key_bind_wifi_to_connect_title" = "Разблокировать Больше With Wi-Fi";
+
+"key_bind_wifi_to_connect_title_sub" = "You’re currently using Bluetooth.\n CВклnect to Wi-Fi for better stability and Полный features.";
+
+"key_bind_your_probe_[<xxxx0>]_has_been_successfully_added_to_[<xxxx1>]_please_start_cooking" = "Your 'Щуп [<xxxx0>]' has been УспехПолныйy Добавитьed to '[<xxxx1>]', please Начать Готовка";
+
+"Key_Module_Bluetooth" = "Key_Module_Bluetooth";
+
+"key_bluetooth_current_off" = "Bluetooth Выкл";
+
+"key_bluetooth_setting_cancel" = "Отмена";
+
+"key_bluetooth_setting_to" = "Настройка";
+
+"key_bluetooth_should_turn_on_to_continue" = "Turn Вкл Bluetooth To CВклtinue";
+
+"Key_Module_Common" = "Key_Module_Common";
+
+"key_common_alert_email_failure_tips" = "We can’t access your emИИl service. Tap 'Настройки' to enable it";
+
+"key_common_alert_feedback_publish" = "Publish";
+
+"key_common_alert_feedback_publish_failed_tips" = "Заголовок must be at least 2 characters";
+
+"key_common_alert_feedback_publish_failed_title" = "FИИlure";
+
+"key_common_alert_feedback_title" = "Заголовок";
+
+"key_common_alert_feedback_title_placeholder" = "Please enter a Заголовок";
+
+"key_common_alert_feedback_title_sub" = "CВклtent";
+
+"key_common_alert_feedback_title_sub_placeholder" = "Please enter the cВклtent";
+
+"key_common_cancel" = "Отмена";
+
+"key_common_confirm" = "Подтвердить";
+
+"key_common_delete" = "Удалить";
+
+"key_common_feedback" = "Обратная связь";
+
+"key_common_net_not_reachable_current_title" = "Network UnavИИlable";
+
+"key_common_net_not_reachable_current_title_cancel" = "Отмена";
+
+"key_common_net_not_reachable_current_title_confirm" = "Подтвердить";
+
+"key_common_net_not_reachable_current_title_sub" = "The network is currently unavИИlable. Local data will be loaded.";
+
+"key_common_net_not_reachable_title" = "Network Нетt Reachable";
+
+"key_common_net_not_reachable_title_confirm" = "Подтвердить";
+
+"key_common_net_not_reachable_title_sub" = "Network cВклnectiВкл Отключено. You can cВклtinue using Выклline Режим.";
+
+"key_common_net_reachable_current_title" = "Network Restored";
+
+"key_common_net_reachable_current_title_cancel" = "Отмена";
+
+"key_common_net_reachable_current_title_confirm" = "Подтвердить";
+
+"key_common_net_reachable_current_title_sub" = "Network cВклnectiВкл restored. Загрузка Вклline data Нетw.";
+
+"key_common_other" = "Другое";
+
+"Key_Module_Cook" = "Key_Module_Cook";
+
+"key_cook_[<xxxx0>]_h_[<xxxx1>]_m_have_passed" = "[<xxxx0>]h:[<xxxx1>]m have passed";
+
+"key_cook_[<xxxx0>]_m_[<xxxx1>]_s_have_passed" = "[<xxxx0>]m:[<xxxx1>]s have passed";
+
+"key_cook_[<xxxx>]_min_left" = "[<xxxx>] Мин left";
+
+"key_cook_[<xxxx>]_minutes_have_passed" = "[<xxxx>] Минут have passed";
+
+"key_cook_[<xxxx>]_seconds_have_passed" = "[<xxxx>] secВклds have passed";
+
+"key_cook_alert_add_limit_title" = "Can Вклly Добавить up to 5 at most";
+
+"key_cook_alert_add_new_warning" = "Добавить Новый Предупреждение";
+
+"key_cook_alert_cooking_complete_alert" = "Готовка Завершить Alert";
+
+"key_cook_alert_cooking_complete_unit" = "Готовка Завершено";
+
+"key_cook_alert_end_in_[<xxxx>]" = "Ends in [<xxxx>] Минут";
+
+"key_cook_alert_mode_popup" = "Popup";
+
+"key_cook_alert_mode_ring" = "Ring";
+
+"key_cook_alert_mode_vibration" = "Вибрация";
+
+"key_cook_alert_multiple_selection" = "mulСоветle ВыбратьiВкл";
+
+"key_cook_alert_remaining_time_alert" = "RemИИning Время Alert";
+
+"key_cook_alert_rest_continue" = "CВклtinue";
+
+"key_cook_alert_rest_title" = "Отдых Мясо";
+
+"key_cook_alert_rest_title_sub" = "The Мясо has reached the Отдых Температура. Please Удалить the food you are Готовка from your oven";
+
+"key_cook_alert_time_picker_title" = "Время Picker";
+
+"key_cook_alert_time_picker_unit" = "Минute";
+
+"key_cook_alert_warning_mode" = "Предупреждение Режимs";
+
+"key_cook_ambient" = "Ambient";
+
+"key_cook_chart_title_ambient" = "Ambient";
+
+"key_cook_chart_title_internal" = "Internal";
+
+"key_cook_chart_title_ntc1" = "NTC1";
+
+"key_cook_chart_title_ntc2" = "NTC2";
+
+"key_cook_chart_title_ntc3" = "NTC3";
+
+"key_cook_chart_title_ntc4" = "NTC4";
+
+"key_cook_chart_title_second_grill_temperature" = "SecВклd Grill";
+
+"key_cook_chart_title_stage1" = "Stage1";
+
+"key_cook_chart_title_stage2" = "Stage2";
+
+"key_cook_chart_title_target" = "Target";
+
+"key_cook_chart_title_warning" = "Предупреждение";
+
+"key_cook_complete_alert_content" = "You can go to the История records to see this bbq record";
+
+"key_cook_complete_will_complete_title" = "Готовка Will Завершить";
+
+"key_cook_complete_will_complete_title_sub_[<xxxx>]" = "There are [<xxxx>] Минут left until the end of Готовка";
+
+"key_cook_complete_will_complete_title_sub_with_temp_[<xxxx0>]_[<xxxx1>]" = "There are [<xxxx0>] Минут left until the end of Готовка ([<xxxx1>])";
+
+"key_cook_cooking_completed_on_device_[<xxxx>]" = "Готовка Завершено Вкл device [<xxxx>]";
+
+"key_cook_cooking_time_remaining" = "Готовка Время RemИИning";
+
+"key_cook_cuisine_american_bbq" = "American BBQ";
+
+"key_cook_cuisine_asian_fusion" = "Asian FusiВкл";
+
+"key_cook_cuisine_classic_pure" = "Classic Pure";
+
+"key_cook_cuisine_french_elegance" = "French Elegance";
+
+"key_cook_cuisine_mediterranean" = "MРедактироватьerranean";
+
+"key_cook_cuisine_other" = "Другое";
+
+"key_cook_cuisine_spicy_heat" = "Spicy Heat";
+
+"key_cook_during_express" = "express";
+
+"key_cook_during_express_with_time" = "Express (< 30 Минs)";
+
+"key_cook_during_low" = "Низкий";
+
+"key_cook_during_low_with_time" = "Низкий & SНизкий (4+ Часов)";
+
+"key_cook_during_no_rush" = "НетRush";
+
+"key_cook_during_no_rush_with_time" = "Нет Rush";
+
+"key_cook_during_relaxed" = "relaxed";
+
+"key_cook_during_relaxed_with_time" = "Relaxed (2 - 4 Часов)";
+
+"key_cook_during_standard" = "Стандарт";
+
+"key_cook_during_standard_with_time" = "Стандарт (45 - 90 Минs)";
+
+"key_cook_end_alert_cancel" = "Назад To Готовка";
+
+"key_cook_end_alert_confirm" = "Да, End Готовка";
+
+"key_cook_end_alert_title" = "Whether To End Готовка";
+
+"key_cook_end_cooking" = "End Готовка";
+
+"key_cook_equipment_air_fryer" = "ИИr Fryer";
+
+"key_cook_equipment_charcoal_grill" = "Charcoal Grill";
+
+"key_cook_equipment_deep_fryer" = "Deep Fryer";
+
+"key_cook_equipment_gas_grill" = "Gas Grill";
+
+"key_cook_equipment_option_section_title" = "Расширенные OptiВклs";
+
+"key_cook_equipment_other" = "Другое";
+
+"key_cook_equipment_oven" = "Oven";
+
+"key_cook_equipment_pan" = "Pan";
+
+"key_cook_equipment_reverse_sear" = "Reverse Sear";
+
+"key_cook_equipment_section_title" = "CommВкл Devices";
+
+"key_cook_equipment_smoker" = "Smoker";
+
+"key_cook_equipment_sous_vide" = "Sous Vide";
+
+"key_cook_estimate_time" = "Estimated Готовка Время";
+
+"key_cook_flip_do_not_need_cell_unvalid" = "Нет Переворот Needed";
+
+"key_cook_flip_do_not_need_title" = "DВкл't Need To Переворот Food";
+
+"key_cook_flip_do_not_need_title_cell" = "Нет Переворот Needed";
+
+"key_cook_flip_every_30_title" = "Переворот Food Every 30s";
+
+"key_cook_flip_every_30_title_cell" = "Every 30 secВклds";
+
+"key_cook_flip_once_alert_title" = "Время to Переворот Your Food";
+
+"key_cook_flip_once_alert_title_confirm" = "I've Переворотped It";
+
+"key_cook_flip_once_alert_title_sub" = "Use tВклgs to Переворот, Нетt a fork. Piercing the Мясо will cause juices to escape.";
+
+"key_cook_flip_once_title" = "Переворот Food Вклly Вклce";
+
+"key_cook_flip_once_title_cell" = "Вклce Вклly";
+
+"key_cook_food_beef" = "Beef";
+
+"key_cook_food_fish" = "Fish";
+
+"key_cook_food_lamb" = "Lamb";
+
+"key_cook_food_other" = "Другое";
+
+"key_cook_food_pork" = "Pork";
+
+"key_cook_food_poultry" = "Poultry";
+
+"key_cook_go_cooking" = "Go Готовка";
+
+"key_cook_go_to_cooking" = "Go To Готовка";
+
+"key_cook_guide_[<xxxx>]-sensor" = "[<xxxx>]-sensor";
+
+"key_cook_guide_ambient_sensor" = "Ambient Sensor";
+
+"key_cook_guide_base_back" = "Назад";
+
+"key_cook_guide_base_next" = "Далее";
+
+"key_cook_guide_base_no_need" = "Needn't Гайд";
+
+"key_cook_guide_choose_alert_tips" = "Set up НетtificatiВклs";
+
+"key_cook_guide_choose_chart_tips" = "Tap to change chart";
+
+"key_cook_guide_choose_distance_tips" = "Place your device Закрыть to the grill for the best experience";
+
+"key_cook_guide_choose_equipment_tips" = "Please Выбрать the Готовка device you want to use";
+
+"key_cook_guide_choose_flip_tips" = "Выбрать the food you want to Переворот";
+
+"key_cook_guide_choose_history_tips" = "Tap here to Начать a Новый roast";
+
+"key_cook_guide_choose_lefttime_tips" = "Tap to switch from remИИning Время to elapsed Время";
+
+"key_cook_guide_choose_meat_tips" = "Выбрать the Мясо you want to Готовка";
+
+"key_cook_guide_choose_meatsize_tips" = "Выбрать the thickness of the Мясо you want to Готовка";
+
+"key_cook_guide_choose_multitemperature_tips" = "Tap 'Ambient' or 'Internal' to view the sensor Температура";
+
+"key_cook_guide_choose_realtime_tips" = "Real-Время Готовка Прогресс";
+
+"key_cook_guide_choose_remove_probe_tips" = "Удалить The Щуп And Insert";
+
+"key_cook_guide_choose_resting_tips" = "Выбрать the Отдых Режим you want to use";
+
+"key_cook_guide_choose_start_tips" = "Tap to Начать Готовка";
+
+"key_cook_guide_choose_temperature_tips" = "View Температура of each part";
+
+"key_cook_guide_temp_s_welcome_title" = "Новый Мясоmeet S Pro\n Welcome To You";
+
+"key_cook_guide_temp_s_welcome_title_tips" = "Introducing our Все-Новый 5-sensor smart Мясо thermometer with Полныйy upgraded hardware:\n • Multi-point Температура MВклitoring: Simultaneously mВклitors 5 spots for evenly Готовкаed perfectiВкл\n • Real-Время Data TransmissiВкл: Instantly track Температура changes without frequently Открытьing the grill\n • Высокий Compatibility: Easily works with various grills and Аксессуары for seamless operatiВкл";
+
+"key_cook_guide_welcome_to_use" = "Welcome To Use";
+
+"key_cook_hub_distance_confirm_title" = "Go Готовка";
+
+"key_cook_insert_the_probe_into_meat_the_thickest_part_keep_the_safety_line_inside_meat" = "Place the Щуп in the thickest part of the Мясо. Make sure the Safety Line stays inside.";
+
+"key_cook_internal" = "Internal";
+
+"key_cook_meat_thickness_cell_unvalid" = "Нет Thickness Needed";
+
+"key_cook_meat_thickness_cm" = "cm";
+
+"key_cook_meat_thickness_inches" = "Inches";
+
+"key_cook_meat_thickness_most_common_size" = "Most CommВкл Размер";
+
+"key_cook_nav_alert_setting" = "Alert Настройки";
+
+"key_cook_nav_choose_flip_food" = "Выбрать Переворот Food";
+
+"key_cook_nav_choosing_device" = "Выбор device";
+
+"key_cook_nav_meat_thickness" = "Мясо Thickness";
+
+"key_cook_nav_poultry" = "Poultry";
+
+"key_cook_nav_probe_position" = "Нетte The Щуп PositiВкл";
+
+"key_cook_nav_rest_meat" = "Rest The Мясо";
+
+"key_cook_nav_select_cooking_option" = "Выбрать Готовка OptiВкл";
+
+"key_cook_nav_set_cooking" = "Set Готовка";
+
+"key_cook_nav_setting_cooking" = "Your Готовка Настройки";
+
+"key_cook_nav_temperature" = "Температура";
+
+"key_cook_notify_time_to_flip_30s_title_sub" = "For Щуп [<xxxx1>]（[<xxxx2>]）: Переворот food 30s Вклce";
+
+"key_cook_notify_time_to_flip_title" = "Время to Переворот the Мясо";
+
+"key_cook_notify_time_to_flip_title_sub" = "For Щуп [<xxxx1>]（[<xxxx2>]）: Переворот food from heat";
+
+"key_cook_notify_time_to_rest_title" = "Мясо is Отдых";
+
+"key_cook_notify_time_to_rest_title_sub" = "The Мясо has reached the target Температура. Please Удалить it from the oven.";
+
+"key_cook_please_remove_the_food_from_the_heat_source_immediately" = "Please Удалить the food from the heat source immediately";
+
+"key_cook_poultry_correct_operation" = "Correct OperatiВкл";
+
+"key_cook_poultry_incorrect_operation" = "Incorrect OperatiВкл";
+
+"key_cook_poultry_tips_title" = "Insert Щуп into Solid PortiВкл for Most Accurate Температура";
+
+"key_cook_poultry_tips_title_sub" = "Insert the Щуп into its solid portiВкл, like breast and legs, to effectively measure the Мясо's Температура.\n Avoiding rib cavities and large areas of bВклes and fatty.\n Ensure the groove Вкл the Щуп is inserted into the Мясо entirely for safety use.Please insert the Щуп properly to prevent damage.";
+
+"key_cook_probe_check_alert_battery_check_failed_title" = "Батарея Check Ошибка";
+
+"key_cook_probe_check_alert_battery_check_failed_title_sub" = "Please insert the Щуп into the Зарядка base to ensure that the device has sufficient power";
+
+"key_cook_probe_check_alert_battery_check_title" = "Батарея Check";
+
+"key_cook_probe_check_alert_signal_check_failed_title" = "Signal Check Ошибка";
+
+"key_cook_probe_check_alert_signal_check_failed_title_sub" = "Please place the Щуп within signal cВклnectiВкл range";
+
+"key_cook_probe_check_alert_signal_check_title" = "Signal Check";
+
+"key_cook_probe_check_alert_success_title" = "Щуп Статус: Хорошо";
+
+"key_cook_probe_check_alert_title" = "Щуп Статус checking";
+
+"key_cook_probe_position_do_not_show" = "Do Нетt Pop Up This Message AgИИn";
+
+"key_cook_probe_position_title" = "Мясоmeet Device LocatiВкл ИнфоrmatiВкл";
+
+"key_cook_probe_position_title_sub" = "Your Мясоmeet Pro Зарядкаr should be placed as Закрыть to your Готовкаer as possible to mИИntИИn the cВклnectiВкл with the Щуп and enhance the signal. \n Just make sure you dВкл't leave it Вкл any hot surfaces!";
+
+"key_cook_probe_position_title_sub_[<xxxx>]" = "Your [<xxxx>] Зарядкаr should be placed as Закрыть to your Готовкаer as possible to mИИntИИn the cВклnectiВкл with the Щуп and enhance the signal.\n Just make sure you dВкл't leave it Вкл any hot surfaces!";
+
+"key_cook_progress_flip_countdown_[<xxxx>]" = "Переворот in [<xxxx>] S";
+
+"key_cook_progress_flip_food" = "Переворот Food";
+
+"key_cook_progress_flip_once_food" = "Переворот Food";
+
+"key_cook_ready_insert_probe_black_line" = "Black Line";
+
+"key_cook_ready_insert_probe_safe_line" = "Safety Line";
+
+"key_cook_ready_insert_probe_title" = "How To Insert The Щуп";
+
+"key_cook_ready_insert_probe_title_sub" = "Insert the Щуп into the thickest part of the Мясо until the Safety Line is Завершитьly inside the Мясо, do Нетt past the Black Line, ensuring that the Совет does Нетt pierce through.";
+
+"key_cook_ready_insert_probe_title_confirm" = "Подтвердить";
+
+"key_cook_ready_to_grill" = "Ready To Grill";
+
+"key_cook_rest_mode_cell_unvalid" = "Отдых Режим Нетt Supported";
+
+"key_cook_rest_mode_off" = "Отдых Режим Выкл";
+
+"key_cook_rest_mode_off_cell" = "Выкл";
+
+"key_cook_rest_mode_off_tips" = "Отдых Режим will be turned Выкл. The final internal Температура of the Готовкаed Мясо may exceed the target Температура. Do you want to proceed with turning Выкл this Режим?";
+
+"key_cook_rest_mode_on" = "Отдых Режим Вкл";
+
+"key_cook_rest_mode_on_cell" = "Вкл";
+
+"key_cook_rest_mode_on_tips" = "When Отдых Режим is enabled, we’ll Нетtify you to Удалить the Мясо from the heat each Время its Температура rises by 10°C / 20°F ± 2°C / 3.6°F, ensuring optimal Готовка Результаты.";
+
+"key_cook_rest_mode_unvalid_temperature_low" = "The current target Температура is too Низкий for Отдых the Мясо. To rest the Мясо, please set the target Температура to at least 30°C / 86°F.";
+
+"key_cook_reverse_sear_nav_title" = "Reverse Sear";
+
+"key_cook_reverse_sear_section_final_title" = "Stage 2: Final Температура";
+
+"key_cook_reverse_sear_section_low_title" = "Stage 1: Низкий Температура";
+
+"key_cook_reverse_sear_section_strategy_title" = "Выбрать Strategy";
+
+"key_cook_second_grill_stage_[<xxxx>]" = "Stage [<xxxx>]";
+
+"key_cook_second_grill_stage_all" = "Все";
+
+"key_cook_setting_cook_save_favorite_tips" = "Сохранить your favorites to Начать your Далее Готовка faster!";
+
+"key_cook_setting_cooking_all_start" = "Все Set — Начать Готовка!";
+
+"key_cook_setting_cooking_change_tips" = "Your Готовка setup has changed — please Подтвердить it’s correct.";
+
+"key_cook_setting_cooking_tips" = "Your setup looks great. Let’s Начать Готовка when you’re ready.";
+
+"key_cook_start" = "Начать";
+
+"key_cook_start_new_cook" = "Начать A Новый Готовка";
+
+"key_cook_strategy_other_title" = "Другое";
+
+"key_cook_strategy_other_title_sub" = "Extended sear. Максimum crust formatiВкл. Please Выбрать your Температура.";
+
+"key_cook_strategy_stabdrad_title_sub" = "Extended sear. Максimum crust formatiВкл.";
+
+"key_cook_strategy_standard_title_[<xxxx0>]_[<xxxx1>]_[<xxxx2>]" = "Стандарт:[<xxxx0>]-[<xxxx1>][<xxxx2>]";
+
+"key_cook_strategy_standard_title_value_[<xxxx0>]_[<xxxx1>]" = "[<xxxx0>] → Switch → Final: [<xxxx1>]";
+
+"key_cook_strategy_standard_title_value_final_[<xxxx>]" = "Final [<xxxx>]";
+
+"key_cook_strategy_standard_title_value_low_[<xxxx>]" = "Низкий [<xxxx>]";
+
+"key_cook_strategy_tag_recommend" = "Recommend";
+
+"key_cook_target" = "Target";
+
+"key_cook_temperature_alert_tips" = "The sensing part of the Щуп is intuitively Дисплейed, so you can cВклtrol the barbecue Температура. Let you have a better Готовка experience.";
+
+"key_cook_temperature_alert_title" = "Щуп Температура";
+
+"key_cook_temperature_medium" = "Средний";
+
+"key_cook_temperature_medium_rare" = "Средний rare";
+
+"key_cook_temperature_medium_well" = "Средний well";
+
+"key_cook_temperature_other" = "Другое";
+
+"key_cook_temperature_rare" = "Rare";
+
+"key_cook_temperature_very_rare" = "Very Rare";
+
+"key_cook_temperature_well_done" = "Well Готово";
+
+"key_cook_the_ambient_temperature_has_risen_to_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_to_prevent_cracking" = "The ambient Температура has risen to [<xxxx0>]°C / [<xxxx1>]°F. Удалить it to prevent cracking.";
+
+"key_cook_the_internal_temperature_has_reached_[<xxxx0>]_°C_[<xxxx1>]_℉_remove_it_now_to_avoid_damage" = "The internal Температура has reached [<xxxx0>]°C / [<xxxx1>]°F. Удалить it Нетw to avoid damage.";
+
+"key_cook_time_budget_express" = "Express (< 30 Минs)";
+
+"key_cook_time_budget_low" = "Низкий & SНизкий (4+ Часов)";
+
+"key_cook_time_budget_other" = "Нет Rush";
+
+"key_cook_time_budget_relaxed" = "Relaxed (2 - 4 Часов)";
+
+"key_cook_time_budget_standard" = "Стандарт (45 - 90 Минs)";
+
+"key_cook_title_cooking_mode" = "Готовка Режим";
+
+"key_cook_title_equipment" = "Готовка EnvirВклment";
+
+"key_cook_title_estimate_meat_thickness" = "Estimated Мясо Thickness";
+
+"key_cook_title_flip" = "Переворот";
+
+"key_cook_title_food" = "Мясо";
+
+"key_cook_title_wake_up_meat" = "Отдых Мясо";
+
+"key_cook_use_last_session" = "Use Последний Готовка SessiВкл";
+
+"Key_Module_Device" = "Key_Module_Device";
+
+"key_device_access_restricted" = "Access Restricted";
+
+"key_device_alert_battery_low_0201" = "Батарея is beНизкий 20%. CВклsider replacing the Батарея soВкл.";
+
+"key_device_alert_battery_low_second_0201" = "Please replace the Батарея";
+
+"key_device_bluetooth_disconnected_title" = "Bluetooth Отключено";
+
+"key_device_bluetooth_disconnected_title_sub" = "Please check the Bluetooth cВклnectiВкл Статус of the device";
+
+"key_device_booster_low_battery" = "Усилитель: Низкий заряд";
+
+"key_device_change_alias_alert_placeholder" = "Please input Новый device Название";
+
+"key_device_change_alias_alert_title" = "Device Название";
+
+"key_device_change_alias_alert_title_sub" = "Выбрать a unique Название to easily identify your device when mulСоветle Щупы are nearby.";
+
+"key_device_delete" = "Удалить";
+
+"key_device_delete_failure" = "Device Удалить FИИlure";
+
+"key_device_delete_unvalid_cause_cooking" = "Couldn't Удалить device while Готовка";
+
+"key_device_home_tourist_title" = "You are currently in guest Режим. Register or log in to view and Редактировать your persВклal ИнфоrmatiВкл.";
+
+"key_device_hub_disconnected" = "Устройство отключено";
+
+"key_device_in_cooking" = "Готовка in Прогресс";
+
+"key_device_insert" = "Insert";
+
+"key_device_is_currently_connected_but_offline_please_ensure_it_is_connected_to_the_internet_to_share" = "Device is currently Подключено but Выклline. Please ensure it’s Подключено to the internet to Поделиться.";
+
+"key_device_name_010x" = "Мясоmeet Pro";
+
+"key_device_name_010x_[<xxxx>]" = "Мясоmeet Pro [<xxxx>]";
+
+"key_device_name_0200" = "Мясоmeet S Pro";
+
+"key_device_name_0200_[<xxxx>]" = "Мясоmeet S Pro [<xxxx>]";
+
+"key_device_name_0201" = "Мясоmeet Pro 2026";
+
+"key_device_name_0201_[<xxxx>]" = "Мясоmeet Pro 2026 [<xxxx>]";
+
+"key_device_name_0300" = "Мясоmeet X Pro";
+
+"key_device_name_0301" = "Мясоmeet Z Pro";
+
+"key_device_name_0301_[<xxxx>]" = "Мясоmeet Z Pro [<xxxx>]";
+
+"key_device_name_030x_[<xxxx>]" = "Мясоmeet X Pro [<xxxx>]";
+
+"key_device_name_0400" = "Мясоmeet S pro 2026";
+
+"key_device_name_0400_[<xxxx>]" = "Мясоmeet S Pro 2026 [<xxxx>]";
+
+"key_device_nav_share" = "Поделиться";
+
+"key_device_network_error" = "Ошибка сети";
+
+"key_device_no_device" = "Нет Device Found";
+
+"key_device_note_please_do_not_remove_the_probe_or_power_off_the_case_during_the_update" = "Insert the Щуп into its Зарядка case and keep it there for 1–3 Минут while the Обновить Завершитьs.\n\n Нетte: Please do Нетt Удалить the Щуп or power Выкл the case during the Обновить.";
+
+"key_device_ota_already_the_lastest_version" = "Already The Latest Версия";
+
+"key_device_ota_check" = "Check";
+
+"key_device_ota_checking" = "Checking";
+
+"key_device_ota_current_version" = "Current Версия";
+
+"key_device_ota_doing_title" = "During Обновить";
+
+"key_device_ota_doing_title_sub" = "Updating firmware, please wИИt…";
+
+"key_device_ota_doing_transmit_title_sub" = "The Новый firmware is currently being transmitted and may take some Время. Please be patient";
+
+"key_device_ota_fail_alert_device_busy_failed_title" = "Device Busy";
+
+"key_device_ota_fail_alert_device_busy_failed_title_sub" = "The device is busy with Другое tСпроситьs and canНетt Начать the firmware Обновить immediately. Please ensure the device is idle before updating.";
+
+"key_device_ota_fail_alert_download_failed_title" = "Скачать Ошибка";
+
+"key_device_ota_fail_alert_download_failed_title_sub" = "Firmware Скачать Ошибка. Please check your network cВклnectiВкл.";
+
+"key_device_ota_fail_alert_during_cooking_title" = "Готовка in Прогресс";
+
+"key_device_ota_fail_alert_during_cooking_title_sub" = "Готовка in Прогресс. OTA Обновитьs are Нетt supported during Готовка. Please wИИt until the process is Завершить.";
+
+"key_device_ota_fail_alert_low_power_title" = "Обновить blocked";
+
+"key_device_ota_fail_alert_low_power_title_sub_[<xxxx>]" = "Обновить unavИИlable. Make sure Батарея is above [<xxxx>]% or keep the device plugged in.";
+
+"key_device_ota_fail_alert_not_online_title" = "Device Нетt Networked";
+
+"key_device_ota_fail_alert_not_online_title_sub" = "Please Добавить the device to your network before attempting a firmware Обновить.";
+
+"key_device_ota_fail_alert_not_primary_failed_title_sub" = "This device is Нетt the mИИn device, and the device canНетt be OTA upgraded";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title" = "Server UnrespВклsive";
+
+"key_device_ota_fail_alert_server_unresponsive_failed_title_sub" = "The firmware server is unavИИlable or the request Времяd out, causing the firmware Скачать to fИИl. Пожалуйста, попробуйте снова later.";
+
+"key_device_ota_fail_alert_server_update_failed_title" = "Обновить Ошибка";
+
+"key_device_ota_fail_alert_server_update_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device Статус.";
+
+"key_device_ota_fail_alert_transfer_failed_title" = "Transfer Ошибка";
+
+"key_device_ota_fail_alert_transfer_failed_title_sub" = "Обновить Ошибка due to transfer Времяout or device shutdown. Please retry firmware transfer";
+
+"key_device_ota_fail_alert_update_delay_failed_title" = "Обновить Delay";
+
+"key_device_ota_fail_alert_update_delay_failed_title_sub" = "The firmware is incompatible with the device or there is insufficient device storage. Please check the device Статус.";
+
+"key_device_ota_firmware_image_download_complete" = "Firmware Изображение Скачать Завершить";
+
+"key_device_ota_firmware_installing" = "Firmware InstВсеing";
+
+"key_device_ota_installing_firmware" = "InstВсеing firmware Обновитьs, which may take some Время";
+
+"key_device_ota_new_version" = "Новый Версия";
+
+"key_device_ota_new_version_ready" = "Новый Версия Ready";
+
+"key_device_ota_preparing" = "Preparing";
+
+"key_device_ota_rejected" = "Rejected";
+
+"key_device_ota_success" = "Обновить Успехful";
+
+"key_device_ota_success_alert_title" = "Обновить Успехful";
+
+"key_device_ota_success_alert_title_sub" = "CВклgratulatiВклs, your device firmware has been УспехПолныйy Обновитьd!";
+
+"key_device_ota_update" = "Обновить";
+
+"key_device_ota_update_start" = "Обновить Начать";
+
+"key_device_please_add_your_probe" = "Please Добавить your Щуп";
+
+"key_device_please_check_the_position_and_condition_of_the_probe" = "Please check the positiВкл and cВклditiВкл of the Щуп";
+
+"key_device_please_connect_the_meat_[<xxxx>]_charger" = "Please cВклnect the Мясо [<xxxx>] Зарядкаr";
+
+"key_device_please_insert_the_probe_into_the_box" = "Please Insert The Щуп Into The Box";
+
+"key_device_probe_[<xxxx>]" = "Щуп [<xxxx>]";
+
+"key_device_probe_[<xxxx>]_mac" = "Щуп [<xxxx>] Mac";
+
+"key_device_probe_change_not_allow_while_cooking" = "Щуп change is Нетt Разрешитьed while Готовка. Please wИИt until the Готовка is Завершить";
+
+"key_device_probe_change_unvalid" = "Щуп Change UnavИИlable";
+
+"key_device_probe_firmware_update" = "Щуп Firmware Обновить";
+
+"key_device_probe_is_charging" = "Щуп is Зарядка";
+
+"key_device_probe_low_battery" = "Щуп: Низкий заряд";
+
+"key_device_probe_not_connected" = "Щуп Нетt Подключено";
+
+"key_device_probe_repair_failure" = "Щуп repИИr fИИlure";
+
+"key_device_probe_repair_success" = "Щуп repИИr Успех";
+
+"key_device_probe_repair_success_tips" = "Щуп firmware upgraded УспехПолныйy — thank you for your patience! Enjoy your Готовка.";
+
+"key_device_probe_temperature" = "Щуп Температура";
+
+"key_device_probe_upgrade_in_progress" = "Щуп Upgrade In Прогресс";
+
+"key_device_put_probe_into_booster_to_charge" = "Put Щуп into Усилитель to Зарядка";
+
+"key_device_select_add_device_cancel" = "Нетt Нетw";
+
+"key_device_select_add_device_confirm" = "Добавить Device";
+
+"key_device_select_add_device_title" = "Выбрать Device";
+
+"key_device_select_add_device_title_sub" = "Нет device found.\n Добавить a device to Начать Готовка.";
+
+"key_device_select_add_probe_cancel" = "Нетt Нетw";
+
+"key_device_select_add_probe_confirm" = "Добавить Щуп";
+
+"key_device_select_add_probe_title" = "Выбрать Щуп";
+
+"key_device_select_add_probe_title_sub" = "Нет Щуп detected. \n Добавить a Щуп to Начать Готовка.";
+
+"key_device_select_mode" = "Выбрать Режим";
+
+"key_device_setting_wifi_manager_nav_title" = "WiFi Manage";
+
+"key_device_share_add" = "Добавить User";
+
+"key_device_share_alert_device_delete_account_title" = "Удалить AcКол-во";
+
+"key_device_share_alert_device_delete_account_title_sub_[<xxxx>]" = "The user '[<xxxx>]' is О нас to be Удалитьd. Are you sure you want to Удалить it?";
+
+"key_device_share_alert_device_delete_failure_network_error" = "Удалить Ошибка. Please check your internet cВклnectiВкл.";
+
+"key_device_share_alert_device_delete_success" = "Удалить Успех";
+
+"key_device_share_alert_device_invitation_success_title" = "Sharing Успехful";
+
+"key_device_share_alert_device_invitation_success_title_sub" = "Device has been УспехПолныйy Поделитьсяd. Please Нетtify the user promptly.";
+
+"key_device_share_alert_device_invite_user" = "Invite User";
+
+"key_device_signal_interrupted" = "Signal interrupted";
+
+"key_device_the_device_[<xxxx>]_is_disconnected_please_check_your_device_and_reconnect_press_the_button_till_led_flash_about_2s_to_turn_on_the_device" = "The device [<xxxx>] is Отключено. Please check your device and Переподключиться. Press the buttВкл till LED flash（О нас 2s）to turn Вкл the device";
+
+"key_device_warning" = "Предупреждение!!!";
+
+"key_device_we_are_updating_your_probe_firmware_to_enhance_your_cooking_experience" = "We’re updating your Щуп’s firmware to enhance your Готовка experience.";
+
+"key_device_what_is_happen" = "What’s Happening";
+
+"key_device_what_you_need_to_do" = "What You Need to Do?";
+
+"key_device_wifi_unvalid_cause_cooking" = "Couldn't cВклfig Wi-Fi while Готовка";
+
+"key_device_your_grill_detection_has_been_interrupted_because_the_phone_is_too_far_from_the_device_[<xxxx>]" = "Your grill detectiВкл has been interrupted because the phВклe is too far from the device [<xxxx>]";
+
+"Key_Module_Server_Error" = "Key_Module_Server_Error";
+
+"key_esp_server_error_code_100001" = "Ошибка in fetching user Детали";
+
+"key_esp_server_error_code_100002" = "API Версия is Нетt supported";
+
+"key_esp_server_error_code_100003" = "Method Нетt Разрешитьed";
+
+"key_esp_server_error_code_100004" = "You are Нетt authorized to perform this operatiВкл";
+
+"key_esp_server_error_code_100006" = "Invalid request body";
+
+"key_esp_server_error_code_100007" = "Either User Id or User EmИИl needs to be provided";
+
+"key_esp_server_error_code_100008" = "Ошибка in fetching tenant cВклtext Детали";
+
+"key_esp_server_error_code_100009" = "Нетde Id is missing";
+
+"key_esp_server_error_code_100010" = "Нетde does Нетt belВклg to user";
+
+"key_esp_server_error_code_100011" = "Invalid JSВкл received";
+
+"key_esp_server_error_code_100012" = "Invalid Request";
+
+"key_esp_server_error_code_100014" = "Getting Нетde Детали Ошибка";
+
+"key_esp_server_error_code_100015" = "Нетdes do Нетt exist";
+
+"key_esp_server_error_code_100035" = "Ошибка to cВклvert string to JSВкл";
+
+"key_esp_server_error_code_100046" = "Ошибка, access token is missing";
+
+"key_esp_server_error_code_100047" = "You were logged out, please login agИИn";
+
+"key_esp_server_error_code_100052" = "Ошибка, this operatiВкл is Нетt supported for oauth-Вклly deployments";
+
+"key_esp_server_error_code_100068" = "The entered verificatiВкл code has expired. Пожалуйста, попробуйте снова with a Новый request.";
+
+"key_esp_server_error_code_101001" = "User Название is missing";
+
+"key_esp_server_error_code_101002" = "EmИИl-id is Нетt in correct format";
+
+"key_esp_server_error_code_101003" = "Password or verificatiВкл code is missing";
+
+"key_esp_server_error_code_101004" = "Password length must be between 8 to 256 characters. It should be alpha-numeric without any whitespace. It should cВклtИИn atleast Вклe uppercase, Вклe Низкийercase character and a number";
+
+"key_esp_server_error_code_101005" = "Отправитьing verificatiВкл code Ошибка";
+
+"key_esp_server_error_code_101006" = "User acКол-во already exist";
+
+"key_esp_server_error_code_101007" = "The password you entered is incorrect";
+
+"key_esp_server_error_code_101008" = "Creating user Ошибка";
+
+"key_esp_server_error_code_101009" = "Incorrect user Название or password";
+
+"key_esp_server_error_code_101011" = "User Название already verified";
+
+"key_esp_server_error_code_101012" = "VerificatiВкл code is incorrect";
+
+"key_esp_server_error_code_101013" = "User ПодтвердитьatiВкл Ошибка";
+
+"key_esp_server_error_code_101015" = "AcКол-во Нетt auth";
+
+"key_esp_server_error_code_101016" = "Login Ошибка";
+
+"key_esp_server_error_code_101017" = "Refresh token Ошибка";
+
+"key_esp_server_error_code_101018" = "Новый Password is missing";
+
+"key_esp_server_error_code_101019" = "Attempt limit exceeded, please try after some Время";
+
+"key_esp_server_error_code_101020" = "Change password Ошибка";
+
+"key_esp_server_error_code_101025" = "User does Нетt exist";
+
+"key_esp_server_error_code_101026" = "Getting user-id from user Название Ошибка";
+
+"key_esp_server_error_code_101027" = "Ошибка occurred while fetching user Профиль picture and Название";
+
+"key_esp_server_error_code_101028" = "Ошибка occurred while updating user";
+
+"key_esp_server_error_code_101029" = "Ошибка occurred while fetching cognito tokens";
+
+"key_esp_server_error_code_101030" = "VerificatiВкл code is missing";
+
+"key_esp_server_error_code_101031" = "Forgot password request Ошибка";
+
+"key_esp_server_error_code_101032" = "Password is missing";
+
+"key_esp_server_error_code_101036" = "Ошибка, Invalid logout_Все Значение specified. [Valid Значениеs are true/false]";
+
+"key_esp_server_error_code_101037" = "Please provide valid phВклe number";
+
+"key_esp_server_error_code_101038" = "Code invalid";
+
+"key_esp_server_error_code_101039" = "SessiВкл is missing";
+
+"key_esp_server_error_code_101044" = "УспехПолныйy Migrated user to Новый user pool. Please try to login agИИn";
+
+"key_esp_server_error_code_101045" = "Ошибка, Название, phВклe number or MFA is missing";
+
+"key_esp_server_error_code_101046" = "This API is Нетt supported for old user pool";
+
+"key_esp_server_error_code_101047" = "Ошибка, phВклe number Нетt Добавитьed for the user";
+
+"key_esp_server_error_code_101048" = "Ошибка, phВклe number is Нетt verified";
+
+"key_esp_server_error_code_101049" = "Ошибка occurred while Подтвердитьing phВклe number";
+
+"key_esp_server_error_code_101050" = "Ошибка occurred while enabling or disabling MFA";
+
+"key_esp_server_error_code_101051" = "Ошибка phВклe number Обновить and MFA are Нетt supported for users with phВклe number as the user Название";
+
+"key_esp_server_error_code_101052" = "Ошибка, the phВклe number is already verified for the user";
+
+"key_esp_server_error_code_101053" = "Ошибка, Название should have Минimum 1 character and can have Максimum 256 characters";
+
+"key_esp_server_error_code_101055" = "Ошибка Подтвердитьing phВклe number. Please try after some Время";
+
+"key_esp_server_error_code_101056" = "User already exists with this phВклe number";
+
+"key_esp_server_error_code_101057" = "Макс limit exceeded, please try after some Время";
+
+"key_esp_server_error_code_101058" = "Login Ошибка, your acКол-во requires password Сбросить. Please carry out the forgot password fНизкий.";
+
+"key_esp_server_error_code_101066" = "Invalid Обновить operatiВкл. Please provide tags with valid operatiВклs [Добавить, Удалить]";
+
+"key_esp_server_error_code_101067" = "Some tags are invalid. Valid tag should be of Тип key:Значение";
+
+"key_esp_server_error_code_101087" = "This operatiВкл is Нетt Разрешитьed for guest users";
+
+"key_esp_server_error_code_101097" = "Guest cВклВерсия Вклly supports emИИl Добавитьress. PhВклe number is Нетt supported.";
+
+"key_esp_server_error_code_102002" = "Updating Нетde parameter Ошибка";
+
+"key_esp_server_error_code_102003" = "Getting Нетde Статус Ошибка";
+
+"key_esp_server_error_code_102004" = "Нетde does Нетt exist";
+
+"key_esp_server_error_code_102006" = "Device reported state Нетt found";
+
+"key_esp_server_error_code_103001" = "Fetching Нетdes Ошибка";
+
+"key_esp_server_error_code_103002" = "Нетde cВклfig Нетt found";
+
+"key_esp_server_error_code_103003" = "Invalid operatiВкл specified.[Valid operatiВкл Значениеs are Добавить/Удалить]";
+
+"key_esp_server_error_code_103004" = "Secret key for mapping user to Нетde mapping is blank";
+
+"key_esp_server_error_code_103005" = "НетdeId is too lВклg";
+
+"key_esp_server_error_code_103006" = "Secret key is too lВклg";
+
+"key_esp_server_error_code_103007" = "Fetching Нетde to User mapping Ошибка";
+
+"key_esp_server_error_code_103008" = "Добавитьing user to Нетdes mapping Ошибка";
+
+"key_esp_server_error_code_103009" = "Ошибка occurred while checking if Нетde belВклgs to requesting user";
+
+"key_esp_server_error_code_103010" = "Добавитьing user to Нетdes mapping request Ошибка";
+
+"key_esp_server_error_code_103011" = "User Нетde mapping request has Времяd out";
+
+"key_esp_server_error_code_103012" = "Removing user to Нетde mapping Ошибка";
+
+"key_esp_server_error_code_103013" = "User to Нетde mapping does Нетt exist";
+
+"key_esp_server_error_code_103014" = "Ошибка in checking if Нетde belВклgs to user";
+
+"key_esp_server_error_code_103015" = "Ошибка in getting Всего Нетde Кол-во for user";
+
+"key_esp_server_error_code_103016" = "RequestId is missing";
+
+"key_esp_server_error_code_103017" = "Fetching Нетde to User mapping request Ошибка";
+
+"key_esp_server_error_code_103018" = "User Нетde mapping request Нетt found";
+
+"key_esp_server_error_code_103019" = "Removing Нетde group mapping Ошибка";
+
+"key_esp_server_error_code_103020" = "Нетde does Нетt belВклg to user";
+
+"key_esp_server_error_code_103035" = "User Нетde Mapping is Успехful, but Добавитьing a Нетde to a group Ошибка";
+
+"key_esp_server_error_code_103041" = "Ошибка occurred while fetching user Нетde История";
+
+"key_esp_server_error_code_103042" = "User Нетde История is Нетt enabled";
+
+"key_esp_server_error_code_103043" = "Invalid query parameter combinatiВкл";
+
+"key_esp_server_error_code_103044" = "Invalid Нетde_Тип Значение";
+
+"key_esp_server_error_code_103054" = "Ошибка to Удалить Нетde associatiВклs";
+
+"key_esp_server_error_code_103055" = "Нетde Нетt found";
+
+"key_esp_server_error_code_105018" = "НетdeId is missing";
+
+"key_esp_server_error_code_105041" = "Ошибка occurred while attaching Нетde tag";
+
+"key_esp_server_error_code_105042" = "Ошибка, Вклly Вклe logical operator is supported in a request";
+
+"key_esp_server_error_code_105043" = "Invalid Начать key provided";
+
+"key_esp_server_error_code_105044" = "Ошибка occurred while removing Нетde tag";
+
+"key_esp_server_error_code_105046" = "Some tags are invalid. Valid tag should be of Тип key:Значение";
+
+"key_esp_server_error_code_107001" = "Please specify at least Вклe Нетde";
+
+"key_esp_server_error_code_107002" = "User Название is missing";
+
+"key_esp_server_error_code_107003" = "Self Нетde sharing operatiВклs[Добавить/Удалить] are Нетt Разрешитьed";
+
+"key_esp_server_error_code_107004" = "Ошибка occurred while checking if Нетde belВклgs to requesting user";
+
+"key_esp_server_error_code_107006" = "Ошибка occurred while checking user exists";
+
+"key_esp_server_error_code_107007" = "User does Нетt exist for sharing";
+
+"key_esp_server_error_code_107009" = "Removing user to Нетde mapping Ошибка";
+
+"key_esp_server_error_code_107011" = "User to Нетde mapping does Нетt exist";
+
+"key_esp_server_error_code_107012" = "Ошибка occurred while fetching Поделитьсяd users of Нетde";
+
+"key_esp_server_error_code_107013" = "User is Нетt associated with any Нетde";
+
+"key_esp_server_error_code_107014" = "Fetching Нетde to User mapping Ошибка";
+
+"key_esp_server_error_code_107015" = "Removing Нетde group mapping Ошибка";
+
+"key_esp_server_error_code_107022" = "Нетde Список too lВклg. It can have Максimum of 100 Нетdes.";
+
+"key_esp_server_error_code_107024" = "Ошибка some Нетdes are missing.";
+
+"key_esp_server_error_code_107027" = "Ошибка. User should be primary owner of Все Нетdes in the request";
+
+"key_esp_server_error_code_107028" = "Ошибка, canНетt Удалить Нетdes that were Поделитьсяd via groups";
+
+"key_esp_server_error_code_107036" = "Invalid access scope specified. [Valid operatiВкл Значениеs are READ, WRITE, Нет]";
+
+"key_esp_server_error_code_107038" = "SecВклdary users are Нетt permitted to grant Нетde data access";
+
+"key_esp_server_error_code_107085" = "Ошибка, User should be primary owner of Все Нетdes in the request";
+
+"key_esp_server_error_code_112048" = "Invalid locale. Please enter a valid locale";
+
+"key_esp_server_error_code_119001" = "Ошибка occurred while storing user Удалить request";
+
+"key_esp_server_error_code_119003" = "Ошибка occurred while getting user Удалить request";
+
+"key_esp_server_error_code_119004" = "Ошибка to Удалить user";
+
+"key_esp_server_error_code_119005" = "VerificatiВкл code is incorrect";
+
+"key_esp_server_error_code_119006" = "User does Нетt exist";
+
+"key_esp_server_error_code_119007" = "VerificatiВкл code is missing";
+
+"key_esp_server_error_code_119008" = "Отправитьing verificatiВкл code Ошибка";
+
+"key_esp_server_error_code_119009" = "Ошибка to initiate user Удалить request";
+
+"key_esp_server_error_code_119014" = "An Ошибка occurred while removing existing user Удалить request";
+
+"key_esp_server_error_code_119015" = "Нет Удалить request exists for the user";
+
+"key_esp_server_error_code_119016" = "Attempt limit exceeded, please request for Удалить user agИИn";
+
+"key_esp_server_error_code_119017" = "Super-adМин user deletiВкл is restricted!";
+
+"Key_Module_Home" = "Key_Module_Home";
+
+"key_home_add_offline" = "Добавить Выклline";
+
+"key_home_add_offline_tips" = "Currently Выклline, the devices you Добавитьed may be overwritten by devices Добавитьed Вклline.";
+
+"key_home_add_tips" = "Please Добавить device";
+
+"key_home_device_add_limit" = "Добавить Device Limit";
+
+"key_home_device_add_limit_tips" = "Can't Добавить Больше devices. Удалить Вклe or cВклtact support";
+
+"key_home_exit_visitor_mode" = "Exit Visitor Режим";
+
+"key_home_guest" = "Guest";
+
+"key_home_status_change_alert_title" = "Статус Change";
+
+"key_home_status_change_alert_title_confirm" = "CВклnect To Wi-Fi";
+
+"key_home_status_change_alert_title_sub" = "Logged in. Подключить усилитель to Wi-Fi for unlimited range and remote mВклitoring.";
+
+"key_home_tourist_alert_title" = "Нетte";
+
+"key_home_tourist_alert_title_sub" = "Guest Режим Вклly supports Bluetooth cВклnectiВкл. To enjoy unlimited range, please log in.";
+
+"Key_Module_Log" = "Key_Module_Log";
+
+"key_log_log_in_failure" = "Log in fИИlure";
+
+"key_log_log_in_success" = "Log in Успех";
+
+"Key_Module_Login" = "Key_Module_Login";
+
+"key_login_account_delete_success" = "Удалить Успех";
+
+"key_login_account_delete_sure" = "Sure";
+
+"key_login_account_delete_title" = "Are you sure you want to Удалить your acКол-во";
+
+"key_login_account_delete_title_sub" = "Вклce your acКол-во is Удалитьd, your data canНетt be recovered.";
+
+"key_login_account_error_empty" = "Please enter emИИl";
+
+"key_login_account_error_unvalid" = "Enter the correct emИИl";
+
+"key_login_code_error_less" = "VerificatiВкл code must be at least 6 characters";
+
+"key_login_code_error_unvalid" = "VerificatiВкл Code Incorrect";
+
+"key_login_delete_code_input_placeholder" = "Please input code";
+
+"key_login_delete_code_resend_title" = "ReОтправить";
+
+"key_login_delete_code_send_title" = "Get";
+
+"key_login_delete_code_title" = "VerificatiВкл Code";
+
+"key_login_delete_confirm_title" = "Удалить AcКол-во";
+
+"key_login_delete_email_input_email_placeholder" = "Code";
+
+"key_login_delete_email_title" = "Your EmИИl";
+
+"key_login_delete_nav_title" = "AuthenticatiВкл";
+
+"key_login_email_button_code_send_title" = "Get";
+
+"key_login_email_code_auth_resend_title_[<xxxx>]" = "ReОтправить Code [<xxxx>]";
+
+"key_login_email_code_auth_send_tips_[<xxxx>]" = "VerificatiВкл Code Sent To: [<xxxx>]";
+
+"key_login_email_code_auth_title" = "Enter VerificatiВкл Code";
+
+"key_login_email_code_login_button_get_code_title" = "Get Code";
+
+"key_login_email_code_login_button_password_title" = "Login With Password";
+
+"key_login_email_code_send_success_title" = "VerificatiВкл code sent";
+
+"key_login_email_code_title" = "Login\n With Code";
+
+"key_login_email_create_confirm_title" = "Далее";
+
+"key_login_email_create_input_code_title" = "VerificatiВкл Code";
+
+"key_login_email_create_input_code_title_placeholder" = "Please input code";
+
+"key_login_email_create_title" = "EmИИl \n Sign-up";
+
+"key_login_email_password_button_code_title" = "Login With Code";
+
+"key_login_email_password_button_create_title" = "Создать AcКол-во";
+
+"key_login_email_password_button_login_title" = "Log in";
+
+"key_login_email_password_button_reset_title" = "Сбросить Password";
+
+"key_login_email_password_input_email_placeholder" = "Please input emИИl";
+
+"key_login_email_password_input_email_title" = "EmИИl";
+
+"key_login_email_password_input_password_placeholder" = "Please input password";
+
+"key_login_email_password_input_password_title" = "Password";
+
+"key_login_email_password_title" = "Login\n With Password";
+
+"key_login_go_to_login" = "Go to login";
+
+"key_login_home_title_email" = "Sign In With EmИИl";
+
+"key_login_home_title_start" = "Get Начатьed";
+
+"key_login_log_in" = "Log In";
+
+"key_login_password_create_password_confirm_button_title" = "Далее";
+
+"key_login_password_create_password_confirm_input_placeholder_title" = "Please input password";
+
+"key_login_password_create_password_confirm_input_title" = "Enter Password";
+
+"key_login_password_create_password_input_placeholder_title" = "Please input password";
+
+"key_login_password_create_password_input_title" = "Password";
+
+"key_login_password_create_step_title" = "Создать Your Password";
+
+"key_login_password_create_title" = "Password Сбросить";
+
+"key_login_password_error_less" = "Password must be at least 6 characters";
+
+"key_login_password_match_error" = "Passwords do Нетt match";
+
+"key_login_privacy_[<xxxx>]" = "I Согласен that I have read and accepted the [<xxxx>].";
+
+"key_login_privacy_service" = "《Конфиденциальность & Условия》";
+
+"key_login_privacy_view_confirm" = "Согласен And CВклtinue";
+
+"key_login_privacy_view_title" = "Please read and Согласен to the Условия beНизкий";
+
+"key_login_regist_success" = "Register Успех";
+
+"key_login_register_error_account_exist_subtitle" = "User acКол-во already exists";
+
+"key_login_register_error_account_exist_title" = "AcКол-во Exists";
+
+"key_login_reset_code_input_placeholder" = "Please input code";
+
+"key_login_reset_code_resend_title" = "ReОтправить";
+
+"key_login_reset_code_send_title" = "Get";
+
+"key_login_reset_code_title" = "VerificatiВкл Code";
+
+"key_login_reset_email_title" = "Your EmИИl";
+
+"key_login_reset_nav_title" = "AuthenticatiВкл";
+
+"key_login_reset_success" = "Password Сбросить Успехful";
+
+"key_login_reset_success_then_login" = "Your password has been УспехПолныйy Сбросить. For the security of your acКол-во, please log in agИИn";
+
+"key_login_tourist_alert_confirm_title" = "Подтвердить";
+
+"key_login_tourist_alert_sign_in_title" = "Sign In";
+
+"key_login_tourist_alert_title" = "Bluetooth Вклly Режим";
+
+"key_login_tourist_alert_title_tips" = "Right Нетw, you’re Подключено via Bluetooth Вклly. Log in to Разблокировать Больше features and enjoy the Полный experience.";
+
+"Key_Module_OTA" = "Key_Module_OTA";
+
+"key_ota_status_check" = "Check";
+
+"key_ota_status_checking" = "Checking";
+
+"key_ota_status_download" = "Скачать And InstВсе";
+
+"key_ota_status_download_success" = "Скачать Успех";
+
+"key_ota_status_downloading" = "Скачатьing";
+
+"key_ota_status_downloading_[<xxxx>]" = "Скачатьing [<xxxx>]";
+
+"key_ota_status_install" = "InstВсе";
+
+"key_ota_status_install_success" = "InstВсе Успех";
+
+"key_ota_status_installing" = "InstВсеing";
+
+"key_ota_status_installing_[<xxxx>]" = "InstВсеing [<xxxx>]";
+
+"key_ota_status_title_checking" = "Checking";
+
+"key_ota_status_title_latest" = "Already the latest Версия";
+
+"key_ota_status_title_new_valid" = "Новый firmware Версия is ready";
+
+"key_update_failed_device_ota" = "Обновить Ошибка";
+
+"key_upgrading_device_ota" = "Upgrading";
+
+"Key_Module_Server" = "Key_Module_Server";
+
+"key_server_failure" = "FИИlure";
+
+"key_server_try_later" = "Пожалуйста, попробуйте снова later";
+
+"key_server_wrong_please_try_later" = "Ошибка сервера. Пожалуйста, попробуйте снова later";
+
+"Key_Module_Setting" = "Key_Module_Setting";
+
+"key_seting_home_page_information" = "PersВклal ИнфоrmatiВкл";
+
+"key_setting_account_has_log_out" = "This acКол-во has logged out";
+
+"key_setting_alert_option_complete" = "Готовка Завершить Alert";
+
+"key_setting_alert_option_flip" = "Переворот Alerts";
+
+"key_setting_alert_option_manage_option_your_sound" = "Your Звукs";
+
+"key_setting_alert_option_manage_title" = "Manage RingtВклes";
+
+"key_setting_alert_option_notification_title" = "НетtificatiВкл Звукs";
+
+"key_setting_alert_option_reset" = "Rest Alerts";
+
+"key_setting_alert_option_tips" = "Совет:\n1. Звук alerts may be affected by Silent Режим, Не беспокоить, and system Настройки уведомлений.\n2. Please check that your device's media volume is turned up and the app has permissiВкл to play Звукs.";
+
+"key_setting_alert_option_toggle_option_alert_sound" = "Alert Звукs";
+
+"key_setting_alert_option_toggle_tips" = "Enable Звук НетtificatiВклs for Импортant alerts.";
+
+"key_setting_alert_option_toggle_title" = "Toggle";
+
+"key_setting_alert_sound_nav_title" = "Alert Звукs";
+
+"key_setting_alert_sound_set" = "Set Alert Звук";
+
+"key_setting_alexa" = "Alexa";
+
+"key_setting_ambient_management_alert_answer" = "You can enable it in Device → Device Management → Ambient Температура.";
+
+"key_setting_ambient_management_alert_cancel" = "Go To Открыть";
+
+"key_setting_ambient_management_alert_confirm" = "Sure, I KНетw";
+
+"key_setting_ambient_management_alert_question" = "Want to turn Вкл the ambient Температура feature?";
+
+"key_setting_ambient_management_alert_title" = "Ambient Management";
+
+"key_setting_ambient_temperature" = "Ambient Температура";
+
+"key_setting_app_version" = "App Версия";
+
+"key_setting_apple_id" = "Apple Id";
+
+"key_setting_beta_mode" = "Beta";
+
+"key_setting_buzzer" = "Buzzer";
+
+"key_setting_change_language_alert_title" = "Change Язык";
+
+"key_setting_change_language_alert_title_sub" = "Please Выбрать your Язык";
+
+"key_setting_choose_sound_alert_all_turn_off_title" = "Turn Выкл Все Alerts?";
+
+"key_setting_choose_sound_alert_all_turn_off_title_sub" = "You may miss Импортant Готовка reМинders. Are you sure you want to turn Выкл alert Звукs?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title" = "Turn Выкл CompletiВкл Alerts?";
+
+"key_setting_choose_sound_alert_cook_turn_off_title_sub" = "You may miss Импортant Готовка reМинders.\\n Are you sure you want to turn Выкл alert Звукs?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title" = "Turn Выкл Переворот Alerts?";
+
+"key_setting_choose_sound_alert_flip_turn_off_title_sub" = "Turn Выкл this alert for the current Готовка? You may miss this reМинder.";
+
+"key_setting_choose_sound_alert_notification_turn_off_title" = "НетtificatiВклs Выкл";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_setting" = "Открыть Настройки";
+
+"key_setting_choose_sound_alert_notification_turn_off_title_sub" = "НетtificatiВклs are Выкл in system Настройки.";
+
+"key_setting_choose_sound_alert_repeat_reminder_once" = "Вклce";
+
+"key_setting_choose_sound_alert_repeat_reminder_title" = "Repeat ReМинder";
+
+"key_setting_choose_sound_alert_repeat_reminder_twice" = "Twice";
+
+"key_setting_choose_sound_alert_rest_turn_off_title" = "Turn Выкл Rest Alerts?";
+
+"key_setting_choose_sound_alert_rest_turn_off_title_sub" = "Turn Выкл this alert for the current Готовка? You may miss this reМинder.";
+
+"key_setting_choose_sound_alert_type_all" = "Все";
+
+"key_setting_choose_sound_alert_type_popup" = "Popup";
+
+"key_setting_choose_sound_alert_type_sound" = "Звук";
+
+"key_setting_choose_sound_alert_type_title" = "Alert Тип";
+
+"key_setting_choose_sound_alert_type_vibration" = "Вибрация";
+
+"key_setting_choose_sound_cook_nav_title" = "Готовка Завершить Звук";
+
+"key_setting_choose_sound_flip_nav_title" = "Переворот Alert Звук";
+
+"key_setting_choose_sound_nav_title" = "Выбрать Звук";
+
+"key_setting_choose_sound_rest_nav_title" = "Rest Alert Звук";
+
+"key_setting_choose_sound_title_bbq_time" = "BBQ Времяr";
+
+"key_setting_choose_sound_title_bright_tone" = "Bright TВклe";
+
+"key_setting_choose_sound_title_cheerful_ring" = "Cheerful Ring";
+
+"key_setting_choose_sound_title_chefs_call" = "Chef’s CВсе";
+
+"key_setting_choose_sound_title_classic_cell" = "Classic Bell";
+
+"key_setting_choose_sound_title_cook_sound" = "Готовка Завершить Звук";
+
+"key_setting_choose_sound_title_cozy_chime" = "Cozy Chime";
+
+"key_setting_choose_sound_title_flip_sound" = "Переворот Alert Звук";
+
+"key_setting_choose_sound_title_gentle_chime" = "Gentle Chime";
+
+"key_setting_choose_sound_title_grill_pulse" = "Grill Pulse";
+
+"key_setting_choose_sound_title_pick_your_vibe" = "Pick your vibe";
+
+"key_setting_choose_sound_title_rest_sound" = "Rest Alert Звук";
+
+"key_setting_choose_sound_title_soft_alert" = "Soft Alert";
+
+"key_setting_choose_sound_title_sub" = "Lap a Звук to Предпросмотр and Выбрать.";
+
+"key_setting_choose_sound_title_warm_reminder" = "Warm ReМинder";
+
+"key_setting_connect_wifi" = "CВклnect Wi-Fi";
+
+"key_setting_copy" = "Копировать";
+
+"key_setting_cycle_firmware_update" = "Cycle Firmware Обновить";
+
+"key_setting_delete_account" = "Удалить AcКол-во";
+
+"key_setting_delete_device" = "Удалить Device";
+
+"key_setting_delete_device_title" = "Подтвердить to Удалить device";
+
+"key_setting_delete_success" = "Удалить Успех";
+
+"key_setting_device_management" = "Device Management";
+
+"key_setting_email" = "EmИИl";
+
+"key_setting_faqs" = "Часто задаваемые вопросы";
+
+"key_setting_firmware_update" = "Firmware Обновить";
+
+"key_setting_google" = "Google";
+
+"key_setting_guide_sizzle_all_set_title" = "You’re Все Set to Sizzle!";
+
+"key_setting_guide_sizzle_all_set_title_confirm" = "Начать Готовка";
+
+"key_setting_guide_sizzle_all_set_title_sub" = "You’re pИИred and ready to grill, chef! DВкл’t forget to Сохранить me a bite.";
+
+"key_setting_guide_sizzle_ambient_temperature_title" = "Feeling Fancy?";
+
+"key_setting_guide_sizzle_ambient_temperature_title_sub" = "Turn Вкл ambient temp to feel like a pro. Or keep it Простой—Нет judgment!";
+
+"key_setting_guide_sizzle_ambient_temperature_title_tips" = "Device pИИred? Главная → Больше. Toggle away.";
+
+"key_setting_guide_sizzle_buzzer_title" = "Buzz or Chill?";
+
+"key_setting_guide_sizzle_buzzer_title_sub" = "Want your Мясо to buzz when it’s ready, or prefer peace and quiet? Your cВсе!";
+
+"key_setting_guide_sizzle_buzzer_title_tips" = "Device pИИred? Главная → Больше. Toggle away.";
+
+"key_setting_guide_sizzle_select_size_title" = "Inches or CenВремяters?";
+
+"key_setting_guide_sizzle_select_size_title_sub" = "There are two kinds of people: inch lovers and cenВремяter fans. Pick your side and let’s roll!";
+
+"key_setting_guide_sizzle_select_size_title_tips" = "Adjust anyВремя in Настройки.";
+
+"key_setting_guide_sizzle_step_title_[<xxxx0>]_[<xxxx1>]" = "Далее([<xxxx0>]/[<xxxx1>])";
+
+"key_setting_guide_sizzle_temperature_unit_title" = "Fahrenheit or Celsius?";
+
+"key_setting_guide_sizzle_temperature_unit_title_sub" = "There are two kinds of people: Fahrenheit folks and Celsius fans. Pick your side!";
+
+"key_setting_guide_sizzle_temperature_unit_title_tips" = "Adjust anyВремя in Настройки.";
+
+"key_setting_guide_sizzle_welcome_title" = "Welcome To Мясоmeet";
+
+"key_setting_guide_sizzle_welcome_title_confirm" = "Let’s Начать";
+
+"key_setting_guide_sizzle_welcome_title_sub" = "Thanks for joining Мясоmeet! Before we fire things up, let’s set a few things so your Мясо turns out perfect every Время.";
+
+"key_setting_hardware_version" = "Hardware Версия";
+
+"key_setting_icloud_sync" = "iCloud Синхр.";
+
+"key_setting_language" = "Язык";
+
+"key_setting_log_out" = "Log Out";
+
+"key_setting_member_information" = "Member ИнфоrmatiВкл";
+
+"key_setting_my_favorite" = "My Favorite";
+
+"key_setting_my_favorites" = "My Favorites";
+
+"key_setting_nickname" = "NickНазвание";
+
+"key_setting_password" = "Password";
+
+"key_setting_probe_mac_address" = "Щуп Management";
+
+"key_setting_reset" = "Сбросить";
+
+"key_setting_screen_timeout" = "Тайм-аут экрана";
+
+"key_setting_select_size" = "Выбрать Размер";
+
+"key_setting_share" = "Поделиться";
+
+"key_setting_sound_cook_alert_reminder_title" = "Repeat ReМинder";
+
+"key_setting_sound_cook_alert_title" = "НетtificatiВкл Method";
+
+"key_setting_sound_cook_alert_type_title" = "Alert Тип";
+
+"key_setting_sound_cook_nav_title" = "Готовка Завершить Alert";
+
+"key_setting_sound_cook_remain_add" = "Добавить Новый Предупреждение";
+
+"key_setting_sound_cook_remain_end_[<xxxx>]" = "End in [<xxxx>] Минут";
+
+"key_setting_sound_cook_remain_time_exist_toast" = "RemИИn Время exist";
+
+"key_setting_sound_cook_remain_title" = "RemИИning Время Предупреждение";
+
+"key_setting_sound_cook_sound_select_title" = "Выбрать Звук";
+
+"key_setting_sound_cook_sound_tips" = "Совет：\\n Stay Вкл track with the perfect Отдых Время.";
+
+"key_setting_sound_cook_sound_title" = "Alert Звук";
+
+"key_setting_sound_cook_toggle_switch_title" = "Enable Завершить Alert";
+
+"key_setting_sound_cook_toggle_title" = "Toggle";
+
+"key_setting_sound_flip_alert_reminder_title" = "Repeat ReМинder";
+
+"key_setting_sound_flip_alert_title" = "Alert Method";
+
+"key_setting_sound_flip_alert_type_title" = "Alert Тип";
+
+"key_setting_sound_flip_nav_title" = "Переворот Alerts";
+
+"key_setting_sound_flip_sound_select_title" = "Выбрать Звук";
+
+"key_setting_sound_flip_sound_tips" = "Совет：\\n Get Нетtified when it's Время to Переворот your food.";
+
+"key_setting_sound_flip_sound_title" = "Alert Звук";
+
+"key_setting_sound_flip_toggle_switch_title" = "Enable Переворот Alert";
+
+"key_setting_sound_flip_toggle_title" = "Toggle";
+
+"key_setting_sound_rest_alert_reminder_title" = "Repeat ReМинder";
+
+"key_setting_sound_rest_alert_title" = "Alert Method";
+
+"key_setting_sound_rest_alert_type_title" = "Alert Тип";
+
+"key_setting_sound_rest_nav_title" = "Rest Alerts";
+
+"key_setting_sound_rest_sound_select_title" = "Выбрать Звук";
+
+"key_setting_sound_rest_sound_tips" = "Совет：\\n Stay Вкл track with the perfect Отдых Время.";
+
+"key_setting_sound_rest_sound_title" = "Alert Звук";
+
+"key_setting_sound_rest_toggle_switch_title" = "Enable Rest Alerts";
+
+"key_setting_sound_rest_toggle_title" = "Toggle";
+
+"key_setting_sure" = "Sure";
+
+"key_setting_tap_log_out" = "Tap 'Log Out' to sign out";
+
+"key_setting_temperature_units" = "Единица температурыs";
+
+"key_setting_test_page" = "Test Страница";
+
+"key_setting_timeout_minutes_title_[<xxxx>]" = "[<xxxx>] Минут";
+
+"key_setting_timeout_never_title" = "Never";
+
+"key_setting_timeout_never_title_sub" = "Screen stays Вкл at Низкий Яркость (По умолч.)";
+
+"key_setting_timeout_seconds_title_[<xxxx>]" = "[<xxxx>] secВклds";
+
+"key_setting_timeout_title" = "Тайм-аут экрана";
+
+"key_setting_timeout_title_sub" = "Set how lВклg the device screen stays Вкл after inactivity. Высокий Яркость Последнийs 45s, then dims to Низкий Яркость for the Выбрано duratiВкл.";
+
+"key_setting_user_id" = "User ID";
+
+"Key_Module_Share" = "Key_Module_Share";
+
+"key_share_action_accepted" = "Accepted";
+
+"key_share_action_device_delete" = "Удалить Device";
+
+"key_share_action_device_exit" = "Exit";
+
+"key_share_action_refuse" = "Refuse";
+
+"key_share_share_list" = "Поделиться Список";
+
+"Key_Module_TabBar" = "Key_Module_TabBar";
+
+"key_tabbar_ai" = "ИИ";
+
+"key_tabbar_history" = "История";
+
+"key_tabbar_home" = "Главная";
+
+"key_tabbar_setting" = "Настройка";
+
+"Key_Module_UserInfo" = "Key_Module_UserInfo";
+
+"key_userinfo_edit_title" = "Редактировать PersВклal";
+
+"key_userinfo_nick_placeholder" = "Enter nickНазвание";
+
+"key_userinfo_nick_tips_[<xxxx0>]_[<xxxx1>]" = "NickНазвание needs to meet [<xxxx0>]-[<xxxx1>] characters";
+
+"key_userinfo_personal_information" = "PersВклal ИнфоrmatiВкл";
+
+"key_userinfo_save_confirm" = "Сохранить";
+
+"Key_Module_VIP" = "Key_Module_VIP";
+
+"key_vip_action_manage" = "Manage Подписка";
+
+"key_vip_action_restore" = "Restore Purchase";
+
+"key_vip_action_support" = "CВклtact Support";
+
+"key_vip_benefit_0" = "Unlimited ИИ Изображение analysis";
+
+"key_vip_benefit_1" = "Unlimited Рекомендации рецептов ИИ";
+
+"key_vip_benefit_2" = "Exclusive ИИ memberID";
+
+"key_vip_benefit_3" = "Get early access to Больше Новый features in the future";
+
+"key_vip_contact_us_left_title" = "Свяжитесь с нами";
+
+"key_vip_contact_us_nav_title" = "EmИИl丨Свяжитесь с нами";
+
+"key_vip_credits_total_histroy_[<xxxx>]" = "CrРедактироватьs: [<xxxx>] | CrРедактироватьs История >";
+
+"key_vip_credits_usage_balance_bouns_title" = "BВклus CrРедактироватьs";
+
+"key_vip_credits_usage_balance_purchase_title" = "Purchased CrРедактироватьs";
+
+"key_vip_credits_usage_balance_subscription_title" = "Подписка crРедактироватьs";
+
+"key_vip_credits_usage_balance_title" = "CrРедактироватьs Balance";
+
+"key_vip_credits_usage_balance_total_title" = "Всего CrРедактироватьs";
+
+"key_vip_credits_usage_history_title" = "CrРедактироватьs История";
+
+"key_vip_credits_usage_item_image" = "Изображение Сканировать";
+
+"key_vip_credits_usage_item_qa" = "ИИ Q&A";
+
+"key_vip_credits_usage_item_recipe" = "ИИ Рецепт";
+
+"key_vip_credits_usage_nav_title" = "CrРедактироватьs Usage";
+
+"key_vip_expire_cancel_title" = "Use Free";
+
+"key_vip_expire_confirm_title" = "ReПодписаться";
+
+"key_vip_expire_title" = "ИИ Подписка Expired";
+
+"key_vip_expire_title_[<xxxx>]" = "VIP Expires [<xxxx>]";
+
+"key_vip_expire_title_sub" = "Your ИИ features are paused. ReПодписаться to cВклtinue using ИИ готовка tools.";
+
+"key_vip_manager_nav_title" = "Manage Подписка & CrРедактироватьs";
+
+"key_vip_manager_policy" = "Конфиденциальность Политика";
+
+"key_vip_manager_refund" = "Request a Refund";
+
+"key_vip_manager_service" = "Условия Of Service";
+
+"key_vip_point_limit_benefit_title" = "Keep Your ИИ Benefits";
+
+"key_vip_point_limit_cancel_title" = "Use Free";
+
+"key_vip_point_limit_confirm_title" = "ReПодписаться";
+
+"key_vip_point_limit_cost" = "Cost";
+
+"key_vip_point_limit_credits" = "CrРедактироватьs";
+
+"key_vip_point_limit_title" = "Нетt EНетugh Points";
+
+"key_vip_point_limit_title_sub" = "You've run out of crРедактироватьs.Get Больше to keep using ИИ";
+
+"key_vip_purchase_failure_benefit_0" = "DИИly Мастер Рецепты";
+
+"key_vip_purchase_failure_benefit_1" = "Snap & Get Рецепты";
+
+"key_vip_purchase_failure_benefit_2" = "VIP Badge";
+
+"key_vip_purchase_failure_benefit_3" = "Больше VIP Perks";
+
+"key_vip_purchase_failure_method_value" = "Purchase Ошибка";
+
+"key_vip_purchase_failure_reason_title" = "Possible reasВклs";
+
+"key_vip_purchase_failure_try_again_title" = "Попробовать снова";
+
+"key_vip_purchase_failure_try_step_0_title" = "Check your internet cВклnectiВкл and Попробовать снова";
+
+"key_vip_purchase_failure_try_step_1_title" = "Try a different payment method";
+
+"key_vip_purchase_failure_try_step_2_title" = "CВклtact support for Помощь";
+
+"key_vip_purchase_failure_try_step_title" = "Try The FolНизкийing";
+
+"key_vip_purchase_nav_billing_title" = "Billing";
+
+"key_vip_purchase_nav_title" = "ИИ Pro";
+
+"key_vip_purchase_point_title" = "Purchase Point";
+
+"key_vip_purchase_remain_days_[<xxxx>]" = "[<xxxx>] Деньs";
+
+"key_vip_purchase_remine_less_one_day" = "Less Than Вклe День";
+
+"key_vip_purchase_restore_success_account_title" = "AcКол-во";
+
+"key_vip_purchase_restore_success_account_value" = "Current AcКол-во";
+
+"key_vip_purchase_restore_success_confirm_title" = "Get Начатьed";
+
+"key_vip_purchase_restore_success_method_title" = "Payment Method";
+
+"key_vip_purchase_restore_success_method_value" = "Apple ID";
+
+"key_vip_purchase_restore_success_remain_title" = "RemИИning Время";
+
+"key_vip_purchase_restore_success_status_title" = "AcКол-во Статус";
+
+"key_vip_purchase_restore_success_status_value" = "Premium(active)";
+
+"key_vip_purchase_restore_success_title" = "Restored УспехПолныйy";
+
+"key_vip_purchase_restore_success_title_sub" = "Your Подписка has been restore. Premium benefits are Нетw avИИlable.";
+
+"key_vip_purchase_success_title" = "Payment was Успехful";
+
+"key_vip_purchase_success_title_sub_[<xxxx>]" = "The [<xxxx>] you purchased has been УспехПолныйy delivered";
+
+"key_vip_purchase_switch_success_title" = "Switched УспехПолныйy";
+
+"key_vip_purchase_switch_success_title_sub" = "Your Подписка has been switched. Premium benefits are Нетw avИИlable.";
+
+"key_vip_purchase_switch_title" = "Switch Подписка";
+
+"key_vip_purchase_switch_title_sub_[<xxxx>]" = "Do you want to restore your existing Подписка to '[<xxxx>]'？";
+
+"key_vip_purchase_title" = "Purchase";
+
+"key_vip_purchase_title_sub_[<xxxx>]" = "You will be Зарядкаd [<xxxx>]. You can Отмена at any Время";
+
+"key_vip_purchase_vip_title" = "Upgrade Подписка";
+
+"key_vip_restore_title" = "Restore Подписка";
+
+"key_vip_restore_title_sub_[<xxxx>]" = "Do you want to restore your existing Подписка to '[<xxxx>]'？";
+
+"key_vip_to_open_confirm_title" = "Подписаться Нетw";
+
+"key_vip_to_open_title" = "Разблокировать 4 VIP Benefits";
+
+"key_vip_to_open_title_sub" = "Рецепты that understand your preferences — healthier and Больше delicious.";
+
+"key_vip_to_open_vip" = "To Открыть VIP";
+
+"key_vip_to_renew_ai_membership" = "ReНовый ИИ Подписка";
+
+"key_vip_ware_price_per_count_title_[<xxxx>]" = "[<xxxx>] per point";
+
+"key_vip_ware_price_per_day_title_[<xxxx>]" = "[<xxxx>] per День";
+
+"Key-Origin" = "Значение-English";
+
+"key_cook_guide_choose_cook_mode_tips" = "Виберіть режим, в якому ви хочете готувати";
+
+"key_cook_guide_choose_cook_mode_tips​" = "Виберіть режим, в якому ви хочете готувати";
+
+"key_bind_unified_product_brochure​" = "Product Brochure";
