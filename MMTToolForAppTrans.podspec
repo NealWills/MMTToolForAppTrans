@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMTToolForAppTrans'
-  s.version          = '0.6.9'
+  s.version          = '0.6.10'
   s.summary          = 'Bundle-first localization library with runtime language switching.'
 
 # This description is used to generate tags and improve search results.
@@ -26,8 +26,8 @@ provide the requested value.
 Supported languages: English, Simplified Chinese, Traditional Chinese,
 French, German, Spanish, Italian, Polish, Korean, Russian, Ukrainian.
 
-The library includes a 200-entry in-memory LRU cache, OSLog debugging,
-and bundle-first lookup flow with storage fallback.
+The library includes a 200-entry in-memory LRU cache, configurable OSLog
+debugging, and bundle-first lookup flow with storage fallback.
 
 Import support: accepts `.xlsx` files as the default import format
 with backward compatibility for `.mmttrans` files.

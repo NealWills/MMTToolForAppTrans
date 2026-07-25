@@ -5,6 +5,13 @@ This file tracks the documented release history of MMTToolForAppTrans.
 Entries are append-only. Add a new version section at the top when the podspec version changes, and keep older sections unchanged.
 
 
+## 0.6.10
+
+- 新增公开日志开关 `setLoggingEnabled(_:)`，支持在运行时开启或关闭诊断日志。
+- 新增 `isLoggingEnabled()`，用于查询当前日志开关状态。
+- 本地化查询日志默认保持开启；关闭后不再构造或输出 OSLog 日志内容。
+
+
 ## 0.6.9
 
 - Added Korean (ko), Russian (ru), and Ukrainian (uk) language support across the entire library: Language enum, WCDB model columns, bundle synchronization, localization lookup, cache, database viewer, and Example bundle fixture.
@@ -65,5 +72,5 @@ Entries are append-only. Add a new version section at the top when the podspec v
 
 ## Notes
 
-- The current `MMTToolForAppTrans.podspec` version is `0.6.9`.
+- The current `MMTToolForAppTrans.podspec` version is `0.6.10`.
 - When `MMTToolForAppTrans.podspec` changes version, add a new section above `0.6.5` and summarize only that version's visible changes.

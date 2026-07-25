@@ -98,6 +98,7 @@ if let bundleURL = Bundle.main.url(forResource: "localizeBundle", withExtension:
 }
 
 MMTToolForAppTrans.setCurrentLanguage(.zhHans)
+MMTToolForAppTrans.setLoggingEnabled(false)
 
 let title = MMTToolForAppTrans.localizedString(forKey: "key_login_go_to_login")
 let loginText = MMTToolForAppTrans.localizedString(forKey: "key_login_log_in", language: .enUS)
@@ -151,6 +152,7 @@ pod install
 - Original-key fallback when neither the bundle nor storage can resolve a localized value.
 - Inline code comments around bundle registration, import validation, and localization lookup flow.
 - Runtime language switching and current-language access.
+- Runtime controls for enabling, disabling, and querying diagnostic logging.
 - Key -> value resolution with explicit-language and current-language variants.
 - A 200-entry in-memory LRU cache for localization lookup.
 - A WCDB-based storage layer for localization records.

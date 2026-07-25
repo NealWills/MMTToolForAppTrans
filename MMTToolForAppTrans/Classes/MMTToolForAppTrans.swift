@@ -154,6 +154,14 @@ public final class MMTToolForAppTrans {
 		shared.clearLocalizationCache()
 	}
 
+	public class func setLoggingEnabled(_ isEnabled: Bool) {
+		shared.setLoggingEnabled(isEnabled)
+	}
+
+	public class func isLoggingEnabled() -> Bool {
+		shared.isLoggingEnabled()
+	}
+
 	// MARK: - Private Properties
 
 	private let importModule = MMTToolForAppTransImportModule()
@@ -312,6 +320,21 @@ extension MMTToolForAppTrans {
 
 	public func clearLocalizationCache() {
 		state.clearLocalizationCache()
+	}
+}
+
+// MARK: - Logging Methods
+
+extension MMTToolForAppTrans {
+
+	/// Enables or disables diagnostic logs emitted by the library.
+	public func setLoggingEnabled(_ isEnabled: Bool) {
+		state.isLoggingEnabled = isEnabled
+	}
+
+	/// Returns whether diagnostic logging is currently enabled.
+	public func isLoggingEnabled() -> Bool {
+		state.isLoggingEnabled
 	}
 }
 

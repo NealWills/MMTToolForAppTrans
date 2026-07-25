@@ -4,13 +4,13 @@
 
 ## 当前版本
 
-- 0.6.9
+- 0.6.10
 
 ## 版本规则
 
 - 主分支：`main`
-- Tag 格式：`<版本号>`，例如 `0.6.9`
-- 存档分支格式：与版本号同名，例如 `0.6.9`
+- Tag 格式：`<版本号>`，例如 `0.6.10`
+- 存档分支格式：与版本号同名，例如 `0.6.10`
 - 版本分支仅用于版本代码存档，日常开发始终在 `main` 进行
 - 文档语言规则：`RELEASE_PROCESS.md` 保持中文，`README.md` 保持英文
 
@@ -33,20 +33,20 @@
 ## 标准提交信息
 
 - `release: <版本号>`
-- 示例：`release: 0.6.9`
+- 示例：`release: 0.6.10`
 
 ## 标准命令
 
-按版本号 `0.6.9` 为例：
+按版本号 `0.6.10` 为例：
 
 ```bash
 git add -A
-git commit -m "release: 0.6.9"
+git commit -m "release: 0.6.10"
 git push origin main
-git tag 0.6.9
-git push origin refs/tags/0.6.9
-git branch 0.6.9
-git push origin refs/heads/0.6.9
+git tag 0.6.10
+git push origin refs/tags/0.6.10
+git branch 0.6.10
+git push origin refs/heads/0.6.10
 pod trunk push MMTToolForAppTrans.podspec --allow-warnings
 ```
 
@@ -55,11 +55,11 @@ pod trunk push MMTToolForAppTrans.podspec --allow-warnings
 当发布后仅同步文档时可使用轻量 Tag。
 
 - Tag 格式：`docs-v<版本号>-sync`
-- 示例：`docs-v0.6.9-sync`
+- 示例：`docs-v0.6.10-sync`
 
 ```bash
-git tag docs-v0.6.9-sync
-git push origin refs/tags/docs-v0.6.9-sync
+git tag docs-v0.6.10-sync
+git push origin refs/tags/docs-v0.6.10-sync
 ```
 
 ## 发布前检查

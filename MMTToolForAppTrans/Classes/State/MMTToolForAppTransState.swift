@@ -277,6 +277,7 @@ final class MMTToolForAppTransState {
 	var currentLocalizationBundle: Bundle?
 	var localizationValueMap: [String: LocalizationCacheValue] = [:]
 	var accessOrderSeed: Int = 0
+	var isLoggingEnabled: Bool = true
 
 	var isLanguageConfigured: Bool = false
 

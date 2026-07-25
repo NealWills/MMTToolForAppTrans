@@ -12,70 +12,79 @@ final class MMTToolForAppTransLocalizationModule {
 	/// Resolves a key with the requested language first, then falls back to English and other available values.
 	func localizedString(forKey key: String?, language: MMTToolForAppTrans.Language) -> String? {
 		guard let key, key.isEmpty == false else {
-			os_log(.debug, log: localizationLog, "❌ Empty key, returning as-is")
+			log("❌ Empty key, returning as-is")
 			return key
 		}
 
 		let normalizedKey = key.mmt_normalizedLocalizationKey
 		guard normalizedKey.isEmpty == false else {
-			os_log(.debug, log: localizationLog, "❌ Key normalized to empty, returning as-is")
+			log("❌ Key normalized to empty, returning as-is")
 			return normalizedKey
 		}
 
 		let resolvedLanguage = normalizedLookupLanguage(from: language)
 		let didFallbackLanguage = resolvedLanguage != language
 
-		os_log(.debug, log: localizationLog, "🔍 localizedString key=\"%@\" requested=%@ resolved=%@ fallback=%{BOOL}d", normalizedKey, language.cacheSuffix, resolvedLanguage.cacheSuffix, didFallbackLanguage)
+		log("🔍 localizedString key=\"\(normalizedKey)\" requested=\(language.cacheSuffix) resolved=\(resolvedLanguage.cacheSuffix) fallback=\(didFallbackLanguage)")
 
 		// Cache keys are language-aware so the same logical key can coexist across multiple languages.
 		let localizedCacheKey = buildLocalizedCacheKey(from: normalizedKey, language: resolvedLanguage)
 
 		if let cachedValue = state.localizationCacheValue(for: localizedCacheKey) {
-			os_log(.debug, log: localizationLog, "✅ Cache HIT: %@ => %@", localizedCacheKey, cachedValue)
+			log("✅ Cache HIT: \(localizedCacheKey) => \(cachedValue)")
 			return cachedValue
 		}
-		os_log(.debug, log: localizationLog, "❌ Cache MISS: %@", localizedCacheKey)
+		log("❌ Cache MISS: \(localizedCacheKey)")
 
 		// Bundle values are preferred while the bundle-based integration path is the primary runtime source.
 		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: normalizedKey, language: resolvedLanguage) {
-			os_log(.debug, log: localizationLog, "✅ Bundle HIT (requested): %@ => %@", normalizedKey, bundleValue)
+			log("✅ Bundle HIT (requested): \(normalizedKey) => \(bundleValue)")
 			state.storeLocalizationCacheValue(bundleValue, for: localizedCacheKey)
 			return bundleValue
 		}
-		os_log(.debug, log: localizationLog, "❌ Bundle MISS (requested language)")
+		log("❌ Bundle MISS (requested language)")
 
 		if let bundleValue = localizedValue(from: state.currentLocalizationBundle, key: normalizedKey, language: .enUS) {
-			os_log(.debug, log: localizationLog, "✅ Bundle HIT (enUS fallback): %@ => %@", normalizedKey, bundleValue)
+			log("✅ Bundle HIT (enUS fallback): \(normalizedKey) => \(bundleValue)")
 			state.storeLocalizationCacheValue(bundleValue, for: localizedCacheKey)
 			return bundleValue
 		}
-		os_log(.debug, log: localizationLog, "❌ Bundle MISS (enUS fallback)")
+		log("❌ Bundle MISS (enUS fallback)")
 
 		if let bundleValue = firstAvailableValue(from: state.currentLocalizationBundle, key: normalizedKey) {
-			os_log(.debug, log: localizationLog, "✅ Bundle HIT (first available): %@ => %@", normalizedKey, bundleValue)
+			log("✅ Bundle HIT (first available): \(normalizedKey) => \(bundleValue)")
 			state.storeLocalizationCacheValue(bundleValue, for: localizedCacheKey)
 			return bundleValue
 		}
-		os_log(.debug, log: localizationLog, "❌ Bundle full MISS - falling back to storage")
+		log("❌ Bundle full MISS - falling back to storage")
 
 		// If the bundle path does not answer the key, fall back to the persisted WCDB record.
 		guard let item = storageModule.localizationItem(forKey: normalizedKey) else {
-			os_log(.debug, log: localizationLog, "❌ Storage also MISS - returning original key: %@", normalizedKey)
+			log("❌ Storage also MISS - returning original key: \(normalizedKey)")
 			return normalizedKey
 		}
-		os_log(.debug, log: localizationLog, "✅ Storage FOUND item for key: %@", normalizedKey)
+		log("✅ Storage FOUND item for key: \(normalizedKey)")
 
 		// Storage remains the fallback path so existing WCDB data can still answer unresolved bundle keys.
 		guard let resolvedValue = localizedValue(from: item, language: resolvedLanguage)
 			?? localizedValue(from: item, language: .enUS)
 			?? firstAvailableStoredValue(from: item) else {
-				os_log(.debug, log: localizationLog, "❌ Storage has no value for any language - returning key: %@", normalizedKey)
+				log("❌ Storage has no value for any language - returning key: \(normalizedKey)")
 				return normalizedKey
 		}
 
-		os_log(.debug, log: localizationLog, "✅ Resolved from storage: %@ => %@", normalizedKey, resolvedValue)
+		log("✅ Resolved from storage: \(normalizedKey) => \(resolvedValue)")
 		state.storeLocalizationCacheValue(resolvedValue, for: localizedCacheKey)
 		return resolvedValue
+	}
+
+	/// Avoids constructing log messages when diagnostic logging is disabled.
+	private func log(_ message: @autoclosure () -> String) {
+		guard state.isLoggingEnabled else {
+			return
+		}
+
+		os_log(.debug, log: localizationLog, "%@", message())
 	}
 
 	/// Builds the in-memory cache key from the original key and the normalized runtime language suffix.
@@ -183,4 +192,3 @@ final class MMTToolForAppTransLocalizationModule {
 		value
 	}
 }
-
